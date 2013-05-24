@@ -5,12 +5,9 @@ Magic the Gathering - Die Erweiterten Regeln
 
 ^Einleitung^
 
-Dieses Dokument wurde für Menschen entworfen, die über die Grundlagen des 
-Spiels #Magic: The Gathering# hinweg sind. Wenn du erst vor kurzem mit #Magic# 
-angefangen hast, wirst du dieses Regelwerk vermutlich einschüchternd finden. Es 
-ist als ultimative Autorität für das Spiel gedacht, und du wirst gewöhnlich 
-nicht darauf zurückgreifen müssen, außer in speziellen Fällen und während 
-Turnierpartien.
+STEFAN WAS HERE
+
+Dieses Dokument wurde für Menschen entworfen, die über die Grundlagen des Spiels #Magic: The Gathering# hinweg sind. Wenn du erst vor kurzem mit #Magic# angefangen hast, wirst du dieses Regelwerk vermutlich einschüchternd finden. Es ist als ultimative Autorität für das Spiel gedacht, und du wirst gewöhnlich nicht darauf zurückgreifen müssen, außer in speziellen Fällen und während Turnierpartien.
 
 Beim Gelegenheitsspiel und für die meisten gewöhnlichen Situationen wirst du 
 das, was du brauchst, im Standard-Regelbuch für #Magic: The Gathering# finden. Du 
