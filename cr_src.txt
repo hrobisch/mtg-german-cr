@@ -7,28 +7,13 @@ Magic the Gathering - Die Erweiterten Regeln
 
 Dieses Dokument wurde für Menschen entworfen, die über die Grundlagen des Spiels #Magic: The Gathering# hinweg sind. Wenn du erst vor kurzem mit #Magic# angefangen hast, wirst du dieses Regelwerk vermutlich einschüchternd finden. Es ist als ultimative Autorität für das Spiel gedacht, und du wirst gewöhnlich nicht darauf zurückgreifen müssen, außer in speziellen Fällen und während Turnierpartien.
 
-Beim Gelegenheitsspiel und für die meisten gewöhnlichen Situationen wirst du 
-das, was du brauchst, im Standard-Regelbuch für #Magic: The Gathering# finden. Du 
-kannst eine Kopie dieses Regelbuchs von der #Magic#-Regel-Webseite von Wizards of 
-the Coast unter _#www.wizards.com/Magic/rules#_ herunterladen.
-Wenn du meinst, dass du hier richtig bist, dann lies weiter.
+Beim Gelegenheitsspiel und für die meisten gewöhnlichen Situationen wirst du das, was du brauchst, im Standard-Regelbuch für #Magic: The Gathering# finden. Du kannst eine Kopie dieses Regelbuchs von der #Magic#-Regel-Webseite von Wizards of the Coast unter _#www.wizards.com/Magic/rules#_ herunterladen. Wenn du meinst, dass du hier richtig bist, dann lies weiter.
 
-Dieses Dokument enthält eine Reihe von nummerierten Regeln, gefolgt von einem 
-Glossar. Viele der nummerierten Regeln sind in Unterregeln eingeteilt und jede 
-einzelne Regel und Unterregel des Spiels hat seine eigene Nummer. (Beachte, 
-dass Unterregeln die Buchstaben „l“ und „o“ überspringen, 
-um eine Verwechslung mit den Ziffern „1“ und „0“ zu vermeiden; auf Unterregel 
-704.5k folgt beispielsweise 704.5m, dann 704.5n, und dann 704.5p.)
+Dieses Dokument enthält eine Reihe von nummerierten Regeln, gefolgt von einem Glossar. Viele der nummerierten Regeln sind in Unterregeln eingeteilt und jede einzelne Regel und Unterregel des Spiels hat seine eigene Nummer. (Beachte, dass Unterregeln die Buchstaben „l“ und „o“ überspringen, um eine Verwechslung mit den Ziffern „1“ und „0“ zu vermeiden; auf Unterregel 704.5k folgt beispielsweise 704.5m, dann 704.5n, und dann 704.5p.)
 
-Wir bei Wizards of the Coast wissen, dass, egal wie detailliert die Regeln 
-sind, Situationen auftauchen werden, in denen die Interaktion von bestimmten 
-Karten eine präzise Antwort verlangt. Wenn du Fragen hast, kannst du uns unter _#www.wizards.com/customerservice#_ kontaktieren.
-Weitere Kontaktinformationen befinden sich auf der letzten Seite dieses Regelwerks.
+Wir bei Wizards of the Coast wissen, dass, egal wie detailliert die Regeln sind, Situationen auftauchen werden, in denen die Interaktion von bestimmten Karten eine präzise Antwort verlangt. Wenn du Fragen hast, kannst du uns unter _#www.wizards.com/customerservice#_ kontaktieren. Weitere Kontaktinformationen befinden sich auf der letzten Seite dieses Regelwerks.
 
-Als Reaktion auf Vorfälle beim Spiel und um dieses Regelwerk so aktuell wie 
-möglich zu halten, können seit der Veröffentlichung dieses Dokuments Änderungen 
-vorgenommen worden sein. Auf der #Magic#-Regel-Webseite von Wizards of the 
-Coast unter _#www.wizards.com/Magic/rules#_ bekommst du immer die aktuellste Version des offiziellen Regelwerks.
+Als Reaktion auf Vorfälle beim Spiel und um dieses Regelwerk so aktuell wie möglich zu halten, können seit der Veröffentlichung dieses Dokuments Änderungen vorgenommen worden sein. Auf der #Magic#-Regel-Webseite von Wizards of the Coast unter _#www.wizards.com/Magic/rules#_ bekommst du immer die aktuellste Version des offiziellen Regelwerks.
 
 {toc}
 
@@ -70,306 +55,149 @@ Coast unter _#www.wizards.com/Magic/rules#_ bekommst du immer die aktuellste Ver
 
 101. Die Goldenen Regeln von #Magic#
 
-101.1. Immer, wenn der Text einer Karte direkt diesem Regelwerk widerspricht, 
-hat die Karte Vorrang. Die Karte hebt nur die Regel auf, die für die 
-bestimmte Situation gilt. Die einzige Ausnahme ist, dass ein Spieler zu 
-jedem Zeitpunkt das Spiel \aufgeben\ kann (siehe Regel 104.3a).
+101.1. Immer, wenn der Text einer Karte direkt diesem Regelwerk widerspricht, hat die Karte Vorrang. Die Karte hebt nur die Regel auf, die für die bestimmte Situation gilt. Die einzige Ausnahme ist, dass ein Spieler zu jedem Zeitpunkt das Spiel \aufgeben\ kann (siehe Regel 104.3a).
 
-101.2. Wenn eine Regel oder ein Effekt erlaubt oder anordnet, dass etwas 
-geschieht, und ein anderer Effekt festlegt, dass es nicht geschehen kann, 
-dann hat der „kann nicht“-Effekt Vorrecht.
+101.2. Wenn eine Regel oder ein Effekt erlaubt oder anordnet, dass etwas geschieht, und ein anderer Effekt festlegt, dass es nicht geschehen kann, dann hat der „kann nicht“-Effekt Vorrecht.
 
-Beispiel: Wenn zum Beispiel ein Effekt lautet „Du kannst in diesem Zug ein 
-zusätzliches Land spielen.“ und ein anderer lautet „Du kannst in diesem Zug 
-keine Länder spielen.“, so gewinnt der Effekt, der dich vom Spielen von 
-Ländern abhält.
+Beispiel: Wenn zum Beispiel ein Effekt lautet „Du kannst in diesem Zug ein zusätzliches Land spielen.“ und ein anderer lautet „Du kannst in diesem Zug keine Länder spielen.“, so gewinnt der Effekt, der dich vom Spielen von Ländern abhält.
 
-101.2a Das Hinzufügen von Fähigkeiten zu und das Entfernen von Fähigkeiten von 
-Objekten fallen nicht unter diese Regel. (Siehe Regel 112.10.)
+101.2a Das Hinzufügen von Fähigkeiten zu und das Entfernen von Fähigkeiten von Objekten fallen nicht unter diese Regel. (Siehe Regel 112.10.)
 
-101.3. Jeder Teil einer Anweisung, der unmöglich ausgeführt werden kann, wird 
-ignoriert. (In vielen Fällen wird die Karte Konsequenzen dafür angeben; wenn 
-sie es nicht tut, gibt es keinen Effekt.)
+101.3. Jeder Teil einer Anweisung, der unmöglich ausgeführt werden kann, wird ignoriert. (In vielen Fällen wird die Karte Konsequenzen dafür angeben; wenn sie es nicht tut, gibt es keinen Effekt.)
 
-101.4. Wenn mehrere Spieler zur selben Zeit Entscheidungen treffen und/oder eine 
-Aktion ausführen würden, trifft der \aktive Spieler\ (der Spieler, dessen Zug es 
-ist) alle geforderten Entscheidungen, dann trifft der nächste Spieler in Zugreihenfolge 
-(gewöhnlich der Spieler, der links vom aktiven Spieler sitzt) alle 
-geforderten Entscheidungen, gefolgt von den verbleibenden nicht-aktiven 
-Spielern in Zugreihenfolge. Danach geschehen die Aktionen gleichzeitig. Diese 
-Regel wird oft als „Aktiver Spieler, nicht-aktiver Spieler (ASNAS, engl. APNAP)-
-Reihenfolge“-Regel bezeichnet.
+101.4. Wenn mehrere Spieler zur selben Zeit Entscheidungen treffen und/oder eine Aktion ausführen würden, trifft der \aktive Spieler\ (der Spieler, dessen Zug es ist) alle geforderten Entscheidungen, dann trifft der nächste Spieler in Zugreihenfolge (gewöhnlich der Spieler, der links vom aktiven Spieler sitzt) alle geforderten Entscheidungen, gefolgt von den verbleibenden nicht-aktiven Spielern in Zugreihenfolge. Danach geschehen die Aktionen gleichzeitig. Diese Regel wird oft als „Aktiver Spieler, nicht-aktiver Spieler (ASNAS, engl. APNAP)-Reihenfolge“-Regel bezeichnet.
 
-Beispiel: Eine Karte lautet: „Jeder Spieler opfert eine Kreatur.“ Zuerst 
-bestimmt der aktive Spieler eine Kreatur, die er kontrolliert. Dann 
-bestimmen die nicht-aktiven Spieler in Zugreihenfolge je eine Kreatur, die 
-sie kontrollieren. Danach werden alle bestimmten Kreaturen gleichzeitig 
-geopfert.
+Beispiel: Eine Karte lautet: „Jeder Spieler opfert eine Kreatur.“ Zuerst bestimmt der aktive Spieler eine Kreatur, die er kontrolliert. Dann bestimmen die nicht-aktiven Spieler in Zugreihenfolge je eine Kreatur, die sie kontrollieren. Danach werden alle bestimmten Kreaturen gleichzeitig geopfert.
 
-101.4a Wenn ein Effekt jeden Spieler eine Karte in einer versteckten Zone, 
-wie seiner Hand oder Bibliothek, bestimmen lässt, können diese Karten verdeckt 
-bleiben, sowie sie bestimmt werden. Jeder Spieler muss jedoch klar anzeigen, 
-welche verdeckte Karte er bestimmt.
+101.4a Wenn ein Effekt jeden Spieler eine Karte in einer versteckten Zone, wie seiner Hand oder Bibliothek, bestimmen lässt, können diese Karten verdeckt bleiben, sowie sie bestimmt werden. Jeder Spieler muss jedoch klar anzeigen, welche verdeckte Karte er bestimmt.
 
-101.4b Ein Spieler kennt die Entscheidungen, die von vorhergehenden Spielern 
-getroffen wurden, wenn er seine Entscheidung trifft, außer wie in 101.4a 
-angegeben.
+101.4b Ein Spieler kennt die Entscheidungen, die von vorhergehenden Spielern getroffen wurden, wenn er seine Entscheidung trifft, außer wie in 101.4a angegeben.
 
-101.4c Wenn ein Spieler mehr als eine Entscheidung zur selben Zeit treffen 
-würde, trifft der Spieler die Entscheidungen in der geschriebenen Reihenfolge 
-oder in der Reihenfolge, die er wählt, wenn die Entscheidungen nicht geordnet 
-sind.
+101.4c Wenn ein Spieler mehr als eine Entscheidung zur selben Zeit treffen würde, trifft der Spieler die Entscheidungen in der geschriebenen Reihenfolge oder in der Reihenfolge, die er wählt, wenn die Entscheidungen nicht geordnet sind.
 
-101.4d Falls eine Entscheidung, die ein nicht-aktiver Spieler getroffen hat, dazu 
-führt, dass der aktive Spieler oder ein anderer inaktiver Spieler, der in der 
-Zugreihenfolge weiter vorne ist, eine Entscheidung treffen muss, wird die ASNAS-
-Reihenfolge für alle noch offenen Entscheidungen neu begonnen.
+101.4d Falls eine Entscheidung, die ein nicht-aktiver Spieler getroffen hat, dazu führt, dass der aktive Spieler oder ein anderer inaktiver Spieler, der in der Zugreihenfolge weiter vorne ist, eine Entscheidung treffen muss, wird die ASNAS-Reihenfolge für alle noch offenen Entscheidungen neu begonnen.
 
 102. Spieler
 
-102.1. Ein \Spieler\ ist eine der Personen im Spiel. Der \aktive Spieler\ ist der 
-Spieler, dessen Zug es ist. Die anderen Spieler sind \nicht-aktive Spieler\.
+102.1. Ein \Spieler\ ist eine der Personen im Spiel. Der \aktive Spieler\ ist der Spieler, dessen Zug es ist. Die anderen Spieler sind \nicht-aktive Spieler\.
 
-102.2. In einer Zwei-Spieler-Partie ist jeweils der andere Spieler der \Gegner\ 
-eines Spielers.
+102.2. In einer Zwei-Spieler-Partie ist jeweils der andere Spieler der \Gegner\ eines Spielers.
 
-102.3. In einer Mehrspieler-Partie zwischen Teams sind die \Teamkameraden\ eines 
-Spielers die anderen Spieler in seinem Team, und die Gegner des Spielers sind 
-alle Spieler, die nicht in seinem Team sind.
+102.3. In einer Mehrspieler-Partie zwischen Teams sind die \Teamkameraden\ eines Spielers die anderen Spieler in seinem Team, und die Gegner des Spielers sind alle Spieler, die nicht in seinem Team sind.
 
 103. Eine Partie beginnen
 
-103.1. Zu Beginn einer Partie mischt jeder Spieler sein Deck, sodass die Karten 
-zufällig angeordnet sind. Jeder Spieler kann dann das Deck seines Gegners 
-mischen oder abheben. Die Decks der Spieler werden ihre Bibliotheken.
+103.1. Zu Beginn einer Partie mischt jeder Spieler sein Deck, sodass die Karten zufällig angeordnet sind. Jeder Spieler kann dann das Deck seines Gegners mischen oder abheben. Die Decks der Spieler werden ihre Bibliotheken.
 
-103.1a Falls ein Spieler ein Sideboard benutzt (siehe Regel 100.4) oder 
-doppelseitige Karten, die durch Checklistenkarten repräsentiert werden (siehe 
-Regel 711.9), werden diese Karten vor dem Mischen beiseite gelegt.
+103.1a Falls ein Spieler ein Sideboard benutzt (siehe Regel 100.4) oder doppelseitige Karten, die durch Checklistenkarten repräsentiert werden (siehe Regel 711.9), werden diese Karten vor dem Mischen beiseite gelegt.
 
-103.1b In einer Partie Commander legt jeder Spieler seinen Kommandeur von 
-seinem Deck aufgedeckt in die Kommandozone, bevor er mischt. Siehe Regel 903.6.
+103.1b In einer Partie Commander legt jeder Spieler seinen Kommandeur von seinem Deck aufgedeckt in die Kommandozone, bevor er mischt. Siehe Regel 903.6.
 
-103.2. Nachdem die Decks gemischt wurden, ermitteln die Spieler, wer darüber 
-entscheidet, welcher Spieler anfängt. In der ersten Partie eines Matches (wie 
-auch in einem Match aus nur einer Partie) können die Spieler dafür eine für 
-beide Seiten akzeptable Methode benutzen (Münzwurf, Würfeln, etc.). In einem 
-Match aus mehreren Partien entscheidet der Verlierer der vorangegangenen Partie, 
-wer den ersten Zug macht. Wenn die vorangegangene Partie Remis endete, 
-entscheidet der gleiche Spieler, der in jener Partie die Entscheidung getroffen hat. Der Spieler, der den ersten Zug macht, ist der 
-\Startspieler\. Die Standard-Zugreihenfolge beginnt mit dem Startspieler und geht 
-im Uhrzeigersinn weiter.
+103.2. Nachdem die Decks gemischt wurden, ermitteln die Spieler, wer darüber entscheidet, welcher Spieler anfängt. In der ersten Partie eines Matches (wie auch in einem Match aus nur einer Partie) können die Spieler dafür eine für beide Seiten akzeptable Methode benutzen (Münzwurf, Würfeln, etc.). In einem Match aus mehreren Partien entscheidet der Verlierer der vorangegangenen Partie, wer den ersten Zug macht. Wenn die vorangegangene Partie Remis endete, entscheidet der gleiche Spieler, der in jener Partie die Entscheidung getroffen hat. Der Spieler, der den ersten Zug macht, ist der \Startspieler\. Die Standard-Zugreihenfolge beginnt mit dem Startspieler und geht im Uhrzeigersinn weiter.
 
 103.2a In einer Partie, die die Option Team-Züge teilen verwendet, gibt es ein \Startteam\ statt eines Startspielers.
 
-103.2b In einer Partie Archenemy werden diese Methoden nicht verwendet, um den 
-Startspieler zu ermitteln. Stattdessen macht der Erzfeind den ersten Zug.
+103.2b In einer Partie Archenemy werden diese Methoden nicht verwendet, um den Startspieler zu ermitteln. Stattdessen macht der Erzfeind den ersten Zug.
 
-103.3. Sobald der Startspieler festgelegt wurde, setzt jeder Spieler seinen 
-Lebenspunktestand auf 20 und zieht eine Hand aus sieben Karten.
+103.3. Sobald der Startspieler festgelegt wurde, setzt jeder Spieler seinen Lebenspunktestand auf 20 und zieht eine Hand aus sieben Karten.
 
-103.3a In einer Partie Two-Headed Giant beginnt jedes Team stattdessen mit 
-einem gemeinsamen Lebenspunktestand von 30.
+103.3a In einer Partie Two-Headed Giant beginnt jedes Team stattdessen mit einem gemeinsamen Lebenspunktestand von 30.
 
-103.3b In einer Partie Vanguard setzt jeder Spieler seinen Lebenspunktestand 
-auf 20, unter Berücksichtigung der auf seiner Vanguard-Karte angegebenen 
-Anpassung der Lebenspunkte, und zieht eine Hand von sieben Karten, unter 
-Berücksichtigung der auf seiner Vanguard-Karte angegebenen Anpassung der 
-Handkartenzahl.
+103.3b In einer Partie Vanguard setzt jeder Spieler seinen Lebenspunktestand auf 20, unter Berücksichtigung der auf seiner Vanguard-Karte angegebenen Anpassung der Lebenspunkte, und zieht eine Hand von sieben Karten, unter Berücksichtigung der auf seiner Vanguard-Karte angegebenen Anpassung der Handkartenzahl.
 
-103.3c In einer Partie Commander setzt jeder Spieler seinen 
-Lebenspunktestand auf 40.
+103.3c In einer Partie Commander setzt jeder Spieler seinen Lebenspunktestand auf 40.
 
-103.3d In einer Partie Archenemy setzt der Erzfeind seinen Lebenspunktestand 
-auf 40.
+103.3d In einer Partie Archenemy setzt der Erzfeind seinen Lebenspunktestand auf 40.
 
-103.4. Ein Spieler, der mit seiner ersten Hand unzufrieden ist, kann einen 
-\Mulligan\ nehmen. Zuerst sagt der Startspieler an, ob er einen Mulligan nehmen 
-will oder nicht. Dann tun die anderen Spieler dasselbe. Sobald jeder Spieler 
-seine Ansage gemacht hat, nehmen alle Spieler, die dies angesagt haben, 
-gleichzeitig einen Mulligan. Um einen Mulligan zu nehmen, mischt der Spieler 
-seine Hand zurück ins Deck und zieht dann eine neue Hand, die aus einer Karte 
-weniger besteht als zuvor. Falls ein Spieler die Karten auf seiner Hand behält, 
-werden diese Karten zu seiner \Starthand\, und dieser Spieler kann keine weiteren 
-Mulligans nehmen. Dieser Vorgang wird so oft wiederholt, bis kein Spieler einen 
-Mulligan nimmt. (Beachte, dass ein Spieler die Hand behalten muss, wenn die 
-Handkartenzahl null erreicht.)
+103.4. Ein Spieler, der mit seiner ersten Hand unzufrieden ist, kann einen \Mulligan\ nehmen. Zuerst sagt der Startspieler an, ob er einen Mulligan nehmen will oder nicht. Dann tun die anderen Spieler dasselbe. Sobald jeder Spieler seine Ansage gemacht hat, nehmen alle Spieler, die dies angesagt haben, gleichzeitig einen Mulligan. Um einen Mulligan zu nehmen, mischt der Spieler seine Hand zurück ins Deck und zieht dann eine neue Hand, die aus einer Karte weniger besteht als zuvor. Falls ein Spieler die Karten auf seiner Hand behält, werden diese Karten zu seiner \Starthand\, und dieser Spieler kann keine weiteren Mulligans nehmen. Dieser Vorgang wird so oft wiederholt, bis kein Spieler einen Mulligan nimmt. (Beachte, dass ein Spieler die Hand behalten muss, wenn die Handkartenzahl null erreicht.)
 
-103.4a Falls ein Effekt einem Spieler erlaubt, "zu jedem Zeitpunkt, zu dem 
-[dieser Spieler] einen Mulligan nehmen könnte", eine Aktion durchzuführen, kann 
-dieser Spieler diese Aktion durchführen, wenn er seine Ansage treffen würde, ob 
-er einen Mulligan nimmt oder nicht. Das muss nicht in der ersten Mulligan-Runde 
-sein. Andere Spieler können bereits ihre Mulligan-Erklärung abgegeben haben, 
-wenn der Spieler die Möglichkeit hat, diese Aktion durchzuführen. Falls der 
-Spieler die Aktion durchführt, sagt er danach an, ob er einen Mulligan nehmen 
-will oder nicht.
+103.4a Falls ein Effekt einem Spieler erlaubt, "zu jedem Zeitpunkt, zu dem [dieser Spieler] einen Mulligan nehmen könnte", eine Aktion durchzuführen, kann dieser Spieler diese Aktion durchführen, wenn er seine Ansage treffen würde, ob er einen Mulligan nimmt oder nicht. Das muss nicht in der ersten Mulligan-Runde sein. Andere Spieler können bereits ihre Mulligan-Erklärung abgegeben haben, wenn der Spieler die Möglichkeit hat, diese Aktion durchzuführen. Falls der Spieler die Aktion durchführt, sagt er danach an, ob er einen Mulligan nehmen will oder nicht.
 
-103.4b Wenn in einer Mehrspieler-Partie ein Spieler zum ersten Mal einen 
-Mulligan nimmt, zieht er eine neue Hand aus genauso vielen Karten, wie er 
-vorher hatte. Weitere Hände nehmen wie gewöhnlich um eine Karte ab.
+103.4b Wenn in einer Mehrspieler-Partie ein Spieler zum ersten Mal einen Mulligan nimmt, zieht er eine neue Hand aus genauso vielen Karten, wie er vorher hatte. Weitere Hände nehmen wie gewöhnlich um eine Karte ab.
 
-103.4c In einer Mehrspieler-Partie mit der Option Team-Züge teilen sagt 
-zuerst jeder Spieler des Startteams an, ob er einen Mulligan nehmen will oder 
-nicht, dann tun die Spieler jedes anderen Teams in Zugreihenfolge dasselbe. Die 
-Teammitglieder können sich untereinander absprechen, während sie diese 
-Entscheidungen treffen. Dann werden alle Mulligans gleichzeitig genommen. Ein 
-Spieler kann einen Mulligan auch nehmen, nachdem sein Mitspieler sich 
-entschieden hat, seine Starthand zu behalten.
+103.4c In einer Mehrspieler-Partie mit der Option Team-Züge teilen sagt zuerst jeder Spieler des Startteams an, ob er einen Mulligan nehmen will oder nicht, dann tun die Spieler jedes anderen Teams in Zugreihenfolge dasselbe. Die Teammitglieder können sich untereinander absprechen, während sie diese Entscheidungen treffen. Dann werden alle Mulligans gleichzeitig genommen. Ein Spieler kann einen Mulligan auch nehmen, nachdem sein Mitspieler sich entschieden hat, seine Starthand zu behalten.
 
-103.4c Die Freizeitspiel-Variante Commander benutzt eine andere Mulligan-
-Regel. Jedesmal, wenn ein Spieler einen Mulligan nimmt, schickt er beliebig 
-viele Karten von seiner Hand ins Exil anstatt seine gesamte Hand in die 
-Bibliothek zu mischen. Dann zieht dieser Spieler eine Anzahl an Karten, die um 
-eins kleiner ist als die Anzahl der auf diese Weise ins Exil geschickten 
-Karten. Sobald ein Spieler seine Starthand behält, mischt er alle Karten, die 
-er auf diese Weise ins Exil geschickt hat, in seine Bibliothek.
+103.4c Die Freizeitspiel-Variante Commander benutzt eine andere Mulligan-Regel. Jedesmal, wenn ein Spieler einen Mulligan nimmt, schickt er beliebig viele Karten von seiner Hand ins Exil anstatt seine gesamte Hand in die Bibliothek zu mischen. Dann zieht dieser Spieler eine Anzahl an Karten, die um eins kleiner ist als die Anzahl der auf diese Weise ins Exil geschickten Karten. Sobald ein Spieler seine Starthand behält, mischt er alle Karten, die er auf diese Weise ins Exil geschickt hat, in seine Bibliothek.
 
-103.5. Manche Karten erlauben einem Spieler, bestimmte Aktionen mit ihnen von 
-der Starthand durchzuführen. Sobald alle Spieler ihre Starthände behalten 
-haben, kann der Startspieler diese Aktionen in beliebiger Reihenfolge 
-durchführen. Dann macht jeder andere Spieler in Zugreihenfolge das Gleiche.
+103.5. Manche Karten erlauben einem Spieler, bestimmte Aktionen mit ihnen von der Starthand durchzuführen. Sobald alle Spieler ihre Starthände behalten haben, kann der Startspieler diese Aktionen in beliebiger Reihenfolge durchführen. Dann macht jeder andere Spieler in Zugreihenfolge das Gleiche.
 
-103.5a Falls eine Karte einem Spieler erlaubt, die Partie mit dieser Karte im 
-Spiel zu beginnen, legt der Spieler, der diese Aktion durchführt, diese Karte ins Spiel.
+103.5a Falls eine Karte einem Spieler erlaubt, die Partie mit dieser Karte im Spiel zu beginnen, legt der Spieler, der diese Aktion durchführt, diese Karte ins Spiel.
 
-103.5b Falls eine Karte einem Spieler erlaubt, diese Karte von der Starthand 
-offen vorzuzeigen, tut der Spieler dies, wenn er diese Aktion durchführt. Die 
-Karte bleibt aufgedeckt, bis der erste Zug beginnt. Jede Karte kann auf diese 
-Weise nur einmal vorgezeigt werden.
+103.5b Falls eine Karte einem Spieler erlaubt, diese Karte von der Starthand offen vorzuzeigen, tut der Spieler dies, wenn er diese Aktion durchführt. Die Karte bleibt aufgedeckt, bis der erste Zug beginnt. Jede Karte kann auf diese Weise nur einmal vorgezeigt werden.
 
-103.5c In einer Mehrspieler-Partie mit der Option Team-Züge teilen kann 
-zuerst jeder Spieler des Startteams in beliebiger Reihenfolge diese Aktionen 
-durchführen. Die Teammitglieder können sich untereinander absprechen, während 
-sie diese Entscheidungen treffen. Dann tut jeder Spieler jedes anderen Teams in 
-Zugreihenfolge dasselbe.
+103.5c In einer Mehrspieler-Partie mit der Option Team-Züge teilen kann zuerst jeder Spieler des Startteams in beliebiger Reihenfolge diese Aktionen durchführen. Die Teammitglieder können sich untereinander absprechen, während sie diese Entscheidungen treffen. Dann tut jeder Spieler jedes anderen Teams in Zugreihenfolge dasselbe.
 
-103.6. In einer Partie Planechase deckt der Startspieler die oberste Karte 
-seines Weltendecks auf. Falls es eine Weltenkarte ist, ist diese Karte 
-die Startwelt. Falls es eine Phänomenkarte ist, legt dieser Spieler sie unter 
-sein Weltendeck und wiederholt den Vorgang, bis eine Weltenkarte 
-aufgedeckt wird. (Siehe Regel 901, „Planechase“)
+103.6. In einer Partie Planechase deckt der Startspieler die oberste Karte seines Weltendecks auf. Falls es eine Weltenkarte ist, ist diese Karte die Startwelt. Falls es eine Phänomenkarte ist, legt dieser Spieler sie unter sein Weltendeck und wiederholt den Vorgang, bis eine Weltenkarte aufgedeckt wird. (Siehe Regel 901, „Planechase“)
 
 103.7. Der Startspieler macht seinen ersten Zug.
 
-103.7a In einer Zwei-Spieler-Partie übergeht der Spieler, der als Erstes 
-spielt, das Ziehsegment (siehe Regel 504, „Ziehsegment“) seines ersten Zuges.
+103.7a In einer Zwei-Spieler-Partie übergeht der Spieler, der als Erstes spielt, das Ziehsegment (siehe Regel 504, „Ziehsegment“) seines ersten Zuges.
 
-103.7b In einer Partie Two-Headed Giant übergeht das Team, das als Erstes 
-spielt, das Ziehsegment seines ersten Zuges.
+103.7b In einer Partie Two-Headed Giant übergeht das Team, das als Erstes spielt, das Ziehsegment seines ersten Zuges.
 
-103.7c In allen anderen Mehrspieler-Partien übergeht kein Spieler das 
-Ziehsegment seines ersten Zuges.
+103.7c In allen anderen Mehrspieler-Partien übergeht kein Spieler das Ziehsegment seines ersten Zuges.
 
 104. Die Partie beenden
 
-104.1. Eine Partie endet sofort, wenn ein Spieler gewinnt, wenn die Partie unentschieden ist oder wenn das Spiel neu gestartet wird.
+104.1. Eine Partie endet sofort, wenn ein Spieler gewinnt, wenn die Partie unentschieden ist oder wenn die Partie neu gestartet wird.
 
 104.2. Es gibt verschiedene Wege, eine Partie zu gewinnen.
 
-104.2a Ein Spieler, der immer noch im Spiel ist, gewinnt die Partie, wenn alle 
-Gegner dieses Spielers das Spiel verlassen haben. Dies geschieht sofort 
-und setzt alle Effekte außer Kraft, die diesen Spieler davon abhalten würden, 
-die Partie zu gewinnen.
+104.2a Ein Spieler, der immer noch im Spiel ist, gewinnt die Partie, wenn alle Gegner dieses Spielers das Spiel verlassen haben. Dies geschieht sofort und setzt alle Effekte außer Kraft, die diesen Spieler davon abhalten würden, die Partie zu gewinnen.
 
-104.2b Ein Effekt kann festlegen, dass ein Spieler die Partie gewinnt. (In 
-Mehrspieler-Partien kann es sein, dass die Partie dadurch nicht endet; siehe 
-Regel 104.3h.)
+104.2b Ein Effekt kann festlegen, dass ein Spieler die Partie gewinnt. (In Mehrspieler-Partien kann es sein, dass die Partie dadurch nicht endet; siehe Regel 104.3h.)
 
-104.2c In einer Mehrspieler-Partie zwischen Teams gewinnt ein Team, das noch 
-mindestens einen Spieler im Spiel hat, wenn alle anderen Teams das Spiel 
-verlassen haben. Jeder Spieler im gewinnenden Team gewinnt die Partie, selbst 
-wenn einer oder mehrere dieser Spieler zuvor die Partie verloren hatten.
+104.2c In einer Mehrspieler-Partie zwischen Teams gewinnt ein Team, das noch mindestens einen Spieler im Spiel hat, wenn alle anderen Teams das Spiel verlassen haben. Jeder Spieler im gewinnenden Team gewinnt die Partie, selbst wenn einer oder mehrere dieser Spieler zuvor die Partie verloren hatten.
 
-104.2d In einer Partie Emperor gewinnt ein Team die Partie, wenn sein Kaiser 
-die Partie gewinnt. (Siehe Regel 809.5.)
+104.2d In einer Partie Emperor gewinnt ein Team die Partie, wenn sein Kaiser die Partie gewinnt. (Siehe Regel 809.5.)
 
 104.3. Es gibt verschiedene Wege, eine Partie zu verlieren.
 
-104.3a Ein Spieler kann das Spiel jederzeit aufgeben. Ein Spieler, der aufgibt, 
-verlässt das Spiel sofort. Er verliert die Partie.
+104.3a Ein Spieler kann das Spiel jederzeit aufgeben. Ein Spieler, der aufgibt, verlässt das Spiel sofort. Er verliert die Partie.
 
-104.3b Wenn der Lebenspunktestand eines Spielers 0 oder weniger beträgt, 
-verliert er die Partie das nächste Mal, wenn ein Spieler Priorität erhalten 
-würde. (Dies ist eine zustandsbasierte Aktion. Siehe Regel 704.)
+104.3b Wenn der Lebenspunktestand eines Spielers 0 oder weniger beträgt, verliert er die Partie das nächste Mal, wenn ein Spieler Priorität erhalten würde. (Dies ist eine zustandsbasierte Aktion. Siehe Regel 704.)
 
-104.3c Falls ein Spieler aufgefordert wird, mehr Karten zu ziehen, als in 
-seiner Bibliothek übrig sind, zieht er die verbleibenden Karten und verliert 
-dann die Partie das nächste Mal, wenn ein Spieler Priorität erhalten würde. 
-(Dies ist eine zustandsbasierte Aktion. Siehe Regel 704.)
+104.3c Falls ein Spieler aufgefordert wird, mehr Karten zu ziehen, als in seiner Bibliothek übrig sind, zieht er die verbleibenden Karten und verliert dann die Partie das nächste Mal, wenn ein Spieler Priorität erhalten würde. (Dies ist eine zustandsbasierte Aktion. Siehe Regel 704.)
 
-104.3d Wenn ein Spieler zehn oder mehr Giftmarken hat, verliert er die Partie das nächste Mal, wenn ein Spieler Priorität erhalten würde. (Dies ist 
-eine zustandsbasierte Aktion. Siehe Regel 704.)
+104.3d Wenn ein Spieler zehn oder mehr Giftmarken hat, verliert er die Partie das nächste Mal, wenn ein Spieler Priorität erhalten würde. (Dies ist eine zustandsbasierte Aktion. Siehe Regel 704.)
 
 104.3e Ein Effekt kann festlegen, dass ein Spieler die Partie verliert.
 
-104.3f Wenn ein Spieler die Partie gleichzeitig sowohl gewinnen als auch verlieren würde, 
-verliert er die Partie.
+104.3f Wenn ein Spieler die Partie gleichzeitig sowohl gewinnen als auch verlieren würde, verliert er die Partie.
 
-104.3g In einer Mehrspieler-Partie zwischen Teams verliert ein Team die Partie, 
-wenn alle Spieler in diesem Team die Partie verloren haben.
+104.3g In einer Mehrspieler-Partie zwischen Teams verliert ein Team die Partie, wenn alle Spieler in diesem Team die Partie verloren haben.
 
-104.3h In einer Mehrspieler-Partie sorgt ein Effekt, der festlegt, dass ein 
-Spieler die Partie gewinnt, stattdessen dafür, dass alle Gegner dieses Spielers 
-die Partie verlieren. (Wenn die Option Begrenzte Einflussweite genutzt wird, 
-muss dies nicht dazu führen, dass die Partie zu Ende ist; siehe Regel 801.)
+104.3h In einer Mehrspieler-Partie sorgt ein Effekt, der festlegt, dass ein Spieler die Partie gewinnt, stattdessen dafür, dass alle Gegner dieses Spielers die Partie verlieren. (Wenn die Option Begrenzte Einflussweite genutzt wird, muss dies nicht dazu führen, dass die Partie zu Ende ist; siehe Regel 801.)
 
-104.3i In einer Partie Emperor verliert ein Team die Partie, wenn sein Kaiser 
-die Partie verliert. (Siehe Regel 809.5.)
+104.3i In einer Partie Emperor verliert ein Team die Partie, wenn sein Kaiser die Partie verliert. (Siehe Regel 809.5.)
 
-104.3j In einer Partie Commander verliert ein Spieler die Partie, wenn er im 
-Verlauf der Partie 21 oder mehr Kampfschaden von demselben Kommandeur erhalten 
-hat. (Dies ist eine zustandsbasierte Aktion. Siehe Regel 704. Siehe 
-auch Regel 903.14.)
+104.3j In einer Partie Commander verliert ein Spieler die Partie, wenn er im Verlauf der Partie 21 oder mehr Kampfschaden von demselben Kommandeur erhalten hat. (Dies ist eine zustandsbasierte Aktion. Siehe Regel 704. Siehe auch Regel 903.14.)
 
-104.3k In einem Turnier kann ein Spieler durch eine von einem Schiedsrichter 
-verhängte Strafe die Partie verlieren. Siehe Regel 100.6.
+104.3k In einem Turnier kann ein Spieler durch eine von einem Schiedsrichter verhängte Strafe die Partie verlieren. Siehe Regel 100.6.
 
 104.4. Es gibt verschiedene Wege, die Partie unentschieden zu beenden.
 
-104.4a Wenn alle im Spiel verbliebenen Spieler die Partie gleichzeitig 
-verlieren, endet die Partie unentschieden.
+104.4a Wenn alle im Spiel verbliebenen Spieler die Partie gleichzeitig verlieren, endet die Partie unentschieden.
 
-104.4b Eine Partie, die nicht die Option Begrenzte Einflussweite nutzt
-(einschließlich einer Zwei-Personen-Partie) endet unentschieden, wenn sie 
-irgendwie in eine „Schleife“ von verpflichtenden Aktionen eintritt, in der eine Serie von Ereignissen wiederholt wird, ohne einen Weg dies zu stoppen. Schleifen, die eine optionale Aktion enthalten, ergeben kein 
-Unentschieden.
+104.4b Eine Partie, die nicht die Option Begrenzte Einflussweite nutzt (einschließlich einer Zwei-Personen-Partie) endet unentschieden, wenn sie irgendwie in eine „Schleife“ von verpflichtenden Aktionen eintritt, in der eine Serie von Ereignissen wiederholt wird, ohne einen Weg dies zu stoppen. Schleifen, die eine optionale Aktion enthalten, ergeben kein Unentschieden.
 
 104.4c Ein Effekt kann festlegen, dass die Partie unentschieden endet.
 
-104.4d In einer Mehrspieler-Partie zwischen Teams endet die Partie unentschieden, 
-wenn alle noch im Spiel verbliebenen Teams gleichzeitig verlieren.
+104.4d In einer Mehrspieler-Partie zwischen Teams endet die Partie unentschieden, wenn alle noch im Spiel verbliebenen Teams gleichzeitig verlieren.
 
-104.4e In einer Mehrspieler-Partie mit der Option Begrenzte Einflussweite sorgt ein Effekt eines Zauberspruchs oder einer Fähigkeit, der angibt, 
-dass die Partie unentschieden endet, dafür, dass die Partie für den Beherrscher 
-dieses Zauberspruchs bzw. dieser Fähigkeit und für alle Spieler in seiner 
-Einflussweite unentschieden endet. Nur diese Spieler verlassen das Spiel; alle 
-anderen Spieler setzen die Partie fort.
+104.4e In einer Mehrspieler-Partie mit der Option Begrenzte Einflussweite sorgt ein Effekt eines Zauberspruchs oder einer Fähigkeit, der angibt, dass die Partie unentschieden endet, dafür, dass die Partie für den Beherrscher dieses Zauberspruchs bzw. dieser Fähigkeit und für alle Spieler in seiner Einflussweite unentschieden endet. Nur diese Spieler verlassen das Spiel; alle anderen Spieler setzen die Partie fort.
 
-104.4f Wenn eine Partie, die die Option Begrenzte Einflussweite nutzt, 
-irgendwie in eine „Schleife“ von verpflichtenden Aktionen eintritt, in der sie, 
-ohne einen Weg dies zu stoppen, eine Reihe von Ereignissen wiederholt, endet sie 
-unentschieden sowohl für jeden Spieler, der ein Objekt kontrolliert, das an 
-dieser Schleife beteiligt ist, als auch für jeden Spieler, der in der 
-Reichweite von einem dieser Spieler sitzt. Nur diese Spieler verlassen das 
-Spiel; alle anderen Spieler setzen die Partie fort.
+104.4f Wenn eine Partie, die die Option Begrenzte Einflussweite nutzt, irgendwie in eine „Schleife“ von verpflichtenden Aktionen eintritt, in der sie, ohne einen Weg dies zu stoppen, eine Reihe von Ereignissen wiederholt, endet sie unentschieden sowohl für jeden Spieler, der ein Objekt kontrolliert, das an dieser Schleife beteiligt ist, als auch für jeden Spieler, der in der Reichweite von einem dieser Spieler sitzt. Nur diese Spieler verlassen das Spiel; alle anderen Spieler setzen die Partie fort.
 
-104.4g In einer Mehrspieler-Partie zwischen Teams endet die Partie für ein Team 
-unentschieden, wenn es für alle noch im Spiel befindlichen Spieler dieses Teams 
-unentschieden ist.
+104.4g In einer Mehrspieler-Partie zwischen Teams endet die Partie für ein Team unentschieden, wenn es für alle noch im Spiel befindlichen Spieler dieses Teams unentschieden ist.
 
-104.4h In der Variante Emperor endet die Partie für ein Team unentschieden, 
-wenn es für seinen Kaiser Unentschieden ist. (Siehe Regel 809.5.)
+104.4h In der Variante Emperor endet die Partie für ein Team unentschieden, wenn es für seinen Kaiser Unentschieden ist. (Siehe Regel 809.5.)
 
-104.4i In einem Turnier können sich alle Spieler einer Partie auf ein 
-absichtliches Unentschieden einigen. Siehe Regel 100.6.
+104.4i In einem Turnier können sich alle Spieler einer Partie auf ein absichtliches Unentschieden einigen. Siehe Regel 100.6.
 
-104.5. Wenn ein Spieler die Partie verliert, verlässt er das Spiel. Wenn die Partie für einen Spieler unentschieden endet, verlässt er das Spiel. Die 
-Regeln für Mehrspieler-Partien legen fest, was passiert, wenn ein Spieler das Spiel
-verlässt; siehe Regel 800.4.
+104.5. Wenn ein Spieler die Partie verliert, verlässt er das Spiel. Wenn die Partie für einen Spieler unentschieden endet, verlässt er das Spiel. Die Regeln für Mehrspieler-Partien legen fest, was passiert, wenn ein Spieler das Spiel verlässt; siehe Regel 800.4.
 
-104.6. Eine Karte (Karn der Befreite) startet die Partie neu. Alle Spieler, die 
-noch im Spiel sind, wenn die Partie neu gestartet wird, beginnen sofort 
-eine neue Partie. Siehe Regel 714, „Die Partie neu starten“.
+104.6. Eine Karte (Karn der Befreite) startet die Partie neu. Alle Spieler, die noch im Spiel sind, wenn die Partie neu gestartet wird, beginnen sofort eine neue Partie. Siehe Regel 714, „Die Partie neu starten“.
 
 105. Farben
 
