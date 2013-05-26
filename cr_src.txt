@@ -203,11 +203,7 @@ Beispiel: Eine Karte lautet: „Jeder Spieler opfert eine Kreatur.“ Zuerst bes
 
 105.1. Es gibt fünf \Farben\ im #Magic#-Spiel: Weiß, Blau, Schwarz, Rot und Grün.
 
-105.2. Ein Objekt kann eine oder mehrere der fünf Farben haben, oder es kann gar 
-keine Farbe haben. Ein Objekt hat die Farbe oder die Farben der Manasymbole in 
-seinen Kosten, unabhängig von der Farbe seines Rahmens. Die Farbe eines Objekts 
-kann auch durch einen Farbanzeiger oder eine Eigenschafts-definierende 
-Fähigkeit definiert sein. Siehe Regel 202.2.
+105.2. Ein Objekt kann eine oder mehrere der fünf Farben haben, oder es kann gar keine Farbe haben. Ein Objekt hat die Farbe oder die Farben der Manasymbole in seinen Kosten, unabhängig von der Farbe seines Rahmens. Die Farbe eines Objekts kann auch durch einen Farbanzeiger oder eine Eigenschafts-definierende Fähigkeit definiert sein. Siehe Regel 202.2.
 
 105.2a Ein \einfarbiges\ Objekt hat genau eine der fünf Farben.
 
@@ -215,580 +211,225 @@ Fähigkeit definiert sein. Siehe Regel 202.2.
 
 105.2c Ein \farbloses\ Objekt hat keine Farbe.
 
-105.3. Effekte können die Farbe eines Objekts ändern oder einem farblosen Objekt 
-eine Farbe geben. Wenn ein Effekt einem Objekt eine neue Farbe gibt, ersetzt 
-die neue Farbe alle vorigen Farben, die das Objekt hatte (es sei denn, der 
-Effekt besagt, dass das Objekt die Farbe „zusätzlich“ zu seinen sonstigen 
-Farben erhält). Effekte können auch bewirken, dass ein farbiges Objekt farblos 
-wird.
+105.3. Effekte können die Farbe eines Objekts ändern oder einem farblosen Objekt eine Farbe geben. Wenn ein Effekt einem Objekt eine neue Farbe gibt, ersetzt die neue Farbe alle vorigen Farben, die das Objekt hatte (es sei denn, der Effekt besagt, dass das Objekt die Farbe „zusätzlich“ zu seinen sonstigen Farben erhält). Effekte können auch bewirken, dass ein farbiges Objekt farblos wird.
 
-105.4. Wenn ein Spieler aufgefordert wird, eine Farbe zu wählen, muss er eine 
-der fünf Farben wählen. „Mehrfarbig“ ist keine Farbe; „farblos“ auch nicht.
+105.4. Wenn ein Spieler aufgefordert wird, eine Farbe zu wählen, muss er eine der fünf Farben wählen. „Mehrfarbig“ ist keine Farbe; „farblos“ auch nicht.
 
 106. Mana
 
-106.1. \Mana\ ist die Hauptressource im Spiel. Spieler geben Mana aus, um Kosten 
-zu bezahlen, üblicherweise beim Wirken von Zaubersprüchen und Aktivieren von 
-Fähigkeiten.
+106.1. \Mana\ ist die Hauptressource im Spiel. Spieler geben Mana aus, um Kosten zu bezahlen, üblicherweise beim Wirken von Zaubersprüchen und Aktivieren von Fähigkeiten.
 
 106.1a Es gibt fünf Farben von Mana: weiß, blau, schwarz, rot und grün.
 
 106.1b Es gibt sechs Typen von Mana: weiß, blau, schwarz, rot, grün und farblos.
 
-106.2. Mana wird durch \Manasymbole\ repräsentiert (siehe Regel 107.4). 
-Manasymbole repräsentieren auch \Manakosten\ (siehe Regel 202).
+106.2. Mana wird durch \Manasymbole\ repräsentiert (siehe Regel 107.4). Manasymbole repräsentieren auch \Manakosten\ (siehe Regel 202).
 
-106.3. Mana wird durch den Effekt von \Manafähigkeiten\ produziert (siehe 
-Regel 605). Es kann auch produziert werden sowohl durch Effekte von Zaubersprüchen, als auch durch Effekte von Fähigkeiten, die keine Manafähigkeiten sind.
+106.3. Mana wird durch den Effekt von \Manafähigkeiten\ produziert (siehe Regel 605). Es kann auch produziert werden sowohl durch Effekte von Zaubersprüchen, als auch durch Effekte von Fähigkeiten, die keine Manafähigkeiten sind.
 
-106.4. Wenn ein Effekt Mana produziert, dann geht dieses Mana in den \Manavorrat\ 
-eines Spielers. Von dort kann es verwendet werden, um sofort Kosten zu 
-bezahlen, oder es kann in dem Manavorrat des Spielers verbleiben. Der 
-Manavorrat jedes Spielers wird am Ende jedes Segments und jeder Phase geleert.
+106.4. Wenn ein Effekt Mana produziert, dann geht dieses Mana in den \Manavorrat\ eines Spielers. Von dort kann es verwendet werden, um sofort Kosten zu bezahlen, oder es kann in dem Manavorrat des Spielers verbleiben. Der Manavorrat jedes Spielers wird am Ende jedes Segments und jeder Phase geleert.
 
-106.4a Falls ein Spieler Vorrang abgibt (siehe Regel 116), während sich 
-noch Mana in seinem Manavorrat befindet, sagt dieser Spieler an, welches Mana 
-noch dort ist. Falls Mana im Manavorrat eines Spielers übrig bleibt, nachdem er 
-Mana ausgegeben hat, um Kosten zu bezahlen, sagt dieser Spieler an, welches 
-Mana noch dort ist.
+106.4a Falls ein Spieler Vorrang abgibt (siehe Regel 116), während sich noch Mana in seinem Manavorrat befindet, sagt dieser Spieler an, welches Mana noch dort ist. Falls Mana im Manavorrat eines Spielers übrig bleibt, nachdem er Mana ausgegeben hat, um Kosten zu bezahlen, sagt dieser Spieler an, welches Mana noch dort ist.
 
-106.5. Wenn eine Fähigkeit ein oder mehrere Mana eines undefinierten Typs 
-produzieren würde, produziert sie stattdessen kein Mana.
+106.5. Wenn eine Fähigkeit ein oder mehrere Mana eines undefinierten Typs produzieren würde, produziert sie stattdessen kein Mana.
 
-Beispiel: Der Meteorkrater hat die Fähigkeit „{T}: Bestimme eine Farbe 
-einer bleibenden Karte, die du kontrollierst. Erhöhe deinen Manavorrat um 
-ein Mana dieser Farbe.“ Falls du keine farbigen bleibenden Karten 
-kontrollierst, wird die Aktivierung der Manafähigkeit des Meteorkraters kein
-Mana produzieren.
+Beispiel: Der Meteorkrater hat die Fähigkeit „{T}: Bestimme eine Farbe einer bleibenden Karte, die du kontrollierst. Erhöhe deinen Manavorrat um ein Mana dieser Farbe.“ Falls du keine farbigen bleibenden Karten kontrollierst, wird die Aktivierung der Manafähigkeit des Meteorkraters kein Mana produzieren.
 
-106.6. Manche Zaubersprüche oder Fähigkeiten, die Mana produzieren, schränken 
-ein, wie es genutzt werden kann, oder haben einen zusätzlichen Effekt, der den 
-Zauberspruch oder die Fähigkeit beeinflusst, für den bzw. die das Mana 
-ausgegeben wird. Dadurch wird der Manatyp nicht beeinflusst.
+106.6. Manche Zaubersprüche oder Fähigkeiten, die Mana produzieren, schränken ein, wie es genutzt werden kann, oder haben einen zusätzlichen Effekt, der den Zauberspruch oder die Fähigkeit beeinflusst, für den bzw. die das Mana ausgegeben wird. Dadurch wird der Manatyp nicht beeinflusst.
 
-Beispiel: Der Manavorrat eines Spielers enthält {1}{U}, das nur ausgegeben 
-werden darf, um kumulative Versorgungskosten zu bezahlen. Dieser Spieler 
-aktiviert die Fähigkeit des Verdopplungskubus', die lautet „{3}, {T}: 
-Verdopple die Menge jeden Typs Mana in deinem Manavorrat.“ Im Manavorrat des 
-Spielers befinden sich nun {2}{U}{U}, von denen {1}{U} beliebig ausgegeben 
-werden können.
+Beispiel: Der Manavorrat eines Spielers enthält {1}{U}, das nur ausgegeben werden darf, um kumulative Versorgungskosten zu bezahlen. Dieser Spieler aktiviert die Fähigkeit des Verdopplungskubus', die lautet „{3}, {T}: Verdopple die Menge jeden Typs Mana in deinem Manavorrat.“ Im Manavorrat des Spielers befinden sich nun {2}{U}{U}, von denen {1}{U} beliebig ausgegeben werden können.
 
-106.7. Manche Fähigkeiten produzieren Mana basierend auf dem Typ Mana, den eine 
-andere bleibende Karte oder andere bleibende Karten „produzieren könnte“. Der 
-Typ Mana, den eine bleibende Karte produzieren könnte, umfasst zu jeder Zeit jeden 
-Typ Mana, den eine Fähigkeit dieser bleibenden Karte produzieren würde, wenn 
-die Fähigkeit zu diesem Zeitpunkt verrechnet würde, wobei alle anwendbaren 
-Ersatzeffekte in jeder möglichen Reihenfolge angewandt werden. Ignoriere dabei, 
-ob irgendwelche Kosten der Fähigkeit bezahlt werden könnten oder nicht. Falls 
-die bleibende Karte unter diesen Bedingungen kein Mana produzieren würde oder 
-der Manatyp auf diesem Weg nicht definiert werden kann, gibt es keinen Manatyp, 
-den es produzieren könnte.
+106.7. Manche Fähigkeiten produzieren Mana basierend auf dem Typ Mana, den eine andere bleibende Karte oder andere bleibende Karten „produzieren könnte“. Der Typ Mana, den eine bleibende Karte produzieren könnte, umfasst zu jeder Zeit jeden Typ Mana, den eine Fähigkeit dieser bleibenden Karte produzieren würde, wenn die Fähigkeit zu diesem Zeitpunkt verrechnet würde, wobei alle anwendbaren Ersatzeffekte in jeder möglichen Reihenfolge angewandt werden. Ignoriere dabei, ob irgendwelche Kosten der Fähigkeit bezahlt werden könnten oder nicht. Falls die bleibende Karte unter diesen Bedingungen kein Mana produzieren würde oder der Manatyp auf diesem Weg nicht definiert werden kann, gibt es keinen Manatyp, den sie produzieren könnte.
 
-Beispiel: Exotischer Obstgarten hat die Fähigkeit „{T}: Erhöhe deinen 
-Manavorrat um ein Mana einer Farbe, das ein Land, das ein Gegner 
-kontrolliert, produzieren könnte.“ Falls dein Gegner keine Länder 
-kontrolliert, wird durch das Aktivieren der Manafähigkeit des Exotischen 
-Obstgartens kein Mana produziert. Das gilt auch, wenn du und dein Gegner 
-keine anderen Länder außer Exotische Obstgärten kontrolliert. Falls du 
-jedoch einen Wald und einen Exotischen Obstgarten kontrollierst und dein 
-Gegner einen Exotischen Obstgarten, dann könnte jeder Exotische Obstgarten 
-{G} produzieren.
+Beispiel: Exotischer Obstgarten hat die Fähigkeit „{T}: Erhöhe deinen Manavorrat um ein Mana einer Farbe, das ein Land, das ein Gegner kontrolliert, produzieren könnte.“ Falls dein Gegner keine Länder kontrolliert, wird durch das Aktivieren der Manafähigkeit des Exotischen Obstgartens kein Mana produziert. Das gilt auch, wenn du und dein Gegner keine anderen Länder außer Exotische Obstgärten kontrolliert. Falls du jedoch einen Wald und einen Exotischen Obstgarten kontrollierst und dein Gegner einen Exotischen Obstgarten, dann könnte jeder Exotische Obstgarten {G} produzieren.
 
-106.8. Wenn ein Effekt den Manavorrat eines Spielers um Mana erhöhen würde, das 
-durch ein hybrides Manasymbol dargestellt wird, bestimmt dieser Spieler eine 
-Hälfte dieses Symbols. Wenn eine farbige Hälfte bestimmt wird, wird der 
-Manavorrat dieses Spielers um ein Mana dieser Farbe erhöht. Wenn eine farblose 
-Hälfte bestimmt wird, wird der Manavorrat dieses Spielers um eine Menge an 
-farblosem Mana erhöht, die durch die Zahl dieser Hälfte dargestellt wird.
+106.8. Wenn ein Effekt den Manavorrat eines Spielers um Mana erhöhen würde, das durch ein hybrides Manasymbol dargestellt wird, bestimmt dieser Spieler eine Hälfte dieses Symbols. Wenn eine farbige Hälfte bestimmt wird, wird der Manavorrat dieses Spielers um ein Mana dieser Farbe erhöht. Wenn eine farblose Hälfte bestimmt wird, wird der Manavorrat dieses Spielers um eine Menge an farblosem Mana erhöht, die durch die Zahl dieser Hälfte dargestellt wird.
 
-106.9. Wenn ein Effekt den Manavorrat eines Spielers um Mana erhöhen würde, das 
-durch ein phyrexianisches Manasymbol dargestellt wird, wird der Manavorrat 
-dieses Spielers um ein Mana der Farbe dieses Symbols erhöht.
+106.9. Wenn ein Effekt den Manavorrat eines Spielers um Mana erhöhen würde, das durch ein phyrexianisches Manasymbol dargestellt wird, wird der Manavorrat dieses Spielers um ein Mana der Farbe dieses Symbols erhöht.
 
-106.10. Eine „bleibende Karte für Mana zu tappen“ heißt, eine Manafähigkeit 
-dieser bleibenden Karte zu aktivieren, die das {T}-Symbol in ihren Kosten 
-enthält. Siehe Regel 605, „Manafähigkeiten“.
+106.10. Eine „bleibende Karte für Mana zu tappen“ heißt, eine Manafähigkeit dieser bleibenden Karte zu aktivieren, die das {T}-Symbol in ihren Kosten enthält. Siehe Regel 605, „Manafähigkeiten“.
 
-106.11. Eine Karte (Kraftsog) bewegt sämtliches Mana vom Manavorrat eines 
-Spielers in den Manavorrat eines anderen Spielers. (Beachte, dass dies der 
-gleiche Spieler sein kann.) Dies leert den Manavorrat des ersten Spielers und 
-sorgt dafür, dass das Mana, das auf diese Weise geleert wurde, in den 
-Manavorrat des zweiten Spielers gebracht wird. Die Information, welche 
-bleibenden Karten, Zaubersprüche und/oder Fähigkeiten das Mana produziert 
-haben, bleibt ebenso unverändert wie jegliche Einschränkungen oder zusätzliche 
-Effekte, die mit jedem Mana verknüpft sind.
+106.11. Eine Karte (Kraftsog) bewegt sämtliches Mana vom Manavorrat eines Spielers in den Manavorrat eines anderen Spielers. (Beachte, dass dies der gleiche Spieler sein kann.) Dies leert den Manavorrat des ersten Spielers und sorgt dafür, dass das Mana, das auf diese Weise geleert wurde, in den Manavorrat des zweiten Spielers gebracht wird. Die Information, welche bleibenden Karten, Zaubersprüche und/oder Fähigkeiten das Mana produziert haben, bleibt ebenso unverändert wie jegliche Einschränkungen oder zusätzliche Effekte, die mit jedem Mana verknüpft sind.
 
 107. Zahlen und Symbole
 
 107.1. Die einzigen Zahlen, die das #Magic#-Spiel benutzt, sind ganze Zahlen.
 
-107.1a Du kannst keine gebrochene Zahl wählen, keine gebrochenen Schadenspunkte 
-zufügen, keine gebrochenen Lebenspunkte erhalten und so weiter. Wenn ein 
-Zauberspruch oder eine Fähigkeit eine gebrochene Zahl ergeben könnte, wird der 
-Zauberspruch oder die Fähigkeit dir angeben, ob auf- oder abgerundet wird.
+107.1a Du kannst keine gebrochene Zahl wählen, keine gebrochenen Schadenspunkte zufügen, keine gebrochenen Lebenspunkte erhalten und so weiter. Wenn ein Zauberspruch oder eine Fähigkeit eine gebrochene Zahl ergeben könnte, wird der Zauberspruch oder die Fähigkeit dich anweisen, ob auf- oder abgerundet wird.
 
-107.1b Die meiste Zeit nutzt das #Magic#-Spiel nur positive Zahlen und null. Du 
-kannst keine negative Zahl wählen, keine negativen Schadenspunkte zufügen, 
-keine negativen Lebenspunkte erhalten und so weiter. Jedoch ist es für einen 
-Spielwert, so wie die Stärke einer Kreatur, möglich, kleiner als 0 zu sein. 
-Wenn eine Berechnung oder ein Vergleich einen negativen Wert benutzen muss, tut 
-sie bzw. er dies. Wenn eine Berechnung, die das Ergebnis eines Effekts 
-bestimmen würde, eine negative Zahl ergibt, wird stattdessen null benutzt, es 
-sei denn dieser Effekt setzt den Lebenspunktestand eines Spielers auf einen 
-bestimmten Wert, verdoppelt den Lebenspunktestand eines Spielers, setzt die 
-Stärke oder Widerstandskraft einer Kreatur auf einen bestimmten Wert oder 
-modifiziert anderweitig die Stärke oder Widerstandskraft einer Kreatur.
+107.1b Die meiste Zeit nutzt das #Magic#-Spiel nur positive Zahlen und null. Du kannst keine negative Zahl wählen, keine negativen Schadenspunkte zufügen, keine negativen Lebenspunkte erhalten und so weiter. Jedoch ist es für einen Spielwert, so wie die Stärke einer Kreatur, möglich, kleiner als 0 zu sein. Wenn eine Berechnung oder ein Vergleich einen negativen Wert benutzen muss, tut sie bzw. er dies. Wenn eine Berechnung, die das Ergebnis eines Effekts bestimmen würde, eine negative Zahl ergibt, wird stattdessen null benutzt, es sei denn dieser Effekt setzt den Lebenspunktestand eines Spielers auf einen bestimmten Wert, verdoppelt den Lebenspunktestand eines Spielers, setzt die Stärke oder Widerstandskraft einer Kreatur auf einen bestimmten Wert oder modifiziert anderweitig die Stärke oder Widerstandskraft einer Kreatur.
 
-Beispiel: Wenn eine 3/4-Kreatur -5/-0 erhält, ist sie eine -2/4-Kreatur. Sie 
-weist im Kampf 0 Schadenspunkte zu. Ihre Summe aus Stärke und 
-Widerstandskraft ist 2. Du müsstest ihr +3/+0 geben, um die Stärke auf 1 zu 
-erhöhen.
+Beispiel: Wenn eine 3/4-Kreatur -5/-0 erhält, ist sie eine -2/4-Kreatur. Sie weist im Kampf 0 Schadenspunkte zu. Ihre Summe aus Stärke und Widerstandskraft ist 2. Du müsstest ihr +3/+0 geben, um die Stärke auf 1 zu erhöhen.
 
-Beispiel: Der Viridische Schreiner ist eine 1/2-Kreatur mit der Fähigkeit 
-„{T}: Erhöhe deinen Manavorrat um eine Anzahl an {G} in Höhe der Stärke 
-des Viridischen Schreiners.“ Ein Effekt gibt ihm -2/-0 und danach wird seine 
-Fähigkeit aktiviert. Die Fähigkeit erhöht deinen Manavorrat um kein Mana.
+Beispiel: Der Viridische Schreiner ist eine 1/2-Kreatur mit der Fähigkeit „{T}: Erhöhe deinen Manavorrat um eine Anzahl an {G} in Höhe der Stärke des Viridischen Schreiners.“ Ein Effekt gibt ihm -2/-0 und danach wird seine Fähigkeit aktiviert. Die Fähigkeit erhöht deinen Manavorrat um kein Mana.
 
-107.1c Wenn eine Regel oder eine Fähigkeit einen Spieler anweist, „eine 
-beliebige Zahl“ zu wählen, kann dieser Spieler eine beliebige positive Zahl 
-oder null wählen, außer etwas (wie Schaden oder Marken) wird auf „eine 
-beliebige Anzahl“ an Spielern und/oder Objekten aufgeteilt oder verteilt. In 
-diesem Fall muss eine Anzahl an Spielern und/oder Objekten ungleich null 
-gewählt werden, falls möglich.
+107.1c Wenn eine Regel oder eine Fähigkeit einen Spieler anweist, „eine beliebige Zahl“ zu wählen, kann dieser Spieler eine beliebige positive Zahl oder null wählen, außer etwas (wie Schaden oder Marken) wird auf „eine beliebige Anzahl“ an Spielern und/oder Objekten aufgeteilt oder verteilt. In diesem Fall muss eine Anzahl an Spielern und/oder Objekten ungleich null gewählt werden, falls möglich.
 
-107.2. Wenn irgendetwas eine Zahl, die nicht bestimmt werden kann, entweder als 
-Ergebnis oder in einer Berechnung benutzen muss, benutzt es stattdessen 0.
+107.2. Wenn irgendetwas eine Zahl, die nicht bestimmt werden kann, entweder als Ergebnis oder in einer Berechnung benutzen muss, benutzt es stattdessen 0.
 
-107.3. Viele Objekte nutzen den Buchstaben X als Platzhalter für eine Zahl, die 
-ermittelt werden muss. Manche Objekte haben Fähigkeiten, die den Wert von X 
-definieren; die übrigen lassen ihren Beherrscher den Wert von X bestimmen.
+107.3. Viele Objekte nutzen den Buchstaben X als Platzhalter für eine Zahl, die ermittelt werden muss. Manche Objekte haben Fähigkeiten, die den Wert von X definieren; die übrigen lassen ihren Beherrscher den Wert von X bestimmen.
 
-107.3a Wenn ein Zauberspruch oder eine aktivierte Fähigkeit Manakosten, 
-alternative Kosten, zusätzliche Kosten und/oder Aktivierungskosten mit einem 
-{X}, [-X] oder X besitzt und der Wert von X nicht durch den Text des 
-Zauberspruchs oder der Fähigkeit definiert wird, bestimmt der Beherrscher 
-dieses Zauberspruchs bzw. dieser Fähigkeit den Wert von X und sagt ihn als Teil 
-des Wirkens des Zauberspruchs bzw. Aktivierens der Fähigkeit an. (Siehe 
-Regel 601, „Zaubersprüche wirken“.) Während ein Zauberspruch auf dem Stapel 
-ist, ist jedes X in seinen Manakosten gleich dem angesagten Wert. Während eine 
-aktivierte Fähigkeit auf dem Stapel ist, ist jedes X in ihren 
-Aktivierungskosten gleich dem angesagten Wert.
+107.3a Wenn ein Zauberspruch oder eine aktivierte Fähigkeit Manakosten, alternative Kosten, zusätzliche Kosten und/oder Aktivierungskosten mit einem {X}, [-X] oder X besitzt und der Wert von X nicht durch den Text des Zauberspruchs oder der Fähigkeit definiert wird, bestimmt der Beherrscher dieses Zauberspruchs bzw. dieser Fähigkeit den Wert von X und sagt ihn als Teil des Wirkens des Zauberspruchs bzw. Aktivierens der Fähigkeit an. (Siehe Regel 601, „Zaubersprüche wirken“.) Während ein Zauberspruch auf dem Stapel ist, ist jedes X in seinen Manakosten gleich dem angesagten Wert. Während eine aktivierte Fähigkeit auf dem Stapel ist, ist jedes X in ihren Aktivierungskosten gleich dem angesagten Wert.
 
-107.3b Wenn ein Spieler einen Zauberspruch wirkt, der {X} in seinen Manakosten 
-hat, der Wert von X nicht durch den Text dieses Zauberspruchs definiert wird 
-und ein Effekt diesen Spieler diesen Zauberspruch wirken lässt, ohne seine 
-Manakosten oder alternative Kosten, die X enthalten, zu bezahlen, dann ist 0 
-die einzig legale Wahl für X. Dies gilt nicht für Effekte, die nur Kosten 
-reduzieren, selbst wenn sie sie auf null reduzieren. Siehe Regel 601, 
-„Zaubersprüche wirken“.
+107.3b Wenn ein Spieler einen Zauberspruch wirkt, der {X} in seinen Manakosten hat, der Wert von X nicht durch den Text dieses Zauberspruchs definiert wird und ein Effekt diesen Spieler diesen Zauberspruch wirken lässt, ohne seine Manakosten oder alternative Kosten, die X enthalten, zu bezahlen, dann ist 0 die einzig legale Wahl für X. Dies gilt nicht für Effekte, die nur Kosten reduzieren, selbst wenn sie sie auf null reduzieren. Siehe Regel 601, „Zaubersprüche wirken“.
 
-107.3c Wenn ein Zauberspruch oder eine aktivierte Fähigkeit „{X}, [-X] oder X 
-in seinen bzw. ihren Kosten und/oder seinem bzw. ihrem Text hat und der Wert 
-von X durch den Text dieses Zauberspruchs bzw. dieser Fähigkeit definiert wird, 
-dann ist dies der Wert von X, während dieser Zauberspruch bzw. diese Fähigkeit 
-auf dem Stapel ist. Der Beherrscher dieses Zauberspruchs oder dieser Fähigkeit darf 
-keinen Wert bestimmen. Beachte, dass der Wert von X sich 
-verändern kann, während der Zauberspruch oder die Fähigkeit auf dem Stapel ist.
+107.3c Wenn ein Zauberspruch oder eine aktivierte Fähigkeit „{X}, [-X] oder X in seinen bzw. ihren Kosten und/oder seinem bzw. ihrem Text hat und der Wert von X durch den Text dieses Zauberspruchs bzw. dieser Fähigkeit definiert wird, dann ist dies der Wert von X, während dieser Zauberspruch bzw. diese Fähigkeit auf dem Stapel ist. Der Beherrscher dieses Zauberspruchs oder dieser Fähigkeit darf keinen Wert bestimmen. Beachte, dass der Wert von X sich verändern kann, während der Zauberspruch oder die Fähigkeit auf dem Stapel ist.
 
-107.3d Wenn Kosten, die mit einer Sonderaktion in Verbindung stehen, so wie 
-Aussetzen-Kosten oder Morphkosten, ein {X} oder X enthalten, wird der Wert für 
-X von dem Spieler bestimmt, der die Sonderaktion durchführt, sowie er diese 
-Kosten bezahlt.
+107.3d Wenn Kosten, die mit einer Sonderaktion in Verbindung stehen, so wie Aussetzen-Kosten oder Morphkosten, ein {X} oder X enthalten, wird der Wert für X von dem Spieler bestimmt, der die Sonderaktion durchführt, sowie er diese Kosten bezahlt.
 
-107.3e Manchmal erscheint X im Text eines Zauberspruchs oder einer 
-Fähigkeit, aber nicht in den Manakosten, alternativen Kosten, zusätzlichen 
-Kosten oder Aktivierungskosten. Wenn der Wert von X nicht definiert ist, 
-bestimmt der Beherrscher des Zauberspruchs oder der Fähigkeit den Wert von X zu 
-gegebener Zeit (entweder sowie der Zauberspruch oder die Fähigkeit auf den 
-Stapel gelegt wird oder sowie er bzw. sie verrechnet wird).
+107.3e Manchmal erscheint X im Text eines Zauberspruchs oder einer Fähigkeit, aber nicht in den Manakosten, alternativen Kosten, zusätzlichen Kosten oder Aktivierungskosten. Wenn der Wert von X nicht definiert ist, bestimmt der Beherrscher des Zauberspruchs oder der Fähigkeit den Wert von X zu gegebener Zeit (entweder sowie der Zauberspruch oder die Fähigkeit auf den Stapel gelegt wird oder sowie er bzw. sie verrechnet wird).
 
-107.3f Wenn eine Karte in irgendeiner anderen Zone als auf dem Stapel {X} in 
-ihren Manakosten hat, wird der Wert von {X} als 0 behandelt, selbst wenn der 
-Wert von X irgendwo in ihrem Text definiert wird.
+107.3f Wenn eine Karte in irgendeiner anderen Zone als auf dem Stapel {X} in ihren Manakosten hat, wird der Wert von {X} als 0 behandelt, selbst wenn der Wert von X irgendwo in ihrem Text definiert wird.
 
 107.3g Alle Vorkommen von X auf einem Objekt haben zu jeder Zeit denselben Wert.
 
-107.3h Manche Objekte benutzen den Buchstaben Y zusätzlich zu X. Y folgt den 
-gleichen Regeln wie X.
+107.3h Manche Objekte benutzen den Buchstaben Y zusätzlich zu X. Y folgt den gleichen Regeln wie X.
 
-107.4. Die Manasymbole sind {W}, {U}, {B}, {R}, {G} und {X}; die Ziffern {0}, 
-{1}, {2}, {3}, {4} und so weiter; die Hybrid-Symbole {W/U}, {W/B}, {U/B}, 
-{U/R}, {B/R}, {B/G}, {R/G}, {R/W}, {G/W} und {G/B}; die einfarbigen hybriden 
-Symbole {2/W}, {2/U}, {2/B}, {2/R} und {2/G}; die phyrexianischen Manasymbole 
-{W/P}, {U/P}, {B/P}, {R/P} und {G/P}; und das Schnee-Symbol {S}.
+107.4. Die Manasymbole sind {W}, {U}, {B}, {R}, {G} und {X}; die Ziffern {0}, {1}, {2}, {3}, {4} und so weiter; die Hybrid-Symbole {W/U}, {W/B}, {U/B}, {U/R}, {B/R}, {B/G}, {R/G}, {R/W}, {G/W} und {G/B}; die einfarbigen hybriden Symbole {2/W}, {2/U}, {2/B}, {2/R} und {2/G}; die phyrexianischen Manasymbole {W/P}, {U/P}, {B/P}, {R/P} und {G/P}; und das Schnee-Symbol {S}.
 
-107.4a Es gibt fünf grundlegende farbige Manasymbole: {W} ist Weiß, {U} Blau, 
-{B} Schwarz, {R} Rot und {G} Grün. Diese Symbole werden verwendet, um farbiges 
-Mana zu repräsentieren sowie farbiges Mana in Kosten. Farbiges Mana in Kosten 
-kann nur mit Mana der passenden Farbe bezahlt werden. Siehe Regel 202, 
-„Manakosten und Farbe“.
+107.4a Es gibt fünf grundlegende farbige Manasymbole: {W} ist Weiß, {U} Blau, {B} Schwarz, {R} Rot und {G} Grün. Diese Symbole werden verwendet, um farbiges Mana zu repräsentieren sowie farbiges Mana in Kosten. Farbiges Mana in Kosten kann nur mit Mana der passenden Farbe bezahlt werden. Siehe Regel 202, „Manakosten und Farbe“.
 
-107.4b Zahlsymbole (so wie {1}) und Variablensymbole (so wie {X}) 
-repräsentieren \beliebiges Mana\ in Kosten. Beliebiges Mana in Kosten kann mit 
-jedem Typ Mana bezahlt werden. Für mehr Informationen über {X} Siehe Regel 107.3.
+107.4b Zahlsymbole (so wie {1}) und Variablensymbole (so wie {X}) repräsentieren \beliebiges Mana\ in Kosten. Beliebiges Mana in Kosten kann mit jedem Typ Mana bezahlt werden. Für mehr Informationen über {X} Siehe Regel 107.3.
 
-107.4c Zahlsymbole (so wie {1}) und Variablensymbole (so wie {X}) können auch 
-farbloses Mana repräsentieren, wenn sie im Effekt eines Zauberspruchs oder 
-einer Fähigkeit erscheinen, die lautet: „Erhöhe deinen Manavorrat um 
-[Manasymbol]“ oder etwas Ähnliches. (Siehe Regel 107.3e.)
+107.4c Zahlsymbole (so wie {1}) und Variablensymbole (so wie {X}) können auch farbloses Mana repräsentieren, wenn sie im Effekt eines Zauberspruchs oder einer Fähigkeit erscheinen, die lautet: „Erhöhe deinen Manavorrat um [Manasymbol]“ oder etwas Ähnliches. (Siehe Regel 107.3e.)
 
-107.4d Das Symbol {0} repräsentiert null Mana und wird als Platzhalter für 
-Kosten benutzt, die ohne Ressourcen bezahlt werden können. (Siehe Regel 117.5.)
+107.4d Das Symbol {0} repräsentiert null Mana und wird als Platzhalter für Kosten benutzt, die ohne Ressourcen bezahlt werden können. (Siehe Regel 117.5.)
 
-107.4e Hybride Manasymbole sind auch farbige Manasymbole. Jedes stellt Kosten 
-dar, welche auf eine von zwei Weisen bezahlt werden können, wie es von den 
-zwei Hälften des Symbols dargestellt wird. Ein hybrides Symbol so wie {W/U} kann 
-entweder mit weißem oder blauem Mana bezahlt werden, und ein einfarbiges hybrides
-Symbol so wie {2/B} kann entweder mit schwarzem Mana oder zwei Mana beliebigen 
-Typs bezahlt werden. Ein hybrides Manasymbol ist alle Farben seiner Komponenten.
+107.4e Hybride Manasymbole sind auch farbige Manasymbole. Jedes stellt Kosten dar, welche auf eine von zwei Weisen bezahlt werden können, wie es von den zwei Hälften des Symbols dargestellt wird. Ein hybrides Symbol so wie {W/U} kann entweder mit weißem oder blauem Mana bezahlt werden, und ein einfarbiges hybrides Symbol so wie {2/B} kann entweder mit schwarzem Mana oder zwei Mana beliebigen Typs bezahlt werden. Ein hybrides Manasymbol ist alle Farben seiner Komponenten.
 
-Beispiel: {G/W}{G/W} kann durch Ausgeben von {G}{G}, {G}{W} oder {W}{W} 
-bezahlt werden.
+Beispiel: {G/W}{G/W} kann durch Ausgeben von {G}{G}, {G}{W} oder {W}{W} bezahlt werden.
 
-107.4f Phyrexianische Manasymbole sind farbige Manasymbole: {W/P} ist weiß, 
-{U/P} ist blau, {B/P} ist schwarz, {R/P} ist rot, und {G/P} ist grün. Ein 
-phyrexianisches Manasymbol stellt Kosten dar, welche entweder mit einem Mana 
-seiner Farbe oder durch Bezahlen von 2 Lebenspunkten bezahlt werden können.
+107.4f Phyrexianische Manasymbole sind farbige Manasymbole: {W/P} ist weiß, {U/P} ist blau, {B/P} ist schwarz, {R/P} ist rot, und {G/P} ist grün. Ein phyrexianisches Manasymbol stellt Kosten dar, welche entweder mit einem Mana seiner Farbe oder durch Bezahlen von 2 Lebenspunkten bezahlt werden können.
 
-Beispiel: {W/P}{W/P} kann durch Ausgeben von {W}{W}, durch Ausgeben von {W} 
-und Bezahlen von 2 Lebenspunkten oder durch Bezahlen von 4 Lebenspunkten 
-bezahlt werden.
+Beispiel: {W/P}{W/P} kann durch Ausgeben von {W}{W}, durch Ausgeben von {W} und Bezahlen von 2 Lebenspunkten oder durch Bezahlen von 4 Lebenspunkten bezahlt werden.
 
-107.4g Im Regeltext bedeutet das Phyrexianische Manasymbol ohne farbigen 
-Hintergrund {P} ein beliebiges der fünf phyrexianischen Manasymbole.
+107.4g Im Regeltext bedeutet das Phyrexianische Manasymbol ohne farbigen Hintergrund {P} ein beliebiges der fünf phyrexianischen Manasymbole.
 
-107.4h Das Schnee-Manasymbol {S} repräsentiert ein beliebiges Mana in 
-Kosten. Dieses beliebige Mana kann mit einem Mana eines beliebigen Typs 
-bezahlt werden, das von einer verschneiten bleibenden Karte produziert wurde 
-(siehe Regel 205.4f). Effekte, die die Menge an beliebigem Mana reduzieren, 
-das du zahlst, beeinflussen {S}-Kosten nicht. (Es gibt kein "Schnee-Mana"; 
-"Schnee" ist kein Manatyp.)
+107.4h Das Schnee-Manasymbol {S} repräsentiert ein beliebiges Mana in Kosten. Dieses beliebige Mana kann mit einem Mana eines beliebigen Typs bezahlt werden, das von einer verschneiten bleibenden Karte produziert wurde (siehe Regel 205.4f). Effekte, die die Menge an beliebigem Mana reduzieren, das du zahlst, beeinflussen {S}-Kosten nicht. (Es gibt kein "Schnee-Mana"; "Schnee" ist kein Manatyp.)
 
-107.5. Das Tappsymbol ist {T}. Das Tappsymbol in Aktivierungskosten bedeutet 
-„tappe diese bleibende Karte.“ Eine bleibende Karte, die bereits getappt ist, 
-kann nicht erneut getappt werden, um solche Kosten zu bezahlen. Eine aktivierte 
-Fähigkeit einer Kreatur mit dem Tappsymbol in ihren Aktivierungskosten kann 
-nicht aktiviert werden, außer die Kreatur befindet sich durchgängig unter der 
-Kontrolle ihres Beherrschers seitdem dessen letzter Zug begonnen hat. Siehe 
-Regel 302.6.
+107.5. Das Tappsymbol ist {T}. Das Tappsymbol in Aktivierungskosten bedeutet „tappe diese bleibende Karte.“ Eine bleibende Karte, die bereits getappt ist, kann nicht erneut getappt werden, um solche Kosten zu bezahlen. Eine aktivierte Fähigkeit einer Kreatur mit dem Tappsymbol in ihren Aktivierungskosten kann nicht aktiviert werden, außer die Kreatur befindet sich durchgängig unter der Kontrolle ihres Beherrschers seitdem dessen letzter Zug begonnen hat. Siehe Regel 302.6.
 
-107.6. Das Enttappsymbol ist {Q}. Das Enttappsymbol in Aktivierungskosten 
-bedeutet „enttappe diese bleibende Karte.“ Eine bleibende Karte, die bereits 
-ungetappt ist, kann nicht erneut enttappt werden, um die Kosten zu bezahlen. 
-Eine aktivierte Fähigkeit einer Kreatur mit dem Enttappsymbol in ihren 
-Aktivierungskosten kann nicht aktiviert werden, außer die Kreatur befindet sich 
-durchgängig unter der Kontrolle ihres Beherrschers seitdem dessen letzter Zug
-begonnen hat. Siehe Regel 302.6.
+107.6. Das Enttappsymbol ist {Q}. Das Enttappsymbol in Aktivierungskosten bedeutet „enttappe diese bleibende Karte.“ Eine bleibende Karte, die bereits ungetappt ist, kann nicht erneut enttappt werden, um die Kosten zu bezahlen. Eine aktivierte Fähigkeit einer Kreatur mit dem Enttappsymbol in ihren Aktivierungskosten kann nicht aktiviert werden, außer die Kreatur befindet sich durchgängig unter der Kontrolle ihres Beherrschers seitdem dessen letzter Zug begonnen hat. Siehe Regel 302.6.
 
-107.7. Jede aktivierte Fähigkeit eines Planeswalkers hat ein Loyalitätssymbol in 
-seinen Kosten. Positive Loyalitätssymbole zeigen nach oben und weisen ein 
-Pluszeichen auf, gefolgt von einer Zahl. Negative Loyalitätssymbole zeigen 
-abwärts und weisen ein Minuszeichen auf, gefolgt von einer Zahl oder einem X. 
-Neutrale Loyalitätssymbole zeigen in keine Richtung und weisen eine 0 auf. [+N] 
-bedeutet „Lege N Loyalitätsmarken auf diese bleibende Karte.“, [-N] bedeutet 
-„Entferne N Loyalitätsmarken von dieser bleibenden Karte.“ und [0] bedeutet 
-„Lege null Loyalitätsmarken auf diese bleibende Karte.“
+107.7. Jede aktivierte Fähigkeit eines Planeswalkers hat ein Loyalitätssymbol in seinen Kosten. Positive Loyalitätssymbole zeigen nach oben und weisen ein Pluszeichen auf, gefolgt von einer Zahl. Negative Loyalitätssymbole zeigen abwärts und weisen ein Minuszeichen auf, gefolgt von einer Zahl oder einem X. Neutrale Loyalitätssymbole zeigen in keine Richtung und weisen eine 0 auf. [+N] bedeutet „Lege N Loyalitätsmarken auf diese bleibende Karte.“, [-N] bedeutet „Entferne N Loyalitätsmarken von dieser bleibenden Karte.“ und [0] bedeutet „Lege null Loyalitätsmarken auf diese bleibende Karte.“
 
-107.8. Die Textbox einer Aufsteiger-Karte enthält zwei Stufensymbole. Jede stellt ein 
-Schlüsselwort dar, das eine statische Fähigkeit repräsentiert. Das Stufensymbol 
-enthält entweder einen Zahlenbereich, der hier als „N1–N2“ angegeben wird, oder 
-eine einzelne Zahl, auf die ein Pluszeichen folgt, hier als „N3+“ angegeben. 
-Alle Fähigkeiten, die im gleichen Textbox-Streifen als Stufensymbol gedruckt 
-sind, sind Teil der statischen Fähigkeit der Karte. Entsprechend verhält es 
-sich mit der Stärke und Widerstandskraft, die in diesem Streifen gedruckt sind, 
-hier als „[S/W]“ angegeben. Siehe Regel 710, „Aufsteiger-Karten“.
+107.8. Die Textbox einer Aufsteiger-Karte enthält zwei Stufensymbole. Jede stellt ein Schlüsselwort dar, das eine statische Fähigkeit repräsentiert. Das Stufensymbol enthält entweder einen Zahlenbereich, der hier als „N1–N2“ angegeben wird, oder eine einzelne Zahl, auf die ein Pluszeichen folgt, hier als „N3+“ angegeben. Alle Fähigkeiten, die im gleichen Textbox-Streifen als Stufensymbol gedruckt sind, sind Teil der statischen Fähigkeit der Karte. Entsprechend verhält es sich mit der Stärke und Widerstandskraft, die in diesem Streifen gedruckt sind, hier als „[S/W]“ angegeben. Siehe Regel 710, „Aufsteiger-Karten“.
 
-107.8a „{Stufe N1–N2} [Fähigkeiten] [S/W]“ bedeutet „Solange auf dieser Kreatur 
-mindestens N1 Stufenmarken liegen, aber nicht mehr als N2 Stufenmarken, ist sie 
-[S/W] und hat [Fähigkeiten].“
+107.8a „{Stufe N1–N2} [Fähigkeiten] [S/W]“ bedeutet „Solange auf dieser Kreatur mindestens N1 Stufenmarken liegen, aber nicht mehr als N2 Stufenmarken, ist sie [S/W] und hat [Fähigkeiten].“
 
-107.8b „{Stufe N3+} [Fähigkeiten] [S/W]“ bedeutet „Solange auf dieser Kreatur 
-N3 oder mehr Stufenmarken liegen, ist sie [S/W] und hat [Fähigkeiten].“
+107.8b „{Stufe N3+} [Fähigkeiten] [S/W]“ bedeutet „Solange auf dieser Kreatur N3 oder mehr Stufenmarken liegen, ist sie [S/W] und hat [Fähigkeiten].“
 
-107.9. Ein Grabsteinzeichen erscheint links vom Namen bei vielen Karten des 
-\Odyssee\™-Blocks mit Fähigkeiten, die im Friedhof eines Spielers relevant sind. 
-Der Zweck des Zeichens ist, diese Karten hervorzuheben, wenn sie in einem 
-Friedhof sind. Dieses Zeichen hat keinen Effekt auf das Spielgeschehen.
+107.9. Ein Grabsteinzeichen erscheint links vom Namen bei vielen Karten des \Odyssee\-Blocks mit Fähigkeiten, die im Friedhof eines Spielers relevant sind. Der Zweck des Zeichens ist, diese Karten hervorzuheben, wenn sie in einem Friedhof sind. Dieses Zeichen hat keinen Effekt auf das Spielgeschehen.
 
-107.10. Ein Typensymbol erscheint in der oberen, linken Ecke jeder Karte aus dem 
-Set \Blick in die Zukunft\®, die mit einem alternativen, „zeitversetzten“ 
-Rahmen gedruckt wurde. Wenn die Karte einen einzelnen Kartentyp besitzt, zeigt 
-das Symbol an, was er ist: Eine Kralle steht für eine Kreatur, eine Flamme für 
-eine Hexerei, ein Blitz für einen Spontanzauber, ein Sonnenaufgang für eine 
-Verzauberung, ein Kelch für ein Artefakt und ein Paar Bergspitzen für ein Land. 
-Wenn die Karte mehrere Typen besitzt, wird dies durch ein schwarzes und weißes 
-Kreuz angezeigt. Dieses Symbol hat keinen Einfluss auf das Spielgeschehen.
+107.10. Ein Typensymbol erscheint in der oberen, linken Ecke jeder Karte aus dem Set \Blick in die Zukunft\, die mit einem alternativen, „zeitversetzten“ Rahmen gedruckt wurde. Wenn die Karte einen einzelnen Kartentyp besitzt, zeigt das Symbol an, was er ist: Eine Kralle steht für eine Kreatur, eine Flamme für eine Hexerei, ein Blitz für einen Spontanzauber, ein Sonnenaufgang für eine Verzauberung, ein Kelch für ein Artefakt und ein Paar Bergspitzen für ein Land. Wenn die Karte mehrere Typen besitzt, wird dies durch ein schwarzes und weißes Kreuz angezeigt. Dieses Symbol hat keinen Einfluss auf das Spielgeschehen.
 
-107.11. Das Weltenwanderer-Symbol ist {PW}. Es erscheint auf einer 
-Seite des Weltenwürfels, der in der Gelegenheitsspiel-Variante Planechase 
-verwendet wird. Siehe Regel 901, „Planechase.“
+107.11. Das Weltenwanderer-Symbol ist {PW}. Es erscheint auf einer Seite des Weltenwürfels, der in der Gelegenheitsspiel-Variante Planechase verwendet wird. Siehe Regel 901, „Planechase.“
 
-107.12. Das Chaos-Symbol ist {C}. Es erscheint sowohl auf einer Seite des 
-Welten-Würfels, der in der Gelegenheitsspiel-Variante Planechase verwendet wird, 
-als auch in Fähigkeiten, die sich auf das Ergebnis des Weltenwürfel-Wurfs beziehen.
-Siehe Regel 901, „Planechase.“
+107.12. Das Chaos-Symbol ist {C}. Es erscheint sowohl auf einer Seite des Welten-Würfels, der in der Gelegenheitsspiel-Variante Planechase verwendet wird, als auch in Fähigkeiten, die sich auf das Ergebnis des Weltenwürfel-Wurfs beziehen. Siehe Regel 901, „Planechase.“
 
-107.13. Das Sonnensymbol erscheint in der oberen linken Ecke auf der Vorderseite 
-von doppelseitigen Karten. Siehe Regel 711, „Doppelseitige Karten.“
+107.13. Das Sonnensymbol erscheint in der oberen linken Ecke auf der Vorderseite von doppelseitigen Karten. Siehe Regel 711, „Doppelseitige Karten.“
 
-107.14. Das Mondsymbol erscheint in der oberen linken Ecke auf der Rückseite von 
-doppelseitigen Karten. Siehe Regel 711, „Doppelseitige Karten.“
+107.14. Das Mondsymbol erscheint in der oberen linken Ecke auf der Rückseite von doppelseitigen Karten. Siehe Regel 711, „Doppelseitige Karten.“
 
-107.15. Ein Farbanzeiger ist ein kreisförmiges Symbol, das auf manchen Karten 
-links von der Typuszeile erscheint. Die Farbe des Farbanzeigers definiert die 
-Farbe oder Farben der Karte. Siehe Regel 202, „Manakosten und Farbe.“
+107.15. Ein Farbanzeiger ist ein kreisförmiges Symbol, das auf manchen Karten links von der Typuszeile erscheint. Die Farbe des Farbanzeigers definiert die Farbe oder Farben der Karte. Siehe Regel 202, „Manakosten und Farbe.“
 
 108. Karten
 
-108.1. Benutze die Oracle™-Kartenreferenz, wenn du den Wortlaut einer Karte 
-ermittelst. Der Oracle-Text einer Karte kann durch die Nutzung der Gatherer-
-Datenbank unter _#http://gatherer.wizards.com#_ gefunden werden.
+108.1. Benutze die Oracle-Kartenreferenz, wenn du den Wortlaut einer Karte ermittelst. Der Oracle-Text einer Karte kann durch die Nutzung der Gatherer-Datenbank unter _#http://gatherer.wizards.com#_ gefunden werden.
 
-108.2. Wenn eine Regel oder ein Text auf einer Karte sich auf eine „Karte“ 
-bezieht, ist nur eine #Magic#-Karte gemeint. Die meisten #Magic#-Spiele verwenden 
-nur \herkömmliche #Magic#-Karten\, die etwa 2.5 Zoll (6.3 cm) breit und 3.5 Zoll (8.8 cm)
-hoch sind. Bestimmte Formate verwenden auch \nicht-herkömmliche #Magic#-Karten\, übergroße 
-Karten, die eine andere Rückseite haben können. Spielsteine gelten nicht als 
-Karten – selbst eine Karte, die einen Spielstein darstellt, wird regeltechnisch 
-nicht als Karte betrachtet.
+108.2. Wenn eine Regel oder ein Text auf einer Karte sich auf eine „Karte“ bezieht, ist nur eine #Magic#-Karte gemeint. Die meisten #Magic#-Spiele verwenden nur \herkömmliche #Magic#-Karten\, die etwa 2.5 Zoll (6.3 cm) breit und 3.5 Zoll (8.8 cm) hoch sind. Bestimmte Formate verwenden auch \nicht-herkömmliche #Magic#-Karten\, übergroße Karten, die eine andere Rückseite haben können. Spielsteine gelten nicht als Karten – selbst eine Karte, die einen Spielstein darstellt, wird regeltechnisch nicht als Karte betrachtet.
 
-108.2a Im Text von Zaubersprüchen oder Fähigkeiten bezieht sich der Begriff 
-„Karte“ nur auf eine Karte, die sich nicht im Spiel oder auf dem Stapel 
-befindet, wie beispielsweise eine Kreaturenkarte auf der Hand eines Spielers. 
-Für weitere Information siehe Abschnitt 4, „Zonen.“
+108.2a Im Text von Zaubersprüchen oder Fähigkeiten bezieht sich der Begriff „Karte“ nur auf eine Karte, die sich nicht im Spiel oder auf dem Stapel befindet, wie beispielsweise eine Kreaturenkarte auf der Hand eines Spielers. Für weitere Information siehe Abschnitt 4, „Zonen.“
 
-108.3. Der \Besitzer\ einer Karte im Spiel ist der Spieler, der mit ihr in seinem 
-Deck das Spiel begonnen hat. Wenn eine Karte von außerhalb des Spiels ins Spiel 
-gebracht wird statt zu Beginn im Deck eines Spielers gewesen zu sein, ist 
-der Besitzer der Karte der Spieler, der sie ins Spiel gebracht hat. Wenn eine 
-Karte das Spielbeginn in der Kommandozone beginnt, ist ihr Besitzer der 
-Spieler, der sie in die Kommandozone gebracht hat, um das Spiel zu beginnen. 
-Außer für die Regeln zum Spielen mit Einsatz ist das Eigentumsrecht über eine Karte
-für die Spielregeln ohne Bedeutung. (Siehe Regel 407.)
+108.3. Der \Besitzer\ einer Karte im Spiel ist der Spieler, der mit ihr in seinem Deck die Partie begonnen hat. Wenn eine Karte von außerhalb des Spiels ins Spiel gebracht wird statt zu Beginn im Deck eines Spielers gewesen zu sein, ist der Besitzer der Karte der Spieler, der sie ins Spiel gebracht hat. Wenn eine Karte das Spielbeginn in der Kommandozone beginnt, ist ihr Besitzer der Spieler, der sie in die Kommandozone gebracht hat, um das Spiel zu beginnen. Außer für die Regeln zum Spielen mit Einsatz ist das Eigentumsrecht über eine Karte für die Spielregeln ohne Bedeutung. (Siehe Regel 407.)
 
-108.3a In einer Partie Planechase mit der Option Gemeinsames Weltendeck gilt der
-Weltenbeherrscher als Besitzer aller Karten im Weltendeck. Siehe Regel 901.6.
+108.3a In einer Partie Planechase mit der Option Gemeinsames Weltendeck gilt der Weltenbeherrscher als Besitzer aller Karten im Weltendeck. Siehe Regel 901.6.
 
-108.3b Manche Zaubersprüche oder Fähigkeiten erlauben einem Spieler, Karten, 
-die er besitzt, von außerhalb des Spiels in die Partie zu holen. (Siehe 
-Regel 400.10b.) Falls eine Karte außerhalb dieser Partie in einer Partie #Magic# 
-verwendet wird, wird ihr Besitzer gemäß Regel 108.3 ermittelt. Falls sich eine 
-Karte außerhalb dieser Partie in einem Sideboard einer Partie #Magic# befindet 
-(siehe Regel 100.4), gilt der Spieler als ihr Besitzer, der das Spiel mit 
-dieser Karte im Sideboard begonnen hat. In allen anderen Fällen ist der rechtmäßige
-Eigentümer ihr Besitzer.
+108.3b Manche Zaubersprüche oder Fähigkeiten erlauben einem Spieler, Karten, die er besitzt, von außerhalb des Spiels in die Partie zu holen. (Siehe Regel 400.10b.) Falls eine Karte außerhalb dieser Partie in einer Partie #Magic# verwendet wird, wird ihr Besitzer gemäß Regel 108.3 ermittelt. Falls sich eine Karte außerhalb dieser Partie in einem Sideboard einer Partie #Magic# befindet (siehe Regel 100.4), gilt der Spieler als ihr Besitzer, der das Spiel mit dieser Karte im Sideboard begonnen hat. In allen anderen Fällen ist der rechtmäßige Eigentümer ihr Besitzer.
 
-108.4. Eine Karte hat keinen Beherrscher, außer sie repräsentiert eine bleibende 
-Karte oder einen Zauberspruch; in diesen Fällen wird ihr Beherrscher durch die 
-Regeln zu bleibenden Karten oder Zaubersprüchen bestimmt. Siehe Regeln 110.2 
-und 111.2.
+108.4. Eine Karte hat keinen Beherrscher, außer sie repräsentiert eine bleibende Karte oder einen Zauberspruch; in diesen Fällen wird ihr Beherrscher durch die Regeln zu bleibenden Karten oder Zaubersprüchen bestimmt. Siehe Regeln 110.2 und 111.2.
 
-108.4a Falls nach dem Beherrscher einer Karte gefragt wird, und diese keinen 
-hat (weil sie keine bleibende Karte oder Zauberspruch ist), verwende 
-stattdessen ihren Besitzer.
+108.4a Falls nach dem Beherrscher einer Karte gefragt wird, und diese keinen hat (weil sie keine bleibende Karte oder Zauberspruch ist), verwende stattdessen ihren Besitzer.
 
-108.5. Nicht-herkömmliche #Magic#-Karten können das Spiel in keiner anderen Zone 
-als der Kommandozone beginnen (siehe Regel 408). Falls ein Effekt eine 
-nicht-herkömmliche #Magic#-Karte von außerhalb des Spiels ins Siel bringen würde, tut 
-er dies nicht; die Karte bleibt außerhalb des Spiels.
+108.5. Nicht-herkömmliche #Magic#-Karten können das Spiel in keiner anderen Zone als der Kommandozone beginnen (siehe Regel 408). Falls ein Effekt eine nicht-herkömmliche #Magic#-Karte von außerhalb des Spiels ins Spiel bringen würde, tut er dies nicht; die Karte bleibt außerhalb des Spiels.
 
-108.6. Siehe Abschnitt 2, „Aufbau einer Karte“ für weitere Informationen zu 
-Karten.
+108.6. Siehe Abschnitt 2, „Aufbau einer Karte“ für weitere Informationen zu Karten.
 
 109. Objekte
 
-109.1. Ein \Objekt\ ist eine Fähigkeit auf dem Stapel, eine Karte, eine Kopie 
-einer Karte, ein Spielstein, ein Zauberspruch, eine bleibende Karte oder ein 
-Emblem.
+109.1. Ein \Objekt\ ist eine Fähigkeit auf dem Stapel, eine Karte, eine Kopie einer Karte, ein Spielstein, ein Zauberspruch, eine bleibende Karte oder ein Emblem.
 
-109.2. Wenn ein Zauberspruch oder eine Fähigkeit eine Beschreibung eines 
-Objektes benutzt, die einen Kartentyp oder Untertyp, aber nicht das Wort 
-„Karte“, „Zauberspruch“, „Quelle“ oder „Komplott“ enthält, meint er bzw. sie 
-eine bleibende Karte dieses Kartentyps oder Untertyps im Spiel.
+109.2. Wenn ein Zauberspruch oder eine Fähigkeit eine Beschreibung eines Objektes benutzt, die einen Kartentyp oder Untertyp, aber nicht das Wort „Karte“, „Zauberspruch“, „Quelle“ oder „Komplott“ enthält, meint er bzw. sie eine bleibende Karte dieses Kartentyps oder Untertyps im Spiel.
 
-109.2a Wenn ein Zauberspruch oder eine Fähigkeit eine Beschreibung eines 
-Objektes benutzt, die das Wort „Karte“ und den Namen einer Zone beinhaltet, 
-meint er bzw. sie eine Karte, die mit dieser Beschreibung übereinstimmt und
-in der angegebenen Zone ist.
+109.2a Wenn ein Zauberspruch oder eine Fähigkeit eine Beschreibung eines Objektes benutzt, die das Wort „Karte“ und den Namen einer Zone beinhaltet, meint er bzw. sie eine Karte, die mit dieser Beschreibung übereinstimmt und in der angegebenen Zone ist.
 
-109.2b Wenn ein Zauberspruch oder eine Fähigkeit eine Beschreibung eines 
-Objektes benutzt, die das Wort „Zauber“ beinhaltet, meint er bzw. sie einen 
-Zauberspruch auf dem Stapel, der mit dieser Beschreibung übereinstimmt.
+109.2b Wenn ein Zauberspruch oder eine Fähigkeit eine Beschreibung eines Objektes benutzt, die das Wort „Zauber“ beinhaltet, meint er bzw. sie einen Zauberspruch auf dem Stapel, der mit dieser Beschreibung übereinstimmt.
 
-109.2c Wenn ein Zauberspruch oder eine Fähigkeit eine Beschreibung eines 
-Objektes benutzt, die das Wort „Quelle“ enthält, meint er bzw. sie eine Quelle 
-in irgendeiner Zone, die mit dieser Beschreibung übereinstimmt – entweder eine 
-Quelle einer Fähigkeit oder eine Schadensquelle. Siehe Regel 609.7.
+109.2c Wenn ein Zauberspruch oder eine Fähigkeit eine Beschreibung eines Objektes benutzt, die das Wort „Quelle“ enthält, meint er bzw. sie eine Quelle in irgendeiner Zone, die mit dieser Beschreibung übereinstimmt – entweder eine Quelle einer Fähigkeit oder eine Schadensquelle. Siehe Regel 609.7.
 
-109.2d Wenn eine Fähigkeit oder eine Komplott-Karte den Text „dieses Komplott“ 
-enthält, meint sie die Komplott-Karte in der Kommandozone, auf der diese 
-Fähigkeit aufgedruckt ist.
+109.2d Wenn eine Fähigkeit oder eine Komplott-Karte den Text „dieses Komplott“ enthält, meint sie die Komplott-Karte in der Kommandozone, auf der diese Fähigkeit aufgedruckt ist.
 
-109.3. Die \Eigenschaften\ eines Objekts sind Name, Manakosten, Farbe, 
-Farbanzeiger, Kartentyp, Untertyp, Übertyp, Erweiterungssymbol, Regeltext, 
-Fähigkeiten, Stärke, Widerstandskraft, Loyalität, Modifikator der Handkartenzahl 
-und Modifikator der Lebenspunkte. Objekte können einige oder alle dieser 
-Eigenschaften besitzen. Jede andere Information über ein Objekt ist keine 
-Eigenschaft. Zum Beispiel enthalten Eigenschaften nicht, ob eine bleibende 
-Karte getappt ist, das Ziel eines Zauberspruchs, den Besitzer oder Beherrscher 
-eines Objekts, was eine Aura verzaubert und so weiter.
+109.3. Die \Eigenschaften\ eines Objekts sind Name, Manakosten, Farbe, Farbanzeiger, Kartentyp, Untertyp, Übertyp, Erweiterungssymbol, Regeltext, Fähigkeiten, Stärke, Widerstandskraft, Loyalität, Modifikator der Handkartenzahl und Modifikator der Lebenspunkte. Objekte können einige oder alle dieser Eigenschaften besitzen. Jede andere Information über ein Objekt ist keine Eigenschaft. Zum Beispiel enthalten Eigenschaften nicht, ob eine bleibende Karte getappt ist, das Ziel eines Zauberspruchs, den Besitzer oder Beherrscher eines Objekts, was eine Aura verzaubert und so weiter.
 
-109.4. Nur Objekte auf dem Stapel oder im Spiel haben einen Beherrscher. 
-Objekte, die sich weder auf dem Stapel noch im Spiel befinden, werden von 
-keinem Spieler kontrolliert. Siehe Regel 108.4. Es gibt vier Ausnahmen zu 
-dieser Regel:
+109.4. Nur Objekte auf dem Stapel oder im Spiel haben einen Beherrscher. Objekte, die sich weder auf dem Stapel noch im Spiel befinden, werden von keinem Spieler kontrolliert. Siehe Regel 108.4. Es gibt vier Ausnahmen zu dieser Regel:
 
-109.4a Ein Emblem wird von dem Spieler kontrolliert, der es in die Kommandozone 
-gelegt hat. Siehe Regel 113, „Embleme.“
+109.4a Ein Emblem wird von dem Spieler kontrolliert, der es in die Kommandozone gelegt hat. Siehe Regel 113, „Embleme.“
 
-109.4b In einer Partie Planechase wird eine aufgedeckte Weltenkarte oder 
-Phänomenkarte von dem Spieler kontrolliert, der der Weltenbeherrscher ist. Das 
-ist normalerweise der aktive Spieler. Siehe Regel 901.6.
+109.4b In einer Partie Planechase wird eine aufgedeckte Weltenkarte oder Phänomenkarte von dem Spieler kontrolliert, der der Weltenbeherrscher ist. Das ist normalerweise der aktive Spieler. Siehe Regel 901.6.
 
-109.4c In einer Partie Vanguard wird jede Vanguard-Karte von ihrem Besitzer 
-kontrolliert. Siehe Regel 902.6.
+109.4c In einer Partie Vanguard wird jede Vanguard-Karte von ihrem Besitzer kontrolliert. Siehe Regel 902.6.
 
-109.4d In einer Partie Archenemy wird jede Komplott-Karte von ihrem Besitzer 
-kontrolliert. Siehe Regel 904.7.
+109.4d In einer Partie Archenemy wird jede Komplott-Karte von ihrem Besitzer kontrolliert. Siehe Regel 904.7.
 
-109.5. Die Wörter „du“ und „dein“ auf einem Objekt beziehen sich auf dessen 
-Beherrscher, dessen potenziellen Beherrscher (wenn ein Spieler versucht, es zu 
-spielen, zu wirken oder zu aktivieren) oder dessen Besitzer (wenn es keinen Beherrscher 
-hat). Für statische Fähigkeiten ist dies der momentane Beherrscher 
-des Objekts, auf dem sie ist. Für aktivierte Fähigkeiten ist es der Spieler, der 
-die Fähigkeit aktiviert hat. Für ausgelöste Fähigkeiten ist dies der 
-Beherrscher des Objekts, als die Fähigkeit ausgelöst wurde, es sei denn sie ist 
-eine verzögerte ausgelöste Fähigkeit. Um den Beherrscher einer verzögerten
-ausgelösten Fähigkeit zu ermitteln, siehe Regel 603.7d–f.
+109.5. Die Wörter „du“ und „dein“ auf einem Objekt beziehen sich auf dessen Beherrscher, dessen potenziellen Beherrscher (wenn ein Spieler versucht, es zu spielen, zu wirken oder zu aktivieren) oder dessen Besitzer (wenn es keinen Beherrscher hat). Für statische Fähigkeiten ist dies der momentane Beherrscher des Objekts, auf dem sie ist. Für aktivierte Fähigkeiten ist es der Spieler, der die Fähigkeit aktiviert hat. Für ausgelöste Fähigkeiten ist dies der Beherrscher des Objekts, als die Fähigkeit ausgelöst wurde, es sei denn sie ist eine verzögerte ausgelöste Fähigkeit. Um den Beherrscher einer verzögerten ausgelösten Fähigkeit zu ermitteln, siehe Regel 603.7d–f.
 
 110. Bleibende Karten
 
-110.1. Eine \bleibende Karte\ (engl. \permanent\) ist eine Karte oder ein Spielstein im Spiel.
-Eine bleibende Karte verbleibt dauerhaft im Spiel. Eine 
-Karte oder ein Spielstein wird zu einer bleibenden Karte, sobald sie bzw. er 
-die Im-Spiel-Zone betritt, und hört auf, eine bleibende Karte zu sein, sobald 
-sie bzw. er durch einen Effekt oder eine Regel in eine andere Zone bewegt wird.
+110.1. Eine \bleibende Karte\ (engl. \permanent\) ist eine Karte oder ein Spielstein im Spiel. Eine bleibende Karte verbleibt dauerhaft im Spiel. Eine Karte oder ein Spielstein wird zu einer bleibenden Karte, sobald sie bzw. er die Im-Spiel-Zone betritt, und hört auf, eine bleibende Karte zu sein, sobald sie bzw. er durch einen Effekt oder eine Regel in eine andere Zone bewegt wird.
 
-110.2. Der Besitzer einer bleibenden Karte ist derselbe wie der Besitzer der 
-Karte, die sie repräsentiert (außer es handelt sich um einen Spielstein, siehe 
-Regel 110.5a). Der Beherrscher einer bleibenden Karte ist standardmäßig der 
-Spieler, unter dessen Kontrolle sie ins Spiel gekommen ist. Jede bleibende 
-Karte hat einen Beherrscher.
+110.2. Der Besitzer einer bleibenden Karte ist derselbe wie der Besitzer der Karte, die sie repräsentiert (außer es handelt sich um einen Spielstein, siehe Regel 110.5a). Der Beherrscher einer bleibenden Karte ist standardmäßig der Spieler, unter dessen Kontrolle sie ins Spiel gekommen ist. Jede bleibende Karte hat einen Beherrscher.
 
-110.2a Wenn ein Effekt einen Spieler anweist, ein Objekt ins Spiel zu bringen, 
-kommt das Objekt unter der Kontrolle dieses Spielers ins Spiel, falls der 
-Effekt nicht etwas anderes angibt.
+110.2a Wenn ein Effekt einen Spieler anweist, ein Objekt ins Spiel zu bringen, kommt das Objekt unter der Kontrolle dieses Spielers ins Spiel, falls der Effekt nicht etwas anderes angibt.
 
-110.3. Die Eigenschaften einer bleibenden Karte, die kein Spielstein ist, sind 
-die gleichen wie auf ihrer Karte angegeben, sowie sie durch andere dauerhafte 
-Effekte verändert werden. Siehe Regel 613, „Interaktion dauerhafter Effekte“.
+110.3. Die Eigenschaften einer bleibenden Karte, die kein Spielstein ist, sind die gleichen wie auf ihrer Karte angegeben, sowie sie durch andere dauerhafte Effekte verändert werden. Siehe Regel 613, „Interaktion dauerhafter Effekte“.
 
-110.4. Es gibt fünf Typen von bleibenden Karten: Artefakt, Kreatur, Land, 
-Verzauberung und Planeswalker. Spontanzauber- und Hexereikarten können nicht 
-ins Spiel kommen und daher keine bleibenden Karten werden. Einige Stammeskarten 
-können ins Spiel kommen und andere nicht, abhängig von ihren anderen 
-Kartentypen. Siehe Abschnitt 3, „Kartentypen“.
+110.4. Es gibt fünf Typen von bleibenden Karten: Artefakt, Kreatur, Land, Verzauberung und Planeswalker. Spontanzauber- und Hexereikarten können nicht ins Spiel kommen und daher keine bleibenden Karten werden. Einige Stammeskarten können ins Spiel kommen und andere nicht, abhängig von ihren anderen Kartentypen. Siehe Abschnitt 3, „Kartentypen“.
 
-110.4a Der Begriff „Bleibende Karte“ (engl. \permanent card\) wird benutzt, um sich auf
-eine Karte zu beziehen, die ins Spiel gebracht werden könnte. Speziell meint er eine 
-Artefakt-, Kreaturen-, Land-, Verzauberungs- oder Planeswalkerkarte.
+110.4a Der Begriff „Bleibende Karte“ (engl. \permanent card\) wird benutzt, um sich auf eine Karte zu beziehen, die ins Spiel gebracht werden könnte. Speziell meint er eine Artefakt-, Kreaturen-, Land-, Verzauberungs- oder Planeswalkerkarte.
 
-110.4b Der Begriff „Bleibende-Karte-Zauberspruch“ (engl. \permanent spell\) wird benutzt, 
-um sich auf einen Zauberspruch zu beziehen, der als Teil seiner Verrechnung als bleibende 
-Karte ins Spiel kommen wird. Speziell meint er einen Artefakt-, Kreaturen-, 
-Verzauberungs- oder Planeswalkerzauberspruch.
+110.4b Der Begriff „Bleibende-Karte-Zauberspruch“ (engl. \permanent spell\) wird benutzt, um sich auf einen Zauberspruch zu beziehen, der als Teil seiner Verrechnung als bleibende Karte ins Spiel kommen wird. Speziell meint er einen Artefakt-, Kreaturen-, Verzauberungs- oder Planeswalkerzauberspruch.
 
-110.4c Wenn eine bleibende Karte auf irgendeine Weise alle Kartentypen bleibender Karten
-verliert, verbleibt sie im Spiel. Sie ist immer noch eine bleibende Karte.
+110.4c Wenn eine bleibende Karte auf irgendeine Weise alle Kartentypen bleibender Karten verliert, verbleibt sie im Spiel. Sie ist immer noch eine bleibende Karte.
 
-110.5. Manche Effekte bringen \Spielsteine\ ins Spiel. Ein Spielstein ist ein 
-Gegenstand, der dazu benutzt wird, um eine bleibende Karte zu repräsentieren, die 
-nicht durch eine Karte repräsentiert wird.
+110.5. Manche Effekte bringen \Spielsteine\ ins Spiel. Ein Spielstein ist ein Gegenstand, der dazu benutzt wird, um eine bleibende Karte zu repräsentieren, die nicht durch eine Karte repräsentiert wird.
 
-110.5a Der Spieler, unter dessen Kontrolle der Spielstein ins Spiel gekommen 
-ist, ist sowohl der Besitzer als auch der Beherrscher des Spielsteins.
+110.5a Der Spieler, unter dessen Kontrolle der Spielstein ins Spiel gekommen ist, ist sowohl der Besitzer als auch der Beherrscher des Spielsteins.
 
-110.5b Der Zauberspruch oder die Fähigkeit, der bzw. die einen Spielstein 
-erzeugt, kann jegliche Anzahl an Werten von Eigenschaften für den Spielstein 
-angeben. Dies wird zum „Text“ des Spielsteins. Die Werte der Eigenschaften, die 
-auf diese Weise definiert werden, sind funktionell äquivalent zu den Werten der 
-Eigenschaften, die auf eine Karte gedruckt sind; sie legen zum Beispiel die 
-kopierbaren Werte des Spielsteins fest. Ein Spielstein besitzt keine 
-Eigenschaften, die nicht durch den Zauberspruch oder die Fähigkeit angegeben 
-sind, der bzw. die ihn geschaffen hat.
+110.5b Der Zauberspruch oder die Fähigkeit, der bzw. die einen Spielstein erzeugt, kann jegliche Anzahl an Werten von Eigenschaften für den Spielstein angeben. Dies wird zum „Text“ des Spielsteins. Die Werte der Eigenschaften, die auf diese Weise definiert werden, sind funktionell äquivalent zu den Werten der Eigenschaften, die auf eine Karte gedruckt sind; sie legen zum Beispiel die kopierbaren Werte des Spielsteins fest. Ein Spielstein besitzt keine Eigenschaften, die nicht durch den Zauberspruch oder die Fähigkeit angegeben sind, der bzw. die ihn geschaffen hat.
 
-Beispiel: Der Jademagier hat die Fähgkeit „{2}{G}: Bringe einen 1/1 grünen 
-Saprolingspielstein ins Spiel.“ Der resultierende Spielstein hat keine 
-Manakosten, keinen Übertyp, kein Erweiterungssymbol, keinen Regeltext und 
-keine Fähigkeiten.
+Beispiel: Der Jademagier hat die Fähgkeit „{2}{G}: Bringe einen 1/1 grünen Saprolingspielstein ins Spiel.“ Der resultierende Spielstein hat keine Manakosten, keinen Übertyp, kein Erweiterungssymbol, keinen Regeltext und keine Fähigkeiten.
 
-110.5c Ein Zauberspruch oder eine Fähigkeit, der bzw. die einen 
-Kreaturenspielstein erzeugt, legt sowohl dessen Namen als auch dessen Kreaturentyp 
-fest. Wenn der Zauberspruch oder die Fähigkeit nicht den Namen des 
-Kreaturenspielsteins angibt, ist dessen Name derselbe wie dessen 
-Kreaturentyp(en). Ein „(Goblin, Späher)-Kreaturenspielstein“ hat zum Beispiel den Namen
-„(Goblin, Späher)“ und die Kreaturen-Untertypen Goblin und Späher. 
-Sobald ein Kreaturenspielstein im Spiel ist, ändert das Ändern seines Namens 
-nicht seinen Kreaturentyp und andersherum.
+110.5c Ein Zauberspruch oder eine Fähigkeit, der bzw. die einen Kreaturenspielstein erzeugt, legt sowohl dessen Namen als auch dessen Kreaturentyp fest. Wenn der Zauberspruch oder die Fähigkeit nicht den Namen des Kreaturenspielsteins angibt, ist dessen Name derselbe wie dessen Kreaturentyp(en). Ein „(Goblin, Späher)-Kreaturenspielstein“ hat zum Beispiel den Namen „(Goblin, Späher)“ und die Kreaturen-Untertypen Goblin und Späher. Sobald ein Kreaturenspielstein im Spiel ist, ändert das Ändern seines Namens nicht seinen Kreaturentyp und andersherum.
 
-110.5d Wenn ein Zauberspruch oder eine Fähigkeit einen Spielstein erzeugen 
-würde, aber ein Effekt dafür sorgt, dass eine bleibende Karte mit einer oder 
-mehreren Eigenschaften dieses Spielsteins nicht ins Spiel kommen kann, wird der 
-Spielstein nicht erzeugt.
+110.5d Wenn ein Zauberspruch oder eine Fähigkeit einen Spielstein erzeugen würde, aber ein Effekt dafür sorgt, dass eine bleibende Karte mit einer oder mehreren Eigenschaften dieses Spielsteins nicht ins Spiel kommen kann, wird der Spielstein nicht erzeugt.
 
-110.5e Ein Spielstein unterliegt allem, das bleibende Karten im 
-Allgemeinen beeinflusst oder das den Kartentyp oder Untertyp des Spielsteins 
-beeinflusst. Ein Spielstein ist keine Karte (selbst, wenn er durch eine Karte mit
-einer #Magic#-Rückseite repräsentiert wird oder aus einer #Magic#-Boosterpackung stammt).
+110.5e Ein Spielstein unterliegt allem, das bleibende Karten im Allgemeinen beeinflusst oder das den Kartentyp oder Untertyp des Spielsteins beeinflusst. Ein Spielstein ist keine Karte (selbst, wenn er durch eine Karte mit einer #Magic#-Rückseite repräsentiert wird oder aus einer #Magic#-Boosterpackung stammt).
 
-110.5f Ein Spielstein, der destabilisiert ist oder sich in einer anderen Zone 
-als im Spiel befindet, hört auf zu existieren. Dies ist eine 
-zustandsbasierte Aktion. (Beachte, dass ein Spielstein, der Zonen 
-wechselt, anwendbare ausgelöste Fähigkeiten auslöst, bevor er zu existieren 
-aufhört.)
+110.5f Ein Spielstein, der destabilisiert ist oder sich in einer anderen Zone als im Spiel befindet, hört auf zu existieren. Dies ist eine zustandsbasierte Aktion. (Beachte, dass ein Spielstein, der Zonen wechselt, anwendbare ausgelöste Fähigkeiten auslöst, bevor er zu existieren aufhört.)
 
-110.5g Ein Spielstein, der das Spiel verlassen hat, kann nicht in eine andere 
-Zone bewegt werden oder ins Spiel zurückkehren. Wenn solch ein Spielstein die 
-Zone wechseln würde, verbleibt er stattdessen in seiner derzeitigen Zone. Er 
-hört auf zu existieren, wenn das nächste Mal zustandsbasierte Aktionen 
-überprüft werden; siehe Regel 704.
+110.5g Ein Spielstein, der das Spiel verlassen hat, kann nicht in eine andere Zone bewegt werden oder ins Spiel zurückkehren. Wenn solch ein Spielstein die Zone wechseln würde, verbleibt er stattdessen in seiner derzeitigen Zone. Er hört auf zu existieren, wenn das nächste Mal zustandsbasierte Aktionen überprüft werden; siehe Regel 704.
 
-110.6. Der \Status\ einer bleibenden Karte ist ihr physischer Zustand. Es gibt 
-vier Statuskategorien, von denen jede zwei mögliche Werte besitzt: 
-getappt/ungetappt, gewendet/ungewendet, offen/verdeckt und 
-stabilisiert/destabilisiert. Jede bleibende Karte hat jederzeit einen dieser 
-Werte für jede dieser Kategorien.
+110.6. Der \Status\ einer bleibenden Karte ist ihr physischer Zustand. Es gibt vier Statuskategorien, von denen jede zwei mögliche Werte besitzt: getappt/ungetappt, gewendet/ungewendet, offen/verdeckt und stabilisiert/destabilisiert. Jede bleibende Karte hat jederzeit einen dieser Werte für jede dieser Kategorien.
 
-110.6a Status ist keine Eigenschaft, wenngleich es die Eigenschaften einer 
-bleibenden Karte beeinflussen kann.
+110.6a Der Status ist keine Eigenschaft, wenngleich er die Eigenschaften einer bleibenden Karte beeinflussen kann.
 
-110.6b Bleibende Karten kommen ungetappt, ungewendet, offen und stabilisiert 
-ins Spiel, es sei denn, ein Zauberspruch oder eine Fähigkeit besagen etwas 
-anderes.
+110.6b Bleibende Karten kommen ungetappt, ungewendet, offen und stabilisiert ins Spiel, es sei denn, ein Zauberspruch oder eine Fähigkeit besagen etwas anderes.
 
-110.6c Eine bleibende Karte behält ihren Status, bis ein Zauberspruch, eine 
-Fähigkeit oder eine rundenbasierte Aktion ihn ändert, selbst wenn dieser 
-Status nicht relevant für sie ist.
+110.6c Eine bleibende Karte behält ihren Status, bis ein Zauberspruch, eine Fähigkeit oder eine rundenbasierte Aktion ihn ändert, selbst wenn dieser Status nicht relevant für sie ist.
 
-Beispiel: Der Dimir-Doppelgänger besagt: „{1}{U}{B}: Schicke eine 
-Kreaturenkarte deiner Wahl aus einem Friedhof ins Exil. Der Dimir-
-Doppelgänger wird zu einer Kopie dieser Karte und erhält diese Fähigkeit.“ 
-Er wird eine Kopie des Jushi-Lehrlings, einer Wendekarte. Durch die Nutzung 
-der Fähigkeit des Jushi-Lehrlings wird diese Kreatur gewendet, was ihn zu 
-einer Kopie von Tomoya dem Enthüller mit der Dimir-Doppelgänger-Fähigkeit 
-macht. Wenn diese bleibende Karte dann die Kopie vom Runenklauenbär wird, 
-behält sie ihren gewendeten Status bei, obwohl dies keine Relevanz für den 
-Runenklauenbär hat. Wenn ihre Kopierfähigkeit erneut aktiviert und diesmal 
-auf Nezumi-Kurzzahn (eine andere Wendekarte) gezielt wird, bedeutet der 
-gewendete Status der bleibenden Karte, dass sie die Eigenschaften von 
-Dolchbart dem Widerlichen (der gewendeten Seite des Nezumi-Kurzzahns) mit 
-der Dimir-Doppelgänger-Fähigkeit hat.
+Beispiel: Der Dimir-Doppelgänger besagt: „{1}{U}{B}: Schicke eine Kreaturenkarte deiner Wahl aus einem Friedhof ins Exil. Der Dimir-Doppelgänger wird zu einer Kopie dieser Karte und erhält diese Fähigkeit.“ Er wird eine Kopie des Jushi-Lehrlings, einer Wendekarte. Durch die Nutzung der Fähigkeit des Jushi-Lehrlings wird diese Kreatur gewendet, was ihn zu einer Kopie von Tomoya dem Enthüller mit der Dimir-Doppelgänger-Fähigkeit macht. Wenn diese bleibende Karte dann die Kopie vom Runenklauenbär wird, behält sie ihren gewendeten Status bei, obwohl dies keine Relevanz für den Runenklauenbär hat. Wenn ihre Kopierfähigkeit erneut aktiviert und diesmal auf Nezumi-Kurzzahn (eine andere Wendekarte) gezielt wird, bedeutet der gewendete Status der bleibenden Karte, dass sie die Eigenschaften von Dolchbart dem Widerlichen (der gewendeten Seite des Nezumi-Kurzzahns) mit der Dimir-Doppelgänger-Fähigkeit hat.
 
-110.6d Nur bleibende Karten können einen Status haben. Karten, die nicht im 
-Spiel sind, haben keinen. Obwohl eine Karte im Exil verdeckt sein kann, hat 
-dies keine Verbindung zu dem verdeckten Status einer bleibenden Karte. In 
-gleicher Weise sind Karten, die sich nicht im Spiel befinden, weder getappt 
-noch ungetappt, unabhängig von ihrem physischen Zustand.
+110.6d Nur bleibende Karten können einen Status haben. Karten, die nicht im Spiel sind, haben keinen. Obwohl eine Karte im Exil verdeckt sein kann, hat dies keine Verbindung zu dem verdeckten Status einer bleibenden Karte. In gleicher Weise sind Karten, die sich nicht im Spiel befinden, weder getappt noch ungetappt, unabhängig von ihrem physischen Zustand.
 
 111. Zaubersprüche
 
