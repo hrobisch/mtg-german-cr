@@ -229,7 +229,7 @@ Beispiel: Eine Karte lautet: „Jeder Spieler opfert eine Kreatur.“ Zuerst bes
 
 106.4. Wenn ein Effekt Mana produziert, dann geht dieses Mana in den \Manavorrat\ eines Spielers. Von dort kann es verwendet werden, um sofort Kosten zu bezahlen, oder es kann in dem Manavorrat des Spielers verbleiben. Der Manavorrat jedes Spielers wird am Ende jedes Segments und jeder Phase geleert.
 
-106.4a Falls ein Spieler Vorrang abgibt (siehe Regel 116), während sich noch Mana in seinem Manavorrat befindet, sagt dieser Spieler an, welches Mana noch dort ist. Falls Mana im Manavorrat eines Spielers übrig bleibt, nachdem er Mana ausgegeben hat, um Kosten zu bezahlen, sagt dieser Spieler an, welches Mana noch dort ist.
+106.4a Falls ein Spieler Priorität abgibt (siehe Regel 116), während sich noch Mana in seinem Manavorrat befindet, sagt dieser Spieler an, welches Mana noch dort ist. Falls Mana im Manavorrat eines Spielers übrig bleibt, nachdem er Mana ausgegeben hat, um Kosten zu bezahlen, sagt dieser Spieler an, welches Mana noch dort ist.
 
 106.5. Wenn eine Fähigkeit ein oder mehrere Mana eines undefinierten Typs produzieren würde, produziert sie stattdessen kein Mana.
 
@@ -341,11 +341,11 @@ Beispiel: {W/P}{W/P} kann durch Ausgeben von {W}{W}, durch Ausgeben von {W} und 
 
 108.2a Im Text von Zaubersprüchen oder Fähigkeiten bezieht sich der Begriff „Karte“ nur auf eine Karte, die sich nicht im Spiel oder auf dem Stapel befindet, wie beispielsweise eine Kreaturenkarte auf der Hand eines Spielers. Für weitere Information siehe Abschnitt 4, „Zonen.“
 
-108.3. Der \Besitzer\ einer Karte im Spiel ist der Spieler, der mit ihr in seinem Deck die Partie begonnen hat. Wenn eine Karte von außerhalb des Spiels ins Spiel gebracht wird statt zu Beginn im Deck eines Spielers gewesen zu sein, ist der Besitzer der Karte der Spieler, der sie ins Spiel gebracht hat. Wenn eine Karte das Spielbeginn in der Kommandozone beginnt, ist ihr Besitzer der Spieler, der sie in die Kommandozone gebracht hat, um das Spiel zu beginnen. Außer für die Regeln zum Spielen mit Einsatz ist das Eigentumsrecht über eine Karte für die Spielregeln ohne Bedeutung. (Siehe Regel 407.)
+108.3. Der \Besitzer\ einer Karte in der Partie ist der Spieler, der mit ihr in seinem Deck die Partie begonnen hat. Wenn eine Karte von außerhalb des Spiels in die Partie geholt wird, statt zu Beginn im Deck eines Spielers gewesen zu sein, ist der Besitzer der Karte jener Spieler, der sie in die Partie geholt hat. Wenn eine Karte die Partie in der Kommandozone beginnt, ist ihr Besitzer der Spieler, der sie in die Kommandozone gelegt hat, um die Partie zu beginnen. Außer für die Regeln zum Spielen mit Einsatz ist das Eigentumsrecht über eine Karte für die Spielregeln ohne Bedeutung. (Siehe Regel 407.)
 
 108.3a In einer Partie Planechase mit der Option Gemeinsames Weltendeck gilt der Weltenbeherrscher als Besitzer aller Karten im Weltendeck. Siehe Regel 901.6.
 
-108.3b Manche Zaubersprüche oder Fähigkeiten erlauben einem Spieler, Karten, die er besitzt, von außerhalb des Spiels in die Partie zu holen. (Siehe Regel 400.10b.) Falls eine Karte außerhalb dieser Partie in einer Partie #Magic# verwendet wird, wird ihr Besitzer gemäß Regel 108.3 ermittelt. Falls sich eine Karte außerhalb dieser Partie in einem Sideboard einer Partie #Magic# befindet (siehe Regel 100.4), gilt der Spieler als ihr Besitzer, der das Spiel mit dieser Karte im Sideboard begonnen hat. In allen anderen Fällen ist der rechtmäßige Eigentümer ihr Besitzer.
+108.3b Manche Zaubersprüche oder Fähigkeiten erlauben einem Spieler, Karten, die er besitzt, von außerhalb des Spiels in die Partie zu holen. (Siehe Regel 400.10b.) Falls eine Karte außerhalb dieser Partie in einer Partie #Magic# verwendet wird, wird ihr Besitzer gemäß Regel 108.3 ermittelt. Falls sich eine Karte außerhalb dieser Partie in einem Sideboard einer Partie #Magic# befindet (siehe Regel 100.4), gilt der Spieler als ihr Besitzer, der die Partie mit dieser Karte im Sideboard begonnen hat. In allen anderen Fällen ist der rechtmäßige Eigentümer ihr Besitzer.
 
 108.4. Eine Karte hat keinen Beherrscher, außer sie repräsentiert eine bleibende Karte oder einen Zauberspruch; in diesen Fällen wird ihr Beherrscher durch die Regeln zu bleibenden Karten oder Zaubersprüchen bestimmt. Siehe Regeln 110.2 und 111.2.
 
@@ -433,232 +433,92 @@ Beispiel: Der Dimir-Doppelgänger besagt: „{1}{U}{B}: Schicke eine Kreaturenka
 
 111. Zaubersprüche
 
-111.1. Ein \Zauberspruch\ ist eine Karte auf dem Stapel. Als erster Schritt, um 
-\gewirkt\ zu werden (siehe Regel 601, „Zaubersprüche wirken“), wird die Karte zu 
-einem Zauberspruch und geht von der Zone, in der sie war
-(normalerweise der Hand des Besitzers), auf den Stapel. (Siehe Regel 405, 
-„Stapel“.) Ein Zauberspruch bleibt als Zauberspruch auf dem Stapel, bis er 
-\verrechnet\ wird (siehe Regel 608, „Zaubersprüche und Fähigkeiten verrechnen“), 
-neutralisiert wird (siehe Regel 701.5) oder auf andere Weise den Stapel 
-verlässt. Siehe Abschnitt 6, „Zaubersprüche, Fähigkeiten und Effekte“ für 
-weitere Informationen.
+111.1. Ein \Zauberspruch\ ist eine Karte auf dem Stapel. Als erster Schritt, um \gewirkt\ zu werden (siehe Regel 601, „Zaubersprüche wirken“), wird die Karte zu einem Zauberspruch und geht von der Zone, in der sie war (normalerweise der Hand des Besitzers), auf den Stapel. (Siehe Regel 405, „Stapel“.) Ein Zauberspruch bleibt als Zauberspruch auf dem Stapel, bis er \verrechnet\ wird (siehe Regel 608, „Zaubersprüche und Fähigkeiten verrechnen“), neutralisiert wird (siehe Regel 701.5) oder auf andere Weise den Stapel verlässt. Siehe Abschnitt 6, „Zaubersprüche, Fähigkeiten und Effekte“ für weitere Informationen.
 
-111.1a Eine \Kopie\ eines Zauberspruchs ist ebenfalls ein Zauberspruch, selbst 
-wenn keine Karte mit ihr verknüpft ist. Siehe Regel 706.10.
+111.1a Eine \Kopie\ eines Zauberspruchs ist ebenfalls ein Zauberspruch, selbst wenn keine Karte mit ihr verknüpft ist. Siehe Regel 706.10.
 
-111.1b Manche Effekte erlauben einem Spieler, die Kopie einer Karte zu wirken; 
-falls der Spieler dies tut, ist die Kopie ebenfalls ein Zauberspruch. Siehe 
-Regel 706.12.
+111.1b Manche Effekte erlauben einem Spieler, die Kopie einer Karte zu wirken; falls der Spieler dies tut, ist die Kopie ebenfalls ein Zauberspruch. Siehe Regel 706.12.
 
-111.2. Der Besitzer eines Zauberspruchs ist derselbe wie der Besitzer der Karte, 
-die ihn repräsentiert, außer es handelt sich um eine Kopie. In diesem Fall ist 
-der Besitzer des Zauberspruchs der Spieler, unter dessen Kontrolle er auf den 
-Stapel gelegt wurde. Der Beherrscher eines Zauberspruchs ist standardmäßig der 
-Spieler, der ihn auf den Stapel gelegt hat. Jeder Zauberspruch hat einen 
-Beherrscher.
+111.2. Der Besitzer eines Zauberspruchs ist derselbe wie der Besitzer der Karte, die ihn repräsentiert, außer es handelt sich um eine Kopie. In diesem Fall ist der Besitzer des Zauberspruchs der Spieler, unter dessen Kontrolle er auf den Stapel gelegt wurde. Der Beherrscher eines Zauberspruchs ist standardmäßig der Spieler, der ihn auf den Stapel gelegt hat. Jeder Zauberspruch hat einen Beherrscher.
 
-111.3. Die Eigenschaften eines Zauberspruchs, der keine Kopie ist, sind die 
-gleichen wie auf seiner Karte aufgedruckt sind, sowie sie durch andere dauerhafte 
-Effekte verändert werden. Siehe Regel 613, „Interaktion dauerhafter Effekte“.
+111.3. Die Eigenschaften eines Zauberspruchs, der keine Kopie ist, sind die gleichen wie auf seiner Karte aufgedruckt sind, sowie sie durch andere dauerhafte Effekte verändert werden. Siehe Regel 613, „Interaktion dauerhafter Effekte“.
 
-111.4. Wenn ein Effekt Eigenschaften eines Bleibende-Karte-Zauberspruchs 
-verändert, wirkt der Effekt weiterhin auf die bleibende Karte, wenn der 
-Zauberspruch verrechnet wird. Siehe Regel 400.7.
+111.4. Wenn ein Effekt Eigenschaften eines Bleibende-Karte-Zauberspruchs verändert, wirkt der Effekt weiterhin auf die bleibende Karte, wenn der Zauberspruch verrechnet wird. Siehe Regel 400.7.
 
-Beispiel: Wenn ein Effekt einen schwarzen Zauberspruch in weiß ändert, ist 
-die Kreatur weiß, wenn sie ins Spiel kommt, und bleibt es für die Dauer des 
-Effekts, der ihre Farbe ändert.
+Beispiel: Wenn ein Effekt einen schwarzen Zauberspruch in weiß ändert, ist die Kreatur weiß, wenn sie ins Spiel kommt, und bleibt es für die Dauer des Effekts, der ihre Farbe ändert.
 
 112. Fähigkeiten
 
 112.1. Eine \Fähigkeit\ kann eines von zwei Dingen sein:
 
-112.1a Eine Fähigkeit ist eine Eigenschaft, die ein Objekt hat, und die es das 
-Spiel beeinflussen lässt. Die Fähigkeiten eines Objekts sind durch seinen 
-Regeltext definiert oder durch den Effekt, der es erschaffen hat. Fähigkeiten 
-können Objekten auch durch Regeln oder Effekte verliehen werden. (Effekte, die 
-so etwas tun, benutzen die Wörter „hat“, „haben“, „erhält“ oder „erhalten“.) 
-Fähigkeiten erzeugen Effekte. (Siehe Regel 609, „Effekte“.)
+112.1a Eine Fähigkeit ist eine Eigenschaft, die ein Objekt hat, und die es das Spiel beeinflussen lässt. Die Fähigkeiten eines Objekts sind durch seinen Regeltext definiert oder durch den Effekt, der es erschaffen hat. Fähigkeiten können Objekten auch durch Regeln oder Effekte verliehen werden. (Effekte, die so etwas tun, benutzen die Wörter „hat“, „haben“, „erhält“ oder „erhalten“.) Fähigkeiten erzeugen Effekte. (Siehe Regel 609, „Effekte“.)
 
-112.1b Eine Fähigkeit kann eine aktivierte oder ausgelöste Fähigkeit auf dem 
-Stapel sein. Diese Art von Fähigkeit ist ein Objekt. Siehe Abschnitt 6, 
-„Zaubersprüche, Fähigkeiten und Effekte“.
+112.1b Eine Fähigkeit kann eine aktivierte oder ausgelöste Fähigkeit auf dem Stapel sein. Diese Art von Fähigkeit ist ein Objekt. Siehe Abschnitt 6, „Zaubersprüche, Fähigkeiten und Effekte“.
 
-112.2. Fähigkeiten können die Objekte beeinflussen, auf denen sie sind. Sie 
-können auch andere Objekte und/oder Spieler beeinflussen.
+112.2. Fähigkeiten können die Objekte beeinflussen, auf denen sie sind. Sie können auch andere Objekte und/oder Spieler beeinflussen.
 
 112.2a Fähigkeiten können nützlich oder nachteilig sein.
 
 Beispiel: „[Diese Kreatur] kann nicht blocken.“ ist eine Fähigkeit.
 
-112.2b Zusätzliche Kosten oder alternative Kosten zum Wirken einer Karte sind 
-eine Fähigkeit der Karte.
+112.2b Zusätzliche Kosten oder alternative Kosten zum Wirken einer Karte sind eine Fähigkeit der Karte.
 
-112.2c Ein Objekt kann mehrere Fähigkeiten haben. Falls das Objekt durch 
-eine Karte repräsentiert wird, dann markiert – neben bestimmten definierten 
-Fähigkeiten, die in einer Zeile aneinandergereiht sein können (siehe Regel 702, 
-„Schlüsselwortfähigkeiten“) – jeder Absatzumbruch im Text einer Karte eine 
-einzelne Fähigkeit. Falls das Objekt nicht durch eine Karte repräsentiert wird, 
-kann der Effekt, der es erzeugt hat, ihm mehrere Fähigkeiten gegeben haben. Ein 
-Objekt kann auch zusätzliche Fähigkeiten durch einen Zauberspruch oder eine 
-Fähigkeit verliehen bekommen haben. Falls ein Objekt mehrere Instanzen 
-derselben Fähigkeit besitzt, funktioniert jede Instanz unabhängig. Diese kann 
-oder kann auch nicht mehr Effekte hervorrufen als eine einzelne Instanz; 
-beziehe dich für mehr Informationen auf die spezifische Fähigkeit.
+112.2c Ein Objekt kann mehrere Fähigkeiten haben. Falls das Objekt durch eine Karte repräsentiert wird, dann markiert – neben bestimmten definierten Fähigkeiten, die in einer Zeile aneinandergereiht sein können (siehe Regel 702, „Schlüsselwortfähigkeiten“) – jeder Absatzumbruch im Text einer Karte eine einzelne Fähigkeit. Falls das Objekt nicht durch eine Karte repräsentiert wird, kann der Effekt, der es erzeugt hat, ihm mehrere Fähigkeiten gegeben haben. Ein Objekt kann auch zusätzliche Fähigkeiten durch einen Zauberspruch oder eine Fähigkeit verliehen bekommen haben. Falls ein Objekt mehrere Instanzen derselben Fähigkeit besitzt, funktioniert jede Instanz unabhängig. Diese kann oder kann auch nicht mehr Effekte hervorrufen als eine einzelne Instanz; beziehe dich für mehr Informationen auf die spezifische Fähigkeit.
 
-112.2d Fähigkeiten können einmalige Effekte oder dauerhafte Effekte generieren. 
-Manche dauerhaften Effekte sind Ersatz- oder Verhinderungseffekte. Siehe 
-Regel 609, „Effekte“.
+112.2d Fähigkeiten können einmalige Effekte oder dauerhafte Effekte generieren. Manche dauerhaften Effekte sind Ersatz- oder Verhinderungseffekte. Siehe Regel 609, „Effekte“.
 
 112.3. Es gibt vier allgemeine Kategorien von Fähigkeiten:
 
-112.3a \Zauberspruchfähigkeiten\ sind Fähigkeiten, die als Anweisungen befolgt 
-werden, wenn ein Spontanzauber oder eine Hexerei verrechnet wird. Jeglicher 
-Text auf einem Spontanzauber oder einer Hexerei ist eine Zauberspruchfähigkeit, 
-sofern es keine aktivierte, ausgelöste oder statische Fähigkeit ist, die den in 
-Regel 112.6. beschriebenen Kriterien entspricht.
+112.3a \Zauberspruchfähigkeiten\ sind Fähigkeiten, die als Anweisungen befolgt werden, wenn ein Spontanzauber oder eine Hexerei verrechnet wird. Jeglicher Text auf einem Spontanzauber oder einer Hexerei ist eine Zauberspruchfähigkeit, sofern es keine aktivierte, ausgelöste oder statische Fähigkeit ist, die den in Regel 112.6. beschriebenen Kriterien entspricht.
 
-112.3b \Aktivierte Fähigkeiten\ haben Kosten und einen Effekt. Sie werden 
-geschrieben als „[Kosten]: [Effekt.] [Aktivierungsanweisungen (falls 
-vorhanden).]“. Ein Spieler kann eine solche Fähigkeit jederzeit aktivieren, wenn 
-er Vorrang hat. Falls er dies tut, geht sie auf den Stapel, wo sie bleibt, 
-bis sie neutralisiert wird, verrechnet wird oder anderweitig den Stapel 
-verlässt. Siehe Regel 602, „Aktivierte Fähigkeiten aktivieren.“
+112.3b \Aktivierte Fähigkeiten\ haben Kosten und einen Effekt. Sie werden geschrieben als „[Kosten]: [Effekt.] [Aktivierungsanweisungen (falls vorhanden).]“. Ein Spieler kann eine solche Fähigkeit jederzeit aktivieren, wenn er Priorität hat. Falls er dies tut, geht sie auf den Stapel, wo sie bleibt, bis sie neutralisiert wird, verrechnet wird oder anderweitig den Stapel verlässt. Siehe Regel 602, „Aktivierte Fähigkeiten aktivieren.“
 
-112.3c \Ausgelöste Fähigkeiten\ haben eine Auslösebedingung und einen Effekt. Sie 
-werden geschrieben als „[Auslösebedingung], [Effekt]“ und beginnen mit den 
-Worten „wenn“, „immer wenn“, oder „zu“. Immer wenn das 
-Auslöseereignis eintritt, geht die Fähigkeit auf den Stapel, sobald das nächste 
-Mal ein Spieler Vorrang erhalten würde, und bleibt dort, bis sie 
-neutralisiert wird, verrechnet wird oder auf andere Weise den Stapel verlässt. 
-Siehe Regel 603, „Handhabung ausgelöster Fähigkeiten“.
+112.3c \Ausgelöste Fähigkeiten\ haben eine Auslösebedingung und einen Effekt. Sie werden geschrieben als „[Auslösebedingung], [Effekt]“ und beginnen mit den Worten „wenn“, „immer wenn“, oder „zu“. Immer wenn das Auslöseereignis eintritt, geht die Fähigkeit auf den Stapel, sobald das nächste Mal ein Spieler Priorität erhalten würde, und bleibt dort, bis sie neutralisiert wird, verrechnet wird oder auf andere Weise den Stapel verlässt. Siehe Regel 603, „Handhabung ausgelöster Fähigkeiten“.
 
-112.3d \Statische Fähigkeiten\ sind als Aussagen geschrieben. Sie gelten 
-einfach. Statische Fähigkeiten erzeugen dauerhafte Effekte, die aktiv sind, 
-solange die bleibende Karte mit der Fähigkeit im Spiel verbleibt und die 
-Fähigkeit hat, oder solange das Objekt mit der Fähigkeit in der entsprechenden 
-Zone verbleibt. Siehe Regel 604, „Handhabung statischer Fähigkeiten“.
+112.3d \Statische Fähigkeiten\ sind als Aussagen geschrieben. Sie gelten einfach. Statische Fähigkeiten erzeugen dauerhafte Effekte, die aktiv sind, solange die bleibende Karte mit der Fähigkeit im Spiel verbleibt und die Fähigkeit hat, oder solange das Objekt mit der Fähigkeit in der entsprechenden Zone verbleibt. Siehe Regel 604, „Handhabung statischer Fähigkeiten“.
 
-112.4. Manche aktivierte Fähigkeiten und manche ausgelöste Fähigkeiten sind 
-\Manafähigkeiten\. Manafähigkeiten folgen speziellen Regeln: Sie benutzen nicht 
-den Stapel, und ein Spieler kann unter bestimmten Bedingungen Manafähigkeiten 
-aktivieren, auch wenn er keinen Vorrang hat. Siehe Regel 605, 
-„Manafähigkeiten.“
+112.4. Manche aktivierte Fähigkeiten und manche ausgelöste Fähigkeiten sind \Manafähigkeiten\. Manafähigkeiten folgen speziellen Regeln: Sie benutzen nicht den Stapel, und ein Spieler kann unter bestimmten Bedingungen Manafähigkeiten aktivieren, auch wenn er keine Priorität hat. Siehe Regel 605, „Manafähigkeiten.“
 
-112.5. Manche aktivierte Fähigkeiten sind \Loyalitätsfähigkeiten\. 
-Loyalitätsfähigkeiten folgen speziellen Regeln: Ein Spieler kann eine 
-Loyalitätsfähigkeit einer bleibenden Karte, die er kontrolliert, während einer 
-Hauptphase seines Zuges aktivieren, wenn er Vorrang hat und der Stapel leer 
-ist, jedoch nur, wenn kein Spieler eine der Loyalitätsfähigkeiten dieser 
-bleibenden Karte in diesem Zug zuvor aktiviert hat. Siehe Regel 606, 
-„Loyalitätsfähigkeiten.“
+112.5. Manche aktivierte Fähigkeiten sind \Loyalitätsfähigkeiten\. Loyalitätsfähigkeiten folgen speziellen Regeln: Ein Spieler kann eine Loyalitätsfähigkeit einer bleibenden Karte, die er kontrolliert, während einer Hauptphase seines Zuges aktivieren, wenn er Priorität hat und der Stapel leer ist, jedoch nur, wenn kein Spieler eine der Loyalitätsfähigkeiten dieser bleibenden Karte in diesem Zug zuvor aktiviert hat. Siehe Regel 606, „Loyalitätsfähigkeiten.“
 
-112.6. Fähigkeiten eines Spontanzaubers oder einer Hexerei funktionieren 
-normalerweise nur, solange das Objekt auf dem Stapel ist. Fähigkeiten von allen 
-anderen Objekten funktionieren, solange dieses Objekt im Spiel ist. Die 
-Ausnahmen sind wie folgt:
+112.6. Fähigkeiten eines Spontanzaubers oder einer Hexerei funktionieren normalerweise nur, solange das Objekt auf dem Stapel ist. Fähigkeiten von allen anderen Objekten funktionieren, solange dieses Objekt im Spiel ist. Die Ausnahmen sind wie folgt:
 
-112.6a Eigenschafts-definierende Fähigkeiten funktionieren überall, selbst außerhalb 
-des Spiels. (Siehe Regel 604.3.)
+112.6a Eigenschafts-definierende Fähigkeiten funktionieren überall, selbst außerhalb des Spiels. (Siehe Regel 604.3.)
 
-112.6b Eine Fähigkeit, die angibt, in welchen Zonen sie funktioniert, funktioniert 
-nur aus diesen Zonen heraus.
+112.6b Eine Fähigkeit, die angibt, in welchen Zonen sie funktioniert, funktioniert nur aus diesen Zonen heraus.
 
-112.6c Eine Fähigkeit eines Objekts, die einem Spieler erlaubt, alternative 
-Kosten statt seiner Manakosten zu bezahlen, funktioniert in jeder Zone, in der 
-seine Manakosten bezahlt werden können (was im Allgemeinen bedeutet, dass sie 
-auf dem Stapel funktioniert). Eine Fähigkeit eines Objekts, die auf andere Weise 
-ändert, was es kostet, dieses bestimmte Objekt zu wirken, funktioniert auf dem 
-Stapel.
+112.6c Eine Fähigkeit eines Objekts, die einem Spieler erlaubt, alternative Kosten statt seiner Manakosten zu bezahlen, funktioniert in jeder Zone, in der seine Manakosten bezahlt werden können (was im Allgemeinen bedeutet, dass sie auf dem Stapel funktioniert). Eine Fähigkeit eines Objekts, die auf andere Weise ändert, was es kostet, dieses bestimmte Objekt zu wirken, funktioniert auf dem Stapel.
 
-112.6d Eine Fähigkeit eines Objekts, die einschränkt oder ändert, wie dieses 
-bestimmte Objekt gespielt oder gewirkt werden kann, funktioniert in jeder Zone, 
-von der es gespielt oder gewirkt werden könnte.
+112.6d Eine Fähigkeit eines Objekts, die einschränkt oder ändert, wie dieses bestimmte Objekt gespielt oder gewirkt werden kann, funktioniert in jeder Zone, aus der es gespielt oder gewirkt werden könnte.
 
-112.6e Eine Fähigkeit eines Objekts, die einschränkt oder ändert, von welchen 
-Zonen aus dieses bestimmte Objekt gespielt oder gewirkt werden kann, funktioniert 
-überall, sogar außerhalb des Spiels.
+112.6e Eine Fähigkeit eines Objekts, die einschränkt oder ändert, von welchen Zonen aus dieses bestimmte Objekt gespielt oder gewirkt werden kann, funktioniert überall, sogar außerhalb des Spiels.
 
-112.6f Eine Fähigkeit eines Objekts, die angibt, dass es nicht neutralisiert 
-werden kann oder dass es nicht von Zaubersprüchen und Fähigkeiten neutralisiert 
-werden kann, funktioniert auf dem Stapel.
+112.6f Eine Fähigkeit eines Objekts, die angibt, dass es nicht neutralisiert werden kann oder dass es nicht von Zaubersprüchen und Fähigkeiten neutralisiert werden kann, funktioniert auf dem Stapel.
 
-112.6g Eine Fähigkeit eines Objekts, die modifiziert, wie dieses bestimmte 
-Objekt ins Spiel kommt, funktioniert, sowie das Objekt ins Spiel kommt. Siehe 
-Regel 614.12.
+112.6g Eine Fähigkeit eines Objekts, die modifiziert, wie dieses bestimmte Objekt ins Spiel kommt, funktioniert, sowie das Objekt ins Spiel kommt. Siehe Regel 614.12.
 
-112.6h Eine Fähigkeit eines Objekts, die besagt, dass keine Marken auf dieses 
-Objekt gelegt werden können, funktioniert nicht nur, solange sich dieses Objekt 
-im Spiel befindet, sondern auch sowie dieses Objekt ins Spiel kommt.
+112.6h Eine Fähigkeit eines Objekts, die besagt, dass keine Marken auf dieses Objekt gelegt werden können, funktioniert nicht nur, solange sich dieses Objekt im Spiel befindet, sondern auch sowie dieses Objekt ins Spiel kommt.
 
-112.6i Eine aktivierte Fähigkeit eines Objekts, die Kosten aufweist, welche 
-nicht bezahlt werden können, solange das Objekt im Spiel ist, funktioniert in 
-jeder Zone, in der ihre Kosten bezahlt werden können.
+112.6i Eine aktivierte Fähigkeit eines Objekts, die Kosten aufweist, welche nicht bezahlt werden können, solange das Objekt im Spiel ist, funktioniert in jeder Zone, in der ihre Kosten bezahlt werden können.
 
-112.6j Eine Auslösebedingung, die nicht im Spiel ausgelöst werden 
-kann, funktioniert in jeder Zone, in der sie ausgelöst werden kann. Andere 
-Auslösebedingungen derselben ausgelösten Fähigkeit können in anderen Zonen 
-funktionieren.
+112.6j Eine Auslösebedingung, die nicht im Spiel ausgelöst werden kann, funktioniert in jeder Zone, in der sie ausgelöst werden kann. Andere Auslösebedingungen derselben ausgelösten Fähigkeit können in anderen Zonen funktionieren.
 
-Beispiel: Der Absolutions-Thrull besitzt die Fähigkeit: „Wenn der 
-Absolutions-Thrull ins Spiel kommt oder die Kreatur, bei der er spukt, in 
-den Friedhof gelegt wird, zerstöre eine Verzauberung deiner Wahl.“ Die erste 
-Auslösebedingung wirkt aus dem Spiel, und die zweite 
-Auslösebedingung wirkt aus dem Exil. (Siehe Regel 702.53, „Spuk.“)
+Beispiel: Der Absolutions-Thrull besitzt die Fähigkeit: „Wenn der Absolutions-Thrull ins Spiel kommt oder die Kreatur, bei der er spukt, in den Friedhof gelegt wird, zerstöre eine Verzauberung deiner Wahl.“ Die erste Auslösebedingung wirkt aus dem Spiel, und die zweite Auslösebedingung wirkt aus dem Exil. (Siehe Regel 702.53, „Spuk.“)
 
-112.6k Eine Fähigkeit, deren Kosten oder Effekt angeben, dass sie das Objekt, 
-auf dem sie ist, aus einer bestimmten Zone bewegen, funktioniert nur in dieser Zone, 
-es sei denn die Auslösebedingung der Fähigkeit oder ein voriger Teil der Kosten 
-oder des Effekts der Fähigkeit gibt an, dass das Objekt in diese Zone gelegt 
-wird.
+112.6k Eine Fähigkeit, deren Kosten oder Effekt angeben, dass sie das Objekt, auf dem sie ist, aus einer bestimmten Zone bewegen, funktioniert nur in dieser Zone, es sei denn die Auslösebedingung der Fähigkeit oder ein voriger Teil der Kosten oder des Effekts der Fähigkeit gibt an, dass das Objekt in diese Zone gelegt wird.
 
-Beispiel: Das Wieder aufstehende Skelett besagt: „{1}{B}: Bringe das Wieder 
-aufstehende Skelett aus deinem Friedhof getappt ins Spiel zurück.“ Ein 
-Spieler kann diese Fähigkeit nur aktivieren, wenn das Wieder aufstehende 
-Skelett in dessen Friedhof ist.
+Beispiel: Das Wieder aufstehende Skelett besagt: „{1}{B}: Bringe das Wieder aufstehende Skelett aus deinem Friedhof getappt ins Spiel zurück.“ Ein Spieler kann diese Fähigkeit nur aktivieren, wenn das Wieder aufstehende Skelett in dessen Friedhof ist.
 
-112.6m Eine Fähigkeit, die die Regeln für den Deckbau verändert, funktioniert bevor 
-das Spiel beginnt. Eine solche Fähigkeit verändert nicht nur die Erweiterten 
-Regeln, sondern auch die #Magic: The Gathering# Turnierregeln sowie andere 
-Dokumente, die Regeln für den Deckbau in einem bestimmten Constructed-Format 
-festlegen. Allerdings kann eine solche Fähigkeit nicht die Legalität einer 
-Karte in einem bestimmten Format beeinflussen, einschließlich der Frage, ob die 
-Karte in diesem Format gebannt oder turniereingeschränkt ist. Die 
-aktuellen #Magic: The Gathering# Turnierregeln sind unter 
+112.6m Eine Fähigkeit, die die Regeln für den Deckbau verändert, funktioniert bevor die Partie beginnt. Eine solche Fähigkeit verändert nicht nur die Erweiterten Regeln, sondern auch die #Magic: The Gathering# Turnierregeln sowie andere Dokumente, die Regeln für den Deckbau in einem bestimmten Constructed-Format festlegen. Allerdings kann eine solche Fähigkeit nicht die Legalität einer Karte in einem bestimmten Format beeinflussen, einschließlich der Frage, ob die Karte in diesem Format gebannt oder turniereingeschränkt ist. Die aktuellen #Magic: The Gathering# Turnierregeln sind unter 
 _#www.wizards.com/Magic/TCG/Events.aspx?x=dci/doccenter/home#_ zu finden.
 
-112.6n Fähigkeiten von Emblemen, Weltenkarten, Vanguard-Karten und Komplott-
-Karten funktionieren in der Kommandozone. Siehe Regel 113, „Embleme“; 
-Regel 901, „Planechase“; Regel 902, „Vanguard“; und Regel 904, „Archenemy.“
+112.6n Fähigkeiten von Emblemen, Weltenkarten, Vanguard-Karten und Komplott-Karten funktionieren in der Kommandozone. Siehe Regel 113, „Embleme“; Regel 901, „Planechase“; Regel 902, „Vanguard“; und Regel 904, „Archenemy.“
 
-112.7. Die \Quelle\ einer Fähigkeit ist das Objekt, das diese Fähigkeit erzeugt 
-hat. Die Quelle einer aktivierten Fähigkeit auf dem Stapel ist das Objekt, 
-dessen Fähigkeit aktiviert wurde. Die Quelle einer ausgelösten Fähigkeit (außer
-einer verzögerten ausgelösten Fähigkeit) auf dem Stapel oder einer, die 
-ausgelöst wurde und darauf wartet, auf den Stapel gelegt zu werden, ist das 
-Objekt, dessen Fähigkeit ausgelöst wurde. Um den Beherrscher einer verzögerten
-ausgelösten Fähigkeit zu ermitteln, siehe Regel 603.7d–f.
+112.7. Die \Quelle\ einer Fähigkeit ist das Objekt, das diese Fähigkeit erzeugt hat. Die Quelle einer aktivierten Fähigkeit auf dem Stapel ist das Objekt, dessen Fähigkeit aktiviert wurde. Die Quelle einer ausgelösten Fähigkeit (außer einer verzögerten ausgelösten Fähigkeit) auf dem Stapel oder einer, die ausgelöst wurde und darauf wartet, auf den Stapel gelegt zu werden, ist das Objekt, dessen Fähigkeit ausgelöst wurde. Um den Beherrscher einer verzögerten ausgelösten Fähigkeit zu ermitteln, siehe Regel 603.7d–f.
 
-112.7a Sobald sie aktiviert oder ausgelöst wurde, existiert eine Fähigkeit auf 
-dem Stapel unabhängig von ihrer Quelle. Das Zerstören oder Entfernen der Quelle 
-nach diesem Zeitpunkt hat keinen Einfluss auf die Fähigkeit. Beachte, dass 
-einige Fähigkeiten bewirken, dass eine Quelle etwas tut (zum Beispiel „Der 
-Verschwenderische Feuerkundler fügt einer Kreatur oder einem Spieler deiner 
-Wahl 1 Schadenspunkt zu.“) anstatt dass die Fähigkeit etwas direkt tut. In
-diesen Fällen wird jede aktivierte oder ausgelöste Fähigkeit, die deshalb 
-Informationen über ihre Quelle benötigt, weil ihr Effekt aufgeteilt werden muss, diese
-Informationen einholen, wenn sie auf den Stapel gelegt wird. Anderenfalls werden die
-Informationen eingeholt wenn sie verrechnet wird. In beiden Fällen werden, sofern
-sich die Quelle zu diesem Zeitpunkt nicht mehr in der erwarteten Zone befindet,
-ihre zuletzt bekannten Informationen benutzt. Die Quelle kann die Aktion immer noch 
-durchführen, auch wenn sie nicht mehr existiert.
+112.7a Sobald sie aktiviert oder ausgelöst wurde, existiert eine Fähigkeit auf dem Stapel unabhängig von ihrer Quelle. Das Zerstören oder Entfernen der Quelle nach diesem Zeitpunkt hat keinen Einfluss auf die Fähigkeit. Beachte, dass einige Fähigkeiten bewirken, dass eine Quelle etwas tut (zum Beispiel „Der Verschwenderische Feuerkundler fügt einer Kreatur oder einem Spieler deiner Wahl 1 Schadenspunkt zu.“) anstatt dass die Fähigkeit etwas direkt tut. In diesen Fällen wird jede aktivierte oder ausgelöste Fähigkeit, die deshalb Informationen über ihre Quelle benötigt, weil ihr Effekt aufgeteilt werden muss, diese Informationen einholen, wenn sie auf den Stapel gelegt wird. Anderenfalls werden die Informationen eingeholt wenn sie verrechnet wird. In beiden Fällen werden, sofern sich die Quelle zu diesem Zeitpunkt nicht mehr in der erwarteten Zone befindet, ihre zuletzt bekannten Informationen benutzt. Die Quelle kann die Aktion immer noch durchführen, auch wenn sie nicht mehr existiert.
 
-112.8. Der Beherrscher einer aktivierten Fähigkeit auf dem Stapel ist der 
-Spieler, der die Fähigkeit aktiviert hat. Der Beherrscher einer ausgelösten 
-Fähigkeit auf dem Stapel (außer einer verzögerten ausgelösten Fähigkeit) ist der 
-Spieler, der die Quelle der Fähigkeit kontrollierte, als sie ausgelöst wurde, 
-oder, falls sie keinen Beherrscher hatte, der Spieler, der die Quelle der 
-Fähigkeit besessen hat, als sie ausgelöst wurde. Um den Beherrscher einer 
+112.8. Der Beherrscher einer aktivierten Fähigkeit auf dem Stapel ist der Spieler, der die Fähigkeit aktiviert hat. Der Beherrscher einer ausgelösten Fähigkeit auf dem Stapel (außer einer verzögerten ausgelösten Fähigkeit) ist der Spieler, der die Quelle der Fähigkeit kontrollierte, als sie ausgelöst wurde, oder, falls sie keinen Beherrscher hatte, der Spieler, der die Quelle der Fähigkeit besessen hat, als sie ausgelöst wurde. Um den Beherrscher einer 
 verzögerten ausgelösten Fähigkeit zu ermitteln, siehe Regel 603.7d–f.
 
 112.9. Aktivierte und ausgelöste Fähigkeiten auf dem Stapel sind keine 
