@@ -1093,560 +1093,235 @@ Beispiel: Jarkelds vergessener Orden besitzt Stärke und Widerstandskraft gleich
 
 300. Allgemeines
 
-300.1. Die Kartentypen sind Artefakt, Hexerei, Komplott, Kreatur, Land, 
-Phänomen, Planeswalker, Spontanzauber, Stammeskarte, Vanguard, Verzauberung und 
-Welt.
+300.1. Die Kartentypen sind Artefakt, Hexerei, Komplott, Kreatur, Land, Phänomen, Planeswalker, Spontanzauber, Stammeskarte, Vanguard, Verzauberung und Welt.
 
-300.2. Einige Objekte besitzen mehr als einen Kartentyp (zum Beispiel eine 
-Artefaktkreatur). Solche Objekte vereinen die Aspekte jedes dieser Kartentypen 
-und unterliegen Zaubersprüchen und Fähigkeiten, die irgendeinen dieser 
-Kartentypen oder alle davon betreffen.
+300.2. Einige Objekte besitzen mehr als einen Kartentyp (zum Beispiel eine Artefaktkreatur). Solche Objekte vereinen die Aspekte jedes dieser Kartentypen und unterliegen Zaubersprüchen und Fähigkeiten, die irgendeinen dieser Kartentypen oder alle davon betreffen.
 
-300.2a Ein Objekt, das sowohl ein Land ist als auch ein anderer Kartentyp (zum 
-Beispiel ein „Land, Artefakt“), kann nur als Land gespielt werden. Es kann nicht 
-als Zauberspruch gewirkt werden.
+300.2a Ein Objekt, das sowohl ein Land ist als auch ein anderer Kartentyp (zum Beispiel ein „Land, Artefakt“), kann nur als Land gespielt werden. Es kann nicht als Zauberspruch gewirkt werden.
 
-300.2b Jede Stammeskarte hat einen weiteren Kartentyp. Das Wirken und 
-Verrechnen von Stammeskarten folgt den Regeln für das Wirken und Verrechnen 
-einer Karte des anderen Kartentyps.
+300.2b Jede Stammeskarte hat einen weiteren Kartentyp. Das Wirken und Verrechnen von Stammeskarten folgt den Regeln für das Wirken und Verrechnen einer Karte des anderen Kartentyps.
 
 301. Artefakte
 
-301.1. Ein Spieler, der Priorität hat, kann eine Artefaktkarte während einer 
-Hauptphase seines Zuges von seiner Hand wirken, wenn der Stapel leer ist. Ein Artefakt als Zauberspruch zu wirken benutzt den Stapel. (Siehe Regel 601, 
-„Zaubersprüche wirken.“)
+301.1. Ein Spieler, der Priorität hat, kann eine Artefaktkarte während einer Hauptphase seines Zuges von seiner Hand wirken, wenn der Stapel leer ist. Ein Artefakt als Zauberspruch zu wirken benutzt den Stapel. (Siehe Regel 601, „Zaubersprüche wirken.“)
 
-301.2. Wenn ein Artefaktzauber verrechnet wird, bringt sein Beherrscher 
-das Artefakt unter seiner Kontrolle ins Spiel.
+301.2. Wenn ein Artefaktzauber verrechnet wird, bringt sein Beherrscher das Artefakt unter seiner Kontrolle ins Spiel.
 
-301.3. Artefakt-Untertypen sind immer einzelne Wörter und werden nach einem 
-Gedankenstrich aufgeführt: „Artefakt – Ausrüstung“. Artefakt-Untertypen werden auch \Artefakttypen\ genannt. Artefakte können mehrere Untertypen besitzen. Siehe Regel 205.3g für die vollständige Liste der Artefakttypen.
+301.3. Artefakt-Untertypen sind immer einzelne Wörter und werden nach einem Gedankenstrich aufgeführt: „Artefakt – Ausrüstung“. Artefakt-Untertypen werden auch \Artefakttypen\ genannt. Artefakte können mehrere Untertypen besitzen. Siehe Regel 205.3g für die vollständige Liste der Artefakttypen.
 
-301.4. Artefakte haben keine für ihren Kartentyp spezifischen Eigenschaften. 
-Die meisten Artefakte haben keine farbige Manasymbole in ihren Manakosten 
-und sind daher farblos. Jedoch besteht keine Beziehung dazwischen, farblos und 
-ein Artefakt zu sein; Artefakte können farbig sein und farblose Objekte können 
-andere Kartentypen als Artefakt haben.
+301.4. Artefakte haben keine für ihren Kartentyp spezifischen Eigenschaften. Die meisten Artefakte haben keine farbige Manasymbole in ihren Manakosten und sind daher farblos. Jedoch besteht keine Beziehung dazwischen, farblos und ein Artefakt zu sein; Artefakte können farbig sein und farblose Objekte können andere Kartentypen als Artefakt haben.
 
-301.5. Einige Artefakte haben den Untertyp „Ausrüstung“. Eine Ausrüstung kann 
-an eine Kreatur angelegt werden. Sie kann nicht legal an ein Objekt angelegt 
-werden, das keine Kreatur ist.
+301.5. Einige Artefakte haben den Untertyp „Ausrüstung“. Eine Ausrüstung kann an eine Kreatur angelegt werden. Sie kann nicht legal an ein Objekt angelegt werden, das keine Kreatur ist.
 
-301.5a Die Kreatur, an die eine Ausrüstung angelegt ist, wird „ausgerüstete 
-Kreatur“ genannt. Die Ausrüstung ist an diese Kreatur angelegt oder „rüstet sie 
-aus.“
+301.5a Die Kreatur, an die eine Ausrüstung angelegt ist, wird „ausgerüstete Kreatur“ genannt. Die Ausrüstung ist an diese Kreatur angelegt oder „rüstet sie aus.“
 
-301.5b Eine Ausrüstung wird wird wie jedes andere Artefakt gewirkt und kommt genauso ins Spiel. Eine Ausrüstung kommt nicht an eine Kreatur angelegt ins Spiel. Die 
-Ausrüsten-Schlüsselwortfähigkeit legt die Ausrüstung an eine Kreatur, die du 
-kontrollierst (siehe Regel 702.6, „Ausrüsten“). Die Kontrolle über die Kreatur 
-spielt nur eine Rolle, wenn die Ausrüsten-Fähigkeit gespielt und wenn sie 
-verrechnet wird. Auch Zaubersprüche und andere Fähigkeiten können eine 
-Ausrüstung an eine Kreatur anlegen. Falls ein Effekt versucht, eine Ausrüstung 
-an ein Objekt anzulegen, das nicht von dieser Ausrüstung ausgerüstet sein kann, 
-wird die Ausrüstung nicht bewegt.
+301.5b Eine Ausrüstung wird wird wie jedes andere Artefakt gewirkt und kommt genauso ins Spiel. Eine Ausrüstung kommt nicht an eine Kreatur angelegt ins Spiel. Die Ausrüsten-Schlüsselwortfähigkeit legt die Ausrüstung an eine Kreatur, die du kontrollierst (siehe Regel 702.6, „Ausrüsten“). Die Kontrolle über die Kreatur spielt nur eine Rolle, wenn die Ausrüsten-Fähigkeit gespielt und wenn sie verrechnet wird. Auch Zaubersprüche und andere Fähigkeiten können eine Ausrüstung an eine Kreatur anlegen. Falls ein Effekt versucht, eine Ausrüstung an ein Objekt anzulegen, das nicht von dieser Ausrüstung ausgerüstet sein kann, wird die Ausrüstung nicht bewegt.
 
-301.5c Eine Ausrüstung, die auch eine Kreatur ist, kann keine Kreatur 
-ausrüsten. Eine Ausrüstung, die den Untertyp „Ausrüstung“ verliert, kann keine 
-Kreatur ausrüsten. Eine Ausrüstung kann sich nicht selbst ausrüsten.
-Eine Ausrüstung, die eine illegale oder nichtexistierende 
-bleibende Karte ausrüstet, wird von der bleibenden Karte gelöst, bleibt aber im 
-Spiel. (Dies ist eine zustandsbasierte Aktion. Siehe Regel 704.) Eine 
-Ausrüstung kann nicht mehr als eine Kreatur ausrüsten. Falls ein Zauberspruch 
-oder eine Fähigkeit dazu führen würde, dass eine Ausrüstung mehr als eine 
-Kreatur ausrüsten würde, bestimmt der Beherrscher der Ausrüstung, welche 
-Kreatur ausgerüstet wird.
+301.5c Eine Ausrüstung, die auch eine Kreatur ist, kann keine Kreatur ausrüsten. Eine Ausrüstung, die den Untertyp „Ausrüstung“ verliert, kann keine Kreatur ausrüsten. Eine Ausrüstung kann sich nicht selbst ausrüsten. Eine Ausrüstung, die eine illegale oder nichtexistierende bleibende Karte ausrüstet, wird von der bleibenden Karte gelöst, bleibt aber im Spiel. (Dies ist eine zustandsbasierte Aktion. Siehe Regel 704.) Eine Ausrüstung kann nicht mehr als eine Kreatur ausrüsten. Falls ein Zauberspruch oder eine Fähigkeit dazu führen würde, dass eine Ausrüstung mehr als eine Kreatur ausrüsten würde, bestimmt der Beherrscher der Ausrüstung, welche Kreatur ausgerüstet wird.
 
-301.5d Der Beherrscher einer Ausrüstung ist getrennt vom Beherrscher der 
-ausgerüsteten Kreatur; die zwei müssen nicht dieselben sein. Das Ändern der 
-Kontrolle über die Kreatur ändert nicht die Kontrolle über die Ausrüstung und 
-umgekehrt. Nur der Beherrscher der Ausrüstung kann deren Fähigkeiten 
-aktivieren. Wenn jedoch die Ausrüstung der ausgerüsteten Kreatur eine Fähigkeit 
-verleiht (mit „erhält“ oder „hat“), ist der Beherrscher der ausgerüsteten 
-Kreatur der einzige, der diese Fähigkeit aktivieren kann.
+301.5d Der Beherrscher einer Ausrüstung ist getrennt vom Beherrscher der ausgerüsteten Kreatur; die zwei müssen nicht dieselben sein. Das Ändern der Kontrolle über die Kreatur ändert nicht die Kontrolle über die Ausrüstung und umgekehrt. Nur der Beherrscher der Ausrüstung kann deren Fähigkeiten aktivieren. Wenn jedoch die Ausrüstung der ausgerüsteten Kreatur eine Fähigkeit verleiht (mit „erhält“ oder „hat“), ist der Beherrscher der ausgerüsteten Kreatur der einzige, der diese Fähigkeit aktivieren kann.
 
-301.6. Einige Artefakte haben den Untertyp „Befestigung“. Eine Befestigung 
-kann an ein Land angelegt werden. Sie kann nicht legal an ein Objekt angelegt 
-werden, das kein Land ist. Analog zur Schlüsselwortfähigkeit Ausrüsten gibt es für Befestigungen die Schlüsselwortfähigkeit Befestigen. Die 
-Regeln 301.5a–d gelten für Befestigungen in Bezug zu Ländern ganz genau so 
-wie sie auf Ausrüstungen in Bezug zu Kreaturen gelten, mit einer Klarstellung 
-zu Regel 301.5c: Eine Befestigung, die auch eine Kreatur ist (und nicht ein 
-Land), kann kein Land befestigen. (Siehe Regel 702.65, „Befestigen“.)
+301.6. Einige Artefakte haben den Untertyp „Befestigung“. Eine Befestigung kann an ein Land angelegt werden. Sie kann nicht legal an ein Objekt angelegt werden, das kein Land ist. Analog zur Schlüsselwortfähigkeit Ausrüsten gibt es für Befestigungen die Schlüsselwortfähigkeit Befestigen. Die Regeln 301.5a–d gelten für Befestigungen in Bezug zu Ländern ganz genau so wie sie auf Ausrüstungen in Bezug zu Kreaturen gelten, mit einer Klarstellung zu Regel 301.5c: Eine Befestigung, die auch eine Kreatur ist (und nicht ein Land), kann kein Land befestigen. (Siehe Regel 702.65, „Befestigen“.)
 
-301.7. Wenn eine bleibende Karte, die keine Ausrüstung ist, eine Fähigkeit hat, 
-die sich auf „die ausgerüstete Kreatur“ bezieht, bezieht sich dieser Text auf 
-keine Kreatur. Entsprechend bezieht sich eine Fähigkeit einer bleibenden Karte, 
-die keine Befestigung ist, mit „das befestigte Land“ auf kein Land.
+301.7. Wenn eine bleibende Karte, die keine Ausrüstung ist, eine Fähigkeit hat, die sich auf „die ausgerüstete Kreatur“ bezieht, bezieht sich dieser Text auf keine Kreatur. Entsprechend bezieht sich eine Fähigkeit einer bleibenden Karte, die keine Befestigung ist, mit „das befestigte Land“ auf kein Land.
 
 302. Kreaturen
 
-302.1. Ein Spieler, der Priorität hat, kann während einer Hauptphase seines 
-Zuges eine Kreaturenkarte von seiner Hand wirken, wenn der Stapel leer ist. Eine Kreatur als Zauberspruch zu wirken benutzt den Stapel. (Siehe Regel 601, 
-„Zaubersprüche wirken.“)
+302.1. Ein Spieler, der Priorität hat, kann während einer Hauptphase seines Zuges eine Kreaturenkarte von seiner Hand wirken, wenn der Stapel leer ist. Eine Kreatur als Zauberspruch zu wirken benutzt den Stapel. (Siehe Regel 601, „Zaubersprüche wirken.“)
 
-302.2. Wenn ein Kreaturenzauber verrechnet wird, bringt sein Beherrscher die 
-Kreatur unter seiner Kontrolle ins Spiel.
+302.2. Wenn ein Kreaturenzauber verrechnet wird, bringt sein Beherrscher die Kreatur unter seiner Kontrolle ins Spiel.
 
-302.3. Kreaturen-Untertypen sind immer einzelne Wörter und werden nach einem 
-Gedankenstrich aufgeführt: „Kreatur – Mensch, Soldat“, „Artefaktkreatur – Golem“
-und so weiter. Kreaturen-Untertypen werden auch Kreaturentypen genannt. Kreaturen können mehrere Untertypen besitzen. Siehe Regel 205.3m für die vollständige Liste der Kreaturentypen.
+302.3. Kreaturen-Untertypen sind immer einzelne Wörter und werden nach einem Gedankenstrich aufgeführt: „Kreatur – Mensch, Soldat“, „Artefaktkreatur – Golem“ und so weiter. Kreaturen-Untertypen werden auch Kreaturentypen genannt. Kreaturen können mehrere Untertypen besitzen. Siehe Regel 205.3m für die vollständige Liste der Kreaturentypen.
 
-Beispiel: „Kreatur – Goblin, Zauberer“ bedeutet, die Karte ist eine Kreatur 
-mit den Untertypen Goblin und Zauberer.
+Beispiel: „Kreatur – Goblin, Zauberer“ bedeutet, die Karte ist eine Kreatur mit den Untertypen Goblin und Zauberer.
 
-302.4. Stärke und Widerstandskraft sind Eigenschaften, die nur Kreaturen 
-haben.
+302.4. Stärke und Widerstandskraft sind Eigenschaften, die nur Kreaturen haben.
 
-302.4a Die Stärke einer Kreatur ist die Menge an Schaden, die sie im Kampf 
-zufügt.
+302.4a Die Stärke einer Kreatur ist die Menge an Schaden, die sie im Kampf zufügt.
 
-302.4b Die Widerstandskraft einer Kreatur ist die Menge an Schaden, die 
-benötigt wird, um sie zu zerstören.
+302.4b Die Widerstandskraft einer Kreatur ist die Menge an Schaden, die benötigt wird, um sie zu zerstören.
 
-302.4c Um Stärke und Widerstandskraft einer Kreatur zu ermitteln, beginne mit 
-den Zahlen, die in ihrer unteren rechten Ecke gedruckt sind. Wende danach alle 
-anwendbaren dauerhaften Effekte an. (Siehe Regel 613, „Interaktion dauerhafter 
-Effekte.“)
+302.4c Um Stärke und Widerstandskraft einer Kreatur zu ermitteln, beginne mit den Zahlen, die in ihrer unteren rechten Ecke gedruckt sind. Wende danach alle anwendbaren dauerhaften Effekte an. (Siehe Regel 613, „Interaktion dauerhafter Effekte.“)
 
-302.5. Kreaturen können angreifen und blocken. (Siehe Regel 508, „Angreifer 
-deklarieren-Segment“ und Regel 509, „Blocker deklarieren-Segment“.)
+302.5. Kreaturen können angreifen und blocken. (Siehe Regel 508, „Angreifer deklarieren-Segment“ und Regel 509, „Blocker deklarieren-Segment“.)
 
-302.6. Eine aktivierte Fähigkeit einer Kreatur mit dem Tappsymbol oder dem Enttappsymbol
-in ihren Aktivierungskosten kann nicht aktviert werden, außer die Kreatur war durchgängig 
-unter der Kontrolle ihres Beherrschers seitdem dessen letzter Zug begonnen hat. Eine Kreatur
-kann nicht angreifen, außer sie war durchgängig unter der Kontrolle ihres Beherrschers
-seitdem dessen letzter Zug begonnen hat. Diese Regel wird umgangssprachlich „Einsatzverzögerung“ genannt.
+302.6. Eine aktivierte Fähigkeit einer Kreatur mit dem Tappsymbol oder dem Enttappsymbol in ihren Aktivierungskosten kann nicht aktviert werden, außer die Kreatur war durchgängig unter der Kontrolle ihres Beherrschers seitdem dessen letzter Zug begonnen hat. Eine Kreatur kann nicht angreifen, außer sie war durchgängig unter der Kontrolle ihres Beherrschers seitdem dessen letzter Zug begonnen hat. Diese Regel wird umgangssprachlich „Einsatzverzögerung“ genannt.
 
-302.7 Schaden, der einer Kreatur von einer Quelle ohne Verdorren und ohne 
-Infizieren zugefügt wird, wird auf dieser Kreatur vermerkt (siehe Regel 119.3). 
-Falls der Gesamtschaden, der auf einer Kreatur vermerkt wurde, größer als oder 
-gleich ihrer Widerstandskraft ist, wurde dieser Kreatur tödlicher Schaden 
-zugefügt und sie wird als zustandsbasierte Aktion zerstört (siehe 
-Regel 704). Aller Schaden, der auf einer bleibenden Karte vermerkt wurde, wird 
-entfernt, wenn sie regeneriert (siehe Regel 701.12, „Regeneration“) und
-während des Aufräumsegments (siehe Regel 514.2).
+302.7 Schaden, der einer Kreatur von einer Quelle ohne Verdorren und ohne Infizieren zugefügt wird, wird auf dieser Kreatur vermerkt (siehe Regel 119.3). Falls der Gesamtschaden, der auf einer Kreatur vermerkt wurde, größer als oder gleich ihrer Widerstandskraft ist, wurde dieser Kreatur tödlicher Schaden zugefügt und sie wird als zustandsbasierte Aktion zerstört (siehe Regel 704). Aller Schaden, der auf einer bleibenden Karte vermerkt wurde, wird entfernt, wenn sie regeneriert (siehe Regel 701.12, „Regeneration“) und während des Aufräumsegments (siehe Regel 514.2).
 
 303. Verzauberungen
 
-303.1. Ein Spieler, der Priorität hat, kann während einer Hauptphase seines 
-Zuges eine Verzauberungskarte von seiner Hand wirken, wenn der Stapel leer ist. 
-Eine Verzauberung als Zauberspruch zu wirken benutzt den Stapel. (Siehe 
-Regel 601, „Zaubersprüche wirken.“)
+303.1. Ein Spieler, der Priorität hat, kann während einer Hauptphase seines Zuges eine Verzauberungskarte von seiner Hand wirken, wenn der Stapel leer ist. Eine Verzauberung als Zauberspruch zu wirken benutzt den Stapel. (Siehe Regel 601, „Zaubersprüche wirken.“)
 
-303.2. Wenn ein Verzauberungs-Zauberspruch verrechnet wird, bringt sein 
-Beherrscher die Verzauberung unter seiner Kontrolle ins Spiel.
+303.2. Wenn ein Verzauberungs-Zauberspruch verrechnet wird, bringt sein Beherrscher die Verzauberung unter seiner Kontrolle ins Spiel.
 
-303.3. Verzauberungs-Untertypen sind immer einzelne Wörter und werden nach einem 
-Gedankenstrich aufgeführt: „Verzauberung – Schrein“. Jedes Wort nach dem Gedankenstrich ist ein einzelner Untertyp. Verzauberungs-Untertypen werden auch \Verzauberungstypen\ genannt. 
-Verzauberungen können mehrere Untertypen besitzen. Siehe Regel 205.3h für die 
-vollständige Liste der Verzauberungstypen.
+303.3. Verzauberungs-Untertypen sind immer einzelne Wörter und werden nach einem Gedankenstrich aufgeführt: „Verzauberung – Schrein“. Jedes Wort nach dem Gedankenstrich ist ein einzelner Untertyp. Verzauberungs-Untertypen werden auch \Verzauberungstypen\ genannt. Verzauberungen können mehrere Untertypen besitzen. Siehe Regel 205.3h für die vollständige Liste der Verzauberungstypen.
 
-303.4. Einige Verzauberungen haben den Untertyp „Aura“. Eine Aura kommt an 
-ein Objekt oder einen Spieler angelegt ins Spiel. An was 
-eine Aura angelegt werden kann, wird durch ihre Verzaubern-
-Schlüsselwortfähigkeit definiert (siehe Regel 702.5, „Verzaubern“). Andere 
-Effekte können einschränken, von was eine bleibende Karte verzaubert werden 
-kann.
+303.4. Einige Verzauberungen haben den Untertyp „Aura“. Eine Aura kommt an ein Objekt oder einen Spieler angelegt ins Spiel. An was eine Aura angelegt werden kann, wird durch ihre Verzaubern-Schlüsselwortfähigkeit definiert (siehe Regel 702.5, „Verzaubern“). Andere Effekte können einschränken, von was eine bleibende Karte verzaubert werden kann.
 
-303.4a Ein Aura-Zauberspruch verlangt ein Ziel, das durch seine Verzaubern-
-Fähigkeit definiert wird.
+303.4a Ein Aura-Zauberspruch verlangt ein Ziel, das durch seine Verzaubern-Fähigkeit definiert wird.
 
-303.4b Das Objekt oder der Spieler, an das bzw. den eine Aura angelegt ist, 
-wird \verzaubert\ genannt. Die Aura ist an dieses Objekt bzw. diesen 
-Spieler angelegt oder „verzaubert“ es bzw. ihn.
+303.4b Das Objekt oder der Spieler, an das bzw. den eine Aura angelegt ist, wird \verzaubert\ genannt. Die Aura ist an dieses Objekt bzw. diesen Spieler angelegt oder „verzaubert“ es bzw. ihn.
 
-303.4c Wenn eine Aura entsprechend der Verzaubern-Fähigkeit oder anderer 
-anwendbarer Effekte ein illegales Objekt oder einen illegalen Spieler 
-verzaubert oder das Objekt, an das sie angelegt war, nicht länger existiert 
-oder der Spieler, an den sie angelegt war, das Spiel verlassen hat, wird die 
-Aura in den Friedhof ihres Besitzers gelegt. (Dies ist eine zustandsbasierte Aktion. Siehe Regel 704.)
+303.4c Wenn eine Aura entsprechend der Verzaubern-Fähigkeit oder anderer anwendbarer Effekte ein illegales Objekt oder einen illegalen Spieler verzaubert oder das Objekt, an das sie angelegt war, nicht länger existiert oder der Spieler, an den sie angelegt war, das Spielverlassen hat, wird die Aura in den Friedhof ihres Besitzers gelegt. (Dies ist eine zustandsbasierte Aktion. Siehe Regel 704.)
 
-303.4d Eine Aura kann sich nicht selbst verzaubern. Wenn dies irgendwie 
-auftritt, wird die Aura in den Friedhof ihres Besitzers gelegt. Eine Aura, die 
-auch eine Kreatur ist, kann gar nichts verzaubern. Wenn dies irgendwie 
-auftritt, wird die Aura gelöst und dann in den Friedhof ihres Besitzers gelegt. 
-(Dies sind zustandsbasierte Aktionen. Siehe Regel 704.) Eine Aura kann 
-nicht mehr als ein Objekt oder einen Spieler verzaubern. Falls ein Zauberspruch 
-oder eine Fähigkeit dazu führen würde, dass eine Aura mehr als ein Objekt oder 
-einen Spieler verzaubern würde, bestimmt der Beherrscher der Aura, an welches 
-Objekt oder welchen Spieler sie angelegt wird.
+303.4d Eine Aura kann sich nicht selbst verzaubern. Wenn dies irgendwie auftritt, wird die Aura in den Friedhof ihres Besitzers gelegt. Eine Aura, die auch eine Kreatur ist, kann gar nichts verzaubern. Wenn dies irgendwie auftritt, wird die Aura gelöst und dann in den Friedhof ihres Besitzers gelegt. (Dies sind zustandsbasierte Aktionen. Siehe Regel 704.) Eine Aura kann nicht mehr als ein Objekt oder einen Spieler verzaubern. Falls ein Zauberspruch oder eine Fähigkeit dazu führen würde, dass eine Aura mehr als ein Objekt oder einen Spieler verzaubern würde, bestimmt der Beherrscher der Aura, an welches Objekt oder welchen Spieler sie angelegt wird.
 
-303.4e Der Beherrscher einer Aura ist getrennt vom Beherrscher des verzauberten 
-Objekts bzw. vom verzauberten Spieler; die zwei müssen nicht dieselben sein. 
-Wenn eine Aura ein Objekt verzaubert, wird durch das Ändern der Kontrolle über 
-das Objekt nicht die Kontrolle über die Aura geändert und umgekehrt. Nur der 
-Beherrscher der Aura kann ihre Fähigkeiten aktivieren. Wenn jedoch die Aura dem 
-verzauberten Objekt eine Fähigkeit verleiht (mit „erhält“ oder „hat“), ist der 
-Beherrscher des verzauberten Objekts der einzige, der diese Fähigkeit 
-aktivieren kann.
+303.4e Der Beherrscher einer Aura ist getrennt vom Beherrscher des verzauberten Objekts bzw. vom verzauberten Spieler; die zwei müssen nicht dieselben sein. Wenn eine Aura ein Objekt verzaubert, wird durch das Ändern der Kontrolle über das Objekt nicht die Kontrolle über die Aura geändert und umgekehrt. Nur der Beherrscher der Aura kann ihre Fähigkeiten aktivieren. Wenn jedoch die Aura dem verzauberten Objekt eine Fähigkeit verleiht (mit „erhält“ oder „hat“), ist der Beherrscher des verzauberten Objekts der einzige, der diese Fähigkeit aktivieren kann.
 
-303.4f Wenn eine Aura auf andere Weise als durch Verrechnung eines Aura-Zaubers 
-unter der Kontrolle eines Spielers ins Spiel kommt und der Effekt, der sie ins 
-Spiel bringt, nicht das Objekt oder den Spieler angibt, das bzw. den sie 
-verzaubern wird, bestimmt dieser Spieler, was sie verzaubern wird, sowie die 
-Aura ins Spiel kommt. Der Spieler muss ein legales Objekt bzw. einen legalen 
-Spieler entsprechend der Verzaubern-Fähigkeit der Aura und aller anderen 
-anwendbaren Effekte bestimmen.
+303.4f Wenn eine Aura auf andere Weise als durch Verrechnung eines Aura-Zaubers unter der Kontrolle eines Spielers ins Spiel kommt und der Effekt, der sie ins Spiel bringt, nicht das Objekt oder den Spieler angibt, das bzw. den sie verzaubern wird, bestimmt dieser Spieler, was sie verzaubern wird, sowie die Aura ins Spiel kommt. Der Spieler muss ein legales Objekt bzw. einen legalen Spieler entsprechend der Verzaubern-Fähigkeit der Aura und aller anderen anwendbaren Effekte bestimmen.
 
-303.4g Wenn eine Aura ins Spiel kommt und es kein legales Objekt oder keinen 
-legalen Spieler zum Verzaubern für sie gibt, verbleibt die Aura in ihrer 
-aktuellen Zone, es sei denn, diese Zone ist der Stapel. In diesem Fall wird die 
-Aura in den Friedhof ihres Besitzers gelegt anstatt ins Spiel zu kommen.
+303.4g Wenn eine Aura ins Spiel kommt und es kein legales Objekt oder keinen legalen Spieler zum Verzaubern für sie gibt, verbleibt die Aura in ihrer aktuellen Zone, es sei denn, diese Zone ist der Stapel. In diesem Fall wird die Aura in den Friedhof ihres Besitzers gelegt anstatt ins Spiel zu kommen.
 
-303.4h Wenn ein Effekt versucht, eine Aura im Spiel an ein Objekt oder einen 
-Spieler anzulegen, muss dieses Objekt oder dieser Spieler in der Lage sein, von 
-ihr verzaubert zu werden. Wenn das Objekt oder der Spieler es nicht ist, 
-bewegt sich die Aura nicht.
+303.4h Wenn ein Effekt versucht, eine Aura im Spiel an ein Objekt oder einen Spieler anzulegen, muss dieses Objekt oder dieser Spieler in der Lage sein, von ihr verzaubert zu werden. Wenn das Objekt oder der Spieler es nicht ist, bewegt sich die Aura nicht.
 
-303.4i Wenn eine bleibende Karte, die keine Aura ist, eine Fähigkeit hat, die 
-sich auf das oder den „verzauberte[n] [Objekt oder Spieler]“ bezieht, bezieht 
-sich dieser Text auf kein Objekt und keinen Spieler.
+303.4i Wenn eine bleibende Karte, die keine Aura ist, eine Fähigkeit hat, die sich auf das oder den „verzauberte[n] [Objekt oder Spieler]“ bezieht, bezieht sich dieser Text auf kein Objekt und keinen Spieler.
 
 304. Spontanzauber
 
-304.1. Ein Spieler, der Priorität hat, kann eine Spontanzauberkarte von seiner 
-Hand wirken. Einen Spontanzauber als Zauberspruch zu wirken benutzt den 
-Stapel. (Siehe Regel 601, „Zaubersprüche wirken“.)
+304.1. Ein Spieler, der Priorität hat, kann eine Spontanzauberkarte von seiner Hand wirken. Einen Spontanzauber als Zauberspruch zu wirken benutzt den Stapel. (Siehe Regel 601, „Zaubersprüche wirken“.)
 
-304.2. Wenn ein Spontanzauber verrechnet wird, werden die Aktionen befolgt, die 
-in seinem Regeltext angegeben sind. Dann wird er in den Friedhof seines 
-Besitzers gelegt.
+304.2. Wenn ein Spontanzauber verrechnet wird, werden die Aktionen befolgt, die in seinem Regeltext angegeben sind. Dann wird er in den Friedhof seines Besitzers gelegt.
 
-304.3. Spontanzauber-Untertypen sind immer einzelne Wörter und werden nach einem 
-Gedankenstrich aufgeführt: „Spontanzauber – Arkan“.
-Jedes Wort nach dem Gedankenstrich ist ein einzelner 
-Untertyp. Der Satz an Spontanzauber-Untertypen ist derselbe wie der Satz an 
-Hexerei-Untertypen; diese Untertypen werden \Zauberspruchtypen\ genannt. 
-Spontanzauber können mehrere Untertypen haben. Siehe Regel 205.3k für die 
-vollständige Liste der Zauberspruchtypen.
+304.3. Spontanzauber-Untertypen sind immer einzelne Wörter und werden nach einem Gedankenstrich aufgeführt: „Spontanzauber – Arkan“. Jedes Wort nach dem Gedankenstrich ist ein einzelner Untertyp. Der Satz an Spontanzauber-Untertypen ist derselbe wie der Satz an Hexerei-Untertypen; diese Untertypen werden \Zauberspruchtypen\ genannt. Spontanzauber können mehrere Untertypen haben. Siehe Regel 205.3k für die vollständige Liste der Zauberspruchtypen.
 
-304.4. Spontanzauber können nicht ins Spiel kommen. Wenn ein Spontanzauber ins 
-Spiel kommen würde, bleibt er stattdessen in seiner vorherigen Zone.
+304.4. Spontanzauber können nicht ins Spiel kommen. Wenn ein Spontanzauber ins Spiel kommen würde, bleibt er stattdessen in seiner vorherigen Zone.
 
-304.5. Wenn ein Text angibt, dass ein Spieler etwas „zu jedem Zeitpunkt“ machen 
-kann, „zu dem er einen Spontanzauber wirken könnte“, bedeutet das nur, dass der 
-Spieler Priorität haben muss. Der Spieler muss keinen Spontanzauber haben, den 
-er tatsächlich wirken könnte. Effekte, die diesen Spieler davon abhalten 
-würden, einen Zauberspruch oder einen Spontanzauber zu wirken, beeinflussen 
-nicht die Fähigkeit des Spielers, diese Aktion durchzuführen (außer die Aktion 
-besteht selbst darin, einen Zauberspruch oder einen Spontanzauber zu wirken).
+304.5. Wenn ein Text angibt, dass ein Spieler etwas „zu jedem Zeitpunkt“ machen kann, „zu dem er einen Spontanzauber wirken könnte“, bedeutet das nur, dass der Spieler Priorität haben muss. Der Spieler muss keinen Spontanzauber haben, den er tatsächlich wirken könnte. Effekte, die diesen Spieler davon abhalten würden, einen Zauberspruch oder einen Spontanzauber zu wirken, beeinflussen nicht die Fähigkeit des Spielers, diese Aktion durchzuführen (außer die Aktion besteht selbst darin, einen Zauberspruch oder einen Spontanzauber zu wirken).
 
 305. Länder
 
-305.1. Ein Spieler, der Priorität hat, kann während einer Hauptphase seines 
-Zuges eine Landkarte von seiner Hand spielen, wenn der Stapel leer ist. Ein Land zu
-spielen ist eine Sonderaktion; sie benutzt nicht den Stapel (siehe 
-Regel 115.) Vielmehr legt der Spieler das Land einfach ins Spiel. Da das Land 
-nicht auf den Stapel geht, ist es niemals ein Zauberspruch, und Spieler können 
-darauf nicht mit Spontanzaubern oder aktivierten Fähigkeiten antworten.
+305.1. Ein Spieler, der Priorität hat, kann während einer Hauptphase seines Zuges eine Landkarte von seiner Hand spielen, wenn der Stapel leer ist. Ein Land zu spielen ist eine Sonderaktion; sie benutzt nicht den Stapel (siehe Regel 115.) Vielmehr legt der Spieler das Land einfach ins Spiel. Da das Land nicht auf den Stapel geht, ist es niemals ein Zauberspruch, und Spieler können darauf nicht mit Spontanzaubern oder aktivierten Fähigkeiten antworten.
 
-305.2. Ein Spieler kann normalerweise nur ein Land während seines Zuges spielen; 
-jedoch können dauerhafte Effekte diese Zahl erhöhen. Wenn irgendwelche dieser Effekte 
-existieren, sagt der Spieler bei jedem gespielten Land an, ob diese Regel, oder welcher Effekt angewendet wird, sowie es gespielt wird.
+305.2. Ein Spieler kann normalerweise nur ein Land während seines Zuges spielen; jedoch können dauerhafte Effekte diese Zahl erhöhen. Wenn irgendwelche dieser Effekte existieren, sagt der Spieler bei jedem gespielten Land an, ob diese Regel, oder welcher Effekt angewendet wird, sowie es gespielt wird.
 
-305.3. Ein Spieler kann kein Land spiele, egal aus welchem Grund, wenn es nicht sein 
-Zug ist. Ignoriere jedweden Teil eines Effekts, der einen Spieler anweist, dies 
-zu tun. Gleichermaßen kann ein Spieler kein Land spielen, egal aus welchem Grund, wenn 
-der Spieler all seine Möglichkeiten, ein Land zu spielen, für diesen Zug 
-aufgebraucht hat. Ignoriere jedweden Teil eines Effekts, der einen Spieler 
-anweist, dies zu tun.
+305.3. Ein Spieler kann kein Land spiele, egal aus welchem Grund, wenn es nicht sein Zug ist. Ignoriere jedweden Teil eines Effekts, der einen Spieler anweist, dies zu tun. Gleichermaßen kann ein Spieler kein Land spielen, egal aus welchem Grund, wenn der Spieler all seine Möglichkeiten, ein Land zu spielen, für diesen Zug aufgebraucht hat. Ignoriere jedweden Teil eines Effekts, der einen Spieler anweist, dies zu tun.
 
-305.4. Effekte können Spielern auch erlauben, Länder „ins Spiel zu bringen“. Das 
-ist nicht dasselbe wie „ein Land spielen“ und zählt nicht als Spielen des einen 
-Landes, was einem Spieler während seines Zuges zusteht.
+305.4. Effekte können Spielern auch erlauben, Länder „ins Spiel zu bringen“. Das ist nicht dasselbe wie „ein Land spielen“ und zählt nicht als Spielen des einen Landes, was einem Spieler während seines Zuges zusteht.
 
-305.5. Land-Untertypen sind immer einzelne Wörter und werden nach einem 
-Gedankenstrich aufgeführt. Land-Untertypen werden auch \Landtypen\ genannt. Länder können mehrere Untertypen haben. Siehe Regel 205.3i für die vollständige Liste der Landtypen.
+305.5. Land-Untertypen sind immer einzelne Wörter und werden nach einem Gedankenstrich aufgeführt. Land-Untertypen werden auch \Landtypen\ genannt. Länder können mehrere Untertypen haben. Siehe Regel 205.3i für die vollständige Liste der Landtypen.
 
-Beispiel: „Standardland – Gebirge“ bedeutet, die Karte ist ein Land mit dem 
-Untertyp Gebirge.
+Beispiel: „Standardland – Gebirge“ bedeutet, die Karte ist ein Land mit dem Untertyp Gebirge.
 
-305.6. Die Standardlandtypen sind Ebene, Insel, Sumpf, Gebirge und Wald. Wenn 
-ein Objekt das Wort „Standardlandtyp“ benutzt, bezieht es sich auf einen dieser 
-Untertypen. Ein Land mit einem Standardlandtyp hat die intrinsische Fähigkeit 
-„{T}: Erhöhe deinen Manavorrat um [Manasymbol]“, selbst wenn die Textbox 
-eigentlich keinen Text enthält oder das Objekt keine Textbox hat. 
-[Manasymbol] ist {W} für Ebenen, {U} für Inseln, {B} für Sümpfe, {R} für 
-Gebirge und {G} für Wälder. Siehe Regel 107.4a. Siehe auch Regel 605, 
-„Manafähigkeiten.“
+305.6. Die Standardlandtypen sind Ebene, Insel, Sumpf, Gebirge und Wald. Wenn ein Objekt das Wort „Standardlandtyp“ benutzt, bezieht es sich auf einen dieser  Untertypen. Ein Land mit einem Standardlandtyp hat die intrinsische Fähigkeit „{T}: Erhöhe deinen Manavorrat um [Manasymbol]“, selbst wenn die Textbox eigentlich keinen Text enthält oder das Objekt keine Textbox hat. [Manasymbol] ist {W} für Ebenen, {U} für Inseln, {B} für Sümpfe, {R} für Gebirge und {G} für Wälder. Siehe Regel 107.4a. Siehe auch Regel 605, „Manafähigkeiten.“
 
-305.7. Wenn ein Effekt den Untertyp eines Landes auf einen oder mehrere der 
-Standardlandtypen setzt, besitzt das Land nicht länger seinen alten Landtyp. Es 
-verliert sämtliche Fähigkeiten, die durch seinen Regeltext erzeugt wurden, 
-den es in seiner Textbox hatte, sowie seine alten Landtypen und es erhält den 
-Regeltext für die entsprechende Manafähigkeit für jeden neuen Standardlandtyp. 
-Beachte, dass dies keine Fähigkeiten entfernt, die dem Land durch andere 
-Effekte verliehen wurden. Das Setzen eines Untertyps eines Landes fügt weder 
-Typen (so wie Kreatur) oder Übertypen (so wie Standard, Legendär und 
-Verschneit), die das Land besitzen kann, hinzu, noch entfernt es welche. Wenn 
-ein Land einen oder mehrere Landtypen zusätzlich zu seinen eigenen erhält, 
-behält es seinen Landtyp und Regeltext und erhält den neuen Landtyp sowie die 
-Manafähigkeiten.
+305.7. Wenn ein Effekt den Untertyp eines Landes auf einen oder mehrere der Standardlandtypen setzt, besitzt das Land nicht länger seinen alten Landtyp. Es verliert sämtliche Fähigkeiten, die durch seinen Regeltext erzeugt wurden, den es in seiner Textbox hatte, sowie seine alten Landtypen und es erhält den Regeltext für die entsprechende Manafähigkeit für jeden neuen Standardlandtyp. Beachte, dass dies keine Fähigkeiten entfernt, die dem Land durch andere Effekte verliehen wurden. Das Setzen eines Untertyps eines Landes fügt weder Typen (so wie Kreatur) oder Übertypen (so wie Standard, Legendär und Verschneit), die das Land besitzen kann, hinzu, noch entfernt es welche. Wenn ein Land einen oder mehrere Landtypen zusätzlich zu seinen eigenen erhält, behält es seinen Landtyp und Regeltext und erhält den neuen Landtyp sowie die Manafähigkeiten.
 
-305.8. Jedes Land mit dem Übertyp „Standard“ ist ein Standardland. Jedes Land, 
-das diesen Übertyp nicht besitzt, ist ein Nichtstandardland, auch wenn es einen 
-Standardlandtyp besitzt.
+305.8. Jedes Land mit dem Übertyp „Standard“ ist ein Standardland. Jedes Land, das diesen Übertyp nicht besitzt, ist ein Nichtstandardland, auch wenn es einen Standardlandtyp besitzt.
 
-305.9. Wenn ein Objekt sowohl ein Land als auch ein anderer Typ ist, kann es nur 
-als ein Land gespielt werden. Es kann nicht als Zauberspruch gewirkt werden.
+305.9. Wenn ein Objekt sowohl ein Land als auch ein anderer Typ ist, kann es nur als ein Land gespielt werden. Es kann nicht als Zauberspruch gewirkt werden.
 
 306. Planeswalker
 
-306.1. Ein Spieler, der Priorität hat, kann während einer Hauptphase seines 
-Zuges eine Planeswalkerkarte von seiner Hand wirken, wenn der Stapel leer ist. 
-Das Wirken eines Planeswalkers als Zauberspruch nutzt den Stapel. (Siehe 
-Regel 601, „Zaubersprüche wirken“.)
+306.1. Ein Spieler, der Priorität hat, kann während einer Hauptphase seines Zuges eine Planeswalkerkarte von seiner Hand wirken, wenn der Stapel leer ist. Das Wirken eines Planeswalkers als Zauberspruch nutzt den Stapel. (Siehe Regel 601, „Zaubersprüche wirken“.)
 
-306.2. Wenn ein Planeswalkerzauberspruch verrechnet wird, bringt sein 
-Beherrscher den Planeswalker unter seiner Kontrolle ins Spiel.
+306.2. Wenn ein Planeswalkerzauberspruch verrechnet wird, bringt sein Beherrscher den Planeswalker unter seiner Kontrolle ins Spiel.
 
-306.3. Planeswalker-Untertypen sind immer einzelne Wörter und werden nach einem 
-langen Gedankenstrich aufgelistet: „Planeswalker – Jace“.
-Jedes Wort nach dem Gedankenstrich ist ein 
-einzelner Untertyp. Planeswalker-Untertypen werden auch \Planeswalkertypen\ 
-genannt. Planeswalker können mehrere Untertypen besitzen. Siehe Regel 205.3j 
-für die vollständige Liste der Planeswalkertypen.
+306.3. Planeswalker-Untertypen sind immer einzelne Wörter und werden nach einem langen Gedankenstrich aufgelistet: „Planeswalker – Jace“. Jedes Wort nach dem Gedankenstrich ist ein einzelner Untertyp. Planeswalker-Untertypen werden auch \Planeswalkertypen\ genannt. Planeswalker können mehrere Untertypen besitzen. Siehe Regel 205.3j für die vollständige Liste der Planeswalkertypen.
 
-306.4. Wenn zwei oder mehr Planeswalker, die einen Planeswalkertyp gemeinsam 
-haben, im Spiel sind, werden alle als zustandsbasierte Aktion in den 
-Friedhof ihrer Besitzer gelegt. Dies wird die „Planeswalker-
-Einzigartigkeitsregel“ genannt. Siehe Regel 704.
+306.4. Wenn zwei oder mehr Planeswalker, die einen Planeswalkertyp gemeinsam haben, im Spiel sind, werden alle als zustandsbasierte Aktion in den Friedhof ihrer Besitzer gelegt. Dies wird die „Planeswalker-Einzigartigkeitsregel“ genannt. Siehe Regel 704.
 
 306.5. Loyalität ist eine Eigenschaft, die nur Planeswalker haben.
 
-306.5a Die Loyalität eines Planeswalkers, der nicht im Spiel ist, ist gleich 
-der Zahl, die in seiner unteren rechten Ecke gedruckt ist.
+306.5a Die Loyalität eines Planeswalkers, der nicht im Spiel ist, ist gleich der Zahl, die in seiner unteren rechten Ecke gedruckt ist.
 
-306.5b Ein Planeswalker wird behandelt, als würde seine Textbox „Diese 
-bleibende Karte kommt mit einer Anzahl an Loyalitätsmarken gleich ihrer 
-aufgedruckten Loyalitätszahl ins Spiel.“ enthalten; diese Fähigkeit 
-erzeugt einen Ersatzeffekt (siehe Regel 614.1c.).
+306.5b Ein Planeswalker wird behandelt, als würde seine Textbox „Diese bleibende Karte kommt mit einer Anzahl an Loyalitätsmarken gleich ihrer aufgedruckten Loyalitätszahl ins Spiel.“ enthalten; diese Fähigkeit erzeugt einen Ersatzeffekt (siehe Regel 614.1c.).
 
-306.5c Die Loyalität eines Planeswalkers im Spiel ist gleich der Anzahl an 
-Loyalitätsmarken auf ihm.
+306.5c Die Loyalität eines Planeswalkers im Spiel ist gleich der Anzahl an Loyalitätsmarken auf ihm.
 
-306.5d Jeder Planeswalker besitzt mehrere Loyalitätsfähigkeiten, bei denen es 
-sich um aktivierte Fähigkeit mit einem Loyalitätssymbol in den Kosten handelt. 
-Loyalitätsfähigkeiten folgen besonderen Regeln: Ein Spieler kann eine 
-Loyalitätsfähigkeit einer bleibenden Karte, die er kontrolliert, jederzeit aktivieren, wenn der Stapel leer ist und er während einer Hauptphase seines Zuges Priorität hat, jedoch nur, wenn keine der Loyalitätsfähigkeiten dieser bleibenden Karte in diesem Zug aktiviert wurden. Siehe Regel 606, „Loyalitätsfähigkeiten.“
+306.5d Jeder Planeswalker besitzt mehrere Loyalitätsfähigkeiten, bei denen es sich um aktivierte Fähigkeit mit einem Loyalitätssymbol in den Kosten handelt. Loyalitätsfähigkeiten folgen besonderen Regeln: Ein Spieler kann eine Loyalitätsfähigkeit einer bleibenden Karte,die er kontrolliert, jederzeit aktivieren, wenn der Stapel leer ist und er während einer Hauptphase seines Zuges Priorität hat, jedoch nur, wenn keine der Loyalitätsfähigkeiten dieser bleibenden Karte in diesem Zug aktiviert wurden. Siehe Regel 606, „Loyalitätsfähigkeiten.“
 
-306.6. Planeswalker können angegriffen werden. (Siehe Regel 508, „Angreifer 
-deklarieren-Segment.“)
+306.6. Planeswalker können angegriffen werden. (Siehe Regel 508, „Angreifer deklarieren-Segment.“)
 
-306.7. Falls einem Spieler von einer Quelle, die von einem 
-Gegner kontrolliert wird, Nicht-Kampfschaden zugefügt werden würde, kann dieser Gegner die Quelle 
-veranlassen, diesen Schaden stattdessen einem Planeswalker zuzufügen, den der 
-erste Spieler kontrolliert. Dies ist ein Umleitungseffekt (siehe Regel 614.9) 
-und unterliegt den normalen Regeln für das Ordnen von Ersatzeffekten (siehe 
-Regel 616). Der Gegner bestimmt, ob der Schaden umgeleitet wird sowie der 
-Ersatzeffekt angewendet wird.
+306.7. Falls einem Spieler von einer Quelle, die von einem Gegner kontrolliert wird, Nicht-Kampfschaden zugefügt werden würde, kann dieser Gegner die Quelle veranlassen, diesen Schaden stattdessen einem Planeswalker zuzufügen, den der erste Spieler kontrolliert. Dies ist ein Umleitungseffekt (siehe Regel 614.9) und unterliegt den normalen Regeln für das Ordnen von Ersatzeffekten (siehe Regel 616). Der Gegner bestimmt, ob der Schaden umgeleitet wird sowie der Ersatzeffekt angewendet wird.
 
-306.8. Schaden, der einem Planeswalker zugefügt wird, führt dazu, dass so viele 
-Loyalitätsmarken von ihm entfernt werden.
+306.8. Schaden, der einem Planeswalker zugefügt wird, führt dazu, dass so viele Loyalitätsmarken von ihm entfernt werden.
 
-306.9. Wenn die Loyalität eines Planeswalkers 0 ist, wird er in den Friedhof 
-seines Besitzers gelegt. (Dies ist eine zustandsbasierte Aktion. Siehe 
-Regel 704.)
+306.9. Wenn die Loyalität eines Planeswalkers 0 ist, wird er in den Friedhof seines Besitzers gelegt. (Dies ist eine zustandsbasierte Aktion. Siehe Regel 704.)
 
 307. Hexereien
 
-307.1. Ein Spieler, der Priorität hat, kann während der Hauptphase seines Zuges 
-eine Hexerei-Karte von seiner Hand wirken, wenn der Stapel leer ist. Eine 
-Hexerei als Zauberspruch zu wirken nutzt den Stapel. (Siehe Regel 601, „Zaubersprüche 
-wirken.“)
+307.1. Ein Spieler, der Priorität hat, kann während der Hauptphase seines Zuges eine Hexerei-Karte von seiner Hand wirken, wenn der Stapel leer ist. Eine Hexerei als Zauberspruch zu wirken nutzt den Stapel. (Siehe Regel 601, „Zaubersprüche wirken.“)
 
-307.2. Wenn ein Hexerei-Zauberspruch verrechnet wird, werden die Aktionen 
-befolgt, die in seinem Regeltext angegeben sind. Dann wird er in den Friedhof 
-seines Besitzers gelegt.
+307.2. Wenn ein Hexerei-Zauberspruch verrechnet wird, werden die Aktionen befolgt, die in seinem Regeltext angegeben sind. Dann wird er in den Friedhof seines Besitzers gelegt.
 
-307.3. Hexerei-Untertypen sind immer einzelne Wörter und werden nach einem 
-Gedankenstrich aufgeführt: „Hexerei – Arkan“. Jedes Wort nach dem Gedankenstrich ist ein einzelner Untertyp. Der Satz an Hexerei-Untertypen ist derselbe wie der Satz an 
-Spontanzauber-Untertypen; diese Untertypen werden \Zauberspruchtypen\ genannt. 
-Hexereien können mehrere Untertypen haben. Siehe Regel 205.3k für die 
-vollständige Liste der Zauberspruchtypen.
+307.3. Hexerei-Untertypen sind immer einzelne Wörter und werden nach einem Gedankenstrich aufgeführt: „Hexerei – Arkan“. Jedes Wort nach dem Gedankenstrich ist ein einzelner Untertyp. Der Satz an Hexerei-Untertypen ist derselbe wie der Satz an Spontanzauber-Untertypen; diese Untertypen werden \Zauberspruchtypen\ genannt. Hexereien können mehrere Untertypen haben. Siehe Regel 205.3k für die vollständige Liste der Zauberspruchtypen.
 
-307.4. Hexereien können nicht ins Spiel kommen. Wenn eine Hexerei ins Spiel 
-kommen würde, bleibt sie stattdessen in ihrer vorherigen Zone.
+307.4. Hexereien können nicht ins Spiel kommen. Wenn eine Hexerei ins Spiel kommen würde, bleibt sie stattdessen in ihrer vorherigen Zone.
 
-307.5. Wenn ein Zauberspruch, eine Fähigkeit oder ein Effekt angibt, dass ein 
-Spieler etwas nur „zu einem Zeitpunkt, zu dem er eine Hexerei wirken könnte“, 
-bedeutet das nur, dass der Spieler Priorität haben, es während der Hauptphase 
-seines Zuges sein und der Stapel leer sein muss. Der Spieler muss keine Hexerei 
-haben, die er tatsächlich wirken könnte. Effekte, die diesen Spieler davon 
-abhalten würden, einen Zauberspruch oder eine Hexerei zu wirken, beeinflussen 
-nicht die Fähigkeit des Spielers, diese Aktion durchzuführen (außer die Aktion 
-besteht selbst darin, einen Zauberspruch oder eine Hexerei zu wirken).
+307.5. Wenn ein Zauberspruch, eine Fähigkeit oder ein Effekt angibt, dass ein Spieler etwas nur „zu einem Zeitpunkt, zu dem er eine Hexerei wirken könnte“,  bedeutet das nur, dass der Spieler Priorität haben, es während der Hauptphase seines Zuges sein und der Stapel leer sein muss. Der Spieler muss keine Hexerei haben, die er tatsächlich wirken könnte. Effekte, die diesen Spieler davon abhalten würden, einen Zauberspruch oder eine Hexerei zu wirken, beeinflussen nicht die Fähigkeit des Spielers, diese Aktion durchzuführen (außer die Aktion besteht selbst darin, einen Zauberspruch oder eine Hexerei zu wirken).
 
-307.5a Gleichermaßen prüft ein Effekt, der prüft, ob ein Zauberspruch „zu einem 
-Zeitpunkt gewirkt wurde, zu dem keine Hexerei hätte gewirkt werden können“, 
-lediglich, ob der Beherrscher des Zauberspruchs diesen gewirkt hat, ohne 
-Priorität zu haben, ob er ihn in einer anderen Phase als seiner Hauptphase 
-gewirkt hat oder während ein anderes Objekt auf dem Stapel war.
+307.5a Gleichermaßen prüft ein Effekt, der prüft, ob ein Zauberspruch „zu einem Zeitpunkt gewirkt wurde, zu dem keine Hexerei hätte gewirkt werden können“, lediglich, ob der Beherrscher des Zauberspruchs diesen gewirkt hat, ohne Priorität zu haben, ob er ihn in einer anderen Phase als seiner Hauptphase gewirkt hat oder während ein anderes Objekt auf dem Stapel war.
 
 308. Stammeskarten
 
-308.1. Jede Stammeskarte besitzt einen weiteren Kartentyp. Das Wirken und 
-Verrechnen von Stammeskarten folgt den Regeln für das Wirken und Verrechnen 
-einer Karte des anderen Kartentyps.
+308.1. Jede Stammeskarte besitzt einen weiteren Kartentyp. Das Wirken und Verrechnen von Stammeskarten folgt den Regeln für das Wirken und Verrechnen einer Karte des anderen Kartentyps.
 
-308.2 Stammes-Untertypen sind immer einzelne Wörter und werden nach einem 
-Gedankenstrich aufgeführt: „Stammesverzauberung – Meervolk“. Der Satz an Stammes-Untertypen ist derselbe 
-wie der Satz an Kreaturen-Untertypen; diese Untertypen werden \Kreaturentypen\ 
-genannt. Stammeskarten können mehrere Untertypen besitzen. Siehe Regel 205.3m 
-für die vollständige Liste der Kreaturentypen.
+308.2 Stammes-Untertypen sind immer einzelne Wörter und werden nach einem Gedankenstrich aufgeführt: „Stammesverzauberung – Meervolk“. Der Satz an Stammes-Untertypen ist derselbe wie der Satz an Kreaturen-Untertypen; diese Untertypen werden \Kreaturentypen\ genannt. Stammeskarten können mehrere Untertypen besitzen. Siehe Regel 205.3m für die vollständige Liste der Kreaturentypen.
 
 309. Welten
 
-309.1. Welt ist ein Kartentyp, den es nur auf nicht herkömmlichen #Magic#-
-Karten gibt. Nur die Freizeitspiel-Variante „Planechase“ benutzt Weltenkarten. 
-Siehe Regel 901, „Planechase.“
+309.1. Welt ist ein Kartentyp, den es nur auf nicht herkömmlichen #Magic#-Karten gibt. Nur die Freizeitspiel-Variante „Planechase“ benutzt Weltenkarten. Siehe Regel 901, „Planechase.“
 
-309.2. Weltenkarten verbleiben das ganze Spiel über in der Kommandozone, sowohl 
-als Teil des Weltendecks als auch solange sie aufgedeckt sind. 
-Sie sind keine bleibenden Karten. Sie können nicht gewirkt werden. 
-Falls eine Weltenkarte die Kommandozone verlassen würde, bleibt sie in der 
-Kommandozone.
+309.2. Weltenkarten verbleiben das ganze Spiel über in der Kommandozone, sowohl als Teil des Weltendecks als auch solange sie aufgedeckt sind. Sie sind keine bleibenden Karten. Sie können nicht gewirkt werden. Falls eine Weltenkarte die Kommandozone verlassen würde, bleibt sie in der Kommandozone.
 
-309.3. Welt-Untertypen werden nach einem Gedankenstrich aufgeführt 
-und können aus mehreren Wörtern bestehen: „Welt – Serras Reich“. Alle 
-Wörter nach dem Gedankenstrich sind zusammen ein einziger Untertyp. 
-Welt-Untertypen werden \Weltentypen\ genannt. Eine Welt kann 
-nur einen Untertyp haben. Siehe Regel 205.3n für die vollständige Liste der 
-Weltentypen.
+309.3. Welt-Untertypen werden nach einem Gedankenstrich aufgeführt und können aus mehreren Wörtern bestehen: „Welt – Serras Reich“. Alle Wörter nach dem Gedankenstrich sind zusammen ein einziger Untertyp. Welt-Untertypen werden \Weltentypen\ genannt. Eine Welt kann nur einen Untertyp haben. Siehe Regel 205.3n für die vollständige Liste der Weltentypen.
 
-309.4. Eine Weltenkarte kann eine beliebige Anzahl an statischen, ausgelösten 
-und/oder aktivierten Fähigkeiten haben. Solange eine Weltenkarte in der 
-Kommandozone aufgedeckt ist, beeinflussen ihre statischen Fähigkeiten das 
-Spiel, können ihre ausgelösten Fähigkeiten ausgelöst und ihre aktivierten 
-Fähigkeiten aktiviert werden.
+309.4. Eine Weltenkarte kann eine beliebige Anzahl an statischen, ausgelösten und/oder aktivierten Fähigkeiten haben. Solange eine Weltenkarte in der Kommandozone aufgedeckt ist, beeinflussen ihre statischen Fähigkeiten das Spiel, können ihre ausgelösten Fähigkeiten ausgelöst und ihre aktivierten Fähigkeiten aktiviert werden.
 
-309.5. Der Beherrscher einer aufgedeckten Weltenkarte ist der Spieler, der als
-\Weltenbeherrscher\ vorgesehen ist. Normalerweise ist der Weltenbeherrscher 
-der aktive Spieler. Falls jedoch der aktuelle 
-Weltenbeherrscher das Spiel verlassen würde, wird der nächste Spieler in 
-Zugreihenfolge, der das Spiel nicht verlassen würde, der neue 
-Weltenbeherrscher, dann verlässt der alte Weltenbeherrscher das Spiel. Der neue 
-Weltenbeherrscher behält diese Rolle, bis er das Spiel verlässt oder ein 
-anderer Spieler aktiver Spieler wird, je nachdem, was zuerst eintritt.
+309.5. Der Beherrscher einer aufgedeckten Weltenkarte ist der Spieler, der als \Weltenbeherrscher\ vorgesehen ist. Normalerweise ist der Weltenbeherrscher der aktive Spieler. Falls jedoch der aktuelle Weltenbeherrscher das Spiel verlassen würde, wird der nächste Spieler in Zugreihenfolge, der das Spiel nicht verlassen würde, der neue Weltenbeherrscher, dann verlässt der alte Weltenbeherrscher das Spiel. Der neue Weltenbeherrscher behält diese Rolle, bis er das Spiel verlässt oder ein anderer Spieler aktiver Spieler wird, je nachdem, was zuerst eintritt.
 
-309.6. Eine aufgedeckte Weltenkarte, die verdeckt wird, wird zu einem neuen 
-Objekt.
+309.6. Eine aufgedeckte Weltenkarte, die verdeckt wird, wird zu einem neuen Objekt.
 
-309.7. Jede Weltenkarte hat eine ausgelöste Fähigkeit, die ausgelöst wird „Immer wenn 
-du {C} würfelst.“ Diese werden „Chaosfähigkeiten“ genannt. Jede ist durch 
-das {C} zu ihrer Linken gekennzeichnet, auch wenn das Symbol selbst keine 
-Regelbedeutung hat.
+309.7. Jede Weltenkarte hat eine ausgelöste Fähigkeit, die ausgelöst wird „Immer wenn du {C} würfelst.“ Diese werden „Chaosfähigkeiten“ genannt. Jede ist durch das {C} zu ihrer Linken gekennzeichnet, auch wenn das Symbol selbst keine Regelbedeutung hat.
 
 310. Phänomene
 
-310.1. Phänomen ist ein Kartentyp, den es nur auf nicht herkömmlichen #Magic#-
-Karten gibt. Nur die Freizeitspiel-Variante „Planechase“ benutzt 
-Phänomenkarten. Siehe Regel 901, „Planechase.“
+310.1. Phänomen ist ein Kartentyp, den es nur auf nicht herkömmlichen #Magic#-Karten gibt. Nur die Freizeitspiel-Variante „Planechase“ benutzt Phänomenkarten. Siehe Regel 901, „Planechase.“
 
-310.2. Phänomenkarten verbleiben das ganze Spiel über in der Kommandozone, 
-sowohl als Teil des Weltendecks als auch solange sie aufgedeckt sind. 
-Sie sind keine bleibenden Karten. Sie können nicht gewirkt werden. 
-Falls eine Phänomenkarte die Kommandozone verlassen würde, bleibt sie in der 
-Kommandozone.
+310.2. Phänomenkarten verbleiben das ganze Spiel über in der Kommandozone, sowohl als Teil des Weltendecks als auch solange sie aufgedeckt sind. Sie sind keine bleibenden Karten. Sie können nicht gewirkt werden. Falls eine Phänomenkarte die Kommandozone verlassen würde, bleibt sie in der Kommandozone.
 
 310.3 Phänomenkarten haben keine Untertypen.
 
-310.4. Der Beherrscher einer aufgedeckten Phänomenkarte ist der Spieler, der als
-Weltenbeherrscher vorgesehen ist. Normalerweise ist der Weltenbeherrscher 
-der aktive Spieler. Falls jedoch der aktuelle 
-Weltenbeherrscher das Spiel verlassen würde, wird der nächste Spieler in 
-Zugreihenfolge, der das Spiel nicht verlassen würde, der neue 
-Weltenbeherrscher, dann verlässt der alte Weltenbeherrscher das Spiel. Der neue 
-Weltenbeherrscher behält diese Rolle, bis er das Spiel verlässt oder ein 
-anderer Spieler aktiver Spieler wird, je nachdem, was zuerst eintritt.
+310.4. Der Beherrscher einer aufgedeckten Phänomenkarte ist der Spieler, der als Weltenbeherrscher vorgesehen ist. Normalerweise ist der Weltenbeherrscher der aktive Spieler. Falls jedoch der aktuelle Weltenbeherrscher das Spiel verlassen würde, wird der nächste Spieler in Zugreihenfolge, der das Spiel nicht verlassen würde, der neue Weltenbeherrscher, dann verlässt der alte Weltenbeherrscher das Spiel. Der neue Weltenbeherrscher behält diese Rolle, bis er das Spiel verlässt oder ein anderer Spieler aktiver Spieler wird, je nachdem, was zuerst eintritt.
 
-310.5. Jede Phänomenkarte hat eine ausgelöste Fähigkeit, die ausgelöst wird, wenn du 
-auf das Phänomen triffst. „Wenn du auf [diese Phänomen] triffst“ bedeutet „Wenn 
-du diese Karte von deinem Weltendeck aufdeckst.“
+310.5. Jede Phänomenkarte hat eine ausgelöste Fähigkeit, die ausgelöst wird, wenn du auf das Phänomen triffst. „Wenn du auf [diese Phänomen] triffst“ bedeutet „Wenn du diese Karte von deinem Weltendeck aufdeckst.“
 
-310.6. Eine aufgedeckte Phänomenkarte, die verdeckt wird, wird zu einem neuen 
-Objekt.
+310.6. Eine aufgedeckte Phänomenkarte, die verdeckt wird, wird zu einem neuen Objekt.
 
-310.7. Wenn sich eine aufgedeckte Phänomenkarte in der Kommandozone befindet, 
-die nicht die Quelle einer ausgelösten Fähigkeit ist, die ausgelöst wurde, aber 
-noch nicht den Stapel verlassen hat, weltenwandert der Weltenbeherrscher das 
-nächste Mal, wenn ein Spieler Priorität erhalten würde. (Dies ist eine 
-zustandsbasierte Aktion; siehe Regel 704. Siehe auch Regel 701.21, 
-„Weltenwandern“.)
+310.7. Wenn sich eine aufgedeckte Phänomenkarte in der Kommandozone befindet, die nicht die Quelle einer ausgelösten Fähigkeit ist, die ausgelöst wurde, aber noch nicht den Stapel verlassen hat, weltenwandert der Weltenbeherrscher das nächste Mal, wenn ein Spieler Priorität erhalten würde. (Dies ist eine zustandsbasierte Aktion; siehe Regel 704. Siehe auch Regel 701.21, „Weltenwandern“.)
 
 311. Vanguard-Karten
 
-311.1. Vanguard ist ein Kartentyp, den es nur auf nicht herkömmlichen #Magic#-
-Karten gibt. Nur die Freizeitspiel-Variante „Vanguard“ benutzt Vanguard-Karten. 
-Siehe Regel 902, „Vanguard.“
+311.1. Vanguard ist ein Kartentyp, den es nur auf nicht herkömmlichen #Magic#-Karten gibt. Nur die Freizeitspiel-Variante „Vanguard“ benutzt Vanguard-Karten. Siehe Regel 902, „Vanguard.“
 
-311.2. Vanguard-Karten verbleiben das ganze Spiel über in der Kommandozone. 
-Vanguard-Karten sind keine bleibenden Karten. Sie können nicht gewirkt werden. 
-Falls eine Vanguard-Karte die Kommandozone verlassen würde, bleibt sie in der 
-Kommandozone.
+311.2. Vanguard-Karten verbleiben das ganze Spiel über in der Kommandozone. Vanguard-Karten sind keine bleibenden Karten. Sie können nicht gewirkt werden. Falls eine Vanguard-Karte die Kommandozone verlassen würde, bleibt sie in der Kommandozone.
 
 311.3. Vanguard-Karten haben keine Untertypen.
 
-311.4. Eine Vanguard-Karte kann eine beliebige Anzahl an statischen, ausgelösten 
-und/oder aktivierten Fähigkeiten haben. Solange eine Vanguard-Karte in der 
-Kommandozone ist, beeinflussen ihre statischen Fähigkeiten das Spiel, können 
-ihre ausgelösten Fähigkeiten ausgelöst und ihre aktivierten Fähigkeiten 
-aktiviert werden.
+311.4. Eine Vanguard-Karte kann eine beliebige Anzahl an statischen, ausgelösten und/oder aktivierten Fähigkeiten haben. Solange eine Vanguard-Karte in der Kommandozone ist, beeinflussen ihre statischen Fähigkeiten das Spiel, können ihre ausgelösten Fähigkeiten ausgelöst und ihre aktivierten Fähigkeiten aktiviert werden.
 
-311.5. Der Besitzer einer Vanguard-Karte ist der Spieler, der mit dieser Karte 
-in der Kommandozone das Spiel begonnen hat. Der Beherrscher einer aufgedeckten 
-Vanguard-Karte ist ihr Besitzer.
+311.5. Der Besitzer einer Vanguard-Karte ist der Spieler, der mit dieser Karte in der Kommandozone das Spiel begonnen hat. Der Beherrscher einer aufgedeckten Vanguard-Karte ist ihr Besitzer.
 
-311.6. Jede Vanguard-Karte hat in ihrer unteren linken Ecke eine Anpassung der 
-Handkartenzahl aufgedruckt. Dabei handelt es sich um eine Zahl mit 
-vorangestelltem Pluszeichen, eine Zahl mit vorangestelltem Minuszeichen oder 
-eine Null. Diese Anpassung wird auf die maximale Handkartenzahl des Besitzers 
-der Vanguard-Karte angewendet (normalerweise sieben), um zu ermitteln, wie 
-viele Karten dieser Spieler zu Beginn der Partie zieht und was seine maximale 
-Handkartenzahl ist.
+311.6. Jede Vanguard-Karte hat in ihrer unteren linken Ecke eine Anpassung der Handkartenzahl aufgedruckt. Dabei handelt es sich um eine Zahl mit vorangestelltem Pluszeichen, eine Zahl mit vorangestelltem Minuszeichen oder eine Null. Diese Anpassung wird auf die maximale Handkartenzahl des Besitzers der Vanguard-Karte angewendet (normalerweise sieben), um zu ermitteln, wie viele Karten dieser Spieler zu Beginn der Partie zieht und was seine maximale Handkartenzahl ist.
 
-311.7. Jede Vanguard-Karte hat in ihrer unteren rechten Ecke eine Anpassung der 
-Lebenspunkte aufgedruckt. Dabei handelt es sich um eine Zahl mit 
-vorangestelltem Pluszeichen, eine Zahl mit vorangestelltem Minuszeichen oder 
-eine Null. Diese Anpassung wird auf den Anfangswert der Lebenspunkte des 
-Besitzers der Vanguard-Karte angewendet (normalerweise 20), um zu ermitteln, 
-mit wie vielen Lebenspunkten dieser Spieler die Partie beginnt.
+311.7. Jede Vanguard-Karte hat in ihrer unteren rechten Ecke eine Anpassung der Lebenspunkte aufgedruckt. Dabei handelt es sich um eine Zahl mit vorangestelltem Pluszeichen, eine Zahl mit vorangestelltem Minuszeichen oder eine Null. Diese Anpassung wird auf den Anfangswert der Lebenspunkte des Besitzers der Vanguard-Karte angewendet (normalerweise 20), um zu ermitteln, mit wie vielen Lebenspunkten dieser Spieler die Partie beginnt.
 
 312. Komplotte
 
-312.1. Komplott ist ein Kartentyp, den es nur auf nicht herkömmlichen #Magic#-
-Karten gibt. Nur die Freizeitspiel-Variante „Archenemy“ benutzt Komplott-Karten. 
-Siehe Regel 904, „Archenemy.“
+312.1. Komplott ist ein Kartentyp, den es nur auf nicht herkömmlichen #Magic#-Karten gibt. Nur die Freizeitspiel-Variante „Archenemy“ benutzt Komplott-Karten. Siehe Regel 904, „Archenemy.“
 
-312.2. Komplott-Karten verbleiben das ganze Spiel über in der Kommandozone, 
-sowohl wenn sie Teil eines Komplott-Decks sind, als auch während sie aufgedeckt 
-sind. Sie sind keine bleibenden Karten. Sie können nicht gewirkt werden. Falls 
-eine Komplott-Karte die Kommandozone verlassen würde, bleibt sie in der 
-Kommandozone.
+312.2. Komplott-Karten verbleiben das ganze Spiel über in der Kommandozone, sowohl wenn sie Teil eines Komplott-Decks sind, als auch während sie aufgedeckt sind. Sie sind keine bleibenden Karten. Sie können nicht gewirkt werden. Falls eine Komplott-Karte die Kommandozone verlassen würde, bleibt sie in der Kommandozone.
 
 312.3. Komplott-Karten haben keine Untertypen.
 
-312.4. Eine Komplott-Karte kann eine beliebige Anzahl an statischen, ausgelösten 
-und/oder aktivierten Fähigkeiten haben. Solange eine Komplott-Karte aufgedeckt 
-in der Kommandozone ist, beeinflussen ihre statischen Fähigkeiten das Spiel, 
-können ihre ausgelösten Fähigkeiten ausgelöst und ihre aktivierten Fähigkeiten 
-aktiviert werden.
+312.4. Eine Komplott-Karte kann eine beliebige Anzahl an statischen, ausgelösten und/oder aktivierten Fähigkeiten haben. Solange eine Komplott-Karte aufgedeckt in der Kommandozone ist, beeinflussen ihre statischen Fähigkeiten das Spiel, können ihre ausgelösten Fähigkeiten ausgelöst und ihre aktivierten Fähigkeiten aktiviert werden.
 
-312.5. Der Besitzer einer Komplott-Karte ist der Spieler, der mit dieser Karte 
-in der Kommandozone das Spiel begonnen hat. Der Beherrscher einer aufgedeckten 
-Komplott-Karte ist ihr Besitzer.
+312.5. Der Besitzer einer Komplott-Karte ist der Spieler, der mit dieser Karte in der Kommandozone das Spiel begonnen hat. Der Beherrscher einer aufgedeckten Komplott-Karte ist ihr Besitzer.
 
-312.6. Wenn eine nicht-andauernde Komplott-Karte in der Kommandozone aufgedeckt 
-ist, und sie nicht die Quelle einer ausgelösten Fähigkeit ist, die ausgelöst 
-wurde, aber noch nicht den Stapel verlassen hat, wird diese Komplott-Karte das 
-nächste Mal, wenn ein Spieler Priorität erhalten würde, verdeckt und unter das 
-Komplott-Deck ihres Besitzers gelegt. (Dies ist eine zustandsbasierte 
-Aktion. Siehe Regel 704.)
+312.6. Wenn eine nicht-andauernde Komplott-Karte in der Kommandozone aufgedeckt ist, und sie nicht die Quelle einer ausgelösten Fähigkeit ist, die ausgelöst wurde, aber noch nicht den Stapel verlassen hat, wird diese Komplott-Karte das nächste Mal, wenn ein Spieler Priorität erhalten würde, verdeckt und unter das Komplott-Deck ihres Besitzers gelegt. (Dies ist eine zustandsbasierte Aktion. Siehe Regel 704.)
 
-312.7. Wenn die Fähigkeit einer Komplott-Karte den Text „dieses Komplott“ 
-enthält, meint sie die Komplott-Karte in der Kommandozone, die die Quelle 
-dieser Fähigkeit ist. Dies ist eine Ausnahme zu Regel 109.2.
-
-
+312.7. Wenn die Fähigkeit einer Komplott-Karte den Text „dieses Komplott“ enthält, meint sie die Komplott-Karte in der Kommandozone, die die Quelle dieser Fähigkeit ist. Dies ist eine Ausnahme zu Regel 109.2.
 
 4. Zonen
 
