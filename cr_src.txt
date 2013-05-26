@@ -3393,1349 +3393,489 @@ könntest.“
 
 703. Rundenbasierte Aktionen
 
-703.1 Rundenbasierte Aktionen sind Spielaktionen, die automatisch zu 
-Beginn bestimmter Segmente oder Phasen stattfinden oder am Ende jedes Segments 
-und jeder Phase. Rundenbasierte Aktionen benutzen nicht den Stapel.
+703.1 Rundenbasierte Aktionen sind Spielaktionen, die automatisch zu Beginn bestimmter Segmente oder Phasen stattfinden oder am Ende jedes Segments und jeder Phase. Rundenbasierte Aktionen benutzen nicht den Stapel.
 
-703.1a Fähigkeiten, die darauf warten, dass ein bestimmtes Segment oder eine 
-bestimmte Phase anfängt, sind ausgelöste Fähigkeiten und keine automatischen 
-SpielzugAktionen. (Siehe Regel 603.3c.)
+703.1a Fähigkeiten, die darauf warten, dass ein bestimmtes Segment oder eine bestimmte Phase anfängt, sind ausgelöste Fähigkeiten und keine rundenbasierten Aktionen. (Siehe Regel 603.3c.)
 
 703.2 Rundenbasierte Aktionen werden von keinem Spieler kontrolliert.
 
-703.3 Immer wenn ein Segment oder eine Phase beginnt, mit dem bzw. der 
-irgendwelche rundenbasierten Aktionen verknüpft sind, werden diese 
-rundenbasierten Aktionen zuerst abgearbeitet. Das geschieht, bevor 
-zustandsbasierte Aktionen überprüft werden, bevor ausgelöste 
-Fähigkeiten auf den Stapel gelegt werden und bevor Spieler Priorität erhalten.
+703.3 Immer wenn ein Segment oder eine Phase beginnt, mit dem bzw. der irgendwelche rundenbasierten Aktionen verknüpft sind, werden diese rundenbasierten Aktionen zuerst abgearbeitet. Das geschieht, bevor zustandsbasierte Aktionen überprüft werden, bevor ausgelöste Fähigkeiten auf den Stapel gelegt werden und bevor Spieler Priorität erhalten.
 
 703.4 Die rundenbasierten Aktionen sind wie folgt:
 
-703.4a Unmittelbar nachdem das Enttappsegment beginnt, destabilisieren sich 
-alle stabilisierten bleibenden Karten mit Instabilität, die der aktive Spieler 
-kontrolliert, und alle destabilisierten bleibenden Karten, die der aktive 
-Spieler beherrschte, als sie sich destabilisierten, stabilisieren sich. Das 
-alles passiert gleichzeitig. Siehe Regel 502.1.
+703.4a Unmittelbar nachdem das Enttappsegment beginnt, destabilisieren sich alle stabilisierten bleibenden Karten mit Instabilität, die der aktive Spieler kontrolliert, und alle destabilisierten bleibenden Karten, die der aktive Spieler beherrschte, als sie sich destabilisierten, stabilisieren sich. Das alles passiert gleichzeitig. Siehe Regel 502.1.
 
-703.4b Unmittelbar nachdem die Instabilitäts-Aktion im Enttappsegment vollendet 
-wurde, legt der aktive Spieler fest, welche bleibenden Karten, die er 
-beherrscht, enttappt werden. Dann enttappt er sie alle gleichzeitig. Siehe 
-Regel 502.2.
+703.4b Unmittelbar nachdem die Instabilitäts-Aktion im Enttappsegment vollendet wurde, legt der aktive Spieler fest, welche bleibenden Karten, die er beherrscht, enttappt werden. Dann enttappt er sie alle gleichzeitig. Siehe Regel 502.2.
 
-703.4c Unmittelbar nachdem das Ziehsegment beginnt, zieht der aktive Spieler 
-eine Karte. Siehe Regel 504.1.
+703.4c Unmittelbar nachdem das Ziehsegment beginnt, zieht der aktive Spieler eine Karte. Siehe Regel 504.1.
 
-703.4d Unmittelbar nachdem das Beginn-des-Kampfes-Segment beginnt, bestimmt der 
-aktive Spieler einen seiner Gegner, falls es sich um eine Mehrspielerpartie 
-handelt, in der nicht alle Gegner des aktiven Spielers automatisch zu 
-verteidigenden Spielern werden. Dieser Spieler wird zum verteidigenden Spieler. 
-Siehe Regel 507.1.
+703.4d Unmittelbar nachdem das Beginn-des-Kampfes-Segment beginnt, bestimmt der aktive Spieler einen seiner Gegner, falls es sich um eine Mehrspielerpartie handelt, in der nicht alle Gegner des aktiven Spielers automatisch zu verteidigenden Spielern werden. Dieser Spieler wird zum verteidigenden Spieler. Siehe Regel 507.1.
 
-703.4d Unmittelbar nachdem in einer Partie „Erzfeind“ die Vor-dem-Kampf-
-Hauptphase des Erzfeinds beginnt, schmiedet dieser Spieler das oberste Komplott 
-seines Komplott-Decks. Siehe Regel 701.22.
+703.4d Unmittelbar nachdem in einer Partie „Erzfeind“ die Vor-dem-Kampf-Hauptphase des Erzfeinds beginnt, schmiedet dieser Spieler das oberste Komplott seines Komplott-Decks. Siehe Regel 701.22.
 
-703.4e Unmittelbar nachdem das Beginn-des-Kampfes-Segment beginnt, bestimmt der 
-aktive Spieler einen seiner Gegner, falls es sich um eine Mehrspielerpartie 
-handelt, in der nicht alle Gegner des aktiven Spielers automatisch zu 
-verteidigenden Spielern werden. Dieser Spieler wird zum verteidigenden Spieler. 
-Siehe Regel 507.1.
+703.4e Unmittelbar nachdem das Beginn-des-Kampfes-Segment beginnt, bestimmt der aktive Spieler einen seiner Gegner, falls es sich um eine Mehrspielerpartie handelt, in der nicht alle Gegner des aktiven Spielers automatisch zu verteidigenden Spielern werden. Dieser Spieler wird zum verteidigenden Spieler. Siehe Regel 507.1.
 
-703.4f Unmittelbar nachdem das Angreifer-deklarieren-Segment beginnt, 
-deklariert der aktive Spieler seine Angreifer. Siehe Regel 508.1.
+703.4f Unmittelbar nachdem das Angreifer-deklarieren-Segment beginnt, deklariert der aktive Spieler seine Angreifer. Siehe Regel 508.1.
 
-703.4g Unmittelbar nachdem das Blocker-deklarieren-Segment beginnt, deklariert 
-der verteidigende Spieler seine Blocker. Siehe Regel 509.1.
+703.4g Unmittelbar nachdem das Blocker-deklarieren-Segment beginnt, deklariert der verteidigende Spieler seine Blocker. Siehe Regel 509.1.
 
-703.4h Unmittelbar nachdem im Blocker-deklarieren-Segment die Blocker 
-deklariert wurden, erklärt der aktive Spieler für jede angreifende Kreatur, die 
-von mehreren Kreaturen geblockt wird, ihre Schadenszuweisungsreihenfolge unter 
-den blockenden Kreaturen. Siehe Regel 509.2.
+703.4h Unmittelbar nachdem im Blocker-deklarieren-Segment die Blocker deklariert wurden, erklärt der aktive Spieler für jede angreifende Kreatur, die von mehreren Kreaturen geblockt wird, ihre Schadenszuweisungsreihenfolge unter den blockenden Kreaturen. Siehe Regel 509.2.
 
-703.4i Unmittelbar nachdem im Blocker-deklarieren-Segment der aktive Spieler 
-die Schadenszuweisungsreihenfolgen erklärt hat (falls nötig), erklärt der 
-verteidigende Spieler für jede Kreatur, die mehrere Kreaturen blockt, ihre 
-Schadenszuweisungsreihenfolge unter den angreifenden Kreaturen. Siehe 
-Regel 509.3.
+703.4i Unmittelbar nachdem im Blocker-deklarieren-Segment der aktive Spieler die Schadenszuweisungsreihenfolgen erklärt hat (falls nötig), erklärt der verteidigende Spieler für jede Kreatur, die mehrere Kreaturen blockt, ihre Schadenszuweisungsreihenfolge unter den angreifenden Kreaturen. Siehe Regel 509.3.
 
-703.4j Unmittelbar nachdem das Kampfschadensegment beginnt, sagt jeder Spieler 
-in ASNAS-Reihenfolge an, wie jede angreifende oder blockende Kreatur, die er 
-kontrolliert, ihren Kampfschaden zuweist. Siehe Regel 510.1.
+703.4j Unmittelbar nachdem das Kampfschadensegment beginnt, sagt jeder Spieler in ASNAS-Reihenfolge an, wie jede angreifende oder blockende Kreatur, die er kontrolliert, ihren Kampfschaden zuweist. Siehe Regel 510.1.
 
-703.4k Unmittelbar nachdem im Kampfschadensegment der Kampfschaden zugewiesen 
-wurde, wird sämtlicher Kampfschaden, der zugewiesen wurde, gleichzeitig 
-zugefügt. Siehe Regel 510.2.
+703.4k Unmittelbar nachdem im Kampfschadensegment der Kampfschaden zugewiesen wurde, wird sämtlicher Kampfschaden, der zugewiesen wurde, gleichzeitig zugefügt. Siehe Regel 510.2.
 
-703.4m Unmittelbar nachdem das Aufräumsegment beginnt, wirft der aktive 
-Spieler, wenn seine Hand mehr Karten enthält als seine maximale Handkartenzahl 
-(normalerweise sieben), genug Karten ab, um seine Handkartenzahl auf diese Zahl 
-zu reduzieren. Siehe Regel 514.1.
+703.4m Unmittelbar nachdem das Aufräumsegment beginnt, wirft der aktive Spieler, wenn seine Hand mehr Karten enthält als seine maximale Handkartenzahl (normalerweise sieben), genug Karten ab, um seine Handkartenzahl auf diese Zahl zu reduzieren. Siehe Regel 514.1.
 
-703.4n Unmittelbar nachdem der aktive Spieler im Aufräumsegment Karten 
-abgeworfen hat (falls nötig), wird aller Schaden, der für bleibende Karten 
-notiert wurde, entfernt, und alle „bis zum Ende des Zuges“- und „in diesem Zug“-
-Effekte enden. Diese Aktionen passieren gleichzeitig. Siehe Regel 514.2.
+703.4n Unmittelbar nachdem der aktive Spieler im Aufräumsegment Karten abgeworfen hat (falls nötig), wird aller Schaden, der für bleibende Karten notiert wurde, entfernt, und alle „bis zum Ende des Zuges“- und „in diesem Zug“-Effekte enden. Diese Aktionen passieren gleichzeitig. Siehe Regel 514.2.
 
-703.4p Wenn ein Segment oder eine Phase endet, wird alles unbenutzte Mana aus 
-dem Manavorrat jedes Spielers entfernt. Siehe Regel 500.4.
+703.4p Wenn ein Segment oder eine Phase endet, wird alles unbenutzte Mana aus dem Manavorrat jedes Spielers entfernt. Siehe Regel 500.4.
 
-704. zustandsbasierte Aktionen
+704. Zustandsbasierte Aktionen
 
-704.1 zustandsbasierte Aktionen sind Spielaktionen die automatisch 
-stattfinden, wenn bestimmte Bedingungen (weiter unten aufgelistet) erfüllt 
-sind. zustandsbasierte Aktionen benutzen nicht den Stapel.
+704.1 Zustandsbasierte Aktionen sind Spielaktionen die automatisch stattfinden, wenn bestimmte Bedingungen (weiter unten aufgelistet) erfüllt sind. zustandsbasierte Aktionen benutzen nicht den Stapel.
 
-704.1a Fähigkeiten, die auf einen angegebenen Spielzustand warten, sind 
-ausgelöste Fähigkeiten, keine zustandsbasierten Aktionen. (Siehe 
-Regel 603, „Ausgelöste Fähigkeiten“.)
+704.1a Fähigkeiten, die auf einen angegebenen Spielzustand warten, sind ausgelöste Fähigkeiten, keine zustandsbasierten Aktionen. (Siehe Regel 603, „Ausgelöste Fähigkeiten“.)
 
-704.2 zustandsbasierte Aktionen werden das ganze Spiel hindurch 
-überprüft und werden von keinem Spieler kontrolliert.
+704.2 zustandsbasierte Aktionen werden das ganze Spiel hindurch überprüft und werden von keinem Spieler kontrolliert.
 
-704.3 Immer wenn ein Spieler Priorität erhalten würde (siehe Regel 116, „Timing 
-und Priorität“), überprüft das Spiel auf jede der aufgelisteten Bedingungen für 
-zustandsbasierte Aktionen und führt alle anwendbaren Effekte 
-gleichzeitig als ein einzelnes Ereignis durch. Falls als Ergebnis der 
-Überprüfung irgendwelche zustandsbasierte Aktionen durchgeführt wurden, 
-wird die Überprüfung wiederholt; ansonsten werden alle ausgelöste Fähigkeiten, 
-die darauf warten, auf den Stapel gelegt zu werden, auf den Stapel gelegt, dann 
-wird die Überprüfung wiederholt. Sobald keine weiteren zustandsbasierten Aktionen als Ergebnis der Überprüfung generiert wurden und keine 
-ausgelösten Fähigkeiten darauf warten, auf den Stapel gelegt zu werden, erhält 
-der entsprechende Spieler Priorität. Dieser Vorgang findet auch während des 
-Aufräumsegments statt (siehe Regel 514), mit dem Unterschied, dass kein Spieler 
-Priorität erhält und das Segment endet, falls keine zustandsbasierten 
-Aktionen als Ergebnis der ersten Überprüfung in diesem Segment generiert wurden 
-und keine ausgelösten Fähigkeiten darauf warten, auf den Stapel gelegt zu 
-werden.
+704.3 Immer wenn ein Spieler Priorität erhalten würde (siehe Regel 116, „Timing und Priorität“), überprüft das Spiel auf jede der aufgelisteten Bedingungen für zustandsbasierte Aktionen und führt alle anwendbaren Effekte gleichzeitig als ein einzelnes Ereignis durch. Falls als Ergebnis der Überprüfung irgendwelche zustandsbasierte Aktionen durchgeführt wurden, wird die Überprüfung wiederholt; ansonsten werden alle ausgelöste Fähigkeiten, die darauf warten, auf den Stapel gelegt zu werden, auf den Stapel gelegt, dann wird die Überprüfung wiederholt. Sobald keine weiteren zustandsbasierten Aktionen als Ergebnis der Überprüfung generiert wurden und keine ausgelösten Fähigkeiten darauf warten, auf den Stapel gelegt zu werden, erhält der entsprechende Spieler Priorität. Dieser Vorgang findet auch während des Aufräumsegments statt (siehe Regel 514), mit dem Unterschied, dass kein Spieler Priorität erhält und das Segment endet, falls keine zustandsbasierten Aktionen als Ergebnis der ersten Überprüfung in diesem Segment generiert wurden und keine ausgelösten Fähigkeiten darauf warten, auf den Stapel gelegt zu werden.
 
-704.4 Anders als ausgelöste Fähigkeiten, achten zustandsbasierte 
-Aktionen nicht darauf, was während der Verrechnung eines Zauberspruchs oder 
-einer Fähigkeit geschieht.
+704.4 Anders als ausgelöste Fähigkeiten, achten zustandsbasierte Aktionen nicht darauf, was während der Verrechnung eines Zauberspruchs oder einer Fähigkeit geschieht.
 
-   Beispiel: Ein Spieler kontrolliert eine Kreatur mit der Fähigkeit „Die 
-   Stärke und Widerstandskraft dieser Kreatur sind gleich der Anzahl an Karten 
-   in deiner Hand.“ und wirkt einen Zauberspruch, dessen Effekt „Wirf deine 
-   Hand ab, ziehe danach sieben Karten.“ ist. Die Kreatur wird mitten in der 
-   Verrechnung des Zauberspruchs kurzzeitig eine Widerstandskraft von 0 
-   besitzen, aber wird wieder zurück auf einer Widerstandskraft von 7 sein, 
-   wenn der Zauberspruch die Verrechnung beendet hat. Folglich wird die Kreatur 
-   überleben, wenn zustandsbasierte Aktionen überprüft werden. Im 
-   Gegensatz dazu geht eine ausgelöste Fähigkeit, die ausgelöst wird, wenn der 
-   Spieler keine Karten in der Hand hat, auf den Stapel, nachdem der Spruch 
-   verrechnet worden ist, weil sein Auslöseereignis während der Verrechnung 
-   geschah.
+Beispiel: Ein Spieler kontrolliert eine Kreatur mit der Fähigkeit „Die Stärke und Widerstandskraft dieser Kreatur sind gleich der Anzahl an Karten in deiner Hand.“ und wirkt einen Zauberspruch, dessen Effekt „Wirf deine Hand ab, ziehe danach sieben Karten.“ ist. Die Kreatur wird mitten in der Verrechnung des Zauberspruchs kurzzeitig eine Widerstandskraft von 0 besitzen, aber wird wieder zurück auf einer Widerstandskraft von 7 sein, wenn der Zauberspruch die Verrechnung beendet hat. Folglich wird die Kreatur überleben, wenn zustandsbasierte Aktionen überprüft werden. Im Gegensatz dazu geht eine ausgelöste Fähigkeit, die ausgelöst wird, wenn der Spieler keine Karten in der Hand hat, auf den Stapel, nachdem der Spruch verrechnet worden ist, weil sein Auslöseereignis während der Verrechnung geschah.
 
 704.5 Die zustandsbasierten Aktionen sind wie folgt:
 
 704.5a Falls ein Spieler 0 oder weniger Lebenspunkte hat, verliert er das Spiel.
 
-704.5b Falls ein Spieler seit dem letzten Mal, als zustandsbasierte 
-Aktionen überprüft wurden, versucht hat, eine Karte von einer Bibliothek zu 
-ziehen, in der keine Karten sind, verliert er das Spiel.
+704.5b Falls ein Spieler seit dem letzten Mal, als zustandsbasierte Aktionen überprüft wurden, versucht hat, eine Karte von einer Bibliothek zu ziehen, in der keine Karten sind, verliert er das Spiel.
 
-704.5c Falls ein Spieler 10 oder mehr Giftmarken hat, verliert er das Spiel. 
-Ignoriere diese Regel in Zweiköpfiger-Riese-Partien; siehe stattdessen 
-Regel 704.5u.
+704.5c Falls ein Spieler 10 oder mehr Giftmarken hat, verliert er das Spiel. Ignoriere diese Regel in Zweiköpfiger-Riese-Partien; siehe stattdessen Regel 704.5u.
 
-704.5d Falls ein Spielstein destabilisiert ist oder sich in einer anderen Zone 
-als der Im-Spiel-Zone befindet, hört er auf zu existieren.
+704.5d Falls ein Spielstein destabilisiert ist oder sich in einer anderen Zone als der Im-Spiel-Zone befindet, hört er auf zu existieren.
 
-704.5e Falls sich eine Kopie eines Zauberspruchs in einer anderen Zone als dem 
-Stapel befindet, hört sie auf zu existieren. Wenn sich eine Kopie einer Karte 
-in einer anderen Zone als dem Stapel oder der Im-Spiel-Zone befindet, hört sie 
-auf zu existieren.
+704.5e Falls sich eine Kopie eines Zauberspruchs in einer anderen Zone als dem Stapel befindet, hört sie auf zu existieren. Wenn sich eine Kopie einer Karte in einer anderen Zone als dem Stapel oder der Im-Spiel-Zone befindet, hört sie auf zu existieren.
 
-704.5f Falls eine Kreatur eine Widerstandskraft von 0 oder weniger hat, wird 
-sie in den Friedhof ihres Besitzers gelegt. Regeneration kann dieses Ereignis 
-nicht ersetzen.
+704.5f Falls eine Kreatur eine Widerstandskraft von 0 oder weniger hat, wird sie in den Friedhof ihres Besitzers gelegt. Regeneration kann dieses Ereignis nicht ersetzen.
 
-704.5g Falls eine Kreatur eine Widerstandskraft größer 0 hat und der gesamte 
-für sie notierte Schaden größer oder gleich der Widerstandskraft ist, wurde ihr 
-tödlicher Schaden zugefügt, und sie wird zerstört. Regeneration kann dieses 
-Ereignis ersetzen.
+704.5g Falls eine Kreatur eine Widerstandskraft größer 0 hat und der gesamte für sie notierte Schaden größer oder gleich der Widerstandskraft ist, wurde ihr tödlicher Schaden zugefügt, und sie wird zerstört. Regeneration kann dieses Ereignis ersetzen.
 
-704.5h Falls eine Kreatur eine Widerstandskraft größer 0 hat und ihr seit dem 
-letzten Mal, als zustandsbasierte Aktionen überprüft wurden, von einer 
-Quelle mit Todesberührung Schaden zugefügt wurde, wird sie zerstört. 
-Regeneration kann dieses Ereignis ersetzen.
+704.5h Falls eine Kreatur eine Widerstandskraft größer 0 hat und ihr seit dem letzten Mal, als zustandsbasierte Aktionen überprüft wurden, von einer Quelle mit Todesberührung Schaden zugefügt wurde, wird sie zerstört. Regeneration kann dieses Ereignis ersetzen.
 
-704.5i Falls ein Planeswalker eine Loyalität von 0 hat, wird er in den Friedhof 
-seines Besitzers gelegt.
+704.5i Falls ein Planeswalker eine Loyalität von 0 hat, wird er in den Friedhof seines Besitzers gelegt.
 
-704.5j Falls zwei oder mehr Planeswalker im Spiel sind, die einen 
-Planeswalkertyp gemeinsam haben, werden alle in den Friedhof ihrer Besitzer 
-gelegt. Dies wird die „Planeswalker-Einzigartigkeitsregel“ genannt.
+704.5j Falls zwei oder mehr Planeswalker im Spiel sind, die einen Planeswalkertyp gemeinsam haben, werden alle in den Friedhof ihrer Besitzer gelegt. Dies wird die „Planeswalker-Einzigartigkeitsregel“ genannt.
 
-704.5k Falls zwei oder mehr legendäre bleibende Karten mit demselben Namen im 
-Spiel sind, werden alle in den Friedhof ihrer Besitzer gelegt. Dies wird die 
-„Legendenregel“ genannt. Wenn nur eine dieser bleibenden Karten legendär ist, 
-trifft die Regel nicht zu.
+704.5k Falls zwei oder mehr legendäre bleibende Karten mit demselben Namen im Spiel sind, werden alle in den Friedhof ihrer Besitzer gelegt. Dies wird die „Legendenregel“ genannt. Wenn nur eine dieser bleibenden Karten legendär ist, trifft die Regel nicht zu.
 
-704.5m Falls zwei oder mehr bleibende Karten den Übertyp Welt besitzen, werden 
-alle außer jene, welche die kürzeste Zeit lang eine bleibende Karte mit dem 
-Übertyp Welt im Spiel gewesen ist, in den Friedhof ihrer Besitzer gelegt. Im 
-Falle eines Gleichstands über die kürzeste Zeit werden alle in den Friedhof 
-ihrer Besitzer gelegt. Dies wird die „Weltregel“ genannt.
+704.5m Falls zwei oder mehr bleibende Karten den Übertyp Welt besitzen, werden alle außer jene, welche die kürzeste Zeit lang eine bleibende Karte mit dem Übertyp Welt im Spiel gewesen ist, in den Friedhof ihrer Besitzer gelegt. Im Falle eines Gleichstands über die kürzeste Zeit werden alle in den Friedhof ihrer Besitzer gelegt. Dies wird die „Weltregel“ genannt.
 
-704.5n Falls eine Aura an ein illegales Objekt oder einen illegalen Spieler 
-angelegt ist oder an kein Objekt und keinen Spieler angelegt ist, wird sie in 
-den Friedhof ihres Besitzers gelegt.
+704.5n Falls eine Aura an ein illegales Objekt oder einen illegalen Spieler angelegt ist oder an kein Objekt und keinen Spieler angelegt ist, wird sie in den Friedhof ihres Besitzers gelegt.
 
-704.5p Falls eine Ausrüstung oder eine Befestigung an eine illegale bleibende 
-Karte angelegt ist, wird sie von dieser bleibenden Karte entfernt. Sie bleibt 
-im Spiel.
+704.5p Falls eine Ausrüstung oder eine Befestigung an eine illegale bleibende Karte angelegt ist, wird sie von dieser bleibenden Karte entfernt. Sie bleibt im Spiel.
 
-704.5q Falls eine Kreatur an ein Objekt oder einen Spieler angelegt ist, wird 
-sie gelöst und bleibt im Spiel. Entsprechend wird eine bleibende Karte, die 
-weder eine Aura noch eine Ausrüstung noch eine Befestigung ist, und an eine 
-Objekt oder einen Spieler angelegt ist, gelöst und bleibt im Spiel.
+704.5q Falls eine Kreatur an ein Objekt oder einen Spieler angelegt ist, wird sie gelöst und bleibt im Spiel. Entsprechend wird eine bleibende Karte, die weder eine Aura noch eine Ausrüstung noch eine Befestigung ist, und an eine Objekt oder einen Spieler angelegt ist, gelöst und bleibt im Spiel.
 
-704.5r Falls eine bleibende Karte sowohl eine +1/+1- als auch eine –1/–1-Marke 
-auf sich hat, werden N +1/+1-Marken und N –1/–1-Marken von ihr entfernt, wobei 
-N die kleinere Anzahl an +1/+1- und –1/–1-Marken ist.
+704.5r Falls eine bleibende Karte sowohl eine +1/+1- als auch eine –1/–1-Marke auf sich hat, werden N +1/+1-Marken und N –1/–1-Marken von ihr entfernt, wobei N die kleinere Anzahl an +1/+1- und –1/–1-Marken ist.
 
-704.5s Falls auf einer bleibenden Karte mit einer Fähigkeit, die besagt, dass 
-sie nicht mehr als N Marken einer bestimmten Sorte auf sich liegen haben kann, 
-mehr als N Marken dieser Sorte liegen, werden alle bis auf N dieser Marken von 
-ihr entfernt.
+704.5s Falls auf einer bleibenden Karte mit einer Fähigkeit, die besagt, dass sie nicht mehr als N Marken einer bestimmten Sorte auf sich liegen haben kann, mehr als N Marken dieser Sorte liegen, werden alle bis auf N dieser Marken von ihr entfernt.
 
-704.5t In einer Partie „Zweiköpfiger Riese“ verliert ein Team das Spiel, wenn 
-es 0 oder weniger Lebenspunkte hat. Siehe Regel 810, „Variante Zweiköpfiger 
-Riese“.
+704.5t In einer Partie „Zweiköpfiger Riese“ verliert ein Team das Spiel, wenn es 0 oder weniger Lebenspunkte hat. Siehe Regel 810, „Variante Zweiköpfiger Riese“.
 
-704.5u In einer Partie „Zweiköpfiger Riese“ verliert ein Team das Spiel, wenn 
-es 15 oder mehr Giftmarken hat. Siehe Regel 810, „Variante Zweiköpfiger Riese“.
+704.5u In einer Partie „Zweiköpfiger Riese“ verliert ein Team das Spiel, wenn es 15 oder mehr Giftmarken hat. Siehe Regel 810, „Variante Zweiköpfiger Riese“.
 
-704.5v In einer Partie „Kommandeur“ verliert ein Spieler das Spiel, wenn er im 
-Verlauf des Spiels 21 oder mehr Kampfschaden von demselben Kommandeur erhalten 
-hat. Siehe Regel 903, „Kommandeur“.
+704.5v In einer Partie „Kommandeur“ verliert ein Spieler das Spiel, wenn er im Verlauf des Spiels 21 oder mehr Kampfschaden von demselben Kommandeur erhalten hat. Siehe Regel 903, „Kommandeur“.
 
-704.5w Wenn in einer Partie „Erzfeind“ eine nicht-andauernde Komplott-Karte in 
-der Kommandozone aufgedeckt ist, und sie nicht die Quelle einer ausgelösten 
-Fähigkeit ist, die ausgelöst wurde, aber noch nicht den Stapel verlassen hat, 
-wird diese Komplott-Karte verdeckt und unter das Komplott-Deck ihres Besitzers 
-gelegt. Siehe Regel 904, „Erzfeind“.)
+704.5w Wenn in einer Partie „Erzfeind“ eine nicht-andauernde Komplott-Karte in der Kommandozone aufgedeckt ist, und sie nicht die Quelle einer ausgelösten Fähigkeit ist, die ausgelöst wurde, aber noch nicht den Stapel verlassen hat, wird diese Komplott-Karte verdeckt und unter das Komplott-Deck ihres Besitzers gelegt. Siehe Regel 904, „Erzfeind“.)
 
-704.5x Wenn sich in einer Partie „Weltenjagd“ eine aufgedeckte Phänomenkarte in 
-der Kommandozone befindet, die nicht die Quelle einer ausgelösten Fähigkeit 
-ist, die ausgelöst wurde, aber noch nicht den Stapel verlassen hat, 
-weltenwandert der Weltenbeherrscher. Siehe Regel 901, „Weltenjagd“.)
+704.5x Wenn sich in einer Partie „Weltenjagd“ eine aufgedeckte Phänomenkarte in der Kommandozone befindet, die nicht die Quelle einer ausgelösten Fähigkeit ist, die ausgelöst wurde, aber noch nicht den Stapel verlassen hat, weltenwandert der Weltenbeherrscher. Siehe Regel 901, „Weltenjagd“.)
 
-704.6 Wenn mehrere zustandsbasierte Aktionen dasselbe Ergebnis zum 
-selben Zeitpunkt haben würden, ersetzt ein einzelner Ersatzeffekt sie alle.
+704.6 Wenn mehrere zustandsbasierte Aktionen dasselbe Ergebnis zum selben Zeitpunkt haben würden, ersetzt ein einzelner Ersatzeffekt sie alle.
 
-   Beispiel: Du kontrollierst den Spiegel des Lichs, der besagt: „Falls du das 
-   Spiel verlieren würdest, mische stattdessen deine Hand, deinen Friedhof und 
-   alle bleibenden Karten, die du kontrollierst, in deine Bibliothek, ziehe 
-   dann sieben Karten und dein Lebenspunktestand wird zu 20.“ Es befindet sich 
-   eine Karte in deiner Bibliothek und dein Lebenspunktestand ist 1. Ein 
-   Zauberspruch bringt dich dazu, zwei Karten zu ziehen und 2 Lebenspunkte zu 
-   verlieren. Das nächste Mal, wenn zustandsbasierte Aktionen überprüft 
-   werden, würdest du das Spiel durch Regel 704.5a und Regel 704.5b verlieren. 
-   Stattdessen ersetzt der Spiegel des Lichs dieses Spielverlieren und lässt 
-   dich weiterspielen.
+Beispiel: Du kontrollierst den Spiegel des Lichs, der besagt: „Falls du das Spiel verlieren würdest, mische stattdessen deine Hand, deinen Friedhof und alle bleibenden Karten, die du kontrollierst, in deine Bibliothek, ziehe dann sieben Karten und dein Lebenspunktestand wird zu 20.“ Es befindet sich eine Karte in deiner Bibliothek und dein Lebenspunktestand ist 1. Ein Zauberspruch bringt dich dazu, zwei Karten zu ziehen und 2 Lebenspunkte zu verlieren. Das nächste Mal, wenn zustandsbasierte Aktionen überprüft werden, würdest du das Spiel durch Regel 704.5a und Regel 704.5b verlieren. Stattdessen ersetzt der Spiegel des Lichs dieses Spielverlieren und lässt dich weiterspielen.
 
-704.7 Wenn eine zustandsbasierte Aktion dazu führt, dass eine bleibende 
-Karte das Spiel verlässt, während gleichzeitig andere zustandsbasierte 
-Aktionen durchgeführt werden, werden die zuletzt bekannten Informationen über 
-diese bleibende Karte aus dem Spielzustand ermittelt, wie er vor Anwendung 
-dieser zustandsbasierten Aktionen herrschte.
+704.7 Wenn eine zustandsbasierte Aktion dazu führt, dass eine bleibende Karte das Spiel verlässt, während gleichzeitig andere zustandsbasierte Aktionen durchgeführt werden, werden die zuletzt bekannten Informationen über diese bleibende Karte aus dem Spielzustand ermittelt, wie er vor Anwendung dieser zustandsbasierten Aktionen herrschte.
 
-   Beispiel: Du kontrollierst einen Jungwolf, eine 1/1-Kreatur mit 
-   Unverwüstlich, und auf ihm liegt eine +1/+1-Marke. Ein Zauberspruch legt 
-   drei –1/–1-Marken auf den Jungwolf. Bevor die zustandsbasierten 
-   Aktionen überprüft werden, liegen auf dem Jungwolf eine +1/+1-Marke und drei 
-   –1/–1-Marken. Nachdem die zustandsbasierten Aktionen durchgeführt 
-   wurden, liegt der Jungwolf im Friedhof. Als er zuletzt im Spiel war, lag 
-   eine +1/+1-Marke auf ihm, also wird Unverwüstlich nicht ausgelöst.
+Beispiel: Du kontrollierst einen Jungwolf, eine 1/1-Kreatur mit Unverwüstlich, und auf ihm liegt eine +1/+1-Marke. Ein Zauberspruch legt drei –1/–1-Marken auf den Jungwolf. Bevor die zustandsbasierten Aktionen überprüft werden, liegen auf dem Jungwolf eine +1/+1-Marke und drei –1/–1-Marken. Nachdem die zustandsbasierten Aktionen durchgeführt wurden, liegt der Jungwolf im Friedhof. Als er zuletzt im Spiel war, lag eine +1/+1-Marke auf ihm, also wird Unverwüstlich nicht ausgelöst.
 
 705. Münzwerfen
 
-705.1 Um eine Münze für einen Effekt zu werfen, den es kümmert, ob ein Spieler 
-den Wurf gewinnt oder verliert, wirft der Spieler die Münze und sagt „Kopf“ 
-oder „Zahl“. Wenn die Ansage mit dem Ergebnis übereinstimmt, gewinnt der 
-Spieler den Wurf. Andernfalls verliert der Spieler den Wurf. Nur der Spieler, 
-der die Münze wirft, gewinnt oder verliert den Wurf. Es sind keine anderen 
-Spieler involviert.
+705.1 Um eine Münze für einen Effekt zu werfen, den es kümmert, ob ein Spieler den Wurf gewinnt oder verliert, wirft der Spieler die Münze und sagt „Kopf“ oder „Zahl“. Wenn die Ansage mit dem Ergebnis übereinstimmt, gewinnt der Spieler den Wurf. Andernfalls verliert der Spieler den Wurf. Nur der Spieler, der die Münze wirft, gewinnt oder verliert den Wurf. Es sind keine anderen Spieler involviert.
 
-705.2 Um eine Münze für einen Effekt zu werfen, den es kümmert, ob die Münze 
-mit Kopf oder Zahl aufkommt, wirft jeder beeinflusste Spieler eine Münze, ohne 
-eine Ansage zu machen. Kein Spieler gewinnt oder verliert diese Art von Wurf.
+705.2 Um eine Münze für einen Effekt zu werfen, den es kümmert, ob die Münze mit Kopf oder Zahl aufkommt, wirft jeder beeinflusste Spieler eine Münze, ohne eine Ansage zu machen. Kein Spieler gewinnt oder verliert diese Art von Wurf.
 
-705.3 Eine Münze, die in einem Wurf benutzt wird, muss ein zweiseitiges Objekt 
-mit leicht unterscheidbaren Seiten und gleicher Wahrscheinlichkeit, dass 
-jedwede Seite oben landet, sein. Wenn die Münze, die geworfen wird, keine/n 
-offensichtliche/n „Kopf“ oder „Zahl“ hat, bestimmt eine Seite, „Kopf“ zu sein, 
-und die andere Seite, „Zahl“ zu sein. Andere Methoden der Zufallsbestimmung 
-können einen Münzwurf ersetzen, solange es zwei mögliche Ergebnisse mit 
-gleichwertiger Wahrscheinlichkeit gibt und alle Spieler dem Ersatz zustimmen. 
-Zum Beispiel kann der Spieler einen geradeseitigen Würfel rollen und „gerade“ 
-oder „ungerade“ ansagen oder einen geradeseitigen Würfel rollen und bestimmen, 
-dass „gerade“ „Kopf“ bedeutet und „ungerade“ „Zahl“.
+705.3 Eine Münze, die in einem Wurf benutzt wird, muss ein zweiseitiges Objekt mit leicht unterscheidbaren Seiten und gleicher Wahrscheinlichkeit, dass jedwede Seite oben landet, sein. Wenn die Münze, die geworfen wird, keine/n offensichtliche/n „Kopf“ oder „Zahl“ hat, bestimmt eine Seite, „Kopf“ zu sein, und die andere Seite, „Zahl“ zu sein. Andere Methoden der Zufallsbestimmung können einen Münzwurf ersetzen, solange es zwei mögliche Ergebnisse mit gleichwertiger Wahrscheinlichkeit gibt und alle Spieler dem Ersatz zustimmen. Zum Beispiel kann der Spieler einen geradeseitigen Würfel rollen und „gerade“ oder „ungerade“ ansagen oder einen geradeseitigen Würfel rollen und bestimmen, dass „gerade“ „Kopf“ bedeutet und „ungerade“ „Zahl“.
 
 706. Objekte kopieren
 
-706.1 Einige Objekte werden oder machen ein anderes Objekt zu einer „Kopie“ 
-eines Zauberspruchs, einer bleibenden Karte oder einer Karte. Einige Effekte 
-bringen einen Spielstein als Kopie eines anderen Objekts ins Spiel. (Bestimmte 
-ältere Karten wurden mit der Formulierung „suche nach einer Kopie“ gedruckt. 
-Dieser Abschnitt deckt diese Karten nicht ab, da sie einen neuen Text in der 
-Oracle-Kartenreferenz erhalten haben.)
+706.1 Einige Objekte werden oder machen ein anderes Objekt zu einer „Kopie“ eines Zauberspruchs, einer bleibenden Karte oder einer Karte. Einige Effekte bringen einen Spielstein als Kopie eines anderen Objekts ins Spiel. (Bestimmte ältere Karten wurden mit der Formulierung „suche nach einer Kopie“ gedruckt. Dieser Abschnitt deckt diese Karten nicht ab, da sie einen neuen Text in der Oracle-Kartenreferenz erhalten haben.)
 
-706.2 Wenn ein Objekt kopiert wird, nimmt die Kopie die kopierbaren Werte der 
-Eigenschaften des Originalobjekts an und für ein Objekt auf dem Stapel, 
-Entscheidungen, die getroffen wurden, als es gewirkt oder aktiviert wurde 
-(Modus, Ziele, der Wert von X, ob Bonus genutzt wurde, wie es mehrere Ziele 
-beeinflusst und so weiter). Die „kopierbaren Werte“ sind Werte, die sich aus 
-dem auf dem Objekt gedruckten Text ergeben (dieser Text umfasst Name, 
-Manakosten, Farbanzeiger, Kartentyp, Übertyp, Untertyp, Erweiterungssymbol, 
-Regeltext, Stärke, Widerstandskraft und/oder Loyalität), wie sie von anderen 
-Kopiereffekten, von „sowie … ins Spiel kommt“- und „sowie … aufgedeckt wird“-
-Fähigkeiten, die Eigenschaften setzen, und durch Fähigkeiten, die das Objekt 
-dazu brachten, verdeckt zu sein, verändert wurden. Andere Effekte 
-(einschließlich Effekten, die den Typ oder Text ändern), der Status und Marken 
-werden nicht kopiert.
+706.2 Wenn ein Objekt kopiert wird, nimmt die Kopie die kopierbaren Werte der Eigenschaften des Originalobjekts an und für ein Objekt auf dem Stapel, Entscheidungen, die getroffen wurden, als es gewirkt oder aktiviert wurde (Modus, Ziele, der Wert von X, ob Bonus genutzt wurde, wie es mehrere Ziele beeinflusst und so weiter). Die „kopierbaren Werte“ sind Werte, die sich aus dem auf dem Objekt gedruckten Text ergeben (dieser Text umfasst Name, Manakosten, Farbanzeiger, Kartentyp, Übertyp, Untertyp, Erweiterungssymbol, Regeltext, Stärke, Widerstandskraft und/oder Loyalität), wie sie von anderen Kopiereffekten, von „sowie … ins Spiel kommt“- und „sowie … aufgedeckt wird“-Fähigkeiten, die Eigenschaften setzen, und durch Fähigkeiten, die das Objekt dazu brachten, verdeckt zu sein, verändert wurden. Andere Effekte (einschließlich Effekten, die den Typ oder Text ändern), der Status und Marken werden nicht kopiert.
 
-   Beispiel: Chimärenstab ist ein Artefakt, das lautet: „{X}: Der Chimärenstab 
-   wird bis zum Ende des Zuges zu einer X/X-Artefaktkreatur.“ Klon ist eine 
-   Kreatur, die lautet: „Du kannst den Klon als Kopie einer beliebigen Kreatur 
-   im Spiel ins Spiel kommen lassen.“ Nachdem der Stab eine 5/5-Artefaktkreatur 
-   geworden ist, kommt ein Klon als eine Kopie von ihm ins Spiel. Der Klon ist 
-   ein Artefakt, keine 5/5-Artefaktkreatur. (Die Kopie hat jedoch die Fähigkeit 
-   des Stabs und wird zu einer Kreatur, wenn diese Fähigkeit aktiviert wird.)
+Beispiel: Chimärenstab ist ein Artefakt, das lautet: „{X}: Der Chimärenstab wird bis zum Ende des Zuges zu einer X/X-Artefaktkreatur.“ Klon ist eine Kreatur, die lautet: „Du kannst den Klon als Kopie einer beliebigen Kreatur im Spiel ins Spiel kommen lassen.“ Nachdem der Stab eine 5/5-Artefaktkreatur geworden ist, kommt ein Klon als eine Kopie von ihm ins Spiel. Der Klon ist ein Artefakt, keine 5/5-Artefaktkreatur. (Die Kopie hat jedoch die Fähigkeit des Stabs und wird zu einer Kreatur, wenn diese Fähigkeit aktiviert wird.)
 
-   Beispiel: Der Klon kommt als Kopie eines verdeckten Grinsenden Dämons (eine 
-   Kreatur mit Morph {2}{B}{B}) ins Spiel. Der Klon ist eine farblose 2/2-
-   Kreatur ohne Name, Fähigkeiten und Manakosten. Er ist immer noch aufgedeckt. 
-   Sein Beherrscher kann nicht {2}{B}{B} bezahlen, um ihn aufzudecken.
+Beispiel: Der Klon kommt als Kopie eines verdeckten Grinsenden Dämons (eine Kreatur mit Morph {2}{B}{B}) ins Spiel. Der Klon ist eine farblose 2/2-Kreatur ohne Name, Fähigkeiten und Manakosten. Er ist immer noch aufgedeckt. Sein Beherrscher kann nicht {2}{B}{B} bezahlen, um ihn aufzudecken.
 
-706.2a Eine Kopie übernimmt die Farbe des Objekts, das sie kopiert, weil dieser 
-Wert aus den Manakosten oder dem Farbanzeiger ermittelt wird. Eine Kopie 
-übernimmt die Fähigkeiten des Objekts, das sie kopiert, weil diese Werte aus 
-dem Regeltext ermittelt werden. Eine Kopie hat am Ende keine zwei Werte von 
-jeder Fähigkeit (d. h. sie kopiert nicht die Fähigkeiten des Objekts und seinen 
-Regeltext und lässt dann den Regeltext einen neuen Satz Fähigkeiten definieren).
+706.2a Eine Kopie übernimmt die Farbe des Objekts, das sie kopiert, weil dieser Wert aus den Manakosten oder dem Farbanzeiger ermittelt wird. Eine Kopie übernimmt die Fähigkeiten des Objekts, das sie kopiert, weil diese Werte aus dem Regeltext ermittelt werden. Eine Kopie hat am Ende keine zwei Werte von jeder Fähigkeit (d. h. sie kopiert nicht die Fähigkeiten des Objekts und seinen Regeltext und lässt dann den Regeltext einen neuen Satz Fähigkeiten definieren).
 
-706.3 Die kopierbaren Werte der Kopie werden zu den kopierten Informationen, 
-wie sie vom Status der Kopie verändert wurden (siehe Regel 110.6). Objekte, die 
-das Objekt kopieren, nutzen die neuen kopierbaren Werte.
+706.3 Die kopierbaren Werte der Kopie werden zu den kopierten Informationen, wie sie vom Status der Kopie verändert wurden (siehe Regel 110.6). Objekte, die das Objekt kopieren, nutzen die neuen kopierbaren Werte.
 
-   Beispiel: Der Vesuvische Doppelgänger lautet: „Du kannst den Vesuvischen 
-   Doppelgänger als Kopie einer beliebigen Kreatur im Spiel ins Spiel kommen 
-   lassen, außer dass er nicht ihre Farbe kopiert und ‚Zu Beginn deines 
-   Versorgungssegments kannst du diese Kreatur eine Kopie einer Kreatur deiner 
-   Wahl werden lassen, außer dass sie nicht ihre Farbe kopiert. Falls du dies 
-   tust, erhält sie diese Fähigkeit.‘“ erhält. Ein Vesuvischer Doppelgänger 
-   kommt als eine Kopie eines Runenklauenbären (eine grüne 2/2-Kreatur ohne 
-   Fähigkeiten) ins Spiel. Dann kommt ein Klon als Kopie des Doppelgängers ins 
-   Spiel. Der Klon ist ein blauer 2/2-Bär mit dem Namen Runenklauenbär, der die 
-   im Versorgungssegment ausgelöste Fähigkeit des Doppelgängers besitzt.
+Beispiel: Der Vesuvische Doppelgänger lautet: „Du kannst den Vesuvischen Doppelgänger als Kopie einer beliebigen Kreatur im Spiel ins Spiel kommen lassen, außer dass er nicht ihre Farbe kopiert und ‚Zu Beginn deines Versorgungssegments kannst du diese Kreatur eine Kopie einer Kreatur deiner Wahl werden lassen, außer dass sie nicht ihre Farbe kopiert. Falls du dies tust, erhält sie diese Fähigkeit.‘“ erhält. Ein Vesuvischer Doppelgänger kommt als eine Kopie eines Runenklauenbären (eine grüne 2/2-Kreatur ohne Fähigkeiten) ins Spiel. Dann kommt ein Klon als Kopie des Doppelgängers ins Spiel. Der Klon ist ein blauer 2/2-Bär mit dem Namen Runenklauenbär, der die im Versorgungssegment ausgelöste Fähigkeit des Doppelgängers besitzt.
 
-   Beispiel: Tomoya der Enthüller (eine gewendete Wendekarte) wird zu einer 
-   Kopie von Nezumi-Kurzzahn (eine ungewendete Wendekarte). Tomoyas 
-   Eigenschaften werden die Eigenschaften von Dolchbart dem Widerlichen, 
-   welcher die gewendete Version von Nezumi-Kurzzahn ist.
+Beispiel: Tomoya der Enthüller (eine gewendete Wendekarte) wird zu einer Kopie von Nezumi-Kurzzahn (eine ungewendete Wendekarte). Tomoyas Eigenschaften werden die Eigenschaften von Dolchbart dem Widerlichen, welcher die gewendete Version von Nezumi-Kurzzahn ist.
 
-   Beispiel: Ein verdeckter Grinsender Dämon (eine Kreatur mit Morph) wird eine 
-   Kopie eines Astbrecher-Lorians (eine grüne 4/1-Kreatur mit Trampel und Morph 
-   {G}). Die Eigenschaften des Dämons werden die Eigenschaften des Astbrecher-
-   Lorian. Da die Kreatur jedoch verdeckt ist, bleibt sie eine farblose 2/2-
-   Kreatur ohne Namen, Typen oder Fähigkeiten und ohne Manakosten. Sie kann für 
-   {G} aufgedeckt werden. Falls sie aufgedeckt wird, hat sie die Eigenschaften 
-   des Astbrecher-Lorians.
+Beispiel: Ein verdeckter Grinsender Dämon (eine Kreatur mit Morph) wird eine Kopie eines Astbrecher-Lorians (eine grüne 4/1-Kreatur mit Trampel und Morph {G}). Die Eigenschaften des Dämons werden die Eigenschaften des Astbrecher-Lorian. Da die Kreatur jedoch verdeckt ist, bleibt sie eine farblose 2/2-Kreatur ohne Namen, Typen oder Fähigkeiten und ohne Manakosten. Sie kann für {G} aufgedeckt werden. Falls sie aufgedeckt wird, hat sie die Eigenschaften des Astbrecher-Lorians.
 
-   Beispiel: Ein verdeckter Grinsender Dämon (eine Kreatur mit Morph) wird eine 
-   Kopie der Wandernden (eine blaue 1/1-Geist-Kreatur, die nicht Morph 
-   besitzt). Er wird zu verdeckten Wandernden. Er bleibt eine farblose 2/2-
-   Kreatur ohne Namen, Typen oder Fähigkeiten und ohne Manakosten. Sein 
-   Beherrscher kann ihn nicht als eine Sonderaktion aufdecken. Wenn ein Effekt 
-   ihn aufdeckt, besitzt er die Eigenschaften der Wandernden.
+Beispiel: Ein verdeckter Grinsender Dämon (eine Kreatur mit Morph) wird eine Kopie der Wandernden (eine blaue 1/1-Geist-Kreatur, die nicht Morph besitzt). Er wird zu verdeckten Wandernden. Er bleibt eine farblose 2/2-Kreatur ohne Namen, Typen oder Fähigkeiten und ohne Manakosten. Sein Beherrscher kann ihn nicht als eine Sonderaktion aufdecken. Wenn ein Effekt ihn aufdeckt, besitzt er die Eigenschaften der Wandernden.
 
-706.4 Einige Effekte bringen eine bleibende Karte, die eine bleibende Karte 
-kopiert, dazu, ein anderes Objekt zu kopieren, während sie im Spiel bleibt. Der 
-Wechsel löst keine Kommt-ins-Spiel- oder Verlässt-das-Spiel- Fähigkeiten aus. 
-Dies ändert auch keine Nichtkopier-Effekte, die die bleibende Karte gegenwärtig 
-beeinflussen.
+706.4 Einige Effekte bringen eine bleibende Karte, die eine bleibende Karte kopiert, dazu, ein anderes Objekt zu kopieren, während sie im Spiel bleibt. Der Wechsel löst keine Kommt-ins-Spiel- oder Verlässt-das-Spiel- Fähigkeiten aus. Dies ändert auch keine Nichtkopier-Effekte, die die bleibende Karte gegenwärtig beeinflussen.
 
-   Beispiel: Der Instabile Gestaltwandler lautet: „Immer wenn eine andere 
-   Kreatur ins Spiel kommt, wird der Instabile Gestaltwandler zu einer Kopie 
-   jener Kreatur und erhält diese Fähigkeit.“ Er wird von Riesenwuchs 
-   beeinflusst, der lautet „Eine Kreatur deiner Wahl erhält +3/+3 bis zum Ende 
-   des Zuges.“ Wenn später in diesem Zug eine Kreatur ins Spiel kommt, wird der 
-   Instabile Gestaltwandler zu einer Kopie jener Kreatur, aber erhält immer 
-   noch +3/+3 vom Riesenwuchs.
+Beispiel: Der Instabile Gestaltwandler lautet: „Immer wenn eine andere Kreatur ins Spiel kommt, wird der Instabile Gestaltwandler zu einer Kopie jener Kreatur und erhält diese Fähigkeit.“ Er wird von Riesenwuchs beeinflusst, der lautet „Eine Kreatur deiner Wahl erhält +3/+3 bis zum Ende des Zuges.“ Wenn später in diesem Zug eine Kreatur ins Spiel kommt, wird der Instabile Gestaltwandler zu einer Kopie jener Kreatur, aber erhält immer noch +3/+3 vom Riesenwuchs.
 
-706.5 Ein Objekt, das „als eine Kopie“ eines anderen Objekts ins Spiel kommt 
-oder „eine Kopie ist“, wird zu einer Kopie, sowie es das Spiel betritt. Es 
-kommt nicht ins Spiel und wird dann zu einer Kopie jener bleibenden Karte. Wenn 
-der Text, der kopiert wird, jegliche Fähigkeiten einschließt, die das Kommt-ins-
-Spiel-Ereignis ersetzen (so wie „kommt mit … ins Spiel“- oder „sowie [dies] ins 
-Spiel kommt“-Fähigkeiten) werden diese sich auswirken. Auch haben alle 
-ausgelösten Kommt-ins-Spiel-Fähigkeiten der Kopie eine Gelegenheit, ausgelöst 
-zu werden.
+706.5 Ein Objekt, das „als eine Kopie“ eines anderen Objekts ins Spiel kommt oder „eine Kopie ist“, wird zu einer Kopie, sowie es das Spiel betritt. Es kommt nicht ins Spiel und wird dann zu einer Kopie jener bleibenden Karte. Wenn der Text, der kopiert wird, jegliche Fähigkeiten einschließt, die das Kommt-ins-Spiel-Ereignis ersetzen (so wie „kommt mit … ins Spiel“- oder „sowie [dies] ins Spiel kommt“-Fähigkeiten) werden diese sich auswirken. Auch haben alle ausgelösten Kommt-ins-Spiel-Fähigkeiten der Kopie eine Gelegenheit, ausgelöst zu werden.
 
-   Beispiel: Wolkenwald-Behemoth lautet „Schwund 2 (Diese Kreatur kommt mit 
-   zwei Schwundmarken auf sich ins Spiel. Zu Beginn deines Versorgungssegments 
-   entferne eine Schwundmarke von ihm. Falls du dies nicht tun kannst, opfere 
-   ihn.)“ und „Der Wolkenwald-Behemoth kommt getappt ins Spiel.“ Ein Klon, der 
-   als eine Kopie eines Wolkenwald-Behemoths ins Spiel kommt, kommt auch 
-   getappt und mit zwei Schwundmarken auf sich ins Spiel.
+Beispiel: Wolkenwald-Behemoth lautet „Schwund 2 (Diese Kreatur kommt mit zwei Schwundmarken auf sich ins Spiel. Zu Beginn deines Versorgungssegments entferne eine Schwundmarke von ihm. Falls du dies nicht tun kannst, opfere ihn.)“ und „Der Wolkenwald-Behemoth kommt getappt ins Spiel.“ Ein Klon, der als eine Kopie eines Wolkenwald-Behemoths ins Spiel kommt, kommt auch getappt und mit zwei Schwundmarken auf sich ins Spiel.
 
-   Beispiel: Die Mauer der Omen lautet: „Wenn die Mauer der Omen ins Spiel 
-   kommt, ziehe eine Karte.“ Ein Klon kommt als Kopie der Mauer der Omen ins 
-   Spiel. Der Klon hat die Kommt-ins-Spiel-Fähigkeit, somit zieht der 
-   Beherrscher des Klons eine Karte.
+Beispiel: Die Mauer der Omen lautet: „Wenn die Mauer der Omen ins Spiel kommt, ziehe eine Karte.“ Ein Klon kommt als Kopie der Mauer der Omen ins Spiel. Der Klon hat die Kommt-ins-Spiel-Fähigkeit, somit zieht der Beherrscher des Klons eine Karte.
 
-706.6 Wenn du eine bleibende Karte kopierst, werden alle Entscheidungen, die 
-für diese bleibende Karte getroffen wurden, nicht kopiert. Stattdessen hat der 
-Beherrscher des Objekt, wenn ein Objekt als Kopie einer anderen bleibenden 
-Karte ins Spiel kommt, alle „sowie … ins Spiel kommt“-Entscheidungen für es zu 
-treffen.
+706.6 Wenn du eine bleibende Karte kopierst, werden alle Entscheidungen, die für diese bleibende Karte getroffen wurden, nicht kopiert. Stattdessen hat der Beherrscher des Objekt, wenn ein Objekt als Kopie einer anderen bleibenden Karte ins Spiel kommt, alle „sowie … ins Spiel kommt“-Entscheidungen für es zu treffen.
 
-   Beispiel: Ein Klon kommt als Kopie einer Anpassungsfähigen Kampfmaschine ins 
-   Spiel. Die Anpassungsfähige Kampfmaschine lautet zum Teil: „Sowie die 
-   Anpassungsfähige Kampfmaschine ins Spiel kommt, bestimme einen 
-   Kreaturentyp.“ Der Klon kopiert nicht die Kreaturentypwahl der 
-   Anpassungsfähigen Kampfmaschine; vielmehr hat der Beherrscher des Klons eine 
-   neue Wahl zu treffen.
+Beispiel: Ein Klon kommt als Kopie einer Anpassungsfähigen Kampfmaschine ins Spiel. Die Anpassungsfähige Kampfmaschine lautet zum Teil: „Sowie die Anpassungsfähige Kampfmaschine ins Spiel kommt, bestimme einen Kreaturentyp.“ Der Klon kopiert nicht die Kreaturentypwahl der Anpassungsfähigen Kampfmaschine; vielmehr hat der Beherrscher des Klons eine neue Wahl zu treffen.
 
-706.7 Wenn ein Paar von verbundenen Fähigkeiten kopiert wird, sind diese 
-Fähigkeiten auf dem Objekt, das sie kopiert hat, gleichsam miteinander 
-verbunden. Eine Fähigkeit bezieht sich nur auf Aktionen, die durch die andere 
-durchgeführt wurden, oder Objekte, die durch die andere beeinflusst wurden. Sie 
-können nicht mit anderen Fähigkeiten verbunden sein, unabhängig davon welche 
-Fähigkeiten die Kopie aktuell besitzen oder in der Vergangenheit besessen haben 
-mag. Siehe Regel 607, „Verbundene Fähigkeiten“.
+706.7 Wenn ein Paar von verbundenen Fähigkeiten kopiert wird, sind diese Fähigkeiten auf dem Objekt, das sie kopiert hat, gleichsam miteinander verbunden. Eine Fähigkeit bezieht sich nur auf Aktionen, die durch die andere durchgeführt wurden, oder Objekte, die durch die andere beeinflusst wurden. Sie können nicht mit anderen Fähigkeiten verbunden sein, unabhängig davon welche Fähigkeiten die Kopie aktuell besitzen oder in der Vergangenheit besessen haben mag. Siehe Regel 607, „Verbundene Fähigkeiten“.
 
-706.7a Wenn eine Fähigkeit dazu führt, dass ein Spieler „einen [Wert] bestimmt“ 
-oder „eine Karte benennt“, und eine zweite, verbundene Fähigkeit bezieht sich 
-auf diese Wahl, ist die zweite Fähigkeit die einzige Fähigkeit, die sich auf 
-diese Wahl beziehen kann. Ein Objekt „erinnert“ sich nicht an diese Wahl, um 
-sie für andere Fähigkeiten zu nutzen, die es später kopiert. Wenn ein Objekt 
-eine Fähigkeit kopiert, die sich auf eine Wahl bezieht, aber entweder (a) nicht 
-die verbundene Fähigkeit dieser Fähigkeit kopiert oder (b) die verbundene 
-Fähigkeit kopiert, aber keine Wahl dafür durchgeführt wird, dann wird diese 
-Wahl als „unbestimmt“ betrachtet. Wenn sich eine Fähigkeit auf eine unbestimmte 
-Wahl bezieht, macht dieser Teil der Fähigkeit überhaupt nichts.
+706.7a Wenn eine Fähigkeit dazu führt, dass ein Spieler „einen [Wert] bestimmt“ oder „eine Karte benennt“, und eine zweite, verbundene Fähigkeit bezieht sich auf diese Wahl, ist die zweite Fähigkeit die einzige Fähigkeit, die sich auf diese Wahl beziehen kann. Ein Objekt „erinnert“ sich nicht an diese Wahl, um sie für andere Fähigkeiten zu nutzen, die es später kopiert. Wenn ein Objekt eine Fähigkeit kopiert, die sich auf eine Wahl bezieht, aber entweder (a) nicht die verbundene Fähigkeit dieser Fähigkeit kopiert oder (b) die verbundene Fähigkeit kopiert, aber keine Wahl dafür durchgeführt wird, dann wird diese Wahl als „unbestimmt“ betrachtet. Wenn sich eine Fähigkeit auf eine unbestimmte Wahl bezieht, macht dieser Teil der Fähigkeit überhaupt nichts.
 
-   Beispiel: Stimme von Allem kommt ins Spiel, und ein Instabiler 
-   Gestaltwandler kopiert sie. Stimme von Allem lautet zum Teil: „Sowie Stimme 
-   von Allem ins Spiel kommt, bestimme eine Farbe.“ und „Stimme von Allem hat 
-   Schutz vor der bestimmten Farbe.“ Der Instabile Gestaltwandler hatte nie die 
-   Möglichkeit, dass eine Farbe für ihn bestimmt wird, weil er nie als eine 
-   Stimme-von-Allem-Karte ins Spiel kam. Somit schützt die Schutz-Fähigkeit vor 
-   überhaupt nichts.
+Beispiel: Stimme von Allem kommt ins Spiel, und ein Instabiler Gestaltwandler kopiert sie. Stimme von Allem lautet zum Teil: „Sowie Stimme von Allem ins Spiel kommt, bestimme eine Farbe.“ und „Stimme von Allem hat Schutz vor der bestimmten Farbe.“ Der Instabile Gestaltwandler hatte nie die Möglichkeit, dass eine Farbe für ihn bestimmt wird, weil er nie als eine Stimme-von-Allem-Karte ins Spiel kam. Somit schützt die Schutz-Fähigkeit vor überhaupt nichts.
 
-   Beispiel: Ein Vesuvischer Doppelgänger kommt als Kopie einer Stimme von 
-   Allem ins Spiel, und der Beherrscher des Vesuvischen Doppelgängers bestimmt 
-   Blau. Später kopiert der Doppelgänger Quirionelfen, die die Fähigkeit 
-   „{tap}: Erhöhe deinen Manavorrat um ein Mana der bestimmten Farbe.“ haben. 
-   Wenngleich eine Farbe für den Doppelgänger bestimmt wurde, wurde sie für 
-   eine andere verbundene Fähigkeit bestimmt. Wenn die Manafähigkeit des 
-   Doppelgängers gespielt wird, produziert sie kein Mana.
+Beispiel: Ein Vesuvischer Doppelgänger kommt als Kopie einer Stimme von Allem ins Spiel, und der Beherrscher des Vesuvischen Doppelgängers bestimmt Blau. Später kopiert der Doppelgänger Quirionelfen, die die Fähigkeit „{tap}: Erhöhe deinen Manavorrat um ein Mana der bestimmten Farbe.“ haben. Wenngleich eine Farbe für den Doppelgänger bestimmt wurde, wurde sie für eine andere verbundene Fähigkeit bestimmt. Wenn die Manafähigkeit des Doppelgängers gespielt wird, produziert sie kein Mana.
 
-706.8 Wenn eine doppelseitige bleibende Karte kopiert wird, werden nur die 
-kopierbaren Werte der Seite kopiert, die gerade oben liegt. (Siehe Regel 711, 
-„Doppelseitige Karten“.)
+706.8 Wenn eine doppelseitige bleibende Karte kopiert wird, werden nur die kopierbaren Werte der Seite kopiert, die gerade oben liegt. (Siehe Regel 711, „Doppelseitige Karten“.)
 
-706.9 Kopiereffekte können Modifikationen oder Ausnahmen zum Kopierprozess 
-enthalten.
+706.9 Kopiereffekte können Modifikationen oder Ausnahmen zum Kopierprozess enthalten.
 
-706.9a Einige Kopiereffekte führen dazu, dass die Kopie als Teil des 
-Kopiervorgangs eine Fähigkeit erhält. Diese Fähigkeit wird Teil der kopierbaren 
-Werte der Kopie, zusammen mit allen anderen Fähigkeiten, die kopiert wurden.
+706.9a Einige Kopiereffekte führen dazu, dass die Kopie als Teil des Kopiervorgangs eine Fähigkeit erhält. Diese Fähigkeit wird Teil der kopierbaren Werte der Kopie, zusammen mit allen anderen Fähigkeiten, die kopiert wurden.
 
-   Beispiel: Quirionelfen kommen ins Spiel und ein Instabiler Gestaltwandler 
-   kopiert sie. Die kopierbaren Werte des Gestaltwandlers stimmen nun mit denen 
-   der Elfen überein, außer, dass der Gestaltwandler auch die Fähigkeit „Immer 
-   wenn eine Kreatur ins Spiel kommt, wird der Instabile Gestaltwandler eine 
-   Kopie jener Kreatur und erhält diese Fähigkeit.“ hat. Dann kommt ein Klon 
-   als Kopie des Instabilen Gestaltwandlers ins Spiel. Der Klon kopiert die 
-   neuen kopierbaren Werte des Gestaltwandlers, einschließlich der Fähigkeit, 
-   die sich der Gestaltwandler beim Kopieren der Elfen selbst gab.
+Beispiel: Quirionelfen kommen ins Spiel und ein Instabiler Gestaltwandler kopiert sie. Die kopierbaren Werte des Gestaltwandlers stimmen nun mit denen der Elfen überein, außer, dass der Gestaltwandler auch die Fähigkeit „Immer wenn eine Kreatur ins Spiel kommt, wird der Instabile Gestaltwandler eine Kopie jener Kreatur und erhält diese Fähigkeit.“ hat. Dann kommt ein Klon als Kopie des Instabilen Gestaltwandlers ins Spiel. Der Klon kopiert die neuen kopierbaren Werte des Gestaltwandlers, einschließlich der Fähigkeit, die sich der Gestaltwandler beim Kopieren der Elfen selbst gab.
 
-706.9b Einige Kopiereffekte geben ausdrücklich an, dass sie bestimmte 
-Eigenschaften nicht kopieren und stattdessen ihre Originalwerte behalten. Diese 
-Effekte benutzen die Formulierung „außer dass [Eigenschaft] immer noch [Wert] 
-ist“ oder „außer dass [er, sie oder es] weiterhin [Wert] ist“. Sie können auch 
-ganz einfach angeben, dass bestimmte Eigenschaften nicht kopiert werden.
+706.9b Einige Kopiereffekte geben ausdrücklich an, dass sie bestimmte Eigenschaften nicht kopieren und stattdessen ihre Originalwerte behalten. Diese Effekte benutzen die Formulierung „außer dass [Eigenschaft] immer noch [Wert] ist“ oder „außer dass [er, sie oder es] weiterhin [Wert] ist“. Sie können auch ganz einfach angeben, dass bestimmte Eigenschaften nicht kopiert werden.
 
-706.9c Einige Kopiereffekte modifizieren eine Eigenschaft als Teil des 
-Kopiervorgangs. Der endgültige Wert bzw. die endgültigen Werte dieser 
-Eigenschaft werden Teil der kopierbaren Werte für diese Kopie.
+706.9c Einige Kopiereffekte modifizieren eine Eigenschaft als Teil des Kopiervorgangs. Der endgültige Wert bzw. die endgültigen Werte dieser Eigenschaft werden Teil der kopierbaren Werte für diese Kopie.
 
-   Beispiel: Artefaktkopie ist eine Verzauberung mit dem Text „Du kannst die 
-   Artefaktkopie als Kopie eines beliebigen Artefakts im Spiel ins Spiel kommen 
-   lassen, außer dass sie zusätzlich zu ihren sonstigen Typen weiterhin eine 
-   Verzauberung ist.“ Sie kommt als Kopie eines Juggernauts ins Spiel. Die 
-   kopierbaren Eigenschaften der Artefaktkopie entsprechen nun den kopierbaren 
-   Eigenschaften des Juggernauts, mit einer Modifikation: ihre Typen sind nun 
-   Artefakt, Kreatur und Verzauberung.
+Beispiel: Artefaktkopie ist eine Verzauberung mit dem Text „Du kannst die Artefaktkopie als Kopie eines beliebigen Artefakts im Spiel ins Spiel kommen lassen, außer dass sie zusätzlich zu ihren sonstigen Typen weiterhin eine Verzauberung ist.“ Sie kommt als Kopie eines Juggernauts ins Spiel. Die kopierbaren Eigenschaften der Artefaktkopie entsprechen nun den kopierbaren Eigenschaften des Juggernauts, mit einer Modifikation: ihre Typen sind nun Artefakt, Kreatur und Verzauberung.
 
-706.9d Wenn ein Kopiereffekt angewendet wird, der eine bestimmte Eigenschaft 
-nicht kopiert, den Originalwert einer bestimmten Eigenschaft nicht behält oder 
-den endgültigen Wert einer bestimmten Eigenschaft nicht modifiziert, werden 
-keine eigenschafts-definierenden Fähigkeiten (siehe Regel 604.3) dieses Objekts 
-kopiert, die diese Eigenschaft definieren. Falls diese Eigenschaft Farbe ist, 
-wird auch kein Farbanzeiger (siehe Regel 204) dieses Objekts kopiert.
+706.9d Wenn ein Kopiereffekt angewendet wird, der eine bestimmte Eigenschaft nicht kopiert, den Originalwert einer bestimmten Eigenschaft nicht behält oder den endgültigen Wert einer bestimmten Eigenschaft nicht modifiziert, werden keine eigenschafts-definierenden Fähigkeiten (siehe Regel 604.3) dieses Objekts kopiert, die diese Eigenschaft definieren. Falls diese Eigenschaft Farbe ist, wird auch kein Farbanzeiger (siehe Regel 204) dieses Objekts kopiert.
 
-   Beispiel: Der Quecksilber-Gargantua ist eine Kreatur mit dem Text „Du kannst 
-   den Quecksilber-Gargantua als Kopie einer beliebigen Kreatur im Spiel ins 
-   Spiel kommen lassen, außer dass er weiterhin 7/7 ist.“ Der Quecksilber-
-   Gargantua kommt als Kopie eines Tarmogoyfs ins Spiel, der eine eigenschafts-
-   definierende Fähigkeit hat, die seine Stärke und Widerstandskraft definiert. 
-   Der Quecksilber-Gargantua wird diese Fähigkeit nicht haben. Er wird 7/7 sein.
+Beispiel: Der Quecksilber-Gargantua ist eine Kreatur mit dem Text „Du kannst den Quecksilber-Gargantua als Kopie einer beliebigen Kreatur im Spiel ins Spiel kommen lassen, außer dass er weiterhin 7/7 ist.“ Der Quecksilber-Gargantua kommt als Kopie eines Tarmogoyfs ins Spiel, der eine eigenschafts-definierende Fähigkeit hat, die seine Stärke und Widerstandskraft definiert. Der Quecksilber-Gargantua wird diese Fähigkeit nicht haben. Er wird 7/7 sein.
 
-706.10 Einen Zauberspruch oder eine aktivierte Fähigkeit zu kopieren bedeutet, 
-eine Kopie des von ihm bzw. ihr auf den Stapel zu legen; die Kopie eines 
-Zauberspruchs wird nicht gewirkt, und die Kopie einer aktivierten Fähigkeit 
-wird nicht aktiviert. Eine Kopie eines Zauberspruchs bzw. einer Fähigkeit 
-kopiert sowohl die Eigenschaften des Zauberspruchs bzw. der Fähigkeit als auch 
-alle Entscheidungen, die für ihn bzw. sie getroffen wurden, einschließlich der 
-Modi, der Ziele, des Wertes von X und zusätzlichen oder alternativen Kosten. 
-(Siehe Regel 601, „Zaubersprüche wirken“.) Entscheidungen, die normalerweise 
-bei der Verrechnung eines Zauberspruchs getroffen werden, werden nicht kopiert. 
-Wenn ein Effekt der Kopie sich auf ein Objekt bezieht, das benutzt wurde, um 
-ihre Kosten zu bezahlen, nutzt sie das Objekt, das benutzt wurde, um die Kosten 
-des Originalzauberspruches bzw. der Originalfähigkeit zu bezahlen. Der Besitzer 
-einer Kopie eines Zauberspruchs ist der Spieler, unter dessen Kontrolle sie auf 
-den Stapel gelegt wurde. Der Beherrscher einer Kopie eines Zauberspruchs oder 
-einer Fähigkeit ist der Spieler, unter dessen Kontrolle sie auf den Stapel 
-gelegt wurde. Eine Kopie eines Zauberspruchs ist selbst ein Zauberspruch, 
-selbst wenn sie keine Zauberspruchkarte hat, die mit ihr in Verbindung steht. 
-Eine Kopie einer Fähigkeit ist selbst eine Fähigkeit.
+706.10 Einen Zauberspruch oder eine aktivierte Fähigkeit zu kopieren bedeutet, eine Kopie des von ihm bzw. ihr auf den Stapel zu legen; die Kopie eines Zauberspruchs wird nicht gewirkt, und die Kopie einer aktivierten Fähigkeit wird nicht aktiviert. Eine Kopie eines Zauberspruchs bzw. einer Fähigkeit kopiert sowohl die Eigenschaften des Zauberspruchs bzw. der Fähigkeit als auch alle Entscheidungen, die für ihn bzw. sie getroffen wurden, einschließlich der Modi, der Ziele, des Wertes von X und zusätzlichen oder alternativen Kosten. (Siehe Regel 601, „Zaubersprüche wirken“.) Entscheidungen, die normalerweise bei der Verrechnung eines Zauberspruchs getroffen werden, werden nicht kopiert. Wenn ein Effekt der Kopie sich auf ein Objekt bezieht, das benutzt wurde, um ihre Kosten zu bezahlen, nutzt sie das Objekt, das benutzt wurde, um die Kosten des Originalzauberspruches bzw. der Originalfähigkeit zu bezahlen. Der Besitzer einer Kopie eines Zauberspruchs ist der Spieler, unter dessen Kontrolle sie auf den Stapel gelegt wurde. Der Beherrscher einer Kopie eines Zauberspruchs oder einer Fähigkeit ist der Spieler, unter dessen Kontrolle sie auf den Stapel gelegt wurde. Eine Kopie eines Zauberspruchs ist selbst ein Zauberspruch, selbst wenn sie keine Zauberspruchkarte hat, die mit ihr in Verbindung steht. Eine Kopie einer Fähigkeit ist selbst eine Fähigkeit.
 
-   Beispiel: Ein Spieler wirkt Verdoppelung und zielt auf ein Smaragdamulett. 
-   Verdoppelung lautet: „Kopiere einen Hexerei- oder Spontanzauberspruch deiner 
-   Wahl, außer dass die Kopie rot ist. Du kannst für die Kopie neue Ziele 
-   bestimmen.“ Das Smaragdamulett ist ein grüner Spontanzauber, der lautet: 
-   „Bestimme eines – Enttappe eine bleibende Karte deiner Wahl; oder zerstöre 
-   eine Nicht-Auren-Verzauberung; oder eine Kreatur deiner Wahl verliert bis 
-   zum Ende des Zuges Flugfähigkeit.“ Wenn Verdoppelung verrechnet wird, legt 
-   sie eine Kopie des Smaragdamuletts auf den Stapel, außer dass die Kopie rot 
-   ist und nicht grün. Die Kopie hat denselben Modus, der für das Original-
-   Smaragdamulett gewählt wurde. Sie hat nicht notwendigerweise dasselbe Ziel, 
-   aber nur, weil Verdoppelung erlaubt, neue Ziele zu bestimmen.
+Beispiel: Ein Spieler wirkt Verdoppelung und zielt auf ein Smaragdamulett. Verdoppelung lautet: „Kopiere einen Hexerei- oder Spontanzauberspruch deiner Wahl, außer dass die Kopie rot ist. Du kannst für die Kopie neue Ziele bestimmen.“ Das Smaragdamulett ist ein grüner Spontanzauber, der lautet: „Bestimme eines – Enttappe eine bleibende Karte deiner Wahl; oder zerstöre eine Nicht-Auren-Verzauberung; oder eine Kreatur deiner Wahl verliert bis zum Ende des Zuges Flugfähigkeit.“ Wenn Verdoppelung verrechnet wird, legt sie eine Kopie des Smaragdamuletts auf den Stapel, außer dass die Kopie rot ist und nicht grün. Die Kopie hat denselben Modus, der für das Original-Smaragdamulett gewählt wurde. Sie hat nicht notwendigerweise dasselbe Ziel, aber nur, weil Verdoppelung erlaubt, neue Ziele zu bestimmen.
 
-   Beispiel: Flugstunde ist ein Spontanzauber, der lautet: „Opfere als 
-   zusätzliche Kosten, um Flugstunde zu wirken, eine Kreatur.“ und „Flugstunde 
-   fügt einer Kreatur oder einem Spieler deiner Wahl Schaden in Höhe der Stärke 
-   der geopferten Kreatur zu.“ Wenn eine Kopie von Flugstunde bestimmt, wie 
-   viel Schaden sie zufügt, überprüft sie die Stärke der Kreatur, die geopfert 
-   wurde, um für die Original-Flugstunde zu bezahlen.
+Beispiel: Flugstunde ist ein Spontanzauber, der lautet: „Opfere als zusätzliche Kosten, um Flugstunde zu wirken, eine Kreatur.“ und „Flugstunde fügt einer Kreatur oder einem Spieler deiner Wahl Schaden in Höhe der Stärke der geopferten Kreatur zu.“ Wenn eine Kopie von Flugstunde bestimmt, wie viel Schaden sie zufügt, überprüft sie die Stärke der Kreatur, die geopfert wurde, um für die Original-Flugstunde zu bezahlen.
 
-706.10a Wenn eine Kopie eines Zauberspruchs in einer anderen Zone als dem 
-Stapel ist, hört sie auf zu existieren. Wenn eine Kopie einer Karte in 
-irgendeiner anderen Zone als dem Stapel oder der Im-Spiel-Zone ist, hört sie 
-auf zu existieren. Dies ist eine zustandsbasierte Aktion. Siehe 
-Regel 704.
+706.10a Wenn eine Kopie eines Zauberspruchs in einer anderen Zone als dem Stapel ist, hört sie auf zu existieren. Wenn eine Kopie einer Karte in irgendeiner anderen Zone als dem Stapel oder der Im-Spiel-Zone ist, hört sie auf zu existieren. Dies ist eine zustandsbasierte Aktion. Siehe Regel 704.
 
-706.10b Eine Kopie einer Fähigkeit hat dieselbe Quelle wie die 
-Originalfähigkeit. Wenn die Fähigkeit sich durch einen Namen auf ihre Quelle 
-bezieht, bezieht sich die Kopie auf dasselbe Objekt, nicht auf irgendein 
-anderes Objekt mit demselben Namen. Die Kopie wird von Effekten, die zählen, 
-wie oft jene Fähigkeit in diesem Zug verrechnet wurde, als dieselbe Fähigkeit 
-betrachtet.
+706.10b Eine Kopie einer Fähigkeit hat dieselbe Quelle wie die Originalfähigkeit. Wenn die Fähigkeit sich durch einen Namen auf ihre Quelle bezieht, bezieht sich die Kopie auf dasselbe Objekt, nicht auf irgendein anderes Objekt mit demselben Namen. Die Kopie wird von Effekten, die zählen, wie oft jene Fähigkeit in diesem Zug verrechnet wurde, als dieselbe Fähigkeit betrachtet.
 
-706.10c Einige Effekte kopieren einen Zauberspruch oder eine Fähigkeit und 
-geben an, dass ihr Beherrscher neue Ziele für die Kopie bestimmen darf. Der 
-Spieler kann eine beliebige Anzahl der Ziele unverändert lassen, selbst wenn 
-diese Ziele illegal wären. Wenn der Spieler wählt, einige oder alle Ziele zu 
-ändern, müssen die neuen Ziele legal sein. Sobald ein Spieler entschieden hat, 
-was die Ziele der Kopie sind, wird die Kopie mit diesen Zielen auf den Stapel 
-gelegt.
+706.10c Einige Effekte kopieren einen Zauberspruch oder eine Fähigkeit und geben an, dass ihr Beherrscher neue Ziele für die Kopie bestimmen darf. Der Spieler kann eine beliebige Anzahl der Ziele unverändert lassen, selbst wenn diese Ziele illegal wären. Wenn der Spieler wählt, einige oder alle Ziele zu ändern, müssen die neuen Ziele legal sein. Sobald ein Spieler entschieden hat, was die Ziele der Kopie sind, wird die Kopie mit diesen Zielen auf den Stapel gelegt.
 
-706.11 Wenn ein Effekt sich mit dem Namen auf eine bleibende Karte bezieht, 
-findet der Effekt immer noch diese bleibende Karte, selbst wenn sie den Namen 
-ändert oder eine Kopie von etwas anderem wird.
+706.11 Wenn ein Effekt sich mit dem Namen auf eine bleibende Karte bezieht, findet der Effekt immer noch diese bleibende Karte, selbst wenn sie den Namen ändert oder eine Kopie von etwas anderem wird.
 
-   Beispiel: Ein Instabiler Gestaltwandler kopiert ein Verrücktes Armodon. Das 
-   Verrückte Armodon lautet: „{G}: Das Verrückte Armodon erhält +3/+0 und 
-   verursacht Trampelschaden bis zum Ende des Zuges. Opfere das Verrückte 
-   Armodon zu Beginn des nächsten Endsegments. Aktiviere diese Fähigkeit nur 
-   einmal pro Zug.“ Wenn diese Fähigkeit des Gestaltwandlers aktiviert wird, 
-   wird der Gestaltwandler zu Beginn des nächsten Endsegments zerstört, selbst 
-   wenn er zu jenem Zeitpunkt keine Kopie des Verrückten Armodons ist.
+Beispiel: Ein Instabiler Gestaltwandler kopiert ein Verrücktes Armodon. Das Verrückte Armodon lautet: „{G}: Das Verrückte Armodon erhält +3/+0 und verursacht Trampelschaden bis zum Ende des Zuges. Opfere das Verrückte Armodon zu Beginn des nächsten Endsegments. Aktiviere diese Fähigkeit nur einmal pro Zug.“ Wenn diese Fähigkeit des Gestaltwandlers aktiviert wird, wird der Gestaltwandler zu Beginn des nächsten Endsegments zerstört, selbst wenn er zu jenem Zeitpunkt keine Kopie des Verrückten Armodons ist.
 
-706.12 Ein Effekt, der einen Spieler anweist, eine Kopie eines Objekts zu 
-wirken (und nicht bloß einen Spruch zu kopieren), folgt den Regeln für das 
-Wirken von Zaubersprüchen, außer dass die Kopie in derselben Zone erzeugt wird, 
-in der sich das Objekt befindet, und dann gewirkt wird, während ein anderer 
-Zauberspruch oder eine Fähigkeit verrechnet wird. Das Wirken einer Kopie eines 
-Objektes folgt den Regeln 601.2a–g von Regel 601, „Zaubersprüche wirken“, und 
-dann gilt die Kopie als gewirkt. Nachdem sie gewirkt wurde, ist die Kopie ein 
-Zauberspruch auf dem Stapel, und genau wie jeder andere Zauberspruch kann sie 
-verrechnet oder neutralisiert werden.
+706.12 Ein Effekt, der einen Spieler anweist, eine Kopie eines Objekts zu wirken (und nicht bloß einen Spruch zu kopieren), folgt den Regeln für das Wirken von Zaubersprüchen, außer dass die Kopie in derselben Zone erzeugt wird, in der sich das Objekt befindet, und dann gewirkt wird, während ein anderer Zauberspruch oder eine Fähigkeit verrechnet wird. Das Wirken einer Kopie eines Objektes folgt den Regeln 601.2a–g von Regel 601, „Zaubersprüche wirken“, und dann gilt die Kopie als gewirkt. Nachdem sie gewirkt wurde, ist die Kopie ein Zauberspruch auf dem Stapel, und genau wie jeder andere Zauberspruch kann sie verrechnet oder neutralisiert werden.
 
 707. Verdeckte Zaubersprüche und bleibende Karten
 
-707.1 Zwei Karten (Illusionary Mask und Ixidron) und die Morphfähigkeit (siehe 
-Regel 702.35) erlauben Zaubersprüchen und Fähigkeiten, verdeckt zu sein.
+707.1 Zwei Karten (Illusionary Mask und Ixidron) und die Morphfähigkeit (siehe Regel 702.35) erlauben Zaubersprüchen und Fähigkeiten, verdeckt zu sein.
 
-707.2 Verdeckte Zaubersprüche und verdeckte bleibende Karten besitzen keine 
-anderen Eigenschaften als die von der Fähigkeit oder den Regeln, die dem 
-Zauberspruch oder der bleibenden Karte erlaubten, verdeckt zu sein, 
-aufgelisteten. Alle aufgelisteten Eigenschaften sind die kopierbaren Werte der 
-Eigenschaften dieses Objekts. Siehe Regel 613, „Interaktion dauerhafter 
-Effekte“ und Regel 706, „Objekte kopieren“.)
+707.2 Verdeckte Zaubersprüche und verdeckte bleibende Karten besitzen keine anderen Eigenschaften als die von der Fähigkeit oder den Regeln, die dem Zauberspruch oder der bleibenden Karte erlaubten, verdeckt zu sein, aufgelisteten. Alle aufgelisteten Eigenschaften sind die kopierbaren Werte der Eigenschaften dieses Objekts. Siehe Regel 613, „Interaktion dauerhafter Effekte“ und Regel 706, „Objekte kopieren“.)
 
-707.2a Wenn eine aufgedeckte bleibende Karte durch einen Zauberspruch oder eine 
-Fähigkeit verdeckt wird, wird sie zu einer verdeckten 2/2-Kreatur ohne Text, 
-Namen, Untertypen, Erweiterungssymbol und Manakosten. Diese Werte sind 
-kopierbare Werte der Eigenschaften dieses Objekts.
+707.2a Wenn eine aufgedeckte bleibende Karte durch einen Zauberspruch oder eine Fähigkeit verdeckt wird, wird sie zu einer verdeckten 2/2-Kreatur ohne Text, Namen, Untertypen, Erweiterungssymbol und Manakosten. Diese Werte sind kopierbare Werte der Eigenschaften dieses Objekts.
 
-707.3 Objekte, die verdeckt ins Spiel gebracht werden, werden verdeckt, bevor 
-sie ins Spiel kommen, sodass die Kommt-ins-Spiel-Fähigkeiten der bleibenden 
-Karte nicht ausgelöst werden (falls sie ausgelöste sind) oder keinen Effekt 
-haben (falls sie statisch sind).
+707.3 Objekte, die verdeckt ins Spiel gebracht werden, werden verdeckt, bevor sie ins Spiel kommen, sodass die Kommt-ins-Spiel-Fähigkeiten der bleibenden Karte nicht ausgelöst werden (falls sie ausgelöste sind) oder keinen Effekt haben (falls sie statisch sind).
 
-707.4 Objekte, die verdeckt gewirkt werden, werden verdeckt, bevor sie auf den 
-Stapel gelegt werden, sodass Effekte, die sich um Eigenschaften eines 
-Zauberspruchs kümmern, nur die Eigenschaften des verdeckten Zauberspruchs 
-sehen. Alle Effekte und Verbote, die auf das Wirken eines Objektes mit diesen 
-Eigenschaften zutreffen würden (und nicht auf die Eigenschaften des 
-aufgedeckten Objekts), werden auf das Wirken dieses Objektes angewandt. Die 
-bleibende Karte, zu der der Zauberspruch wird, ist eine verdeckte bleibende 
-Karte.
+707.4 Objekte, die verdeckt gewirkt werden, werden verdeckt, bevor sie auf den Stapel gelegt werden, sodass Effekte, die sich um Eigenschaften eines Zauberspruchs kümmern, nur die Eigenschaften des verdeckten Zauberspruchs sehen. Alle Effekte und Verbote, die auf das Wirken eines Objektes mit diesen Eigenschaften zutreffen würden (und nicht auf die Eigenschaften des aufgedeckten Objekts), werden auf das Wirken dieses Objektes angewandt. Die bleibende Karte, zu der der Zauberspruch wird, ist eine verdeckte bleibende Karte.
 
-707.5 Zu jedem Zeitpunkt kannst du dir einen verdeckten Zauberspruch auf dem 
-Stapel, den du kontrollierst, oder eine verdeckte bleibende Karte, die du 
-kontrollierst, (auch wenn sie destabilisiert ist) anschauen. Du kannst dir 
-keine verdeckten Karten in einer anderen Zone oder verdeckte Zaubersprüche und 
-bleibende Karten, die von einem anderen Spieler kontrolliert werden, anschauen.
+707.5 Zu jedem Zeitpunkt kannst du dir einen verdeckten Zauberspruch auf dem Stapel, den du kontrollierst, oder eine verdeckte bleibende Karte, die du kontrollierst, (auch wenn sie destabilisiert ist) anschauen. Du kannst dir keine verdeckten Karten in einer anderen Zone oder verdeckte Zaubersprüche und bleibende Karten, die von einem anderen Spieler kontrolliert werden, anschauen.
 
-707.6 Wenn du mehrere verdeckte Zaubersprüche oder verdeckte bleibende Karten 
-kontrollierst, musst du jederzeit sicherstellen, dass deine verdeckten 
-Zaubersprüche und bleibenden Karten leicht voneinander zu unterscheiden sind. 
-Dies beinhaltet, ist aber nicht beschränkt darauf, die Reihenfolge zu kennen, 
-in der Zaubersprüche gewirkt wurden, die Reihenfolge, in der verdeckte 
-bleibende Karten ins Spiel kamen, welche Kreatur im letzten Zug angegriffen hat 
-und alle anderen Unterschiede zwischen verdeckten Zaubersprüchen oder 
-bleibenden Karten. Übliche Methoden zur Unterscheidung zwischen verdeckten 
-Objekten beinhalten die Nutzung von Marken oder Würfeln, um unterschiedliche 
-Objekte zu kennzeichnen, oder diese Objekte sauber der Reihe nach auf dem Tisch 
-zu platzieren.
+707.6 Wenn du mehrere verdeckte Zaubersprüche oder verdeckte bleibende Karten kontrollierst, musst du jederzeit sicherstellen, dass deine verdeckten Zaubersprüche und bleibenden Karten leicht voneinander zu unterscheiden sind. Dies beinhaltet, ist aber nicht beschränkt darauf, die Reihenfolge zu kennen, in der Zaubersprüche gewirkt wurden, die Reihenfolge, in der verdeckte bleibende Karten ins Spiel kamen, welche Kreatur im letzten Zug angegriffen hat und alle anderen Unterschiede zwischen verdeckten Zaubersprüchen oder bleibenden Karten. Übliche Methoden zur Unterscheidung zwischen verdeckten Objekten beinhalten die Nutzung von Marken oder Würfeln, um unterschiedliche Objekte zu kennzeichnen, oder diese Objekte sauber der Reihe nach auf dem Tisch zu platzieren.
 
-707.7 Die Fähigkeiten oder Regeln, die es einer Karte erlauben, verdeckt zu 
-sein, können dem Beherrscher der bleibenden Karte auch erlauben, sie 
-aufzudecken. Zaubersprüche können normalerweise nicht aufgedeckt werden.
+707.7 Die Fähigkeiten oder Regeln, die es einer Karte erlauben, verdeckt zu sein, können dem Beherrscher der bleibenden Karte auch erlauben, sie aufzudecken. Zaubersprüche können normalerweise nicht aufgedeckt werden.
 
-707.8 Sowie eine verdeckte bleibende Karte aufgedeckt wird, kehren ihre 
-kopierbaren Werten zu ihren normalen kopierbaren Werten zurück. Alle Effekte, 
-die auf die verdeckte bleibende Karte angewandt wurden, wirken immer noch auf 
-die aufgedeckte bleibende Karte. Alle Fähigkeiten, die sich darauf beziehen, 
-dass die bleibende Karte ins Spiel kommt, werden nicht ausgelöst und haben 
-keinen Effekt, weil die bleibende Karte bereits ins Spiel gekommen ist.
+707.8 Sowie eine verdeckte bleibende Karte aufgedeckt wird, kehren ihre kopierbaren Werten zu ihren normalen kopierbaren Werten zurück. Alle Effekte, die auf die verdeckte bleibende Karte angewandt wurden, wirken immer noch auf die aufgedeckte bleibende Karte. Alle Fähigkeiten, die sich darauf beziehen, dass die bleibende Karte ins Spiel kommt, werden nicht ausgelöst und haben keinen Effekt, weil die bleibende Karte bereits ins Spiel gekommen ist.
 
-707.9 Wenn sich eine verdeckte bleibende Karte von der Im-Spiel-Zone in 
-irgendeine andere Zone bewegt, muss ihr Besitzer sie allen Spielern offen 
-zeigen, während er sie bewegt. Wenn sich ein verdeckter Zauberspruch in 
-irgendeine andere Zone als die Im-Spiel-Zone bewegt, muss sein Besitzer ihn 
-allen Spielern offen vorzeigen, während er ihn bewegt. Am Ende jeder Partie 
-müssen alle verdeckten bleibenden Karten und Zaubersprüche allen Spielern offen 
-vorgezeigt werden.
+707.9 Wenn sich eine verdeckte bleibende Karte von der Im-Spiel-Zone in irgendeine andere Zone bewegt, muss ihr Besitzer sie allen Spielern offen zeigen, während er sie bewegt. Wenn sich ein verdeckter Zauberspruch in irgendeine andere Zone als die Im-Spiel-Zone bewegt, muss sein Besitzer ihn allen Spielern offen vorzeigen, während er ihn bewegt. Am Ende jeder Partie müssen alle verdeckten bleibenden Karten und Zaubersprüche allen Spielern offen vorgezeigt werden.
 
-707.10 Wenn eine verdeckte bleibende Karte die Kopie einer anderen Karte wird, 
-werden ihre kopierbaren Werte zu den kopierbaren Werten jener bleibenden Karte, 
-so wie sie durch ihren verdeckten Status modifiziert werden. Ihre Eigenschaften 
-bleiben daher dieselben: die Eigenschaften, die von der Fähigkeit oder den 
-Regeln, die ihr erlaubten, verdeckt zu werden, aufgeführt wurden. Wenn sie 
-jedoch aufgedeckt wird, werden ihre kopierbaren Werte zu den Werten, wie sie 
-von jener anderen bleibenden Karte kopiert wurden. Siehe Regel 706.3.
+707.10 Wenn eine verdeckte bleibende Karte die Kopie einer anderen Karte wird, werden ihre kopierbaren Werte zu den kopierbaren Werten jener bleibenden Karte, so wie sie durch ihren verdeckten Status modifiziert werden. Ihre Eigenschaften bleiben daher dieselben: die Eigenschaften, die von der Fähigkeit oder den Regeln, die ihr erlaubten, verdeckt zu werden, aufgeführt wurden. Wenn sie jedoch aufgedeckt wird, werden ihre kopierbaren Werte zu den Werten, wie sie von jener anderen bleibenden Karte kopiert wurden. Siehe Regel 706.3.
 
-707.11 Wenn eine verdeckte bleibende Karte eine „Sowie [diese bleibende Karte] 
-aufgedeckt wird, …“-Fähigkeit besitzen würde, nachdem sie aufgedeckt wurde, 
-wird die Fähigkeit angewandt, während die bleibende Karte aufgedeckt wird, 
-nicht hinterher.
+707.11 Wenn eine verdeckte bleibende Karte eine „Sowie [diese bleibende Karte] aufgedeckt wird, …“-Fähigkeit besitzen würde, nachdem sie aufgedeckt wurde, wird die Fähigkeit angewandt, während die bleibende Karte aufgedeckt wird, nicht hinterher.
 
 708. Geteilte Karten
 
-708.1 Geteilte Karten besitzen zwei Kartenrahmen auf einer einzelnen Karte. Die 
-Rückseite einer geteilten Karte ist die normale Magic-Kartenrückseite.
+708.1 Geteilte Karten besitzen zwei Kartenrahmen auf einer einzelnen Karte. Die Rückseite einer geteilten Karte ist die normale Magic-Kartenrückseite.
 
-708.2 In jeder Zone außer dem Stapel haben geteilte Karten zwei Sätze an 
-Eigenschaften und zwei umgewandelte Manakosten. Solange die geteilte Karte ein 
-Zauberspruch auf dem Stapel ist, existieren nur die Eigenschaften der Hälfte, 
-die gewirkt wird. Die Eigenschaften der anderen Hälfte werden behandelt, als 
-existierten sie nicht.
+708.2 In jeder Zone außer dem Stapel haben geteilte Karten zwei Sätze an Eigenschaften und zwei umgewandelte Manakosten. Solange die geteilte Karte ein Zauberspruch auf dem Stapel ist, existieren nur die Eigenschaften der Hälfte, die gewirkt wird. Die Eigenschaften der anderen Hälfte werden behandelt, als existierten sie nicht.
 
-708.2 Wenn ein Spieler eine geteilte Karte wirkt, bestimmt der Spieler, welche 
-Hälfte der geteilten Karte er wirkt, bevor sie auf den Stapel gelegt wird. Nur 
-die Hälfte, die gewirkt wird, gilt als auf den Stapel gelegt.
+708.2 Wenn ein Spieler eine geteilte Karte wirkt, bestimmt der Spieler, welche Hälfte der geteilten Karte er wirkt, bevor sie auf den Stapel gelegt wird. Nur die Hälfte, die gewirkt wird, gilt als auf den Stapel gelegt.
 
-708.3 Jede geteilte Karte, die aus zwei Hälften mit unterschiedlichen farbigen 
-Manasymbolen in ihren Manakosten besteht, ist eine mehrfarbige Karte, solange 
-sie kein Zauberspruch auf dem Stapel ist. Während sie ein Zauberspruch auf dem 
-Stapel ist, ist sie nur die Farbe oder Farben der Hälfte, die gewirkt wird.
+708.3 Jede geteilte Karte, die aus zwei Hälften mit unterschiedlichen farbigen Manasymbolen in ihren Manakosten besteht, ist eine mehrfarbige Karte, solange sie kein Zauberspruch auf dem Stapel ist. Während sie ein Zauberspruch auf dem Stapel ist, ist sie nur die Farbe oder Farben der Hälfte, die gewirkt wird.
 
-708.4 Obwohl geteilte Karten zwei wirkbare Hälften besitzen, ist jede geteilte 
-Karte nur eine Karte. Zum Beispiel hat ein Spieler, der eine geteilte Karte 
-gezogen oder abgeworfen hat, nur eine Karte gezogen bzw. abgeworfen, nicht zwei.
+708.4 Obwohl geteilte Karten zwei wirkbare Hälften besitzen, ist jede geteilte Karte nur eine Karte. Zum Beispiel hat ein Spieler, der eine geteilte Karte gezogen oder abgeworfen hat, nur eine Karte gezogen bzw. abgeworfen, nicht zwei.
 
-708.5 Ein Effekt, der nach einer bestimmten Eigenschaft einer geteilten Karte 
-fragt, während sie in einer anderen Zone als dem Stapel ist, erhält zwei 
-Antworten (eine für jede der zwei Hälften der geteilten Karte).
+708.5 Ein Effekt, der nach einer bestimmten Eigenschaft einer geteilten Karte fragt, während sie in einer anderen Zone als dem Stapel ist, erhält zwei Antworten (eine für jede der zwei Hälften der geteilten Karte).
 
-   Beispiel: Höllische Schöpfung besitzt eine Fähigkeit, die lautet: „Zu Beginn 
-   des Versorgungssegments jedes Spielers legt dieser Spieler die oberste Karte 
-   von seiner Bibliothek in seinen Friedhof. Dann bringt er X schwarze 1/1-
-   Dienerspielsteine ins Spiel, wobei X die umgewandelten Manakosten dieser 
-   Karte sind.“ Wenn die oberste Karte deiner Bibliothek Misshandlung / 
-   Prügelandrohung ist, während diese Fähigkeit verrechnet wird, sieht das 
-   Spiel ihre umgewandelten Manakosten als „1 und 4“. Du erhältst fünf 
-   Kreaturenspielsteine.
+Beispiel: Höllische Schöpfung besitzt eine Fähigkeit, die lautet: „Zu Beginn des Versorgungssegments jedes Spielers legt dieser Spieler die oberste Karte von seiner Bibliothek in seinen Friedhof. Dann bringt er X schwarze 1/1-Dienerspielsteine ins Spiel, wobei X die umgewandelten Manakosten dieser Karte sind.“ Wenn die oberste Karte deiner Bibliothek Misshandlung / Prügelandrohung ist, während diese Fähigkeit verrechnet wird, sieht das Spiel ihre umgewandelten Manakosten als „1 und 4“. Du erhältst fünf Kreaturenspielsteine.
 
-708.6 Manche Effekte führen Vergleiche durch, die mit Eigenschaften einer oder 
-mehrerer geteilter Karten in einer anderen Zone als dem Stapel zu tun haben.
+708.6 Manche Effekte führen Vergleiche durch, die mit Eigenschaften einer oder mehrerer geteilter Karten in einer anderen Zone als dem Stapel zu tun haben.
 
-708.6a Ein Effekt, der einen positiven Vergleich (so wie zu fragen, ob eine 
-Karte rot ist) oder einen relativen Vergleich (so wie zu fragen, ob die 
-umgewandelten Manakosten einer Karte 2 oder weniger sind) anstellt und der 
-Eigenschaften einer oder mehrerer geteilter Karten in irgendeiner anderen Zone 
-als dem Stapel einbezieht, erhält nur eine Antwort. Die Antwort ist „ja“, wenn 
-eine der Hälften jeder geteilten Karte im Vergleich eine „ja“-Antwort erwidern 
-würde, wenn sie individuell verglichen werden würden.
+708.6a Ein Effekt, der einen positiven Vergleich (so wie zu fragen, ob eine Karte rot ist) oder einen relativen Vergleich (so wie zu fragen, ob die umgewandelten Manakosten einer Karte 2 oder weniger sind) anstellt und der Eigenschaften einer oder mehrerer geteilter Karten in irgendeiner anderen Zone als dem Stapel einbezieht, erhält nur eine Antwort. Die Antwort ist „ja“, wenn eine der Hälften jeder geteilten Karte im Vergleich eine „ja“-Antwort erwidern würde, wenn sie individuell verglichen werden würden.
 
-708.6b Ein Effekt, der einen negativen Vergleich (so wie zu fragen, ob Karten 
-verschiedene Namen haben) anstellt und Eigenschaften einer oder mehrerer 
-geteilter Karten in irgendeiner anderen Zone als dem Stapel einbezieht, erhält 
-ebenfalls nur eine Antwort. Diese Antwort ist „ja“, wenn der analoge positive 
-Vergleich eine „nein“-Antwort erwidern würde.
+708.6b Ein Effekt, der einen negativen Vergleich (so wie zu fragen, ob Karten verschiedene Namen haben) anstellt und Eigenschaften einer oder mehrerer geteilter Karten in irgendeiner anderen Zone als dem Stapel einbezieht, erhält ebenfalls nur eine Antwort. Diese Antwort ist „ja“, wenn der analoge positive Vergleich eine „nein“-Antwort erwidern würde.
 
-708.6c Wenn ein Effekt einen Vergleich anstellt, der mehrere Eigenschaften 
-einer oder mehrerer geteilter Karten in einer anderen Zone als dem Stapel 
-einbezieht, wird jede Eigenschaft einzeln verglichen. Wenn jeder der einzelnen 
-Vergleiche eine „ja“-Antwort erwidern würde, erwidert der ganze Vergleich eine 
-„ja“-Antwort.
+708.6c Wenn ein Effekt einen Vergleich anstellt, der mehrere Eigenschaften einer oder mehrerer geteilter Karten in einer anderen Zone als dem Stapel einbezieht, wird jede Eigenschaft einzeln verglichen. Wenn jeder der einzelnen Vergleiche eine „ja“-Antwort erwidern würde, erwidert der ganze Vergleich eine „ja“-Antwort.
 
-   Beispiel: Leere lautet: „Bestimme eine Zahl. Zerstöre alle Artefakte und 
-   Kreaturen mit umgewandelten Manakosten gleich dieser Zahl. Dann zeigt ein 
-   Spieler deiner Wahl seine Hand offen vor und wirft alle Nichtlandkarten mit 
-   umgewandelten Manakosten gleich dieser Zahl ab.“ Wenn ein Spieler Leere 
-   wirkt und 1 wählt, würde sein Gegner Misshandlung / Prügelandrohung 
-   abwerfen, weil das Spiel die umgewandelten Manakosten als „1 und 4“ ansieht. 
-   Dasselbe trifft zu, wenn der Spieler 4 wählt. Wenn er jedoch 5 wählt, wäre 
-   Misshandlung / Prügelandrohung unbeeinflusst.
+Beispiel: Leere lautet: „Bestimme eine Zahl. Zerstöre alle Artefakte und Kreaturen mit umgewandelten Manakosten gleich dieser Zahl. Dann zeigt ein Spieler deiner Wahl seine Hand offen vor und wirft alle Nichtlandkarten mit umgewandelten Manakosten gleich dieser Zahl ab.“ Wenn ein Spieler Leere wirkt und 1 wählt, würde sein Gegner Misshandlung / Prügelandrohung abwerfen, weil das Spiel die umgewandelten Manakosten als „1 und 4“ ansieht. Dasselbe trifft zu, wenn der Spieler 4 wählt. Wenn er jedoch 5 wählt, wäre Misshandlung / Prügelandrohung unbeeinflusst.
 
-708.7 Wenn ein Effekt einen Spieler anweist, eine Karte zu benennen, und der 
-Spieler eine geteilte Karte benennen möchte, muss er beide Hälften der 
-geteilten Karte nennen. Ein Objekt hat den bestimmten Namen, wenn es zumindest 
-einen der zwei Namen hat, die auf diese Weise bestimmt wurden.
+708.7 Wenn ein Effekt einen Spieler anweist, eine Karte zu benennen, und der Spieler eine geteilte Karte benennen möchte, muss er beide Hälften der geteilten Karte nennen. Ein Objekt hat den bestimmten Namen, wenn es zumindest einen der zwei Namen hat, die auf diese Weise bestimmt wurden.
 
 709. Wendekarten
 
-709.1 Wendekarten besitzen einen zweiteiligen Kartenrahmen auf einer einzelnen 
-Karte. Der Text, der auf der richtigen Seite oben erscheint, definiert die 
-normalen Eigenschaften der Karte. Zusätzliche, alternative Eigenschaften 
-erscheinen verkehrt herum auf der Karte. Die Rückseite einer Wendekarte ist die 
-normale Magic-Kartenrückseite.
+709.1 Wendekarten besitzen einen zweiteiligen Kartenrahmen auf einer einzelnen Karte. Der Text, der auf der richtigen Seite oben erscheint, definiert die normalen Eigenschaften der Karte. Zusätzliche, alternative Eigenschaften erscheinen verkehrt herum auf der Karte. Die Rückseite einer Wendekarte ist die normale Magic-Kartenrückseite.
 
-709.1a Die obere Hälfte einer Wendekarte enthält den normalen Namen, die 
-normale Textbox, die normale Typuszeile, die normale Stärke und die normale 
-Widerstandskraft der Karte. Die Textbox enthält normalerweise eine Fähigkeit, 
-die die Karte „wenden“ lässt, wenn bestimmte Bedingungen zutreffen.
+709.1a Die obere Hälfte einer Wendekarte enthält den normalen Namen, die normale Textbox, die normale Typuszeile, die normale Stärke und die normale Widerstandskraft der Karte. Die Textbox enthält normalerweise eine Fähigkeit, die die Karte „wenden“ lässt, wenn bestimmte Bedingungen zutreffen.
 
-709.1b Die untere Hälfte einer Wendekarte enthält einen alternativen Namen, 
-eine alternative Textbox, eine alternative Typuszeile, eine alternative Stärke 
-und eine alternative Widerstandskraft. Diese Eigenschaften werden nur benutzt, 
-wenn die bleibende Karte im Spiel ist, und nur, wenn die bleibende Karte 
-gewendet ist.
+709.1b Die untere Hälfte einer Wendekarte enthält einen alternativen Namen, eine alternative Textbox, eine alternative Typuszeile, eine alternative Stärke und eine alternative Widerstandskraft. Diese Eigenschaften werden nur benutzt, wenn die bleibende Karte im Spiel ist, und nur, wenn die bleibende Karte gewendet ist.
 
-709.1c Die Farbe, die Manakosten, das Erweiterungssymbol, die Künstlerangabe 
-und der Rechtshinweis ändern sich nicht, wenn die bleibende Karte, gewendet 
-wird. Ebenso werden Änderungen von externen Effekten immer noch angewendet.
+709.1c Die Farbe, die Manakosten, das Erweiterungssymbol, die Künstlerangabe und der Rechtshinweis ändern sich nicht, wenn die bleibende Karte, gewendet wird. Ebenso werden Änderungen von externen Effekten immer noch angewendet.
 
-709.2 In jeder Zone außer der Im-Spiel-Zone und auch in der Im-Spiel-Zone, 
-bevor die bleibende Karte gewendet wird, besitzt eine Wendekarte nur die 
-normalen Eigenschaften der Karte. Sobald eine bleibende Karte in der Im-Spiel-
-Zone gewendet wird, treffen ihre normale Name, ihre normale Textbox, ihre 
-normale Typuszeile, ihre normale Stärke und ihre normale Widerstandskraft nicht 
-mehr zu und die alternativen Versionen dieser Eigenschaften treffen stattdessen 
-zu.
+709.2 In jeder Zone außer der Im-Spiel-Zone und auch in der Im-Spiel-Zone, bevor die bleibende Karte gewendet wird, besitzt eine Wendekarte nur die normalen Eigenschaften der Karte. Sobald eine bleibende Karte in der Im-Spiel-Zone gewendet wird, treffen ihre normale Name, ihre normale Textbox, ihre normale Typuszeile, ihre normale Stärke und ihre normale Widerstandskraft nicht mehr zu und die alternativen Versionen dieser Eigenschaften treffen stattdessen zu.
 
-   Beispiel: Akki-Lavaläufer ist eine nichtlegendäre Kreatur, die zu einer 
-   legendären Kreatur namens Tok-Tok, der Vulkangeborene gewendet wird. Ein 
-   Effekt, der lautet „durchsuche deine Bibliothek nach einer legendären 
-   Karte“, kann diese Wendekarte nicht finden. Ein Effekt, der lautet 
-   „legendäre Kreaturen erhalten +2/+2“ beeinflusst nicht Akki-Lavaläufer, aber 
-   er beeinflusst Tok-Tok.
+Beispiel: Akki-Lavaläufer ist eine nichtlegendäre Kreatur, die zu einer legendären Kreatur namens Tok-Tok, der Vulkangeborene gewendet wird. Ein Effekt, der lautet „durchsuche deine Bibliothek nach einer legendären Karte“, kann diese Wendekarte nicht finden. Ein Effekt, der lautet „legendäre Kreaturen erhalten +2/+2“ beeinflusst nicht Akki-Lavaläufer, aber er beeinflusst Tok-Tok.
 
-709.3 Du musst sicherstellen, dass jederzeit klar ist, ob eine bleibende Karte, 
-die du kontrollierst, gewendet ist oder nicht, sowohl wenn sie ungetappt ist, 
-als auch wenn sie getappt ist. Übliche Methoden, um zwischen gewendeten und 
-nicht gewendeten bleibenden Karten zu unterscheiden, beinhalten die Nutzung von 
-Münzen oder Würfeln, um gewendete Objekte zu kennzeichnen.
+709.3 Du musst sicherstellen, dass jederzeit klar ist, ob eine bleibende Karte, die du kontrollierst, gewendet ist oder nicht, sowohl wenn sie ungetappt ist, als auch wenn sie getappt ist. Übliche Methoden, um zwischen gewendeten und nicht gewendeten bleibenden Karten zu unterscheiden, beinhalten die Nutzung von Münzen oder Würfeln, um gewendete Objekte zu kennzeichnen.
 
-709.4 Das Wenden einer bleibenden Karte ist ein Vorgang, der nur in eine 
-Richtung geht. Sobald eine bleibende Karte gewendet ist, ist es für sie 
-unmöglich, wieder ungewendet zu werden. Wenn eine gewendete bleibende Karte 
-jedoch das Spiel verlässt, behält sie keine Erinnerung an ihren Status. Siehe 
-Regel 110.6.
+709.4 Das Wenden einer bleibenden Karte ist ein Vorgang, der nur in eine Richtung geht. Sobald eine bleibende Karte gewendet ist, ist es für sie unmöglich, wieder ungewendet zu werden. Wenn eine gewendete bleibende Karte jedoch das Spiel verlässt, behält sie keine Erinnerung an ihren Status. Siehe Regel 110.6.
 
-709.5 Wenn ein Effekt einen Spieler anweist, eine Karte zu benennen, und der 
-Spieler möchte den alternativen Namen einer Wendekarte nennen, kann er dies tun.
+709.5 Wenn ein Effekt einen Spieler anweist, eine Karte zu benennen, und der Spieler möchte den alternativen Namen einer Wendekarte nennen, kann er dies tun.
 
 710. Stufenkarten
 
-710.1 Jede Stufenkarte hat eine in Streifen unterteilte Textbox und drei 
-Stärke/Widerstandskraft-Kästchen. Die Textbox einer Stufenkarte enthält zwei 
-Stufensymbole.
+710.1 Jede Stufenkarte hat eine in Streifen unterteilte Textbox und drei Stärke/Widerstandskraft-Kästchen. Die Textbox einer Stufenkarte enthält zwei Stufensymbole.
 
-710.2 Ein Stufensymbol ist eine Schlüsselwortfähigkeit, die eine statische 
-Fähigkeit repräsentiert. Das Stufensymbol enthält entweder einen Zahlenbereich, 
-der hier als „N1–N2“ angegeben wird, oder eine einzelne Zahl, auf die ein 
-Pluszeichen folgt, hier als „N3+“ angegeben. Alle Fähigkeiten, die im gleichen 
-Textbox-Streifen als Stufensymbol gedruckt sind, sind Teil der statischen 
-Fähigkeit der Karte. Entsprechend verhält es sich mit der Stärke und 
-Widerstandskraft, die in diesem Streifen gedruckt sind, hier als „[S/W]“ 
-angegeben.
+710.2 Ein Stufensymbol ist eine Schlüsselwortfähigkeit, die eine statische Fähigkeit repräsentiert. Das Stufensymbol enthält entweder einen Zahlenbereich, der hier als „N1–N2“ angegeben wird, oder eine einzelne Zahl, auf die ein Pluszeichen folgt, hier als „N3+“ angegeben. Alle Fähigkeiten, die im gleichen Textbox-Streifen als Stufensymbol gedruckt sind, sind Teil der statischen Fähigkeit der Karte. Entsprechend verhält es sich mit der Stärke und Widerstandskraft, die in diesem Streifen gedruckt sind, hier als „[S/W]“ angegeben.
 
-710.2a „{Stufe N1–N2} [Fähigkeiten] [S/W]“ bedeutet „Solange auf dieser Kreatur 
-mindestens N1 Stufenmarken liegen, aber nicht mehr als N2 Stufenmarken, ist sie 
-[S/W] und hat [Fähigkeiten].“
+710.2a „{Stufe N1–N2} [Fähigkeiten] [S/W]“ bedeutet „Solange auf dieser Kreatur mindestens N1 Stufenmarken liegen, aber nicht mehr als N2 Stufenmarken, ist sie [S/W] und hat [Fähigkeiten].“
 
-710.2b „{Stufe N3+} [Fähigkeiten] [S/W]“ bedeutet „Solange auf dieser Kreatur 
-N3 oder mehr Stufenmarken liegen, ist sie [S/W] und hat [Fähigkeiten].“
+710.2b „{Stufe N3+} [Fähigkeiten] [S/W]“ bedeutet „Solange auf dieser Kreatur N3 oder mehr Stufenmarken liegen, ist sie [S/W] und hat [Fähigkeiten].“
 
-710.3 Die Streifen in der Textbox haben keine weitere Bedeutung für das Spiel 
-als klar abzugrenzen, welche Fähigkeiten und welches Stärke/Widerstandskraft-
-Kästchen zu welchem Stufensymbol gehören. Jede Stufenkarte hat nur eine Textbox.
+710.3 Die Streifen in der Textbox haben keine weitere Bedeutung für das Spiel als klar abzugrenzen, welche Fähigkeiten und welches Stärke/Widerstandskraft-Kästchen zu welchem Stufensymbol gehören. Jede Stufenkarte hat nur eine Textbox.
 
-710.4 Jede Fähigkeit, die eine Stufenkarte hat und die nicht auf ein 
-Stufensymbol folgt, wird normal behandelt. Insbesondere hat jede Stufenkarte 
-ihre Stufe-aufsteigen-Fähigkeit (siehe Regel 702.85) zu jeder Zeit; sie kann 
-unabhängig davon aktiviert werden, wie viele Stufenmarken auf dieser bleibenden 
-Karte liegen.
+710.4 Jede Fähigkeit, die eine Stufenkarte hat und die nicht auf ein Stufensymbol folgt, wird normal behandelt. Insbesondere hat jede Stufenkarte ihre Stufe-aufsteigen-Fähigkeit (siehe Regel 702.85) zu jeder Zeit; sie kann unabhängig davon aktiviert werden, wie viele Stufenmarken auf dieser bleibenden Karte liegen.
 
-710.5 Falls die Anzahl der Stufenmarken einer Stufenkreatur kleiner als N1 ist 
-(die erste Zahl, die in ihrem {Stufe N1–N2}-Symbol gedruckt ist), hat sie die 
-im obersten Stärke/Widerstandskraft-Kästchen angegebene Stärke und 
-Widerstandskraft.
+710.5 Falls die Anzahl der Stufenmarken einer Stufenkreatur kleiner als N1 ist (die erste Zahl, die in ihrem {Stufe N1–N2}-Symbol gedruckt ist), hat sie die im obersten Stärke/Widerstandskraft-Kästchen angegebene Stärke und Widerstandskraft.
 
-710.6 In jeder anderen Zone als im Spiel hat eine Stufenkarte die im obersten 
-Stärke/Widerstandskraft-Kästchen angegebene Stärke und Widerstandskraft.
+710.6 In jeder anderen Zone als im Spiel hat eine Stufenkarte die im obersten Stärke/Widerstandskraft-Kästchen angegebene Stärke und Widerstandskraft.
 
 711. Doppelseitige Karten
 
-711.1 Eine doppelseitige Karte hat auf jeder Seite eine Magic-Kartenvorderseite 
-anstatt eine Magic-Kartenvorderseite auf der einen Seite und eine Magic-
-Kartenrückseite auf der anderen. Jede Seite kann Fähigkeiten haben, die es der 
-bleibenden Karte erlauben zu transformieren oder auf ihre andere Seite 
-umzudrehen. Spielsteine und Karten mit einer Magic-Kartenrückseite können nicht 
-transformieren. (Siehe Regel 701.25, „Transformieren“.)
+711.1 Eine doppelseitige Karte hat auf jeder Seite eine Magic-Kartenvorderseite anstatt eine Magic-Kartenvorderseite auf der einen Seite und eine Magic-Kartenrückseite auf der anderen. Jede Seite kann Fähigkeiten haben, die es der bleibenden Karte erlauben zu transformieren oder auf ihre andere Seite umzudrehen. Spielsteine und Karten mit einer Magic-Kartenrückseite können nicht transformieren. (Siehe Regel 701.25, „Transformieren“.)
 
-711.1a Die Vorderseite einer doppelseitigen Karte wird durch das Sonnensymbol 
-in ihrer oberen linken Ecke bestimmt.
+711.1a Die Vorderseite einer doppelseitigen Karte wird durch das Sonnensymbol in ihrer oberen linken Ecke bestimmt.
 
-711.1b Die Rückseite einer doppelseitigen Karte wird durch das Mondsymbol in 
-ihrer oberen linken Ecke bestimmt.
+711.1b Die Rückseite einer doppelseitigen Karte wird durch das Mondsymbol in ihrer oberen linken Ecke bestimmt.
 
-711.1c Während eine doppelseitige Karte in einer öffentlichen Zone ist, kann 
-sich jeder Spieler beide Seiten anschauen. In anderen Zonen kann sich jeder 
-Spieler, der sich die doppelseitige Karte anschauen darf, beide Seiten 
-anschauen.
+711.1c Während eine doppelseitige Karte in einer öffentlichen Zone ist, kann sich jeder Spieler beide Seiten anschauen. In anderen Zonen kann sich jeder Spieler, der sich die doppelseitige Karte anschauen darf, beide Seiten anschauen.
 
-711.1d Falls die Rückseite einer doppelseitigen Karte eine Kreatur ist, steht 
-auf der Vorderseite die Stärke und Widerstandskraft der Rückseite in grau 
-oberhalb der Stärke/Widerstandskraft-Box. Das ist Erinnerungstext und hat keine 
-Auswirkungen auf das Spiel.
+711.1d Falls die Rückseite einer doppelseitigen Karte eine Kreatur ist, steht auf der Vorderseite die Stärke und Widerstandskraft der Rückseite in grau oberhalb der Stärke/Widerstandskraft-Box. Das ist Erinnerungstext und hat keine Auswirkungen auf das Spiel.
 
-711.2 Jede Seite einer doppelseitigen Karte hat ihren eigenen Satz an 
-Eigenschaften.
+711.2 Jede Seite einer doppelseitigen Karte hat ihren eigenen Satz an Eigenschaften.
 
-711.2a In jeder Zone außer der Im-Spiel-Zone, sowie im Spiel, falls die Vorderseite
- oben liegt, hat eine doppelseitige Karte nur die Eigenschaften der Vorderseite.
+711.2a In jeder Zone außer der Im-Spiel-Zone, sowie im Spiel, falls die Vorderseite oben liegt, hat eine doppelseitige Karte nur die Eigenschaften der Vorderseite.
 
-711.2b Während die Rückseite einer doppelseitigen bleibenden Karte oben liegt, 
-hat sie nur die Eigenschaften der Rückseite. Die Rückseite hat keine 
-Manakosten; sie hat die Farben in ihrem Farbanzeiger (siehe Regel 202.2e), 
-falls vorhanden.
+711.2b Während die Rückseite einer doppelseitigen bleibenden Karte oben liegt, hat sie nur die Eigenschaften der Rückseite. Die Rückseite hat keine Manakosten; sie hat die Farben in ihrem Farbanzeiger (siehe Regel 202.2e), falls vorhanden.
 
-711.3 Außer um zu bestimmen, ob eine bleibende Karte transformieren kann oder 
-nicht, sieht ein Zauberspruch, eine Fähigkeit, ein Effekt oder eine Regel, der 
-bzw. die Informationen über eine doppelseitige bleibende Karte benötigt, nur 
-die Informationen über die Seite, die gerade oben liegt.
+711.3 Außer um zu bestimmen, ob eine bleibende Karte transformieren kann oder nicht, sieht ein Zauberspruch, eine Fähigkeit, ein Effekt oder eine Regel, der bzw. die Informationen über eine doppelseitige bleibende Karte benötigt, nur die Informationen über die Seite, die gerade oben liegt.
 
-   Beispiel: Ein Klon kommt als Kopie eines Wildblutrudels (die Rückseite einer 
-   doppelseitigen Karte) ins Spiel. Der Klon ist eine Kopie des Wildblutrudels. 
-   Da der Klon selbst keine doppelseitige Karte ist, kann er nicht 
-   transformieren.
+Beispiel: Ein Klon kommt als Kopie eines Wildblutrudels (die Rückseite einer doppelseitigen Karte) ins Spiel. Der Klon ist eine Kopie des Wildblutrudels. Da der Klon selbst keine doppelseitige Karte ist, kann er nicht transformieren.
 
-   Beispiel: Ein Spieler wirkt Zytoform, die dazu führt, dass ein Geächteter 
-   aus Kruin (die Vorderseite einer doppelseitigen Karte) bis zum Ende des 
-   Zuges zu einer Kopie von einer Elite-Vorhut (eine 2/1 Mensch-Soldat-Kreatur) 
-   wird. Der Spieler wirkt dann einen Mondnebel, der zum Teil lautet 
-   „Transformiere alle Menschen.“ Da die Kopie der Elite-Vorhut eine 
-   doppelseitige Karte ist, wird sie transformiert. Die resultierende bleibende 
-   Karte wird die Rückseite oben haben, aber in diesem Zug weiterhin eine Kopie 
-   der Elite-Vorhut sein.
+Beispiel: Ein Spieler wirkt Zytoform, die dazu führt, dass ein Geächteter aus Kruin (die Vorderseite einer doppelseitigen Karte) bis zum Ende des Zuges zu einer Kopie von einer Elite-Vorhut (eine 2/1 Mensch-Soldat-Kreatur) wird. Der Spieler wirkt dann einen Mondnebel, der zum Teil lautet „Transformiere alle Menschen.“ Da die Kopie der Elite-Vorhut eine doppelseitige Karte ist, wird sie transformiert. Die resultierende bleibende Karte wird die Rückseite oben haben, aber in diesem Zug weiterhin eine Kopie der Elite-Vorhut sein.
 
-711.4 Wenn eine doppelseitige Karte als Zauberspruch gewirkt wird, wird sie mit 
-der Vorderseite nach oben auf den Stapel gelegt. Eine doppelseitige Karte kann 
-nicht verdeckt gewirkt werden. Siehe Regel 601, „Zaubersprüche wirken“.
+711.4 Wenn eine doppelseitige Karte als Zauberspruch gewirkt wird, wird sie mit der Vorderseite nach oben auf den Stapel gelegt. Eine doppelseitige Karte kann nicht verdeckt gewirkt werden. Siehe Regel 601, „Zaubersprüche wirken“.
 
-711.5 Eine doppelseitige Karte kommt mit der Vorderseite nach oben ins Spiel, 
-außer ein Zauberspruch oder eine Fähigkeit bringt sie „transformiert“ ins 
-Spiel; in diesem Fall kommt sie mit der Rückseite nach oben ins Spiel.
+711.5 Eine doppelseitige Karte kommt mit der Vorderseite nach oben ins Spiel, außer ein Zauberspruch oder eine Fähigkeit bringt sie „transformiert“ ins Spiel; in diesem Fall kommt sie mit der Rückseite nach oben ins Spiel.
 
-711.6 Eine doppelseitige bleibende Karte hat immer den Status „offen“ (siehe 
-Regel 115). Doppelseitige bleibende Karten können nicht verdeckt werden. Wenn 
-ein Zauberspruch oder eine Fähigkeit versucht, eine doppelseitige bleibende 
-Karte zu verdecken, passiert nichts.
+711.6 Eine doppelseitige bleibende Karte hat immer den Status „offen“ (siehe Regel 115). Doppelseitige bleibende Karten können nicht verdeckt werden. Wenn ein Zauberspruch oder eine Fähigkeit versucht, eine doppelseitige bleibende Karte zu verdecken, passiert nichts.
 
-711.7 Wenn eine doppelseitige bleibende Karte transformiert, wird sie nicht zu 
-einem neuen Objekt. Alle Effekte, die für diese bleibende Karte galten, gelten 
-weiterhin für sie, nachdem sie transformiert wurde.
+711.7 Wenn eine doppelseitige bleibende Karte transformiert, wird sie nicht zu einem neuen Objekt. Alle Effekte, die für diese bleibende Karte galten, gelten weiterhin für sie, nachdem sie transformiert wurde.
 
-   Beispiel: Ein Effekt gibt einem Dorfschmied (die Vorderseite einer 
-   doppelseitigen Karte) +2/+2 bis zum Ende des Zuges, dann transformiert der 
-   Dorfschmied zu Eisenfang. Eisenfang hat weiterhin +2/+2 bis zum Ende des 
-   Zuges.
+Beispiel: Ein Effekt gibt einem Dorfschmied (die Vorderseite einer doppelseitigen Karte) +2/+2 bis zum Ende des Zuges, dann transformiert der Dorfschmied zu Eisenfang. Eisenfang hat weiterhin +2/+2 bis zum Ende des Zuges.
 
-711.8 Wenn ein Effekt einen Spieler anweist, eine Karte zu benennen, kann der 
-Spieler entweder die Vorderseite oder die Rückseite einer doppelseitigen Karte 
-benennen, aber nicht beide.
+711.8 Wenn ein Effekt einen Spieler anweist, eine Karte zu benennen, kann der Spieler entweder die Vorderseite oder die Rückseite einer doppelseitigen Karte benennen, aber nicht beide.
 
-711.9 Die Spieler müssen sicherstellen, dass doppelseitige Karten in 
-nichtöffentlichen Zonen nicht von anderen Karten in der gleichen Zone 
-unterschieden werden können. Dazu kann der Besitzer einer doppelseitigen Karte 
-Kartenhüllen mit völlig undurchsichtigen Rückseiten verwenden oder die Karte 
-durch eine Checklistenkarte ersetzen. Sanktionierte Turniere haben zusätzliche 
-Regeln für das Spielen mit doppelseitigen Karten. Siehe Regel 100.6.
+711.9 Die Spieler müssen sicherstellen, dass doppelseitige Karten in nichtöffentlichen Zonen nicht von anderen Karten in der gleichen Zone unterschieden werden können. Dazu kann der Besitzer einer doppelseitigen Karte Kartenhüllen mit völlig undurchsichtigen Rückseiten verwenden oder die Karte durch eine Checklistenkarte ersetzen. Sanktionierte Turniere haben zusätzliche Regeln für das Spielen mit doppelseitigen Karten. Siehe Regel 100.6.
 
-711.9a Falls eine Checklistenkarte verwendet wird, muss die doppelseitige 
-Karte, die sie repräsentiert, vor dem Spiel beiseite gelegt werden (siehe 
-Regel 103.1a) und im gesamten Verlauf des Spiels verfügbar sein. Eine 
-Checklistenkarte kann nur in einem Deck verwendet werden, wenn sie eine 
-doppelseitige Karte repräsentiert.
+711.9a Falls eine Checklistenkarte verwendet wird, muss die doppelseitige Karte, die sie repräsentiert, vor dem Spiel beiseite gelegt werden (siehe Regel 103.1a) und im gesamten Verlauf des Spiels verfügbar sein. Eine Checklistenkarte kann nur in einem Deck verwendet werden, wenn sie eine doppelseitige Karte repräsentiert.
 
-711.9b Die Vorderseite einer Checklistenkarte ist in Abschnitte eingeteilt. 
-Jeder Abschnitt listet den Namen und die Manakosten einer jeden doppelseitigen 
-Karte auf, die sie repräsentieren könnte, und enthält einen Kreis zum 
-Ankreuzen. Wenn diese Checklistenkarte verwendet wird, muss genau einer der 
-Kreise angekreuzt werden, um die doppelseitige Karte zu kennzeichnen, die durch 
-die Checklistenkarte repräsentiert wird.
+711.9b Die Vorderseite einer Checklistenkarte ist in Abschnitte eingeteilt. Jeder Abschnitt listet den Namen und die Manakosten einer jeden doppelseitigen Karte auf, die sie repräsentieren könnte, und enthält einen Kreis zum Ankreuzen. Wenn diese Checklistenkarte verwendet wird, muss genau einer der Kreise angekreuzt werden, um die doppelseitige Karte zu kennzeichnen, die durch die Checklistenkarte repräsentiert wird.
 
-711.9c Für alle Spielzwecke wird die Checklistenkarte als die doppelseitige 
-Karte angesehen, die sie repräsentiert. Sie hat in allen Zonen die 
-Eigenschaften dieser doppelseitigen Karte.
+711.9c Für alle Spielzwecke wird die Checklistenkarte als die doppelseitige Karte angesehen, die sie repräsentiert. Sie hat in allen Zonen die Eigenschaften dieser doppelseitigen Karte.
 
-711.9d Wenn die Checklistenkarte eine öffentliche Zone betritt, sollte sie 
-beiseite gelegt und stattdessen die doppelseitige Karte verwendet werden. Wenn 
-die Checklistenkarte verdeckt ins Exil geschickt wird, sollte ihre Identität 
-weiter verborgen bleiben, indem die verdeckte Checklistenkarte verwendet wird.
+711.9d Wenn die Checklistenkarte eine öffentliche Zone betritt, sollte sie beiseite gelegt und stattdessen die doppelseitige Karte verwendet werden. Wenn die Checklistenkarte verdeckt ins Exil geschickt wird, sollte ihre Identität weiter verborgen bleiben, indem die verdeckte Checklistenkarte verwendet wird.
 
 712. Einen anderen Spieler kontrollieren
 
-712.1 Zwei Karten (Gedankenversklaver und Sorin Markov) erlauben einem Spieler, 
-einen anderen Spieler während dessen nächsten Zuges zu kontrollieren. Dieser 
-Effekt wird auf den nächsten Zug angewandt, den der beeinflusste Spieler 
-tatsächlich macht. Der beeinflusste Spieler wird während des gesamten Zuges 
-kontrolliert; der Effekt endet nicht vor dem Beginn des nächsten Zuges.
+712.1 Zwei Karten (Gedankenversklaver und Sorin Markov) erlauben einem Spieler, einen anderen Spieler während dessen nächsten Zuges zu kontrollieren. Dieser Effekt wird auf den nächsten Zug angewandt, den der beeinflusste Spieler tatsächlich macht. Der beeinflusste Spieler wird während des gesamten Zuges kontrolliert; der Effekt endet nicht vor dem Beginn des nächsten Zuges.
 
-712.1a Mehrere spielerkontrollierende Effekte, die denselben Spieler 
-beeinflussen, überschrieben sich gegenseitig. Der letzte, der erschaffen wird, 
-ist derjenige, der wirkt.
+712.1a Mehrere spielerkontrollierende Effekte, die denselben Spieler beeinflussen, überschrieben sich gegenseitig. Der letzte, der erschaffen wird, ist derjenige, der wirkt.
 
-712.1b Wenn ein Zug übersprungen wird, warten alle ausstehenden 
-spielerkontrollierenden Effekte, bis der Spieler, der beeinflusst werden würde, 
-tatsächlich einen Zug macht.
+712.1b Wenn ein Zug übersprungen wird, warten alle ausstehenden spielerkontrollierenden Effekte, bis der Spieler, der beeinflusst werden würde, tatsächlich einen Zug macht.
 
-712.2 Eine Karte (Word of Command) erlaubt einem Spieler, einen anderen Spieler 
-für eine begrenzte Dauer zu kontrollieren.
+712.2 Eine Karte (Word of Command) erlaubt einem Spieler, einen anderen Spieler für eine begrenzte Dauer zu kontrollieren.
 
-712.3 Nur die Kontrolle über den Spieler ändert sich. Alle Objekte werden von 
-ihren normalen Beherrschern kontrolliert. Ein Spieler, der während seines Zuges 
-kontrolliert wird, ist nach wie vor der aktive Spieler.
+712.3 Nur die Kontrolle über den Spieler ändert sich. Alle Objekte werden von ihren normalen Beherrschern kontrolliert. Ein Spieler, der während seines Zuges kontrolliert wird, ist nach wie vor der aktive Spieler.
 
-712.4 Wenn Informationen über ein Objekt für den Spieler, der kontrolliert 
-wird, sichtbar wären, sind sie sowohl für diesen Spieler als auch für den 
-Beherrscher des Spielers sichtbar.
+712.4 Wenn Informationen über ein Objekt für den Spieler, der kontrolliert wird, sichtbar wären, sind sie sowohl für diesen Spieler als auch für den Beherrscher des Spielers sichtbar.
 
-   Beispiel: Der Beherrscher eines anderen Spielers kann die Hand und die 
-   Vorderseite jeder verdeckten Karte dieses Spielers sehen.
+Beispiel: Der Beherrscher eines anderen Spielers kann die Hand und die Vorderseite jeder verdeckten Karte dieses Spielers sehen.
 
-712.5 Während ein Spieler einen anderen Spieler kontrolliert, trifft er alle 
-Wahlen und Entscheidungen, die der kontrollierte Spieler laut Regeln oder 
-Objekten machen darf oder soll. Dies schließt Wahlen und Entscheidungen darüber 
-ein, was gespielt werden soll, und Wahlen und Entscheidungen, die von 
-Zaubersprüchen und Fähigkeiten verlangt werden.
+712.5 Während ein Spieler einen anderen Spieler kontrolliert, trifft er alle Wahlen und Entscheidungen, die der kontrollierte Spieler laut Regeln oder Objekten machen darf oder soll. Dies schließt Wahlen und Entscheidungen darüber ein, was gespielt werden soll, und Wahlen und Entscheidungen, die von Zaubersprüchen und Fähigkeiten verlangt werden.
 
-   Beispiel: Der Beherrscher eines anderen Spielers entscheidet, welche 
-   Zaubersprüche dieser Spieler wirkt und auf was diese Zauber zielen und 
-   trifft alle nötigen Entscheidungen, wenn diese Zaubersprüche verrechnet 
-   werden.
+Beispiel: Der Beherrscher eines anderen Spielers entscheidet, welche Zaubersprüche dieser Spieler wirkt und auf was diese Zauber zielen und trifft alle nötigen Entscheidungen, wenn diese Zaubersprüche verrechnet werden.
 
-   Beispiel: Der Beherrscher eines anderen Spielers entscheidet während dessen 
-   Zuges, welche von dessen Kreaturen angreifen, welchen Spieler oder 
-   Planeswalker jede davon angreift, wie die Schadenszuweisungsreihenfolge der 
-   Kreaturen ist, von denen sie geblockt werden (falls irgendwelche 
-   angreifenden Kreaturen von mehreren Kreaturen geblockt werden), und wie die 
-   angreifenden Kreaturen ihren Kampfschaden zuweisen.
+Beispiel: Der Beherrscher eines anderen Spielers entscheidet während dessen Zuges, welche von dessen Kreaturen angreifen, welchen Spieler oder Planeswalker jede davon angreift, wie die Schadenszuweisungsreihenfolge der Kreaturen ist, von denen sie geblockt werden (falls irgendwelche angreifenden Kreaturen von mehreren Kreaturen geblockt werden), und wie die angreifenden Kreaturen ihren Kampfschaden zuweisen.
 
-712.5a Der Beherrscher eines anderen Spielers kann nur die Ressourcen (Karten, 
-Mana und so weiter) dieses Spielers benutzen, um Kosten für diesen Spieler zu 
-bezahlen.
+712.5a Der Beherrscher eines anderen Spielers kann nur die Ressourcen (Karten, Mana und so weiter) dieses Spielers benutzen, um Kosten für diesen Spieler zu bezahlen.
 
-   Beispiel: Wenn der Beherrscher eines anderen Spielers entscheidet, dass der 
-   kontrollierte Spieler einen Zauberspruch mit Kartenabwerfen als zusätzlichen 
-   Kosten wirkt, werden die Karten von der Hand des kontrollierten Spielers 
-   abgeworfen.
+Beispiel: Wenn der Beherrscher eines anderen Spielers entscheidet, dass der kontrollierte Spieler einen Zauberspruch mit Kartenabwerfen als zusätzlichen Kosten wirkt, werden die Karten von der Hand des kontrollierten Spielers abgeworfen.
 
-712.5b Der Beherrscher eines anderen Spielers kann nicht Wahlen oder 
-Entscheidungen für diesen Spieler treffen, die nicht von Regeln oder Objekten 
-verlangt werden. Der Beherrscher kann auch keine Wahlen oder Entscheidungen für 
-den Spieler treffen, die von den Turnierregeln verlangt werden.
+712.5b Der Beherrscher eines anderen Spielers kann nicht Wahlen oder Entscheidungen für diesen Spieler treffen, die nicht von Regeln oder Objekten verlangt werden. Der Beherrscher kann auch keine Wahlen oder Entscheidungen für den Spieler treffen, die von den Turnierregeln verlangt werden.
 
-   Beispiel: Der Spieler, der kontrolliert wird, entscheidet immer noch, ob er 
-   kurz verschwindet, um auf die Toilette zu gehen, mit jemand anderem eine 
-   Karte tauscht, ein beabsichtigtes Unentschieden vereinbart oder einen 
-   Schiedsrichter wegen eines Fehlers oder einer Regelwidrigkeit ruft.
+Beispiel: Der Spieler, der kontrolliert wird, entscheidet immer noch, ob er kurz verschwindet, um auf die Toilette zu gehen, mit jemand anderem eine Karte tauscht, ein beabsichtigtes Unentschieden vereinbart oder einen Schiedsrichter wegen eines Fehlers oder einer Regelwidrigkeit ruft.
 
-712.6 Der Beherrscher eines anderen Spielers kann diesen Spieler nicht aufgeben 
-lassen. Ein Spieler kann das Spiel zu jedem Zeitpunkt aufgeben, selbst wenn er 
-von einem anderen Spieler kontrolliert wird. Siehe Regel 104.3a.
+712.6 Der Beherrscher eines anderen Spielers kann diesen Spieler nicht aufgeben lassen. Ein Spieler kann das Spiel zu jedem Zeitpunkt aufgeben, selbst wenn er von einem anderen Spieler kontrolliert wird. Siehe Regel 104.3a.
 
-712.7 Der Effekt, der einem Spieler die Kontrolle über einen anderen Spieler 
-gibt, kann die Aktionen einschränken, die der kontrollierte Spieler durchführen 
-darf, oder kann Aktionen benennen, die der kontrollierte Spieler durchführen 
-muss.
+712.7 Der Effekt, der einem Spieler die Kontrolle über einen anderen Spieler gibt, kann die Aktionen einschränken, die der kontrollierte Spieler durchführen darf, oder kann Aktionen benennen, die der kontrollierte Spieler durchführen muss.
 
-712.8 Ein Spieler, der einen anderen Spieler kontrolliert, trifft auch weiter 
-seine eigenen Wahlen und Entscheidungen.
+712.8 Ein Spieler, der einen anderen Spieler kontrolliert, trifft auch weiter seine eigenen Wahlen und Entscheidungen.
 
-712.9 Ein Spieler kann die Kontrolle über sich selbst erlangen. Dieser Spieler 
-trifft seine eigenen Wahlen und Entscheidungen wie gewöhnlich.
+712.9 Ein Spieler kann die Kontrolle über sich selbst erlangen. Dieser Spieler trifft seine eigenen Wahlen und Entscheidungen wie gewöhnlich.
 
 713. Den Zug beenden
 
-713.1 Zwei Karten (Zeitstopp und Sonnenuhr der Unendlichkeit]) beenden den Zug. 
-Wenn ein Effekt den Zug beendet, befolge diese Schritte in dieser Reihenfolge, 
-da sie sich vom normalen Vorgang für die Verrechnung von Zaubersprüchen und 
-Fähigkeiten unterscheiden (siehe Regel 608, „Zaubersprüche und Fähigkeiten 
-verrechnen“).
+713.1 Zwei Karten (Zeitstopp und Sonnenuhr der Unendlichkeit]) beenden den Zug. Wenn ein Effekt den Zug beendet, befolge diese Schritte in dieser Reihenfolge, da sie sich vom normalen Vorgang für die Verrechnung von Zaubersprüchen und Fähigkeiten unterscheiden (siehe Regel 608, „Zaubersprüche und Fähigkeiten verrechnen“).
 
-713.1a Schicke jedes Objekt auf dem Stapel ins Exil, einschließlich dem 
-Zauberspruch, der gerade verrechnet wird. Entferne alle Kreaturen und 
-Planeswalker aus dem Kampf (einschließlich der destabilisierten). Alle Objekte, 
-die nicht im Spiel oder in der Kommandozone sind und nicht durch Karten 
-dargestellt werden, hören das nächste Mal, wenn zustandsbasierte 
-Aktionen überprüft werden, auf zu existieren (siehe Regel 704, „Zustandsbasierte Aktionen“).
+713.1a Schicke jedes Objekt auf dem Stapel ins Exil, einschließlich dem Zauberspruch, der gerade verrechnet wird. Entferne alle Kreaturen und Planeswalker aus dem Kampf (einschließlich der destabilisierten). Alle Objekte, die nicht im Spiel oder in der Kommandozone sind und nicht durch Karten dargestellt werden, hören das nächste Mal, wenn zustandsbasierte Aktionen überprüft werden, auf zu existieren (siehe Regel 704, „Zustandsbasierte Aktionen“).
 
-713.1b Überprüfe zustandsbasierte Aktionen. Kein Spieler erhält 
-Priorität, und es werden keine ausgelösten Fähigkeiten auf den Stapel gelegt.
+713.1b Überprüfe zustandsbasierte Aktionen. Kein Spieler erhält Priorität, und es werden keine ausgelösten Fähigkeiten auf den Stapel gelegt.
 
-713.1c Die/Das momentane Phase/Segment endet. Das Spiel springt direkt zum 
-Aufräumsegment. Übergehe alle Phasen oder Segment zwischen dieser Phase bzw. 
-diesem Segment und dem Aufräumsegment.
+713.1c Die/Das momentane Phase/Segment endet. Das Spiel springt direkt zum Aufräumsegment. Übergehe alle Phasen oder Segment zwischen dieser Phase bzw. diesem Segment und dem Aufräumsegment.
 
-713.2 Kein Spieler erhält während dieses Vorgangs Priorität, somit werden 
-ausgelöste Fähigkeiten nicht auf den Stapel gelegt. Wenn irgendwelche 
-ausgelösten Fähigkeiten zwischen der Verrechnung des Zauberspruchs oder der 
-Fähigkeit und dem Ende des Aufräumsegments ausgelöst wurden, werden diese 
-Fähigkeiten im Aufräumsegment auf den Stapel gelegt, dann erhält der aktive 
-Spieler Priorität, und Spieler Können Zaubersprüche wirken und Fähigkeiten 
-aktivieren. Danach gibt es ein weiteres Aufräumsegment, bevor der Zug letztlich 
-endet. Falls während dieses Vorgangs keine ausgelösten Fähigkeiten ausgelöst 
-wurden, erhält im Aufräumsegment kein Spieler Priorität. Siehe Regel 514, 
-„Aufräumsegment“).
+713.2 Kein Spieler erhält während dieses Vorgangs Priorität, somit werden ausgelöste Fähigkeiten nicht auf den Stapel gelegt. Wenn irgendwelche ausgelösten Fähigkeiten zwischen der Verrechnung des Zauberspruchs oder der Fähigkeit und dem Ende des Aufräumsegments ausgelöst wurden, werden diese Fähigkeiten im Aufräumsegment auf den Stapel gelegt, dann erhält der aktive Spieler Priorität, und Spieler Können Zaubersprüche wirken und Fähigkeiten aktivieren. Danach gibt es ein weiteres Aufräumsegment, bevor der Zug letztlich endet. Falls während dieses Vorgangs keine ausgelösten Fähigkeiten ausgelöst wurden, erhält im Aufräumsegment kein Spieler Priorität. Siehe Regel 514, „Aufräumsegment“).
 
-713.3 Obwohl der Zug endet, werden „zu Beginn des Endsegments“-ausgelöste 
-Fähigkeiten nicht ausgelöst, weil das Endsegment übergangen wird.
+713.3 Obwohl der Zug endet, werden „zu Beginn des Endsegments“-ausgelöste Fähigkeiten nicht ausgelöst, weil das Endsegment übergangen wird.
 
 714. Die Partie neu starten
 
-714.1 Eine Karte (Karn der Befreite) startet die Partie neu. Eine Partie, die 
-neu gestartet, endet sofort. Kein Spieler in dieser Partie gewinnt oder 
-verliert, und die Partie endet nicht unentschieden. Alle Spieler, die noch im 
-Spiel sind, wenn die Partie neu gestartet wird, beginnen eine neue Partie, 
-indem sie die Anweisungen in Regel 103, „Eine Partie beginnen“ befolgen, mit 
-der folgenden Ausnahme:
+714.1 Eine Karte (Karn der Befreite) startet die Partie neu. Eine Partie, die neu gestartet, endet sofort. Kein Spieler in dieser Partie gewinnt oder verliert, und die Partie endet nicht unentschieden. Alle Spieler, die noch im Spiel sind, wenn die Partie neu gestartet wird, beginnen eine neue Partie, indem sie die Anweisungen in Regel 103, „Eine Partie beginnen“ befolgen, mit der folgenden Ausnahme:
 
-714.1a Der Startspieler der neuen Partie ist der Spieler, der den Zauberspruch 
-oder die Fähigkeit kontrolliert hat, der bzw. die das Spiel neu gestartet hat.
+714.1a Der Startspieler der neuen Partie ist der Spieler, der den Zauberspruch oder die Fähigkeit kontrolliert hat, der bzw. die das Spiel neu gestartet hat.
 
-714.2 Alle Magic-Karten, die in der Partie involviert waren, die neu gestartet 
-wurde, als sie endete, sind auch in der neuen Partie involviert, inklusive 
-destabilisierter bleibender Karten und nicht herkömmlicher Magic-Karten. Die 
-Karten wechseln in der neuen Partie nicht den Besitzer, egal wo sie sich 
-befinden, wenn die neue Partie beginnt.
+714.2 Alle Magic-Karten, die in der Partie involviert waren, die neu gestartet wurde, als sie endete, sind auch in der neuen Partie involviert, inklusive destabilisierter bleibender Karten und nicht herkömmlicher Magic-Karten. Die Karten wechseln in der neuen Partie nicht den Besitzer, egal wo sie sich befinden, wenn die neue Partie beginnt.
 
-   Beispiel: Ein Spieler wirkt Lebender Wunsch und holt eine Kreaturenkarte von 
-   außerhalb der Partie in die Partie. Dann wird die Partie neu gestartet. Die 
-   Kreaturenkarte wird Teil der Bibliothek dieses Spielers sein, wenn die neue 
-   Partie beginnt.
+Beispiel: Ein Spieler wirkt Lebender Wunsch und holt eine Kreaturenkarte von außerhalb der Partie in die Partie. Dann wird die Partie neu gestartet. Die Kreaturenkarte wird Teil der Bibliothek dieses Spielers sein, wenn die neue Partie beginnt.
 
-714.3 Weil jeder Spieler sieben Karten zieht, wenn die neue Partie beginnt, 
-verliert jeder Spieler mit weniger als sieben Karten in seiner Bibliothek das 
-Spiel, wenn die zustandsbasierten Aktionen im Versorgungssegment des 
-ersten Zuges überprüft werden, unabhängig von jeglichen Mulligans, die dieser 
-Spieler genommen hat. (Siehe Regel 704, „zustandsbasierte Aktionen“.)
+714.3 Weil jeder Spieler sieben Karten zieht, wenn die neue Partie beginnt, verliert jeder Spieler mit weniger als sieben Karten in seiner Bibliothek das Spiel, wenn die zustandsbasierten Aktionen im Versorgungssegment des ersten Zuges überprüft werden, unabhängig von jeglichen Mulligans, die dieser Spieler genommen hat. (Siehe Regel 704, „zustandsbasierte Aktionen“.)
 
-714.4 Die Verrechnung des Effekts, der die Partie neu startet, endet 
-unmittelbar vor dem Enttappsegment des ersten Zuges. Falls der Zauberspruch 
-oder die Fähigkeit, der bzw. die den Effekt generiert hat, zusätzliche 
-Anweisungen enthält, werden diese zu diesem Zeitpunkt befolgt. Kein Spieler 
-erhält Priorität, und jedwede ausgelösten Fähigkeiten, die als Folge ausgelöst 
-werden, werden auf den Stapel gelegt, sobald ein Spieler Priorität erhält, 
-normalerweise während des Versorgungssegments des ersten Zuges.
+714.4 Die Verrechnung des Effekts, der die Partie neu startet, endet unmittelbar vor dem Enttappsegment des ersten Zuges. Falls der Zauberspruch oder die Fähigkeit, der bzw. die den Effekt generiert hat, zusätzliche Anweisungen enthält, werden diese zu diesem Zeitpunkt befolgt. Kein Spieler erhält Priorität, und jedwede ausgelösten Fähigkeiten, die als Folge ausgelöst werden, werden auf den Stapel gelegt, sobald ein Spieler Priorität erhält, normalerweise während des Versorgungssegments des ersten Zuges.
 
-714.5 Effekte können Karten von der Prozedur ausschließen, mit der die Partie 
-neu gestartet wird. Diese Karten sind nicht im Deck ihres Besitzers, wenn die 
-neue Partie beginnt.
+714.5 Effekte können Karten von der Prozedur ausschließen, mit der die Partie neu gestartet wird. Diese Karten sind nicht im Deck ihres Besitzers, wenn die neue Partie beginnt.
 
-714.5a In einer Partie „Kommandeur“ beginnt ein Kommandeur, der von der 
-Prozedur ausgeschlossen wurde, mit der die Partie neu gestartet wird, das neue 
-Spiel nicht in der Kommandozone. Trotzdem bleibt er der Kommandeur dieses Decks 
-für das neue Spiel. Siehe Regel 903, „Kommandeur“.
+714.5a In einer Partie „Kommandeur“ beginnt ein Kommandeur, der von der Prozedur ausgeschlossen wurde, mit der die Partie neu gestartet wird, das neue Spiel nicht in der Kommandozone. Trotzdem bleibt er der Kommandeur dieses Decks für das neue Spiel. Siehe Regel 903, „Kommandeur“.
 
-714.6 Falls eine Unterpartie (siehe Regel 715) neu gestartet wird, ist die 
-Hauptpartie nicht davon betroffen. Effekte der Hauptpartie, die sich auf den 
-Gewinner oder Verlierer der Unterpartie beziehen, beziehen sich nun auf den 
-Gewinner oder Verlierer der neu gestarteten Unterpartie.
+714.6 Falls eine Unterpartie (siehe Regel 715) neu gestartet wird, ist die Hauptpartie nicht davon betroffen. Effekte der Hauptpartie, die sich auf den Gewinner oder Verlierer der Unterpartie beziehen, beziehen sich nun auf den Gewinner oder Verlierer der neu gestarteten Unterpartie.
 
-714.7 Wenn eine Mehrspielerpartie, in der die Option Begrenzte Einflussweite 
-(siehe Regel 801) verwendet wird, neu gestartet wird, sind davon alle Spieler 
-der Partie betroffen, unabhängig von der Einflussweite des Spielers, der den 
-Zauberspruch oder die Fähigkeit kontrollierte, der bzw. die das Spiel neu 
-gestartet hat.
+714.7 Wenn eine Mehrspielerpartie, in der die Option Begrenzte Einflussweite (siehe Regel 801) verwendet wird, neu gestartet wird, sind davon alle Spieler der Partie betroffen, unabhängig von der Einflussweite des Spielers, der den Zauberspruch oder die Fähigkeit kontrollierte, der bzw. die das Spiel neu gestartet hat.
 
 715. Unterpartien
 
-715.1 Eine Karte (Shahrazad) erlaubt es Spielern, eine Unterpartie Magic zu 
-spielen.
+715.1 Eine Karte (Shahrazad) erlaubt es Spielern, eine Unterpartie Magic zu spielen.
 
-715.1a Eine Unterpartie ist eine völlig getrennte Partie Magic, die durch einen 
-Effekt erschaffen wird. Im Grunde handelt es sich um eine Partie innerhalb 
-einer Partie. Die „Hauptpartie“ ist die Partie, in der der Zauberspruch oder 
-die Fähigkeit, der bzw. die die Unterpartie erschaffen hat, gewirkt bzw. 
-aktiviert wurde. Die Hauptpartie wird temporär ausgesetzt, während die 
-Unterpartie am Laufen ist. Sie wird fortgesetzt, wenn die Unterpartie endet.
+715.1a Eine Unterpartie ist eine völlig getrennte Partie Magic, die durch einen Effekt erschaffen wird. Im Grunde handelt es sich um eine Partie innerhalb einer Partie. Die „Hauptpartie“ ist die Partie, in der der Zauberspruch oder die Fähigkeit, der bzw. die die Unterpartie erschaffen hat, gewirkt bzw. aktiviert wurde. Die Hauptpartie wird temporär ausgesetzt, während die Unterpartie am Laufen ist. Sie wird fortgesetzt, wenn die Unterpartie endet.
 
-715.1b Effekte und Definitionen, die in der Haupt- bzw. der Unterpartie 
-erschaffen wurden, haben keinerlei Bedeutung in der jeweils anderen, außer sie 
-werden durch den Effekt definiert, der die Unterpartie erschaffen hat. Zum 
-Beispiel kann der Effekt besagen, dass für den Gewinner oder den Verlierer der 
-Unterpartie in der Hauptpartie etwas geschieht.
+715.1b Effekte und Definitionen, die in der Haupt- bzw. der Unterpartie erschaffen wurden, haben keinerlei Bedeutung in der jeweils anderen, außer sie werden durch den Effekt definiert, der die Unterpartie erschaffen hat. Zum Beispiel kann der Effekt besagen, dass für den Gewinner oder den Verlierer der Unterpartie in der Hauptpartie etwas geschieht.
 
-715.2 Sowie eine Unterpartie beginnt, wird ein völlig neuer Satz an Spielzonen 
-erschaffen. Jeder Spieler nimmt alle Karte in seiner Hauptpartie-Bibliothek, 
-bewegt sie zu seiner Unterpartie-Bibliothek und mischt sie. Keine anderen 
-Karten in einer Hauptpartie-Zone werden zu ihren korrespondierenden Unterpartie-
-Zonen bewegt; Ausnahmen sind in den Regeln 715.2a–d beschrieben. Bestimmt 
-zufällig, welcher Spieler anfängt. Die Unterpartie verläuft wie eine normale 
-Partie und folgt allen anderen Regeln in Regel 103, „Eine Partie beginnen“.
+715.2 Sowie eine Unterpartie beginnt, wird ein völlig neuer Satz an Spielzonen erschaffen. Jeder Spieler nimmt alle Karte in seiner Hauptpartie-Bibliothek, bewegt sie zu seiner Unterpartie-Bibliothek und mischt sie. Keine anderen Karten in einer Hauptpartie-Zone werden zu ihren korrespondierenden Unterpartie-Zonen bewegt; Ausnahmen sind in den Regeln 715.2a–d beschrieben. Bestimmt zufällig, welcher Spieler anfängt. Die Unterpartie verläuft wie eine normale Partie und folgt allen anderen Regeln in Regel 103, „Eine Partie beginnen“.
 
-715.2a Sowie eine Unterpartie „Weltenjagd“ beginnt, bewegt jeder Spieler sein 
-Weltenkarten-Deck von der Kommandozone der Hauptpartie in die Kommandozone der 
-Unterpartie und mischt es. (Aufgedeckte Weltenkarten und Phänomenkarten 
-verbleiben in der Kommandozone der Hauptpartie.)
+715.2a Sowie eine Unterpartie „Weltenjagd“ beginnt, bewegt jeder Spieler sein Weltenkarten-Deck von der Kommandozone der Hauptpartie in die Kommandozone der Unterpartie und mischt es. (Aufgedeckte Weltenkarten und Phänomenkarten verbleiben in der Kommandozone der Hauptpartie.)
 
-715.2b Sowie eine Unterpartie „Vanguard“ beginnt, bewegt jeder Spieler seine 
-Vanguard-Karte von der Kommandozone der Hauptpartie in die Kommandozone der 
-Unterpartie.
+715.2b Sowie eine Unterpartie „Vanguard“ beginnt, bewegt jeder Spieler seine Vanguard-Karte von der Kommandozone der Hauptpartie in die Kommandozone der Unterpartie.
 
-715.2c Sowie eine Unterpartie „Kommandeur“ beginnt, bewegt jeder Spieler seinen 
-Kommandeur von der Kommandozone der Hauptpartie (falls er sich dort befindet) 
-in die Kommandozone der Unterpartie.
+715.2c Sowie eine Unterpartie „Kommandeur“ beginnt, bewegt jeder Spieler seinen Kommandeur von der Kommandozone der Hauptpartie (falls er sich dort befindet) in die Kommandozone der Unterpartie.
 
-715.2d Sowie eine Unterpartie „Erzfeind“ beginnt, bewegt der Erzfeind sein 
-Komplott-Deck von der Kommandozone der Hauptpartie in die Kommandozone der 
-Unterpartie und mischt es. (Aufgedeckte Komplott-Karten verbleiben in der 
-Kommandozone der Hauptpartie.)
+715.2d Sowie eine Unterpartie „Erzfeind“ beginnt, bewegt der Erzfeind sein Komplott-Deck von der Kommandozone der Hauptpartie in die Kommandozone der Unterpartie und mischt es. (Aufgedeckte Komplott-Karten verbleiben in der Kommandozone der Hauptpartie.)
 
-715.3 Alle Regeln bezüglich der Deckgröße eines Spielers werden für die 
-Unterpartie ignoriert. Weil jedoch jeder Spieler sieben Karten zieht, wenn eine 
-Partie beginnt, verliert jeder Spieler mit weniger als sieben Karten in seinem 
-Deck die Unterpartie, wenn zustandsbasierte Aktionen während des 
-Versorgungssegments des ersten Zuges überprüft werden, unabhängig von jeglichen 
-Mulligans, die dieser Spieler genommen hat. (Siehe Regel 704, „Zustandsbasierte Aktionen“.)
+715.3 Alle Regeln bezüglich der Deckgröße eines Spielers werden für die Unterpartie ignoriert. Weil jedoch jeder Spieler sieben Karten zieht, wenn eine Partie beginnt, verliert jeder Spieler mit weniger als sieben Karten in seinem Deck die Unterpartie, wenn zustandsbasierte Aktionen während des Versorgungssegments des ersten Zuges überprüft werden, unabhängig von jeglichen Mulligans, die dieser Spieler genommen hat. (Siehe Regel 704, „Zustandsbasierte Aktionen“.)
 
-715.4 Alle Objekte in der Hauptpartie, alle Karten außerhalb der Hauptpartie 
-und alle Karten außerhalb der Hauptpartie werden als außerhalb der Unterpartie 
-angesehen (außer jene, die speziell in die Unterpartie gebracht wurden). Alle 
-Spieler, die momentan nicht in der Unterpartie sind, werden als außerhalb der 
-Unterpartie angesehen.
+715.4 Alle Objekte in der Hauptpartie, alle Karten außerhalb der Hauptpartie und alle Karten außerhalb der Hauptpartie werden als außerhalb der Unterpartie angesehen (außer jene, die speziell in die Unterpartie gebracht wurden). Alle Spieler, die momentan nicht in der Unterpartie sind, werden als außerhalb der Unterpartie angesehen.
 
-715.4a Einige Effekte können Karten von außerhalb der Partie in diese bringen. 
-Wenn eine Karte aus der Hauptpartie in die Unterpartie gebracht wurde, werden 
-Fähigkeiten in der Hauptpartie, die durch das Verlassen von Objekten der 
-Hauptpartie-Zone ausgelöst werden, ausgelöst, aber sie werden nicht auf den 
-Stapel gelegt, bevor die Hauptpartie weitergeht.
+715.4a Einige Effekte können Karten von außerhalb der Partie in diese bringen. Wenn eine Karte aus der Hauptpartie in die Unterpartie gebracht wurde, werden Fähigkeiten in der Hauptpartie, die durch das Verlassen von Objekten der Hauptpartie-Zone ausgelöst werden, ausgelöst, aber sie werden nicht auf den Stapel gelegt, bevor die Hauptpartie weitergeht.
 
-715.5 Am Ende einer Unterpartie legt jeder Spieler alle Karten, die er besitzt 
-und die in der Unterpartie sind, außer solche in der Kommandozone, in seine 
-Bibliothek im Hauptspiel und mischt sie dann. Dies beinhaltet Karten im Exil 
-der Unterpartie. Ausnahmen sind in den Regeln 715.5a–c beschrieben. Alle 
-anderen Objekte in der Unterpartie hören auf zu existieren, sowie dies Zonen 
-tun, die in der Unterpartie erschaffen wurden. Das Spiel setzt von dem Punkt 
-fort, an dem es ausgesetzt wurde: Erst beendet der Zauberspruch oder die 
-Fähigkeit, der bzw. die die Unterpartie erschaffen hat, seine bzw. ihre 
-Verrechnung, selbst wenn sie von einer Zauberspruchkarte erschaffen wurde, die 
-nicht länger auf dem Stapel ist. Wenn dann irgendwelche Hauptpartie-
-Fähigkeiten, während die Unterpartie im Gang war, durch Karten, die aus der 
-Hauptpartie entfernt wurden, ausgelöst wurden, werden diese Fähigkeiten auf den 
-Stapel gelegt.
+715.5 Am Ende einer Unterpartie legt jeder Spieler alle Karten, die er besitzt und die in der Unterpartie sind, außer solche in der Kommandozone, in seine Bibliothek im Hauptspiel und mischt sie dann. Dies beinhaltet Karten im Exil der Unterpartie. Ausnahmen sind in den Regeln 715.5a–c beschrieben. Alle anderen Objekte in der Unterpartie hören auf zu existieren, sowie dies Zonen tun, die in der Unterpartie erschaffen wurden. Das Spiel setzt von dem Punkt fort, an dem es ausgesetzt wurde: Erst beendet der Zauberspruch oder die Fähigkeit, der bzw. die die Unterpartie erschaffen hat, seine bzw. ihre Verrechnung, selbst wenn sie von einer Zauberspruchkarte erschaffen wurde, die nicht länger auf dem Stapel ist. Wenn dann irgendwelche Hauptpartie-Fähigkeiten, während die Unterpartie im Gang war, durch Karten, die aus der Hauptpartie entfernt wurden, ausgelöst wurden, werden diese Fähigkeiten auf den Stapel gelegt.
 
-   Beispiel: Wenn eine Karte entweder aus der Hauptpartie oder von außerhalb 
-   der Hauptpartie in die Unterpartie gebracht wurde, wird diese Karte in die 
-   Hauptpartie-Bibliothek ihres Besitzers gelegt, wenn die Unterpartie endet.
+Beispiel: Wenn eine Karte entweder aus der Hauptpartie oder von außerhalb der Hauptpartie in die Unterpartie gebracht wurde, wird diese Karte in die Hauptpartie-Bibliothek ihres Besitzers gelegt, wenn die Unterpartie endet.
 
-715.5a Am Ende einer Unterpartie „Weltenjagd“ werden alle aufgedeckten 
-Weltenkarte und Phänomenkarten verdeckt und unter das Weltenkarten-Deck ihres 
-Besitzers gelegt. Dann bewegt jeder Spieler sein Weltenkarten-Deck von der 
-Kommandozone der Unterpartie in die Kommandozone der Hauptpartie und mischt es.
+715.5a Am Ende einer Unterpartie „Weltenjagd“ werden alle aufgedeckten Weltenkarte und Phänomenkarten verdeckt und unter das Weltenkarten-Deck ihres Besitzers gelegt. Dann bewegt jeder Spieler sein Weltenkarten-Deck von der Kommandozone der Unterpartie in die Kommandozone der Hauptpartie und mischt es.
 
-715.5b Am Ende einer Unterpartie „Vanguard“ bewegt jeder Spieler seine Vanguard-
-Karte von der Kommandozone der Unterpartie in die Kommandozone der Hauptpartie.
+715.5b Am Ende einer Unterpartie „Vanguard“ bewegt jeder Spieler seine Vanguard-Karte von der Kommandozone der Unterpartie in die Kommandozone der Hauptpartie.
 
-715.5c Am Ende einer Unterpartie „Kommandeur“ bewegt jeder Spieler seinen 
-Kommandeur von der Kommandozone der Unterpartie (falls er sich dort befindet) 
-in die Kommandozone der Hauptpartie.
+715.5c Am Ende einer Unterpartie „Kommandeur“ bewegt jeder Spieler seinen Kommandeur von der Kommandozone der Unterpartie (falls er sich dort befindet) in die Kommandozone der Hauptpartie.
 
-715.5d Am Ende einer Unterpartie „Erzfeind“ werden alle aufgedeckten Komplott-
-Karten in der Kommandozone der Unterpartie verdeckt und unter das Komplott-Deck 
-ihres Besitzers gelegt. Dann bewegt der Erzfeind sein Komplott-Deck von der 
-Kommandozone der Unterpartie in die Kommandozone der Hauptpartie und mischt es.
+715.5d Am Ende einer Unterpartie „Erzfeind“ werden alle aufgedeckten Komplott-Karten in der Kommandozone der Unterpartie verdeckt und unter das Komplott-Deck ihres Besitzers gelegt. Dann bewegt der Erzfeind sein Komplott-Deck von der Kommandozone der Unterpartie in die Kommandozone der Hauptpartie und mischt es.
 
-715.6 Während einer Unterpartie kann eine Unterpartie erschaffen werden. Die 
-existierende Unterpartie wird zur Hauptpartie in Relation zur neuen Unterpartie.
+715.6 Während einer Unterpartie kann eine Unterpartie erschaffen werden. Die existierende Unterpartie wird zur Hauptpartie in Relation zur neuen Unterpartie.
 
 716. Abkürzungen nehmen
 
-716.1 Während des Spiels benutzen Spieler typischerweise allgemein 
-gebräuchliche Abkürzungen statt ausdrücklich jede Entscheidung im Spiel 
-(entweder eine Aktion durchzuführen oder zu passen), die ein Spieler trifft, 
-einzeln durchzuführen.
+716.1 Während des Spiels benutzen Spieler typischerweise allgemein gebräuchliche Abkürzungen statt ausdrücklich jede Entscheidung im Spiel (entweder eine Aktion durchzuführen oder zu passen), die ein Spieler trifft, einzeln durchzuführen.
 
-716.1a Die Regeln für Abkürzungen sind weitgehend unförmlich. Solange jeder 
-Spieler in der Partie die Absicht jedes anderen Spielers versteht, ist jedes 
-Abkürzungssystem zulässig.
+716.1a Die Regeln für Abkürzungen sind weitgehend unförmlich. Solange jeder Spieler in der Partie die Absicht jedes anderen Spielers versteht, ist jedes Abkürzungssystem zulässig.
 
-716.1b Gelegentlich gerät das Spiel in einen Zustand, wo ein Satz von Aktionen 
-unendlich oft wiederholt werden könnte (wodurch eine „Schleife“ entsteht). In 
-diesem Fall können die Regeln für Abkürzungen verwendet werden, um zu 
-ermitteln, wie oft diese Aktionen wiederholt werden, ohne sie tatsächlich 
-durchführen zu müssen, und wie die Schleife aufgebrochen werden kann.
+716.1b Gelegentlich gerät das Spiel in einen Zustand, wo ein Satz von Aktionen unendlich oft wiederholt werden könnte (wodurch eine „Schleife“ entsteht). In diesem Fall können die Regeln für Abkürzungen verwendet werden, um zu ermitteln, wie oft diese Aktionen wiederholt werden, ohne sie tatsächlich durchführen zu müssen, und wie die Schleife aufgebrochen werden kann.
 
 716.2 Das Nehmen einer Abkürzung folgt dem folgenden Verfahren.
 
-716.2a Zu einem beliebigen Zeitpunkt in der Partie kann der Spieler, der 
-Priorität hat, eine Abkürzung vorschlagen, indem er für alle Spieler eine 
-Abfolge von Spielentscheidungen beschreibt, die auf Basis des aktuellen 
-Spielzustands und den zu erwartenden Ergebnissen der Abfolge von Entscheidungen 
-legal getroffen werden können. Diese Abfolge kann eine nicht-wiederholende 
-Reihe von Entscheidungen sein, eine Schleife, die sich eine angegebene Anzahl 
-an Malen wiederholt, mehrere Schleifen oder geschachtelte Schleifen, und kann 
-sogar mehrere Züge überspannen. Sie kann keine bedingten Aktionen umfassen, wo 
-das Ergebnis eines Spielereignisses die nächste Aktion eines Spielers bestimmt. 
-Am Endpunkt dieser Abfolge muss ein Spieler Priorität haben, auch wenn es nicht 
-der Spieler sein muss, der die Abkürzung vorschlägt.
+716.2a Zu einem beliebigen Zeitpunkt in der Partie kann der Spieler, der Priorität hat, eine Abkürzung vorschlagen, indem er für alle Spieler eine Abfolge von Spielentscheidungen beschreibt, die auf Basis des aktuellen Spielzustands und den zu erwartenden Ergebnissen der Abfolge von Entscheidungen legal getroffen werden können. Diese Abfolge kann eine nicht-wiederholende Reihe von Entscheidungen sein, eine Schleife, die sich eine angegebene Anzahl an Malen wiederholt, mehrere Schleifen oder geschachtelte Schleifen, und kann sogar mehrere Züge überspannen. Sie kann keine bedingten Aktionen umfassen, wo das Ergebnis eines Spielereignisses die nächste Aktion eines Spielers bestimmt. Am Endpunkt dieser Abfolge muss ein Spieler Priorität haben, auch wenn es nicht der Spieler sein muss, der die Abkürzung vorschlägt.
 
-   Beispiel: Ein Spieler kontrolliert eine Kreatur, die mit Gonds Ausstrahlung 
-   verzaubert ist und der verzaubeten Kreatur die Fähigkeit verleiht „{tap}: 
-   Bringe einen 1/1 grünen Elf-Krieger-Kreaturenspielstein ins Spiel“, und ein 
-   anderer Spieler kontrolliert eine Alarmwache, die u. a. lautet „Immer wenn 
-   eine Kreatur ins Spiel kommt, enttappe alle Kreaturen.“ Wenn der Spieler 
-   Priorität hat, kann er vorschlagen „Ich erzeuge eine Million Spielsteine,“ 
-   indem er die Abfolge erklärt, wie er die Kreaturenfähigkeit aktiviert, alle 
-   Spieler passen, die Kreaturenfähigkeit verrechnet wird und einen Spielstein 
-   ins Spiel bringt (wodurch die Fähigkeit von der Alarmwache ausgelöst wird), 
-   der Beherrscher der Alarmwache die ausgelöste Fähigkeit auf den Stapel legt, 
-   alle Spieler passen, die ausgelöste Fähigkeit der Alarmwache verrechnet 
-   wird, alle Spieler passen, bis der Spieler, der die Abkürzung vorschlägt, 
-   wieder Priorität hat, und diese Abfolge 999.999 weitere Male wiederholt, bis 
-   sie in dem Moment endet, wo die letzte Spielstein-erzeugende Fähigkeit 
-   verrechnet wird.
+Beispiel: Ein Spieler kontrolliert eine Kreatur, die mit Gonds Ausstrahlung verzaubert ist und der verzaubeten Kreatur die Fähigkeit verleiht „{tap}: Bringe einen 1/1 grünen Elf-Krieger-Kreaturenspielstein ins Spiel“, und ein anderer Spieler kontrolliert eine Alarmwache, die u. a. lautet „Immer wenn eine Kreatur ins Spiel kommt, enttappe alle Kreaturen.“ Wenn der Spieler Priorität hat, kann er vorschlagen „Ich erzeuge eine Million Spielsteine,“ indem er die Abfolge erklärt, wie er die Kreaturenfähigkeit aktiviert, alle Spieler passen, die Kreaturenfähigkeit verrechnet wird und einen Spielstein ins Spiel bringt (wodurch die Fähigkeit von der Alarmwache ausgelöst wird), der Beherrscher der Alarmwache die ausgelöste Fähigkeit auf den Stapel legt, alle Spieler passen, die ausgelöste Fähigkeit der Alarmwache verrechnet wird, alle Spieler passen, bis der Spieler, der die Abkürzung vorschlägt, wieder Priorität hat, und diese Abfolge 999.999 weitere Male wiederholt, bis sie in dem Moment endet, wo die letzte Spielstein-erzeugende Fähigkeit verrechnet wird.
 
-716.2b Jeder andere Spieler kann, in Zugreihenfolge nach dem Spieler, der die 
-Abkürzung vorgeschlagen hat, entweder der vorgeschlagenen Abkürzung zustimmen, 
-oder sie verkürzen, indem er die Stelle angibt, an der er eine andere 
-Spielentscheidung treffen wird als vorgeschlagen. (Der Spieler muss zu diesem 
-Zeitpunkt nicht erklären, welche andere Entscheidung das sein wird.) Diese 
-Stelle wird der neue Endpunkt der vorgeschlagenen Abfolge.
+716.2b Jeder andere Spieler kann, in Zugreihenfolge nach dem Spieler, der die Abkürzung vorgeschlagen hat, entweder der vorgeschlagenen Abkürzung zustimmen, oder sie verkürzen, indem er die Stelle angibt, an der er eine andere Spielentscheidung treffen wird als vorgeschlagen. (Der Spieler muss zu diesem Zeitpunkt nicht erklären, welche andere Entscheidung das sein wird.) Diese Stelle wird der neue Endpunkt der vorgeschlagenen Abfolge.
 
-   Beispiel: Der aktive Spieler zieht eine Karte während seines Ziehsegments 
-   und sagt dann „Fertig!“ Der inaktive Spieler hat Ab in den Kampf (einen 
-   Spontanzauber, der sagt „Eine Kreatur deiner Wahl greift in diesem Zug an, 
-   falls möglich.“) auf der Hand und sagt „In deinem Beginn-des-Kampfes-Segment 
-   möchte ich einen Zauberspruch wirken.“ Die momentan vorgeschlagene Abkürzung 
-   sieht vor, dass in diesem Zug alle Spieler bei jeder Gelegenheit passen, bis 
-   der inaktive Spieler im Beginn-des-Kampfes-Segment Priorität hat.
+Beispiel: Der aktive Spieler zieht eine Karte während seines Ziehsegments und sagt dann „Fertig!“ Der inaktive Spieler hat Ab in den Kampf (einen Spontanzauber, der sagt „Eine Kreatur deiner Wahl greift in diesem Zug an, falls möglich.“) auf der Hand und sagt „In deinem Beginn-des-Kampfes-Segment möchte ich einen Zauberspruch wirken.“ Die momentan vorgeschlagene Abkürzung sieht vor, dass in diesem Zug alle Spieler bei jeder Gelegenheit passen, bis der inaktive Spieler im Beginn-des-Kampfes-Segment Priorität hat.
 
-716.2c Sobald der letzte Spieler entweder der Abkürzung zugestimmt oder sie 
-verkürzt hat, wird die Abkürzung genommen. Das Spiel rückt bis zum zuletzt 
-vorgeschlagenen Endpunkt vor, wobei alle Spielentscheidungen so getroffen 
-werden, wie sie vorgeschlagen wurden. Falls die ursprünglich vorgeschlagene 
-Abkürzung verkürzt wurde, muss der Spieler, der jetzt Priorität hat, eine 
-andere Spielentscheidung treffen, als ursprünglich für ihn vorgeschlagen wurde.
+716.2c Sobald der letzte Spieler entweder der Abkürzung zugestimmt oder sie verkürzt hat, wird die Abkürzung genommen. Das Spiel rückt bis zum zuletzt vorgeschlagenen Endpunkt vor, wobei alle Spielentscheidungen so getroffen werden, wie sie vorgeschlagen wurden. Falls die ursprünglich vorgeschlagene Abkürzung verkürzt wurde, muss der Spieler, der jetzt Priorität hat, eine andere Spielentscheidung treffen, als ursprünglich für ihn vorgeschlagen wurde.
 
-716.3 Manchmal kann eine Schleife zersplittert sein, d. h. dass jeder an der 
-Schleife beteiligte Spieler eine unabhängige Aktion durchführt, die dazu führt, 
-dass der gleiche Spielzustand wiederholt erreicht wird. Falls dies passiert, 
-muss der aktive Spieler (oder der in Zugreihenfolge nächste an der Schleife 
-beteiligte Spieler, falls der aktive Spieler nicht an der Schleife beteiligt 
-ist) eine andere Spielentscheidung treffen, sodass die Schleife nicht 
-fortgeführt wird.
+716.3 Manchmal kann eine Schleife zersplittert sein, d. h. dass jeder an der Schleife beteiligte Spieler eine unabhängige Aktion durchführt, die dazu führt, dass der gleiche Spielzustand wiederholt erreicht wird. Falls dies passiert, muss der aktive Spieler (oder der in Zugreihenfolge nächste an der Schleife beteiligte Spieler, falls der aktive Spieler nicht an der Schleife beteiligt ist) eine andere Spielentscheidung treffen, sodass die Schleife nicht fortgeführt wird.
 
-   Beispiel: In einer Einzelpartie kontrolliert der aktive Spieler eine Kreatur 
-   mit der Fähigkeit „{0}: [Diese Kreatur] erhält Flugfähigkeit“, und der 
-   inaktive Spieler kontrolliert eine bleibende Karte mit der Fähigkeit „{0}: 
-   Eine Kreatur deiner Wahl verliert Flugfähigkeit“, und nichts im Spiel 
-   kümmert sich darum, wie oft eine Fähigkeit aktiviert wird. Angenommen der 
-   aktive Spieler aktiviert die Fähigkeit seiner Kreatur, diese wird 
-   verrechnet, dann aktiviert der inaktive Spieler die Fähigkeit seiner 
-   bleibenden Karte mit der Kreatur als Ziel, und diese wird verrechnet. Das 
-   bringt das Spiel in einen Zustand, in dem es vorher schon einmal war. Der 
-   aktive Spieler muss eine andere Spielentscheidung treffen (in anderen 
-   Worten, er muss etwas anderes tun als die Fähigkeit seiner Kreatur wieder zu 
-   aktivieren). Die Kreatur hat keine Flugfähigkeit. Beachte, dass der inaktive 
-   Spieler die zersplitterte Schleife einfach hätte vermeiden können, indem er 
-   die Fähigkeit seiner bleibenden Karte nich aktiviert; in diesem Fall hätte 
-   die Kreatur Flugfähigkeit gehabt. Der inaktive Spieler hat immer die letzte 
-   Entscheidung und kann damit entscheiden, ob die Kreatur Flugfähigkeit hat.
+Beispiel: In einer Einzelpartie kontrolliert der aktive Spieler eine Kreatur mit der Fähigkeit „{0}: [Diese Kreatur] erhält Flugfähigkeit“, und der inaktive Spieler kontrolliert eine bleibende Karte mit der Fähigkeit „{0}: Eine Kreatur deiner Wahl verliert Flugfähigkeit“, und nichts im Spiel kümmert sich darum, wie oft eine Fähigkeit aktiviert wird. Angenommen der aktive Spieler aktiviert die Fähigkeit seiner Kreatur, diese wird verrechnet, dann aktiviert der inaktive Spieler die Fähigkeit seiner bleibenden Karte mit der Kreatur als Ziel, und diese wird verrechnet. Das bringt das Spiel in einen Zustand, in dem es vorher schon einmal war. Der aktive Spieler muss eine andere Spielentscheidung treffen (in anderen Worten, er muss etwas anderes tun als die Fähigkeit seiner Kreatur wieder zu aktivieren). Die Kreatur hat keine Flugfähigkeit. Beachte, dass der inaktive Spieler die zersplitterte Schleife einfach hätte vermeiden können, indem er die Fähigkeit seiner bleibenden Karte nich aktiviert; in diesem Fall hätte die Kreatur Flugfähigkeit gehabt. Der inaktive Spieler hat immer die letzte Entscheidung und kann damit entscheiden, ob die Kreatur Flugfähigkeit hat.
 
-716.4 Wenn eine Schleife nur zwingende Aktionen enthält, endet das Spiel 
-unentschieden (siehe Regeln 104.4b und 104.4f.)
+716.4 Wenn eine Schleife nur zwingende Aktionen enthält, endet das Spiel unentschieden (siehe Regeln 104.4b und 104.4f.)
 
-716.5 Kein Spieler kann dazu gezwungen werden, eine Aktion durchzuführen, die 
-eine Schleife beenden würde, wenn diese Aktion nicht von der an der Schleife 
-beteiligten Objekten benötigt wird.
+716.5 Kein Spieler kann dazu gezwungen werden, eine Aktion durchzuführen, die eine Schleife beenden würde, wenn diese Aktion nicht von der an der Schleife beteiligten Objekten benötigt wird.
 
-   Beispiel: Ein Spieler kontrolliert das Siegel der Reinheit, eine 
-   Verzauberung, die lautet „Opfere das Siegel der Reinheit: Zerstöre ein 
-   Artefakt oder eine Verzauberung deiner Wahl.“ Eine zwingende Schleife, die 
-   ein Artefakt umfasst, beginnt. Der Spieler ist nicht gezwungen, sein Siegel 
-   der Reinheit zu opfern, um das Artefakt zu zerstören und die Schleife zu 
-   beenden.
+Beispiel: Ein Spieler kontrolliert das Siegel der Reinheit, eine Verzauberung, die lautet „Opfere das Siegel der Reinheit: Zerstöre ein Artefakt oder eine Verzauberung deiner Wahl.“ Eine zwingende Schleife, die ein Artefakt umfasst, beginnt. Der Spieler ist nicht gezwungen, sein Siegel der Reinheit zu opfern, um das Artefakt zu zerstören und die Schleife zu beenden.
 
-716.6 Wenn eine Schleife einen Effekt enthält, der besagt „[A], es sei denn 
-[B]“, wobei A und B jeweils Aktionen sind, kann kein Spieler dazu gezwungen 
-werden, [B] durchzuführen, um die Schleife zu durchbrechen. Wenn kein Spieler 
-wählt, [B] zu tun, setzt die Schleife fort, als wäre [A] obligatorisch.
+716.6 Wenn eine Schleife einen Effekt enthält, der besagt „[A], es sei denn [B]“, wobei A und B jeweils Aktionen sind, kann kein Spieler dazu gezwungen werden, [B] durchzuführen, um die Schleife zu durchbrechen. Wenn kein Spieler wählt, [B] zu tun, setzt die Schleife fort, als wäre [A] obligatorisch.
 
 717. Handhabung illegaler Aktionen
 
-717.1 Wenn ein Spieler bemerkt, dass er eine Aktion nicht legal durchführen 
-kann, nachdem er begonnen hat, dies zu tun, wird die gesamte Aktion umgekehrt 
-und jegliche Zahlungen, die bereits gemacht wurden, sind aufgehoben. Es werden 
-keine Fähigkeiten ausgelöst und keine Effekte werden als Resultat einer 
-zurückgenommenen Aktion angewendet. Wenn die Aktion das Spielen eines 
-Zauberspruchs war, geht der Zauberspruch in die Zone zurück, aus der er kam. 
-Der Spieler kann auch jegliche Manafähigkeiten, die er beim Durchführen des 
-illegalen Spielzugs aktiviert hat, umkehren, es sei denn Mana von ihnen oder 
-von ausgelösten Fähigkeiten, die sie ausgelöst haben, wurde für eine andere 
-Manafähigkeit benutzt, die nicht umgekehrt wurde. Spieler können keine Aktionen 
-umkehren, die Karten auf eine Bibliothek bewegt haben, die Karten von einer 
-Bibliothek in eine andere Zone als den Stapel bewegt haben, oder die dazu 
-geführt haben, dass eine Bibliothek gemischt wurde.
+717.1 Wenn ein Spieler bemerkt, dass er eine Aktion nicht legal durchführen kann, nachdem er begonnen hat, dies zu tun, wird die gesamte Aktion umgekehrt und jegliche Zahlungen, die bereits gemacht wurden, sind aufgehoben. Es werden keine Fähigkeiten ausgelöst und keine Effekte werden als Resultat einer zurückgenommenen Aktion angewendet. Wenn die Aktion das Spielen eines Zauberspruchs war, geht der Zauberspruch in die Zone zurück, aus der er kam. Der Spieler kann auch jegliche Manafähigkeiten, die er beim Durchführen des illegalen Spielzugs aktiviert hat, umkehren, es sei denn Mana von ihnen oder von ausgelösten Fähigkeiten, die sie ausgelöst haben, wurde für eine andere Manafähigkeit benutzt, die nicht umgekehrt wurde. Spieler können keine Aktionen umkehren, die Karten auf eine Bibliothek bewegt haben, die Karten von einer Bibliothek in eine andere Zone als den Stapel bewegt haben, oder die dazu geführt haben, dass eine Bibliothek gemischt wurde.
 
-717.2 Wenn illegale Zaubersprüche oder Fähigkeiten umgekehrt werden, erhält der 
-Spieler, der Priorität hatte, diese wieder und kann eine andere Aktion machen 
-oder passen. Der Spieler kann die umgekehrte Aktion noch mal auf legale Weise 
-durchführen oder irgendeine andere von den Regeln erlaubte Aktion durchführen.
-
-
+717.2 Wenn illegale Zaubersprüche oder Fähigkeiten umgekehrt werden, erhält der Spieler, der Priorität hatte, diese wieder und kann eine andere Aktion machen oder passen. Der Spieler kann die umgekehrte Aktion noch mal auf legale Weise durchführen oder irgendeine andere von den Regeln erlaubte Aktion durchführen.
 
 8. Mehrspielerregeln
 
