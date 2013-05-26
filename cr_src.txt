@@ -1327,380 +1327,162 @@ Beispiel: „Standardland – Gebirge“ bedeutet, die Karte ist ein Land mit de
 
 400. Allgemeines
 
-400.1. Eine Zone ist ein Ort, an dem Objekte während einer Partie sein können. 
-Es gibt normalerweise sieben Zonen: Bibliothek, Hand, im Spiel, Friedhof, Stapel, 
-Exil und die Kommandozone. Einige ältere 
-Karten benutzen zusätzlich die Einsatzzone. Jeder Spieler hat seine eigene 
-Bibliothek und Hand, und seinen eigenen Friedhof. Die anderen Zonen 
-werden von allen Spielern geteilt.
+400.1. Eine Zone ist ein Ort, an dem Objekte während einer Partie sein können. Es gibt normalerweise sieben Zonen: Bibliothek, Hand, im Spiel, Friedhof, Stapel, Exil und die Kommandozone. Einige ältere Karten benutzen zusätzlich die Einsatzzone. Jeder Spieler hat seine eigene 
+Bibliothek und Hand, und seinen eigenen Friedhof. Die anderen Zonen werden von allen Spielern geteilt.
 
-400.2. \Öffentliche Zonen\ sind Zonen, in denen alle Spieler die Vorderseiten der Karten 
-sehen können, außer von jenen Karten, die aufgrund einer Regel oder eines 
-Effekts ausdrücklich verdeckt sein dürfen. Friedhof, im Spiel, Stapel, Exil, 
-Einsatzzone und Kommandozone sind öffentliche Zonen. 
-\Verborgene Zonen\ sind Zonen, in denen nicht alle Spieler erwarten können, die 
-Vorderseiten der Karten zu sehen. Bibliothek und Hand sind 
-verborgene Zonen, selbst wenn alle Karten in einer solchen Zone 
-offen sein sollten.
+400.2. \Öffentliche Zonen\ sind Zonen, in denen alle Spieler die Vorderseiten der Karten sehen können, außer von jenen Karten, die aufgrund einer Regel oder eines Effekts ausdrücklich verdeckt sein dürfen. Friedhof, im Spiel, Stapel, Exil, Einsatzzone und Kommandozone sind öffentliche Zonen. \Verborgene Zonen\ sind Zonen, in denen nicht alle Spieler erwarten können, die Vorderseiten der Karten zu sehen. Bibliothek und Hand sind verborgene Zonen, selbst wenn alle Karten in einer solchen Zone offen sein sollten.
 
-400.3. Wenn ein Objekt in eine Bibliothek, einen Friedhof oder eine Hand eines anderen Spielers als seines Besitzers gehen würde, geht 
-es in die entsprechende Zone seines Besitzers.
+400.3. Wenn ein Objekt in eine Bibliothek, einen Friedhof oder eine Hand eines anderen Spielers als seines Besitzers gehen würde, geht es in die entsprechende Zone seines Besitzers.
 
 400.4 Karten mit bestimmten Kartentypen können bestimmte Zonen nicht betreten.
 
-400.4a Falls eine Spontanzauber- oder Hexereikarte ins Spiel kommen würde, 
-verbleibt sie in ihrer vorherigen Zone.
+400.4a Falls eine Spontanzauber- oder Hexereikarte ins Spiel kommen würde, verbleibt sie in ihrer vorherigen Zone.
 
-400.4b Falls eine Welt-, Phänomen-, Vanguard- oder Komplott-
-Karte die Kommandozone verlassen würde, verbleibt sie in der Kommandozone.
+400.4b Falls eine Welt-, Phänomen-, Vanguard- oder Komplott-Karte die Kommandozone verlassen würde, verbleibt sie in der Kommandozone.
 
-400.5. Die Reihenfolge von Objekten in einer Bibliothek, in einem Friedhof oder 
-auf dem Stapel darf nicht geändert werden, außer wenn Effekte oder Regeln es 
-erlauben. Das Gleiche gilt für Objekte, die in anderen Zonen in verdeckten 
-Kartenstapeln angeordnet sind. Andere Objekte in anderen Zonen können angeordnet 
-werden, wie es ihre Besitzer wünschen, allerdings muss für alle Spieler klar bleiben, 
-wer diese Objekte kontrolliert, ob sie getappt oder gewendet sind und welche anderen
-Objekte an sie angelegt sind.
+400.5. Die Reihenfolge von Objekten in einer Bibliothek, in einem Friedhof oder auf dem Stapel darf nicht geändert werden, außer wenn Effekte oder Regeln es erlauben. Das Gleiche gilt für Objekte, die in anderen Zonen in verdeckten Kartenstapeln angeordnet sind. Andere Objekte in anderen Zonen können angeordnet werden, wie es ihre Besitzer wünschen, allerdings muss für alle Spieler klar bleiben, wer diese Objekte kontrolliert, ob sie getappt oder gewendet sind und welche anderen Objekte an sie angelegt sind.
 
-400.6. Wenn sich ein Objekt von einer Zone in eine andere bewegen würde, 
-ermittele, welches Ereignis das Objekt bewegt. Falls das Objekt in eine 
-öffentliche Zone bewegt wird, sehen alle Spieler es an, um festzustellen, ob 
-es irgendwelche Fähigkeiten hat, die den Zonenwechsel beeinflussen würden. Danach 
-werden alle anwendbaren Ersatzeffekte auf dieses Ereignis angewendet, unabhängig 
-davon, ob sie von diesem Objekt stammen oder von woanders. Wenn irgendwelche 
-Effekte oder Regeln versuchen, zwei oder mehr widersprüchliche oder einander 
-ausschließende Dinge mit einem bestimmten Objekt zu tun, bestimmt der 
-Beherrscher dieses Objekts – oder dessen Besitzer, wenn es keinen Beherrscher 
-hat –, welcher Effekt angewendet wird und was dieser Effekt tut. (Beachte, dass 
-mehrere Instanzen derselben Sache einander ausschließen können; zum Beispiel 
-zwei gleichzeitige „Zerstör“-Effekte.) Dann bewegt das Ereignis das Objekt.
+400.6. Wenn sich ein Objekt von einer Zone in eine andere bewegen würde, ermittele, welches Ereignis das Objekt bewegt. Falls das Objekt in eine öffentliche Zone bewegt wird, sehen alle Spieler es an, um festzustellen, ob es irgendwelche Fähigkeiten hat, die den Zonenwechsel beeinflussen würden. Danach werden alle anwendbaren Ersatzeffekte auf dieses Ereignis angewendet, unabhängig davon, ob sie von diesem Objekt stammen oder von woanders. Wenn irgendwelche Effekte oder Regeln versuchen, zwei oder mehr widersprüchliche oder einander ausschließende Dinge mit einem bestimmten Objekt zu tun, bestimmt der Beherrscher dieses Objekts – oder dessen Besitzer, wenn es keinen Beherrscher hat –, welcher Effekt angewendet wird und was dieser Effekt tut. (Beachte, dass mehrere Instanzen derselben Sache einander ausschließen können; zum Beispiel zwei gleichzeitige „Zerstör“-Effekte.) Dann bewegt das Ereignis das Objekt.
 
-400.7. Ein Objekt, das sich von einer Zone zu einer anderen bewegt, wird zu 
-einem neuen Objekt ohne Erinnerung an oder Bezug zu seiner früheren Existenz. 
-Es gibt sieben Ausnahmen von dieser Regel:
+400.7. Ein Objekt, das sich von einer Zone zu einer anderen bewegt, wird zu einem neuen Objekt ohne Erinnerung an oder Bezug zu seiner früheren Existenz. Es gibt sieben Ausnahmen von dieser Regel:
 
-400.7a Effekte von Zaubersprüchen, aktivierten Fähigkeiten und ausgelösten 
-Fähigkeiten, die die Eigenschaften eines Bleibende-Karte-Zauberspruchs auf dem 
-Stapel ändern, wirken weiter auf die bleibende Karte, die aus diesem 
-Zauberspruch wird.
+400.7a Effekte von Zaubersprüchen, aktivierten Fähigkeiten und ausgelösten Fähigkeiten, die die Eigenschaften eines Bleibende-Karte-Zauberspruchs auf dem Stapel ändern, wirken weiter auf die bleibende Karte, die aus diesem Zauberspruch wird.
 
-400.7b Verhinderungseffekte, die sich auf Schaden aus einem Bleibende-Karte-Zauberspruch 
-auf dem Stapel beziehen, treffen weiter auf Schaden von der bleibenden Karte 
-zu, die dieser Zauberspruch wird.
+400.7b Verhinderungseffekte, die sich auf Schaden aus einem Bleibende-Karte-Zauberspruch auf dem Stapel beziehen, treffen weiter auf Schaden von der bleibenden Karte zu, die dieser Zauberspruch wird.
 
-400.7c Wenn eine Fähigkeit einer bleibenden Karte Informationen über 
-Entscheidungen benötigt, die gemacht wurden, als diese bleibende Karte als 
-Zauberspruch gewirkt wurde, einschließlich welches Mana ausgegeben wurde, um 
-diesen Zauberspruch zu wirken, benutzt sie Informationen über den Zauberspruch, 
-der bei Verrechnung zu dieser bleibenden Karte wurde.
+400.7c Wenn eine Fähigkeit einer bleibenden Karte Informationen über Entscheidungen benötigt, die gemacht wurden, als diese bleibende Karte als Zauberspruch gewirkt wurde, einschließlich welches Mana ausgegeben wurde, um diesen Zauberspruch zu wirken, benutzt sie Informationen über den Zauberspruch, der bei Verrechnung zu dieser bleibenden Karte wurde.
 
-400.7d Fähigkeiten, die ausgelöst werden, wenn ein Objekt sich von einer Zone 
-zu einer anderen bewegt (zum Beispiel: „Wenn der Grüne Zorn aus dem Spiel auf 
-einen Friedhof gelegt wird“), können das neue Objekt, zu dem es wurde, in der 
-Zone finden, in die es sich bewegt hat, als die Fähigkeit ausgelöst wurde, 
-falls diese Zone eine öffentliche Zone ist.
+400.7d Fähigkeiten, die ausgelöst werden, wenn ein Objekt sich von einer Zone zu einer anderen bewegt (zum Beispiel: „Wenn der Grüne Zorn aus dem Spiel auf einen Friedhof gelegt wird“), können das neue Objekt, zu dem es wurde, in der Zone finden, in die es sich bewegt hat, als die Fähigkeit ausgelöst wurde, falls diese Zone eine öffentliche Zone ist.
 
-400.7e Fähigkeiten von Auren, die ausgelöst werden, wenn die verzauberte 
-bleibende Karte das Spiel verlässt, können das neue Objekt, zu dem die Aura 
-wurde, im Friedhof ihres Besitzers finden, falls es zum gleichen Zeitpunkt in 
-diesen Friedhof gelegt wurde, wie die verzauberte bleibende Karte das Spiel 
-verlassen hat. Sie können das neue Objekt, zu dem die Aura wurde, auch im 
-Friedhof ihres Besitzers finden, falls es durch eine zustandsbasierte 
-Aktion dorthin gebracht wurde, weil die Aura nicht an einer bleibenden Karte 
-angelegt war. (Siehe Regel 704.5n.)
+400.7e Fähigkeiten von Auren, die ausgelöst werden, wenn die verzauberte bleibende Karte das Spiel verlässt, können das neue Objekt, zu dem die Aura wurde, im Friedhof ihres Besitzers finden, falls es zum gleichen Zeitpunkt in diesen Friedhof gelegt wurde, wie die verzauberte bleibende Karte das Spiel verlassen hat. Sie können das neue Objekt, zu dem die Aura wurde, auch im Friedhof ihres Besitzers finden, falls es durch eine zustandsbasierte Aktion dorthin gebracht wurde, weil die Aura nicht an einer bleibenden Karte angelegt war. (Siehe Regel 704.5n.)
 
-400.7f Falls ein Effekt einer Nichtlandkarte eine Fähigkeit verleiht, die ihr 
-erlaubt, gewirkt zu werden, gilt diese Fähigkeit weiterhin für das neue 
-Objekt, zu dem die Karte wurde, als sie auf diese Weise gewirkt und auf den 
-Stapel gelegt wurde.
+400.7f Falls ein Effekt einer Nichtlandkarte eine Fähigkeit verleiht, die ihr erlaubt, gewirkt zu werden, gilt diese Fähigkeit weiterhin für das neue Objekt, zu dem die Karte wurde, als sie auf diese Weise gewirkt und auf den Stapel gelegt wurde.
 
-400.7g Ein Zauberspruch oder eine aktivierte Fähigkeit kann bei Verrechnung 
-Aktionen mit einem Objekt durchführen, das von einer Zone in eine andere bewegt 
-wurde, als der Spruch gewirkt bzw. die Fähigkeit aktiviert wurde, falls das 
-Objekt in eine öffentliche Zone bewegt wurde.
+400.7g Ein Zauberspruch oder eine aktivierte Fähigkeit kann bei Verrechnung Aktionen mit einem Objekt durchführen, das von einer Zone in eine andere bewegt wurde, als der Spruch gewirkt bzw. die Fähigkeit aktiviert wurde, falls das Objekt in eine öffentliche Zone bewegt wurde.
 
-400.8. Wenn ein Objekt im Exil ins Exil geschickt wird, wechselt es nicht seine 
-Zone, aber es wird zu einem neuen Objekt, das gerade ins Exil geschickt wurde.
+400.8. Wenn ein Objekt im Exil ins Exil geschickt wird, wechselt es nicht seine Zone, aber es wird zu einem neuen Objekt, das gerade ins Exil geschickt wurde.
 
-400.9. Wenn ein aufgedecktes Objekt in der Kommandozone verdeckt wird, wird es 
-zu einem neuen Objekt.
+400.9. Wenn ein aufgedecktes Objekt in der Kommandozone verdeckt wird, wird es zu einem neuen Objekt.
 
-400.10. Ein Objekt ist \außerhalb des Spiels\, wenn es in keiner der Zonen des 
-Spiels ist. Außerhalb des Spiels ist keine Zone.
+400.10. Ein Objekt ist \außerhalb des Spiels\, wenn es in keiner der Zonen des Spiels ist. Außerhalb des Spiels ist keine Zone.
 
-400.10a Karten im Sideboard eines Spielers sind außerhalb des Spiels. Siehe 
-Regel 100.4.
+400.10a Karten im Sideboard eines Spielers sind außerhalb des Spiels. Siehe Regel 100.4.
 
-400.10b Manche Effekte bringen Karten von außerhalb des Spiels in das Spiel. 
-Diese Karten bleiben in dem Spiel, bis es endet.
+400.10b Manche Effekte bringen Karten von außerhalb des Spiels in das Spiel. Diese Karten bleiben in dem Spiel, bis es endet.
 
-400.10c Karten außerhalb des Spiels können nicht von Zaubersprüchen oder 
-Fähigkeiten beeinflusst werden, mit Ausnahme von eigenschafts-definierenden 
-Fähigkeiten, die auf ihnen aufgedruckt sind (siehe Regel 604.3), sowie 
-Zaubersprüchen oder Fähigkeiten, die diesen Karten erlauben, in das Spiel 
-gebracht zu werden.
+400.10c Karten außerhalb des Spiels können nicht von Zaubersprüchen oder Fähigkeiten beeinflusst werden, mit Ausnahme von eigenschafts-definierenden Fähigkeiten, die auf ihnen aufgedruckt sind (siehe Regel 604.3), sowie Zaubersprüchen oder Fähigkeiten, die diesen Karten erlauben, in das Spiel gebracht zu werden.
 
-400.11. Einige Effekte weisen einen Spieler an, etwas mit einer Zone zu tun (so 
-wie „Mische deine Hand in deine Bibliothek.“). Diese Aktion wird mit allen 
-Karten in dieser Zone durchgeführt. Die Zone selbst ist nicht betroffen.
+400.11. Einige Effekte weisen einen Spieler an, etwas mit einer Zone zu tun (so wie „Mische deine Hand in deine Bibliothek.“). Diese Aktion wird mit allen Karten in dieser Zone durchgeführt. Die Zone selbst ist nicht betroffen.
 
 401. Bibliothek
 
-401.1. Wenn eine Partie beginnt, wird das Deck jedes Spielers zu seiner 
-Bibliothek.
+401.1. Wenn eine Partie beginnt, wird das Deck jedes Spielers zu seiner Bibliothek.
 
-401.2. Jede Bibliothek muss in einem einzelnen, verdeckten Kartenstapel gehalten 
-werden. Spieler dürfen sich die Karten in einer Bibliothek nicht anschauen oder deren Reihenfolge ändern.
+401.2. Jede Bibliothek muss in einem einzelnen, verdeckten Kartenstapel gehalten werden. Spieler dürfen sich die Karten in einer Bibliothek nicht anschauen oder deren Reihenfolge ändern.
 
-401.3. Jeder Spieler kann jederzeit die Anzahl der in der Bibliothek eines 
-Spielers verbleibenden Karten jederzeit zählen.
+401.3. Jeder Spieler kann jederzeit die Anzahl der in der Bibliothek eines Spielers verbleibenden Karten jederzeit zählen.
 
-401.4. Wenn ein Effekt zwei oder mehr Karten gleichzeitig auf oder unter die 
-Bibliothek legt, kann der Besitzer dieser Karten sie in beliebiger Reihenfolge 
-anordnen. Der Besitzer dieser Bibliothek zeigt die Reihenfolge, in welcher die 
-Karten in seine Bibliothek gehen, nicht offen vor.
+401.4. Wenn ein Effekt zwei oder mehr Karten gleichzeitig auf oder unter die Bibliothek legt, kann der Besitzer dieser Karten sie in beliebiger Reihenfolge anordnen. Der Besitzer dieser Bibliothek zeigt die Reihenfolge, in welcher die Karten in seine Bibliothek gehen, nicht offen vor.
 
-401.5. Wenn ein Zauberspruch oder eine Fähigkeit dafür sorgt, dass eine Karte 
-gezogen wird, während ein anderer Zauberspruch gewirkt wird, wird die gezogene 
-Karte verdeckt gehalten, bis dieser Zauberspruch als gewirkt gilt (siehe 
-Regel 601.2h). Entsprechend verhält es sich in Bezug auf eine andere Fähigkeit, 
-die aktiviert wird.
+401.5. Wenn ein Zauberspruch oder eine Fähigkeit dafür sorgt, dass eine Karte gezogen wird, während ein anderer Zauberspruch gewirkt wird, wird die gezogene Karte verdeckt gehalten, bis dieser Zauberspruch als gewirkt gilt (siehe Regel 601.2h). Entsprechend verhält es sich in Bezug auf eine andere Fähigkeit, die aktiviert wird.
 
-401.6. Einige Effekte weisen einen Spieler an, mit der obersten Karte seiner 
-Bibliothek offen zu spielen, oder besagen, dass ein Spieler sich die oberste 
-Karte seiner Bibliothek anschauen kann. Wenn sich die oberste Karte der Bibliothek 
-dieses Spielers ändert, während ein Zauberspruch gewirkt wird, wird die neue 
-oberste Karte nicht offen gezeigt und darf nicht angeschaut werden bis der 
-Zauberspruch oder die Fähigkeit gewirkt wurde (siehe Regel 601.2h). 
-Entsprechend verhält es sich in Bezug auf eine andere Fähigkeit, die aktiviert 
-wird.
+401.6. Einige Effekte weisen einen Spieler an, mit der obersten Karte seiner Bibliothek offen zu spielen, oder besagen, dass ein Spieler sich die oberste Karte seiner Bibliothek anschauen kann. Wenn sich die oberste Karte der Bibliothek dieses Spielers ändert, während ein Zauberspruch gewirkt wird, wird die neue oberste Karte nicht offen gezeigt und darf nicht angeschaut werden bis der Zauberspruch oder die Fähigkeit gewirkt wurde (siehe Regel 601.2h). Entsprechend verhält es sich in Bezug auf eine andere Fähigkeit, die aktiviert wird.
 
-401.7. Falls ein Effekt dafür sorgt, dass ein Spieler mit der obersten Karte 
-seiner Bibliothek offen spielt, und diese Karte eine Zeit lang 
-aufhört, offen zu sein, bevor sie wieder offen liegt, wird sie zu einem neuen 
-Objekt.
+401.7. Falls ein Effekt dafür sorgt, dass ein Spieler mit der obersten Karte seiner Bibliothek offen spielt, und diese Karte eine Zeit lang aufhört, offen zu sein, bevor sie wieder offen liegt, wird sie zu einem neuen Objekt.
 
-401.8. Falls ein Effekt dazu führt, dass ein Spieler eine Karte als „N-te Karte 
-von oben in eine Bibliothek“ legt, und diese Bibliothek weniger als N Karten 
-enthält, legt der Spieler diese Karte unter die Bibliothek.
+401.8. Falls ein Effekt dazu führt, dass ein Spieler eine Karte als „N-te Karte von oben in eine Bibliothek“ legt, und diese Bibliothek weniger als N Karten enthält, legt der Spieler diese Karte unter die Bibliothek.
 
 402. Hand
 
-402.1. Die Hand ist, wo ein Spieler seine Karten hält, die gezogen wurden. 
-Karten können auch durch andere Effekte auf die Hand eines Spielers gebracht 
-werden. Zu Beginn einer Partie zieht jeder Spieler eine Hand von sieben Karten. 
-(Siehe Regel 103, „Eine Partie beginnen.“)
+402.1. Die Hand ist, wo ein Spieler seine Karten hält, die gezogen wurden. Karten können auch durch andere Effekte auf die Hand eines Spielers gebracht werden. Zu Beginn einer Partie zieht jeder Spieler eine Hand von sieben Karten. (Siehe Regel 103, „Eine Partie beginnen.“)
 
-402.2. Jeder Spieler hat eine \maximale Handkartenzahl\, welche normalerweise 
-sieben ist. Ein Spieler kann jede Anzahl an Karten in seiner Hand haben, aber 
-als Teil des Aufräumsegments muss der Spieler überzählige Karten bis auf seine 
-maximale Handkartenzahl abwerfen.
+402.2. Jeder Spieler hat eine \maximale Handkartenzahl\, welche normalerweise sieben ist. Ein Spieler kann jede Anzahl an Karten in seiner Hand haben, aber als Teil des Aufräumsegments muss der Spieler überzählige Karten bis auf seine maximale Handkartenzahl abwerfen.
 
-402.3. Ein Spieler kann die Karten in seiner Hand in jeder beliebigen Weise 
-anordnen und so oft auf sie schauen, wie er wünscht. Ein Spieler darf nicht in die Karten in der Hand eines anderen Spielers sehen, er kann diese jedoch 
-jederzeit zählen.
+402.3. Ein Spieler kann die Karten in seiner Hand in jeder beliebigen Weise anordnen und so oft auf sie schauen, wie er wünscht. Ein Spieler darf nicht in die Karten in der Hand eines anderen Spielers sehen, er kann diese jedoch jederzeit zählen.
 
 403. Im Spiel
 
-403.1. Das meiste des Bereichs zwischen den Spielern stellt die Im-Spiel-Zone 
-da. Die Im-Spiel-Zone beginnt leer. Bleibende Karten, die ein Spieler 
-kontrolliert, werden üblicherweise vor ihn in die Im-Spiel-Zone gelegt, 
-wenngleich es einige Fälle gibt (so wie eine Aura, die an eine bleibende Karte 
-eines Gegners angelegt ist), in denen eine bleibende Karte, die ein Spieler 
-kontrolliert, näher zu einem anderen Spieler gelegt wird.
+403.1. Das meiste des Bereichs zwischen den Spielern stellt die Im-Spiel-Zone da. Die Im-Spiel-Zone beginnt leer. Bleibende Karten, die ein Spieler kontrolliert, werden üblicherweise vor ihn in die Im-Spiel-Zone gelegt, wenngleich es einige Fälle gibt (so wie eine Aura, die an eine bleibende Karte eines Gegners angelegt ist), in denen eine bleibende Karte, die ein Spieler kontrolliert, näher zu einem anderen Spieler gelegt wird.
 
-403.2. Ein Zauberspruch oder eine Fähigkeit beeinflusst und überprüft nur die Im-
-Spiel-Zone, es sei denn er bzw. sie erwähnt speziell einen Spieler oder eine 
-andere Zone.
+403.2. Ein Zauberspruch oder eine Fähigkeit beeinflusst und überprüft nur die Im-Spiel-Zone, es sei denn er bzw. sie erwähnt speziell einen Spieler oder eine andere Zone.
 
-403.3. Bleibende Karten existieren nur in der Im-Spiel-Zone. Jedes Objekt in der 
-Im-Spiel-Zone ist eine bleibende Karte. Siehe Regel 110, „Bleibende Karten“.
+403.3. Bleibende Karten existieren nur in der Im-Spiel-Zone. Jedes Objekt in der Im-Spiel-Zone ist eine bleibende Karte. Siehe Regel 110, „Bleibende Karten“.
 
-403.4. Immer wenn eine bleibende Karte die Im-Spiel-Zone betritt, wird sie zu 
-einem neuen Objekt und hat keine Verbindung zu irgendwelchen vorherigen 
-bleibenden Karten, die von derselben Karte dargestellt wurden, außer in den in 
-Regel 400.7 aufgelisteten Ausnahmefällen. (Dies gilt auch für jedes andere 
-Objekt, das irgendeine Zone betritt.)
+403.4. Immer wenn eine bleibende Karte die Im-Spiel-Zone betritt, wird sie zu einem neuen Objekt und hat keine Verbindung zu irgendwelchen vorherigen bleibenden Karten, die von derselben Karte dargestellt wurden, außer in den in Regel 400.7 aufgelisteten Ausnahmefällen. (Dies gilt auch für jedes andere Objekt, das irgendeine Zone betritt.)
 
-403.5. [Diese Regel ist nur im Englischen zutreffend und wurde daher nicht 
-übersetzt.]
+403.5. [Diese Regel ist nur im Englischen zutreffend und wurde daher nicht übersetzt.]
 
 404. Friedhof
 
-404.1. Der Friedhof eines Spielers ist sein Abwurfstapel. Jedes Objekt, das 
-neutralisiert, abgeworfen, zerstört oder geopfert wird, wird oben auf den 
-Friedhof seines Besitzers gelegt, ebenso jeder Hexerei- oder 
-Spontanzauberspruch, dessen Verrechnung beendet ist. Der Friedhof jedes 
-Spielers beginnt leer.
+404.1. Der Friedhof eines Spielers ist sein Abwurfstapel. Jedes Objekt, das neutralisiert, abgeworfen, zerstört oder geopfert wird, wird oben auf den Friedhof seines Besitzers gelegt, ebenso jeder Hexerei- oder Spontanzauberspruch, dessen Verrechnung beendet ist. Der Friedhof jedes Spielers beginnt leer.
 
-404.2. Jeder Friedhof wird in einem einzelnen, aufgedeckten Stapel gehalten. Ein 
-Spieler darf sich jederzeit die Karten in jedem Friedhof ansehen, darf normalerweise 
-jedoch nicht ihre Reihenfolge ändern. Zusätzliche Regeln, die für sanktionierte 
-Turniere gelten, können einem Spieler erlauben, die Reihenfolge der Karte in 
-seinem Friedhof zu ändern.
+404.2. Jeder Friedhof wird in einem einzelnen, aufgedeckten Stapel gehalten. Ein Spieler darf sich jederzeit die Karten in jedem Friedhof ansehen, darf normalerweise jedoch nicht ihre Reihenfolge ändern. Zusätzliche Regeln, die für sanktionierte Turniere gelten, können einem Spieler erlauben, die Reihenfolge der Karte in seinem Friedhof zu ändern.
 
-404.3. Wenn ein Effekt oder eine Regel zwei oder mehr Karten zur selben Zeit in 
-den Friedhof legt, kann der Besitzer dieser Karten sie in beliebiger 
-Reihenfolge anordnen.
+404.3. Wenn ein Effekt oder eine Regel zwei oder mehr Karten zur selben Zeit in den Friedhof legt, kann der Besitzer dieser Karten sie in beliebiger Reihenfolge anordnen.
 
 405. Stapel
 
-405.1. Wenn ein Zauberspruch gewirkt wird, wird die physische Karte auf den 
-Stapel gelegt (siehe Regel 601.2a). Wenn eine Fähigkeit aktiviert oder 
-ausgelöst wird, geht sie ohne eine zugehörige Karte oben auf den Stapel 
-(siehe Regeln 602.2a und 603.3).
+405.1. Wenn ein Zauberspruch gewirkt wird, wird die physische Karte auf den Stapel gelegt (siehe Regel 601.2a). Wenn eine Fähigkeit aktiviert oder ausgelöst wird, geht sie ohne eine zugehörige Karte oben auf den Stapel (siehe Regeln 602.2a und 603.3).
 
-405.2. Der Stapel hält fest, in welcher Reihenfolge Zaubersprüche und/oder 
-Fähigkeiten zu ihm hinzugefügt wurden. Jedes Mal, wenn ein Objekt auf den 
-Stapel gelegt wird, wird es oben auf alle bereits dort befindlichen Objekte gelegt.
+405.2. Der Stapel hält fest, in welcher Reihenfolge Zaubersprüche und/oder Fähigkeiten zu ihm hinzugefügt wurden. Jedes Mal, wenn ein Objekt auf den Stapel gelegt wird, wird es oben auf alle bereits dort befindlichen Objekte gelegt.
 
-405.3. Falls ein Effekt zwei oder mehr Objekte gleichzeitig auf den Stapel legt, 
-werden die vom aktiven Spieler kontrollierten Objekte zuunterst gelegt, gefolgt 
-von den Objekten jedes anderen Spielers in ASNAS-Reihenfolge (siehe 
-Regel 101.4). Falls ein Spieler mehr als eins dieser Objekte kontrolliert, 
-bestimmt dieser Spieler deren Reihenfolge untereinander auf dem Stapel.
+405.3. Falls ein Effekt zwei oder mehr Objekte gleichzeitig auf den Stapel legt, werden die vom aktiven Spieler kontrollierten Objekte zuunterst gelegt, gefolgt von den Objekten jedes anderen Spielers in ASNAS-Reihenfolge (siehe Regel 101.4). Falls ein Spieler mehr als eins dieser Objekte kontrolliert, bestimmt dieser Spieler deren Reihenfolge untereinander auf dem Stapel.
 
-405.4. Jeder Zauberspruch besitzt alle Eigenschaften der ihm zugehörigen Karte.
-Jede aktivierte oder ausgelöste Fähigkeit auf dem Stapel 
-hat den Text der Fähigkeit, die sie erzeugt hat und keine anderen 
-Eigenschaften. Der Beherrscher eines Zauberspruchs ist die Person, die ihn 
-gewirkt hat. Der Beherrscher einer aktivierten Fähigkeit ist der Spieler, der 
-sie aktiviert hat. Der Beherrscher einer ausgelösten Fähigkeit ist der Spieler, 
-der die Quelle der Fähigkeit kontrollierte, als sie ausgelöst wurde, es sei 
-denn sie ist eine verzögerte ausgelöste Fähigkeit. Um den Beherrscher einer 
-verzögerten ausgelösten Fähigkeit zu ermitteln, siehe Regel 603.7d–f.
+405.4. Jeder Zauberspruch besitzt alle Eigenschaften der ihm zugehörigen Karte. Jede aktivierte oder ausgelöste Fähigkeit auf dem Stapel hat den Text der Fähigkeit, die sie erzeugt hat und keine anderen Eigenschaften. Der Beherrscher eines Zauberspruchs ist die Person, die ihn gewirkt hat. Der Beherrscher einer aktivierten Fähigkeit ist der Spieler, der sie aktiviert hat. Der Beherrscher einer ausgelösten Fähigkeit ist der Spieler, der die Quelle der Fähigkeit kontrollierte, als sie ausgelöst wurde, es sei denn sie ist eine verzögerte ausgelöste Fähigkeit. Um den Beherrscher einer verzögerten ausgelösten Fähigkeit zu ermitteln, siehe Regel 603.7d–f.
 
-405.5. Wenn alle Spieler nacheinander passen, wird der oberste (zuletzt 
-hinzugefügte) Zauberspruch oder die oberste Fähigkeit auf dem Stapel 
-verrechnet. Falls der Stapel leer ist, wenn alle Spieler passen, endet das 
-aktuelle Segment bzw. die aktuelle Phase und das bzw. die nächste beginnt.
+405.5. Wenn alle Spieler nacheinander passen, wird der oberste (zuletzt hinzugefügte) Zauberspruch oder die oberste Fähigkeit auf dem Stapel verrechnet. Falls der Stapel leer ist, wenn alle Spieler passen, endet das aktuelle Segment bzw. die aktuelle Phase und das bzw. die nächste beginnt.
 
 405.6. Manches, was im Spiel passiert, benutzt nicht den Stapel.
 
-405.6a Effekte gehen nicht auf den Stapel; sie sind das Resultat von 
-Zaubersprüchen und Fähigkeiten, die verrechnet werden. Effekte können jedoch 
-verzögerte ausgelöste Fähigkeiten erzeugen, und diese können auf den Stapel 
-gehen, wenn sie ausgelöst werden (siehe Regel 603.7).
+405.6a Effekte gehen nicht auf den Stapel; sie sind das Resultat von Zaubersprüchen und Fähigkeiten, die verrechnet werden. Effekte können jedoch verzögerte ausgelöste Fähigkeiten erzeugen, und diese können auf den Stapel gehen, wenn sie ausgelöst werden (siehe Regel 603.7).
 
-405.6b Statische Fähigkeiten erzeugen dauerhaft Effekte und gehen nicht auf 
-den Stapel. (Siehe Regel 604, „Handhabung statischer Fähigkeiten.“) Das umfasst 
-auch Eigenschafts-definierende Fähigkeiten wie „[Dieses Objekt] ist rot“ (siehe 
-Regel 604.3).
+405.6b Statische Fähigkeiten erzeugen dauerhaft Effekte und gehen nicht auf den Stapel. (Siehe Regel 604, „Handhabung statischer Fähigkeiten.“) Das umfasst auch Eigenschafts-definierende Fähigkeiten wie „[Dieses Objekt] ist rot“ (siehe Regel 604.3).
 
-405.6c Manafähigkeiten werden sofort verrechnet. Wenn eine Manafähigkeit sowohl 
-Mana produziert als auch einen anderen Effekt hat, wird das Mana sofort 
-produziert, und auch der andere Effekt geschieht sofort. Wenn ein Spieler 
-Priorität hatte, bevor eine Manafähigkeit aktiviert wurde, erhält dieser 
-Spieler Priorität, nachdem sie verrechnet wurde. (Siehe Regel 605, 
-„Manafähigkeiten.“)
+405.6c Manafähigkeiten werden sofort verrechnet. Wenn eine Manafähigkeit sowohl Mana produziert als auch einen anderen Effekt hat, wird das Mana sofort produziert, und auch der andere Effekt geschieht sofort. Wenn ein Spieler Priorität hatte, bevor eine Manafähigkeit aktiviert wurde, erhält dieser Spieler Priorität, nachdem sie verrechnet wurde. (Siehe Regel 605, „Manafähigkeiten.“)
 
-405.6d Sonderaktionen benutzen nicht den Stapel; sie finden sofort statt. Siehe 
-Regeln 115, „Sonderaktionen.“
+405.6d Sonderaktionen benutzen nicht den Stapel; sie finden sofort statt. Siehe Regeln 115, „Sonderaktionen.“
 
-405.6e Rundenbasierte Aktionen benutzen nicht den Stapel; sie passieren 
-automatisch, wenn bestimmte Segmente oder Phasen beginnen. Sie 
-werden abgehandelt, bevor ein Spieler Priorität erhalten würde. (Siehe 
-Regel 116.3a.) Rundenbasierte Aktionen werden auch automatisch 
-durchgeführt, wenn Segmente und Phasen enden; kein Spieler erhält 
-danach Priorität. Siehe Regel 703.
+405.6e Rundenbasierte Aktionen benutzen nicht den Stapel; sie passieren automatisch, wenn bestimmte Segmente oder Phasen beginnen. Sie werden abgehandelt, bevor ein Spieler Priorität erhalten würde. (Siehe Regel 116.3a.) Rundenbasierte Aktionen werden auch automatisch durchgeführt, wenn Segmente und Phasen enden; kein Spieler erhält danach Priorität. Siehe Regel 703.
 
-405.6f Zustandsbasierte Aktionen benutzen nicht den Stapel; sie passieren 
-automatisch, wenn bestimmte Bedingungen erfüllt sind. Siehe 
-Regel 704. Sie werden abgehandelt, bevor ein Spieler Priorität erhalten würde. 
-Siehe Regel 116.5.
+405.6f Zustandsbasierte Aktionen benutzen nicht den Stapel; sie passieren automatisch, wenn bestimmte Bedingungen erfüllt sind. Siehe Regel 704. Sie werden abgehandelt, bevor ein Spieler Priorität erhalten würde. Siehe Regel 116.5.
 
-405.6g Ein Spieler kann das Spiel jederzeit aufgeben. Dieser Spieler verlässt 
-das Spiel sofort. Siehe Regel 104.3a.
+405.6g Ein Spieler kann das Spiel jederzeit aufgeben. Dieser Spieler verlässt das Spiel sofort. Siehe Regel 104.3a.
 
-405.6h Wenn ein Spieler eine Mehrspielerpartie verlässt, können dadurch Objekte 
-das Spiel verlassen, aufhören zu existieren, den Beherrscher wechseln oder ins 
-Exil geschickt werden. Diese Aktionen finden sofort statt. Siehe Regel 800.4a.
+405.6h Wenn ein Spieler eine Mehrspielerpartie verlässt, können dadurch Objekte das Spiel verlassen, aufhören zu existieren, den Beherrscher wechseln oder ins Exil geschickt werden. Diese Aktionen finden sofort statt. Siehe Regel 800.4a.
 
 406. Exil
 
-406.1. Das Exil ist im Wesentlichen ein Aufbewahrungsort für Objekte. Manche 
-Zaubersprüche und Fähigkeiten schicken ein Objekt ins Exil ohne eine 
-Möglichkeit, dieses Objekt in eine andere Zone zurückzubringen. Andere 
-Zaubersprüche und Fähigkeiten schicken ein Objekt nur vorübergehend ins Exil.
+406.1. Das Exil ist im Wesentlichen ein Aufbewahrungsort für Objekte. Manche Zaubersprüche und Fähigkeiten schicken ein Objekt ins Exil ohne eine Möglichkeit, dieses Objekt in eine andere Zone zurückzubringen. Andere Zaubersprüche und Fähigkeiten schicken ein Objekt nur vorübergehend ins Exil.
 
-406.2. Ein Objekt \ins Exil schicken\ bedeutet, es von der Zone, in der es sich 
-befindet, ins Exil zu legen. Eine Karte \im Exil\ ist eine Karte, die ins 
-Exil gelegt wurde.
+406.2. Ein Objekt \ins Exil schicken\ bedeutet, es von der Zone, in der es sich befindet, ins Exil zu legen. Eine Karte \im Exil\ ist eine Karte, die ins Exil gelegt wurde.
 
-406.3. Karten im Exil liegen standardmäßig offen und können zu jeder Zeit von 
-jedem Spieler angesehen werden. Karten, die „verdeckt ins Exil geschickt“ 
-wurden, können von keinem Spieler betrachtet werden, außer wenn Anweisungen es 
-erlauben. Eine verdeckt im Exil liegende Karte hat keine Eigenschaften, aber 
-der Zauberspruch oder die Fähigkeit, der bzw. die sie ins Exil geschickt hat, 
-kann erlauben, dass sie aus dem Exil gewirkt wird. Die Karte wird aufgedeckt, 
-unmittelbar bevor der Spieler ankündigt, den Spruch zu wirken (siehe 
-Regel 601.2), es sei denn die Karte wird verdeckt gewirkt (siehe Regel 707.4).
+406.3. Karten im Exil liegen standardmäßig offen und können zu jeder Zeit von jedem Spieler angesehen werden. Karten, die „verdeckt ins Exil geschickt“ wurden, können von keinem Spieler betrachtet werden, außer wenn Anweisungen es erlauben. Eine verdeckt im Exil liegende Karte hat keine Eigenschaften, aber der Zauberspruch oder die Fähigkeit, der bzw. die sie ins Exil geschickt hat, kann erlauben, dass sie aus dem Exil gewirkt wird. Die Karte wird aufgedeckt, unmittelbar bevor der Spieler ankündigt, den Spruch zu wirken (siehe Regel 601.2), es sei denn die Karte wird verdeckt gewirkt (siehe Regel 707.4).
 
-406.4. Karten im Exil, die wieder ins Spiel oder in eine andere Zone 
-zurückkehren könnten, sollten in getrennten Stapeln gehalten werden, um ihre 
-jeweiligen Wege der Rückkehr verfolgen zu können. Karten im Exil, die aufgrund 
-ihrer eigenen Fähigkeiten (wie etwa Karten mit Spuk) oder aufgrund von 
-Fähigkeiten der Karten, durch die sie ins Exil geschickt wurden, einen Einfluss 
-auf das Spiel haben können, sollten ebenfalls in getrennten Stapeln gehalten 
-werden.
+406.4. Karten im Exil, die wieder ins Spiel oder in eine andere Zone zurückkehren könnten, sollten in getrennten Stapeln gehalten werden, um ihre jeweiligen Wege der Rückkehr verfolgen zu können. Karten im Exil, die aufgrund ihrer eigenen Fähigkeiten (wie etwa Karten mit Spuk) oder aufgrund von Fähigkeiten der Karten, durch die sie ins Exil geschickt wurden, einen Einfluss auf das Spiel haben können, sollten ebenfalls in getrennten Stapeln gehalten werden.
 
-406.5. Ein Objekt kann eine Fähigkeit auf sich gedruckt haben, die dazu führt, 
-dass eine oder mehrere Karten ins Exil geschickt werden, und eine andere, die 
-sich auf „die ins Exil geschickten Karten“ oder auf Karten, „die mit [diesem 
-Objekt] ins Exil geschickt wurden“ beziehen. Diese Fähigkeiten sind verbunden: 
-Die zweite bezieht sie sich nur auf Karten, die durch die erste ins Exil 
-geschickt wurden. Siehe Regel 607, „Verbundene Fähigkeiten.“
+406.5. Ein Objekt kann eine Fähigkeit auf sich gedruckt haben, die dazu führt, dass eine oder mehrere Karten ins Exil geschickt werden, und eine andere, die sich auf „die ins Exil geschickten Karten“ oder auf Karten, „die mit [diesem Objekt] ins Exil geschickt wurden“ beziehen. Diese Fähigkeiten sind verbunden: Die zweite bezieht sie sich nur auf Karten, die durch die erste ins Exil geschickt wurden. Siehe Regel 607, „Verbundene Fähigkeiten.“
 
-406.6. Wenn ein Objekt im Exil ins Exil geschickt wird, wechselt es nicht seine 
-Zone, aber es wird zu einem neuen Objekt, das gerade ins Exil geschickt wurde.
+406.6. Wenn ein Objekt im Exil ins Exil geschickt wird, wechselt es nicht seine Zone, aber es wird zu einem neuen Objekt, das gerade ins Exil geschickt wurde.
 
-406.7. Früher hieß das Exil die „Ganz-aus-dem-Spiel-entfernt-Zone“ Karten, die 
-mit dem Text „entfernt [ein Objekt] ganz aus dem Spiel“ gedruckt wurden, 
-schicken dieses Objekt ins Exil. Entsprechend verhält es sich bei Karten, die 
-mit dem Text „lege [ein Objekt] beiseite“ gedruckt wurden. Karten, die mit 
-diesem Text gedruckt wurden, haben in der Oracle-Kartenreferenz Errata erhalten.
+406.7. Früher hieß das Exil die „Ganz-aus-dem-Spiel-entfernt-Zone“ Karten, die mit dem Text „entfernt [ein Objekt] ganz aus dem Spiel“ gedruckt wurden, schicken dieses Objekt ins Exil. Entsprechend verhält es sich bei Karten, die mit dem Text „lege [ein Objekt] beiseite“ gedruckt wurden. Karten, die mit diesem Text gedruckt wurden, haben in der Oracle-Kartenreferenz Errata erhalten.
 
 407. Einsatzzone
 
-407.1. Frühere Versionen des #Magic#-Regelwerks enthielten eine Einsatz-Regel als 
-eine Variante, in der um Karten aus dem Deck gespielt wurde.
-Das Spielen von #Magic#-Partien um 
-Einsatz wird heutzutage als eine alternative Variante für das Spiel angesehen und es 
-ist nur dort erlaubt, wo es nicht durch Gesetze oder eine andere Bestimmungen 
-verboten ist. Das Spielen um Einsatz ist unter den #Magic: The Gathering# 
-Turnierregeln strengstens verboten (_#www.wizards.com/WPN/Events/Rules.aspx#_).
+407.1. Frühere Versionen des #Magic#-Regelwerks enthielten eine Einsatz-Regel als eine Variante, in der um Karten aus dem Deck gespielt wurde. Das Spielen von #Magic#-Partien um Einsatz wird heutzutage als eine alternative Variante für das Spiel angesehen und es ist nur dort erlaubt, wo es nicht durch Gesetze oder eine andere Bestimmungen verboten ist. Das Spielen um Einsatz ist unter den #Magic: The Gathering# Turnierregeln strengstens verboten (_#www.wizards.com/WPN/Events/Rules.aspx#_).
 
-407.2. Wenn um Einsatz gespielt wird, legt jeder Spieler eine zufällige Karte 
-von seinem Deck in die Einsatzzone, nachdem ermittelt wurde, welcher Spieler 
-den ersten Zug hat, aber bevor die Spieler Karten ziehen. Karten in der 
-Einsatzzone können jederzeit von jedem Spieler betrachtet werden. Am Ende der 
-Partie wird der Gewinner zum Besitzer aller Karten in der Einsatzzone.
+407.2. Wenn um Einsatz gespielt wird, legt jeder Spieler eine zufällige Karte von seinem Deck in die Einsatzzone, nachdem ermittelt wurde, welcher Spieler den ersten Zug hat, aber bevor die Spieler Karten ziehen. Karten in der Einsatzzone können jederzeit von jedem Spieler betrachtet werden. Am Ende der Partie wird der Gewinner zum Besitzer aller Karten in der Einsatzzone.
 
-407.3. Einige, wenige Karten besitzen den Text: „Entferne [diese Karte] aus 
-deinem Deck, bevor du spielst, falls du nicht um Einsatz spielst.“ Dies sind 
-die einzigen Karten, die Karten zu der Einsatzzone hinzufügen oder daraus 
-entfernen oder den Besitzer einer Karte ändern können.
+407.3. Einige, wenige Karten besitzen den Text: „Entferne [diese Karte] aus deinem Deck, bevor du spielst, falls du nicht um Einsatz spielst.“ Dies sind die einzigen Karten, die Karten zu der Einsatzzone hinzufügen oder daraus entfernen oder den Besitzer einer Karte ändern können.
 
-407.4. Ein Objekt \einzusetzen\ heißt, dieses Objekt aus der Zone, in der es 
-sich befindet, in die Einsatzzone zu legen. Der Besitzer eines Objekts ist die 
-einzige Person, die dieses Objekt einsetzen kann.
+407.4. Ein Objekt \einzusetzen\ heißt, dieses Objekt aus der Zone, in der es sich befindet, in die Einsatzzone zu legen. Der Besitzer eines Objekts ist die einzige Person, die dieses Objekt einsetzen kann.
 
 408. Kommandozone
 
-408.1. Die Kommandozone ist ein Spielbereich, der bestimmten spezialisierten 
-Objekte vorbehalten ist, die einen übergreifenden Effekt auf das Spiel haben, 
-selbst jedoch keine bleibenden Karten sind und nicht zerstört werden können.
+408.1. Die Kommandozone ist ein Spielbereich, der bestimmten spezialisierten Objekte vorbehalten ist, die einen übergreifenden Effekt auf das Spiel haben, selbst jedoch keine bleibenden Karten sind und nicht zerstört werden können.
 
-408.2. In der Kommandozone können Embleme erzeugt werden. Siehe Regel 113, 
-„Embleme.“
+408.2. In der Kommandozone können Embleme erzeugt werden. Siehe Regel 113, „Embleme.“
 
-408.3. In den Freizeitspiel-Varianten Planechase, Vanguard, Commander und 
-Archenemy beginnen nicht-herkömmliche #Magic#-Karten und/oder besonders 
-ausgewiesene Karten das Spiel in der Kommandozone. Jede Variante hat ihre 
-eigenen Regeln für solche Karten. Siehe Abschnitt 9, „Varianten für das 
-Freizeitspiel.“
-
-
+408.3. In den Freizeitspiel-Varianten Planechase, Vanguard, Commander und Archenemy beginnen nicht-herkömmliche #Magic#-Karten und/oder besonders ausgewiesene Karten das Spiel in der Kommandozone. Jede Variante hat ihre eigenen Regeln für solche Karten. Siehe Abschnitt 9, „Varianten für das Freizeitspiel.“
 
 5. Zugstruktur
 
