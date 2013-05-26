@@ -519,910 +519,339 @@ Beispiel: Das Wieder aufstehende Skelett besagt: „{1}{B}: Bringe das Wieder au
 
 112.8. Der Beherrscher einer aktivierten Fähigkeit auf dem Stapel ist der Spieler, der die Fähigkeit aktiviert hat. Der Beherrscher einer ausgelösten Fähigkeit auf dem Stapel (außer einer verzögerten ausgelösten Fähigkeit) ist der Spieler, der die Quelle der Fähigkeit kontrollierte, als sie ausgelöst wurde, oder, falls sie keinen Beherrscher hatte, der Spieler, der die Quelle der Fähigkeit besessen hat, als sie ausgelöst wurde. Um den Beherrscher einer verzögerten ausgelösten Fähigkeit zu ermitteln, siehe Regel 603.7d–f.
 
-112.9. Aktivierte und ausgelöste Fähigkeiten auf dem Stapel sind keine 
-Zaubersprüche und können daher nicht von irgendetwas neutralisiert werden, das 
-nur Zaubersprüche neutralisiert. Aktivierte und ausgelöste Fähigkeiten auf dem Stapel
-können von Effekten neutralisiert werden, die ausdrücklich Fähigkeiten neutralisieren,
-sowie von den Regeln (zum Beispiel wird eine Fähigkeit mit einem oder mehreren Zielen 
-neutralisiert, wenn all ihre Ziele illegal werden). Statische Fähigkeiten nutzen nicht
-den Stapel und können daher überhaupt nicht neutralisiert werden.
+112.9. Aktivierte und ausgelöste Fähigkeiten auf dem Stapel sind keine Zaubersprüche und können daher nicht von irgendetwas neutralisiert werden, das nur Zaubersprüche neutralisiert. Aktivierte und ausgelöste Fähigkeiten auf dem Stapel können von Effekten neutralisiert werden, die ausdrücklich Fähigkeiten neutralisieren, sowie von den Regeln (zum Beispiel wird eine Fähigkeit mit einem oder mehreren Zielen neutralisiert, wenn all ihre Ziele illegal werden). Statische Fähigkeiten nutzen nicht den Stapel und können daher überhaupt nicht neutralisiert werden.
 
-112.10. Effekte können Objekten Fähigkeiten hinzufügen oder von ihnen entfernen. 
-Ein Effekt, der eine Fähigkeit hinzufügt, besagt, dass das Objekt diese 
-Fähigkeit „erhält“ oder „hat“. Ein Effekt, der eine Fähigkeit entfernt, besagt, dass das Objekt diese Fähigkeit „verliert“. Effekte, die eine Fähigkeit 
-entfernen, entfernen alle Instanzen von ihr. Wenn zwei oder mehr Effekte dieselbe 
-Fähigkeit hinzufügen und entfernen, wird ihm Allgemeinen der jüngste Effekt gewinnen. 
-(Siehe Regel 613, „Interaktion dauerhafter Effekte“.)
+112.10. Effekte können Objekten Fähigkeiten hinzufügen oder von ihnen entfernen. Ein Effekt, der eine Fähigkeit hinzufügt, besagt, dass das Objekt diese Fähigkeit „erhält“ oder „hat“. Ein Effekt, der eine Fähigkeit entfernt, besagt, dass das Objekt diese Fähigkeit „verliert“. Effekte, die eine Fähigkeit entfernen, entfernen alle Instanzen von ihr. Wenn zwei oder mehr Effekte dieselbe Fähigkeit hinzufügen und entfernen, wird ihm Allgemeinen der jüngste Effekt gewinnen. (Siehe Regel 613, „Interaktion dauerhafter Effekte“.)
 
-112.11. Ein Effekt, der die Eigenschaften eines Objekts setzt oder einfach eine 
-Qualität dieses Objekts angibt, unterscheidet sich von einer Fähigkeit, die von 
-einem Effekt gegeben wurde. Wenn ein Objekt eine Fähigkeit „erhält“ oder „hat“, 
-kann diese Fähigkeit durch einen anderen Effekt entfernt werden. Wenn ein 
-Effekt eine Eigenschaft des Objekts definiert („[bleibende Karte] ist 
-[Eigenschaftswert]“), gibt er keine Fähigkeit. (Siehe Regel 604.3.) 
-Gleichermaßen gibt ein Effekt, der eine Qualität dieses Objekts festlegt (zum 
-Beispiel „[bleibende Karte] ist unzerstörbar“ oder „[Kreatur] ist unblockbar“), 
-weder eine Fähigkeit noch setzt er eine Eigenschaft. (Siehe Regeln 700.4 und 
-700.5.)
+112.11. Ein Effekt, der die Eigenschaften eines Objekts setzt oder einfach eine Qualität dieses Objekts angibt, unterscheidet sich von einer Fähigkeit, die von einem Effekt gegeben wurde. Wenn ein Objekt eine Fähigkeit „erhält“ oder „hat“, kann diese Fähigkeit durch einen anderen Effekt entfernt werden. Wenn ein Effekt eine Eigenschaft des Objekts definiert („[bleibende Karte] ist [Eigenschaftswert]“), gibt er keine Fähigkeit. (Siehe Regel 604.3.) Gleichermaßen gibt ein Effekt, der eine Qualität dieses Objekts festlegt (zum Beispiel „[bleibende Karte] ist unzerstörbar“ oder „[Kreatur] ist unblockbar“), weder eine Fähigkeit noch setzt er eine Eigenschaft. (Siehe Regeln 700.4 und 700.5.)
 
-Beispiel: Die Muraganda-Petroglyphen besagen: „Alle Kreaturen ohne 
-Fähigkeiten erhalten +2/+2.“ Ein Runenklauenbär (eine Kreatur ohne 
-Fähigkeiten), der mit einer Aura verzaubert ist, die besagt „Die verzauberte 
-Kreatur hat Flugfähigkeit“, würde nicht +2/+2 erhalten. Ein Runenklauenbär, 
-der mit einer Aura verzaubert ist, die besagt „Die verzauberte Kreatur ist 
-rot“ oder „Die verzauberte Kreatur ist unzerstörbar“, würde +2/+2 erhalten.
+Beispiel: Die Muraganda-Petroglyphen besagen: „Alle Kreaturen ohne Fähigkeiten erhalten +2/+2.“ Ein Runenklauenbär (eine Kreatur ohne Fähigkeiten), der mit einer Aura verzaubert ist, die besagt „Die verzauberte Kreatur hat Flugfähigkeit“, würde nicht +2/+2 erhalten. Ein Runenklauenbär, der mit einer Aura verzaubert ist, die besagt „Die verzauberte Kreatur ist rot“ oder „Die verzauberte Kreatur ist unzerstörbar“, würde +2/+2 erhalten.
 
 113. Embleme
 
-113.1. Manche Effekte legen \Embleme\ in die Kommandozone. Ein Emblem ist ein 
-Merkzeichen, das ein Objekt repräsentiert, das eine oder mehrere Fähigkeiten 
-hat, aber keine weiteren Eigenschaften.
+113.1. Manche Effekte legen \Embleme\ in die Kommandozone. Ein Emblem ist ein Merkzeichen, das ein Objekt repräsentiert, das eine oder mehrere Fähigkeiten hat, aber keine weiteren Eigenschaften.
 
-113.2. Ein Effekt, der ein Emblem erzeugt, wird geschrieben als „[Spieler] 
-erhält ein Emblem mit [Fähigkeit].“ Das bedeutet, dass [Spieler] ein Emblem mit 
-[Fähigkeit] in die Kommandozone legt. Dieser Spieler ist sowohl der Besitzer 
-als auch der Beherrscher des Emblems.
+113.2. Ein Effekt, der ein Emblem erzeugt, wird geschrieben als „[Spieler] erhält ein Emblem mit [Fähigkeit].“ Das bedeutet, dass [Spieler] ein Emblem mit [Fähigkeit] in die Kommandozone legt. Dieser Spieler ist sowohl der Besitzer als auch der Beherrscher des Emblems.
 
-113.3. Ein Emblem hat keine Eigenschaften außer die Fähigkeiten, die durch den 
-Effekt festgelegt wurden, die es erzeugt haben. Insbesondere hat ein Emblem 
-keinen Namen, keine Typen, keine Manakosten, keine Farbe und kein 
-Erweiterungssymbol.
+113.3. Ein Emblem hat keine Eigenschaften außer die Fähigkeiten, die durch den Effekt festgelegt wurden, die es erzeugt haben. Insbesondere hat ein Emblem keinen Namen, keine Typen, keine Manakosten, keine Farbe und kein Erweiterungssymbol.
 
 113.4. Fähigkeiten von Emblemen funktionieren in der Kommandozone.
 
-113.5. Ein Emblem ist weder eine Karte noch eine bleibende Karte. Emblem ist 
-kein Kartentyp.
+113.5. Ein Emblem ist weder eine Karte noch eine bleibende Karte. Emblem ist kein Kartentyp.
 
 114. Ziele
 
-114.1. Manche Zaubersprüche und Fähigkeiten verlangen, dass ihr Beherrscher ein 
-oder mehrere \Ziele\ für sie bestimmt. Die Ziele sind Objekte, Spieler oder 
-Spielzonen, die der Zauberspruch oder die Fähigkeit beeinflussen wird. Diese 
-Ziele werden als Teil des Vorgangs angesagt, währenddessen der Zauberspruch oder die 
-Fähigkeit auf den Stapel gelegt wird. Die Ziele können nicht geändert werden, außer 
-durch einen andere Zaubersprüche oder Fähigkeiten, die dies 
-ausdrücklich bewirken können.
+114.1. Manche Zaubersprüche und Fähigkeiten verlangen, dass ihr Beherrscher ein oder mehrere \Ziele\ für sie bestimmt. Die Ziele sind Objekte, Spieler oder Spielzonen, die der Zauberspruch oder die Fähigkeit beeinflussen wird. Diese Ziele werden als Teil des Vorgangs angesagt, währenddessen der Zauberspruch oder die Fähigkeit auf den Stapel gelegt wird. Die Ziele können nicht geändert werden, außer durch einen andere Zaubersprüche oder Fähigkeiten, die dies ausdrücklich bewirken können.
 
-114.1a Ein Spontanzauber oder eine Hexerei ist gezielt, wenn seine bzw. ihre 
-Zauberspruchfähigkeit durch die Formulierung „[etwas] deiner Wahl“ etwas 
-identifiziert, was beeinflusst werden soll, wobei dieses „etwas“ ein Begriff 
-ist, der ein Objekt, einen Spieler oder eine Zone beschreibt. Das Ziel oder die 
-Ziele werden gewählt, sowie der Zauberspruch gewirkt wird; siehe Regel 601.2c. 
-(Wenn eine aktivierte oder ausgelöste Fähigkeit eines Spontanzaubers oder einer 
-Hexerei die Formulierung „deiner Wahl“ benutzt, ist diese Fähigkeit gezielt, 
-aber der Zauberspruch ist es nicht.)
+114.1a Ein Spontanzauber oder eine Hexerei ist gezielt, wenn seine bzw. ihre Zauberspruchfähigkeit durch die Formulierung „[etwas] deiner Wahl“ etwas identifiziert, was beeinflusst werden soll, wobei dieses „etwas“ ein Begriff ist, der ein Objekt, einen Spieler oder eine Zone beschreibt. Das Ziel oder die Ziele werden gewählt, sowie der Zauberspruch gewirkt wird; siehe Regel 601.2c. (Wenn eine aktivierte oder ausgelöste Fähigkeit eines Spontanzaubers oder einer Hexerei die Formulierung „deiner Wahl“ benutzt, ist diese Fähigkeit gezielt, aber der Zauberspruch ist es nicht.)
 
-Beispiel: Eine Hexereikarte hat die Fähigkeit: „Wenn du diese Karte 
-umwandelst, erhält eine Kreatur deiner Wahl -1/-1 bis zum Ende des Zuges.“ 
-Diese ausgelöste Fähigkeit ist gezielt, aber das macht die Karte, auf der 
-sie ist, nicht gezielt.
+Beispiel: Eine Hexereikarte hat die Fähigkeit: „Wenn du diese Karte umwandelst, erhält eine Kreatur deiner Wahl -1/-1 bis zum Ende des Zuges.“ Diese ausgelöste Fähigkeit ist gezielt, aber das macht die Karte, auf der sie ist, nicht gezielt.
 
-114.1b Aurenzaubersprüche sind immer gezielt. Sie sind die einzigen Bleibende-
-Karte-Zaubersprüche mit Zielen. Das Ziel einer Aura wird durch ihre Verzaubern-
-Schlüsselwortfähigkeit angegeben (siehe Regel 702.5, „Verzaubern“). Das Ziel 
-oder die Ziele werden bestimmt, sowie der Zauberspruch gewirkt wird; siehe 
-Regel 601.2c. Eine bleibende Aurenkarte zielt auf gar nichts; nur der 
-Zauberspruch ist gezielt. (Eine aktivierte oder ausgelöste Fähigkeit einer 
-bleibenden Aurenkarte kann auch gezielt sein.)
+114.1b Aurenzaubersprüche sind immer gezielt. Sie sind die einzigen Bleibende-Karte-Zaubersprüche mit Zielen. Das Ziel einer Aura wird durch ihre Verzaubern-Schlüsselwortfähigkeit angegeben (siehe Regel 702.5, „Verzaubern“). Das Ziel oder die Ziele werden bestimmt, sowie der Zauberspruch gewirkt wird; siehe Regel 601.2c. Eine bleibende Aurenkarte zielt auf gar nichts; nur der Zauberspruch ist gezielt. (Eine aktivierte oder ausgelöste Fähigkeit einer bleibenden Aurenkarte kann auch gezielt sein.)
 
-114.1c Eine aktivierte Fähigkeit ist gezielt, wenn sie durch die Formulierung 
-„[etwas] deiner Wahl“ etwas identifiziert, was beeinflusst werden soll, wobei 
-dieses „etwas“ ein Begriff ist, der ein Objekt, einen Spieler oder eine Zone 
-beschreibt. Das Ziel oder die Ziele werden bestimmt, sowie die Fähigkeit 
-aktiviert wird; siehe Regel 602.2b.
+114.1c Eine aktivierte Fähigkeit ist gezielt, wenn sie durch die Formulierung „[etwas] deiner Wahl“ etwas identifiziert, was beeinflusst werden soll, wobei dieses „etwas“ ein Begriff ist, der ein Objekt, einen Spieler oder eine Zone beschreibt. Das Ziel oder die Ziele werden bestimmt, sowie die Fähigkeit aktiviert wird; siehe Regel 602.2b.
 
-114.1d Eine ausgelöste Fähigkeit ist gezielt, wenn sie durch die Formulierung 
-„[etwas] deiner Wahl“ etwas identifiziert, was beeinflusst werden soll, wobei 
-dieses „etwas“ ein Begriff ist, der ein Objekt, einen Spieler oder eine Zone 
-beschreibt. Das Ziel oder die Ziele werden bestimmt, sowie die Fähigkeit auf 
-den Stapel gelegt wird; siehe Regel 603.3d.
+114.1d Eine ausgelöste Fähigkeit ist gezielt, wenn sie durch die Formulierung „[etwas] deiner Wahl“ etwas identifiziert, was beeinflusst werden soll, wobei dieses „etwas“ ein Begriff ist, der ein Objekt, einen Spieler oder eine Zone beschreibt. Das Ziel oder die Ziele werden bestimmt, sowie die Fähigkeit auf den Stapel gelegt wird; siehe Regel 603.3d.
 
-114.1e Manche Schlüsselwortfähigkeiten, so wie Ausrüsten und Provozieren, 
-repräsentieren gezielte aktivierte oder ausgelöste Fähigkeiten. In diesen Fällen 
-steht die Formulierung „[etwas] deiner Wahl“ in den Regeln zu dieser 
-Schlüsselwortfähigkeit statt in der Fähigkeit selbst. (Der Erinnerungstext zu 
-dem Schlüsselwort wird häufig die Formulierung „deiner Wahl“ enthalten.) Siehe 
-Regel 702, „Schlüsselwortfähigkeiten.“
+114.1e Manche Schlüsselwortfähigkeiten, so wie Ausrüsten und Provozieren, repräsentieren gezielte aktivierte oder ausgelöste Fähigkeiten. In diesen Fällen steht die Formulierung „[etwas] deiner Wahl“ in den Regeln zu dieser Schlüsselwortfähigkeit statt in der Fähigkeit selbst. (Der Erinnerungstext zu dem Schlüsselwort wird häufig die Formulierung „deiner Wahl“ enthalten.) Siehe Regel 702, „Schlüsselwortfähigkeiten.“
 
-114.2. Nur bleibende Karten sind legale Ziele für Zaubersprüche oder 
-Fähigkeiten, es sei denn ein Zauberspruch oder eine Fähigkeit \(a)\ gibt an, dass 
-er bzw. sie ein Objekt in einer anderen Zone oder auf einen Spieler zielen 
-kann, oder \(b)\ zielt auf ein Objekt, das nicht im Spiel existieren 
-kann, wie etwa ein Zauberspruch oder eine Fähigkeit, oder \(c)\ zielt auf eine Zone.
+114.2. Nur bleibende Karten sind legale Ziele für Zaubersprüche oder Fähigkeiten, es sei denn ein Zauberspruch oder eine Fähigkeit \(a)\ gibt an, dass er bzw. sie ein Objekt in einer anderen Zone oder auf einen Spieler zielen kann, oder \(b)\ zielt auf ein Objekt, das nicht im Spiel existieren kann, wie etwa ein Zauberspruch oder eine Fähigkeit, oder \(c)\ zielt auf eine Zone.
 
-114.3. Dasselbe Ziel kann nicht mehrmals für jeweils eine Instanz der 
-Formulierung „deiner Wahl“ auf einem Zauberspruch oder einer Fähigkeit bestimmt 
-werden. Wenn der Zauberspruch oder die Fähigkeit die Formulierung „deiner Wahl“ 
-an mehreren Stellen benutzt, kann dasselbe Objekt, derselbe Spieler oder 
-dieselbe Zone einmal für jede Instanz der Formulierung „deiner Wahl“ bestimmt 
-werden (solange es die Zielkriterien erfüllt). Diese Regel gilt sowohl bei der 
-Bestimmung von Zielen für einen Zauberspruch oder eine Fähigkeit als auch beim Ändern 
-von Zielen oder Bestimmen von neuen Zielen für einen Zauberspruch oder eine 
-Fähigkeit (siehe Regel 114.6).
+114.3. Dasselbe Ziel kann nicht mehrmals für jeweils eine Instanz der Formulierung „deiner Wahl“ auf einem Zauberspruch oder einer Fähigkeit bestimmt werden. Wenn der Zauberspruch oder die Fähigkeit die Formulierung „deiner Wahl“ an mehreren Stellen benutzt, kann dasselbe Objekt, derselbe Spieler oder dieselbe Zone einmal für jede Instanz der Formulierung „deiner Wahl“ bestimmt werden (solange es die Zielkriterien erfüllt). Diese Regel gilt sowohl bei der Bestimmung von Zielen für einen Zauberspruch oder eine Fähigkeit als auch beim Ändern von Zielen oder Bestimmen von neuen Zielen für einen Zauberspruch oder eine Fähigkeit (siehe Regel 114.6).
 
-114.4. Ein Zauberspruch oder eine Fähigkeit auf dem Stapel ist ein illegales 
-Ziel für sich selbst.
+114.4. Ein Zauberspruch oder eine Fähigkeit auf dem Stapel ist ein illegales Ziel für sich selbst.
 
-114.5. Zaubersprüche und Fähigkeiten, die kein oder mehr Ziele haben können, 
-sind nur dann gezielt, wenn ein oder mehr Ziele dafür bestimmt wurden.
+114.5. Zaubersprüche und Fähigkeiten, die kein oder mehr Ziele haben können, sind nur dann gezielt, wenn ein oder mehr Ziele dafür bestimmt wurden.
 
-114.6. Manche Effekte erlauben einem Spieler, das Ziel oder die Ziele eines 
-Zauberspruchs oder einer Fähigkeit zu ändern, und andere Effekte erlauben einem 
-Spieler, neue Ziele für einen Zauberspruch oder eine Fähigkeit zu bestimmen.
+114.6. Manche Effekte erlauben einem Spieler, das Ziel oder die Ziele eines Zauberspruchs oder einer Fähigkeit zu ändern, und andere Effekte erlauben einem Spieler, neue Ziele für einen Zauberspruch oder eine Fähigkeit zu bestimmen.
 
-114.6a Wenn ein Effekt einem Spieler erlaubt, „das Ziel“ oder „die Ziele“ eines 
-Zauberspruchs oder einer Fähigkeit zu ändern, kann jedes Ziel in ein anderes 
-legales Ziel geändert werden. Wenn ein Ziel nicht in ein anderes legales Ziel 
-geändert werden kann, bleibt das ursprüngliche Ziel unverändert, auch wenn das 
-ursprüngliche Ziel selbst mittlerweile illegal ist. Wenn nicht alle Ziele in 
-ein anderes legales Ziel geändert werden, wird keins verändert.
+114.6a Wenn ein Effekt einem Spieler erlaubt, „das Ziel“ oder „die Ziele“ eines Zauberspruchs oder einer Fähigkeit zu ändern, kann jedes Ziel in ein anderes legales Ziel geändert werden. Wenn ein Ziel nicht in ein anderes legales Ziel geändert werden kann, bleibt das ursprüngliche Ziel unverändert, auch wenn das ursprüngliche Ziel selbst mittlerweile illegal ist. Wenn nicht alle Ziele in ein anderes legales Ziel geändert werden, wird keins verändert.
 
-114.6b Wenn ein Effekt einem Spieler erlaubt, „ein Ziel“ eines Zauberspruchs 
-oder einer Fähigkeit zu ändern, wird wie in Regel 114.6a beschrieben 
-vorgegangen, bloß dass nur eines dieser Ziele geändert werden kann (und nicht 
-alle oder keins).
+114.6b Wenn ein Effekt einem Spieler erlaubt, „ein Ziel“ eines Zauberspruchs oder einer Fähigkeit zu ändern, wird wie in Regel 114.6a beschrieben vorgegangen, bloß dass nur eines dieser Ziele geändert werden kann (und nicht alle oder keins).
 
-114.6c Wenn ein Effekt einem Spieler erlaubt, „beliebige Ziele“ eines 
-Zauberspruchs oder einer Fähigkeit zu ändern, wird wie in Regel 114.6a 
-beschrieben vorgegangen, bloß dass eine beliebige Zahl an Zielen geändert 
-werden kann (und nicht nur alle oder keins).
+114.6c Wenn ein Effekt einem Spieler erlaubt, „beliebige Ziele“ eines Zauberspruchs oder einer Fähigkeit zu ändern, wird wie in Regel 114.6a beschrieben vorgegangen, bloß dass eine beliebige Zahl an Zielen geändert werden kann (und nicht nur alle oder keins).
 
-114.6d Wenn ein Effekt einem Spieler erlaubt, für einen Zauberspruch oder 
-eine Fähigkeit „neue Ziele zu bestimmen“ , kann der Spieler beliebig viele 
-Ziele unverändert lassen, auch wenn diese Ziele illegal sind. Falls der Spieler 
-einige oder alle Ziele ändert, müssen die neuen Ziele legal sein und dürfen 
-nicht dazu führen, dass unveränderte Ziele illegal werden.
+114.6d Wenn ein Effekt einem Spieler erlaubt, für einen Zauberspruch oder eine Fähigkeit „neue Ziele zu bestimmen“ , kann der Spieler beliebig viele Ziele unverändert lassen, auch wenn diese Ziele illegal sind. Falls der Spieler einige oder alle Ziele ändert, müssen die neuen Ziele legal sein und dürfen nicht dazu führen, dass unveränderte Ziele illegal werden.
 
-114.6e Wenn für einen Zauberspruch oder eine Fähigkeit Ziele geändert oder neue 
-Ziele bestimmt werden, wird lediglich der endgültige Satz an Zielen überprüft, 
-um festzustellen ob die Änderung gültig ist.
+114.6e Wenn für einen Zauberspruch oder eine Fähigkeit Ziele geändert oder neue Ziele bestimmt werden, wird lediglich der endgültige Satz an Zielen überprüft, um festzustellen ob die Änderung gültig ist.
 
-Beispiel: Lichtbogen-Spur ist eine Hexerei mit dem Text „Die Lichtbogen-Spur 
-fügt einer Kreatur oder einem Spieler deiner Wahl 2 Schadenspunkte und einer 
-anderen Kreatur oder einem anderen Spieler deiner Wahl 1 Schadenspunkt zu.“ 
-Die derzeitigen Ziele der Lichtbogen-Spur sind ein Runenklauenbär und die 
-Llanowarelfen, in dieser Reihenfolge. Du wirkst Umlenken, ein Spontanzauber 
-mit dem Text „Du kannst neue Ziele für einen Zauberspruch deiner Wahl 
-bestimmen.“ und zielst auf die Lichtbogen-Spur. Du kannst das erste Ziel in 
-die Llanowarelfen ändern und das zweite Ziel in den Runenklauenbär.
+Beispiel: Lichtbogen-Spur ist eine Hexerei mit dem Text „Die Lichtbogen-Spur fügt einer Kreatur oder einem Spieler deiner Wahl 2 Schadenspunkte und einer anderen Kreatur oder einem anderen Spieler deiner Wahl 1 Schadenspunkt zu.“ Die derzeitigen Ziele der Lichtbogen-Spur sind ein Runenklauenbär und die Llanowarelfen, in dieser Reihenfolge. Du wirkst Umlenken, ein Spontanzauber mit dem Text „Du kannst neue Ziele für einen Zauberspruch deiner Wahl bestimmen.“ und zielst auf die Lichtbogen-Spur. Du kannst das erste Ziel in die Llanowarelfen ändern und das zweite Ziel in den Runenklauenbär.
 
-114.7. Modale Zaubersprüche oder Fähigkeiten können verschiedene Zielvoraussetzungen 
-für jeden Modus besitzen. Ein Effekt, der einem Spieler erlaubt, das Ziel oder 
-die Ziele eines modalen Zauberspruchs oder einer modalen Fähigkeit zu ändern oder
-neue Ziele dafür zu bestimmen, erlaubt diesem Spieler nicht, den Modus zu ändern.
-(Siehe Regel 700.2.)
+114.7. Modale Zaubersprüche oder Fähigkeiten können verschiedene Zielvoraussetzungen für jeden Modus besitzen. Ein Effekt, der einem Spieler erlaubt, das Ziel oder die Ziele eines modalen Zauberspruchs oder einer modalen Fähigkeit zu ändern oder neue Ziele dafür zu bestimmen, erlaubt diesem Spieler nicht, den Modus zu ändern. (Siehe Regel 700.2.)
 
-114.8. Manche Objekte überprüfen, auf was ein anderer Zauberspruch oder einer 
-andere Fähigkeit zielt. Je nach Formulierung können diese den aktuellen Zustand 
-der Ziele überprüfen, den Zustand der Ziele zu dem Zeitpunkt, als sie 
-bestimmt wurden, oder beides.
+114.8. Manche Objekte überprüfen, auf was ein anderer Zauberspruch oder eine andere Fähigkeit zielt. Je nach Formulierung können diese den aktuellen Zustand der Ziele überprüfen, den Zustand der Ziele zu dem Zeitpunkt, als sie bestimmt wurden, oder beides.
 
-114.8a Ein Objekt, das nach „[einem Spruch oder einer Fähigkeit] mit einem 
-einzelnen Ziel“ schaut, überprüft, wie oft jegliche Objekte, Spieler 
-oder Zonen Ziel dieses Zauberspruchs oder dieser Fähigkeit wurden, als er bzw. 
-sie auf den Stapel gelegt wurde, nicht jedoch die Anzahl an Zielen, die aktuell 
-legal sind. Falls dasselbe Objekt, derselbe Spieler oder dieselbe Zone mehr als 
-einmal Ziel wurde, wird jede Instanz einzeln gezählt.
+114.8a Ein Objekt, das nach „[einem Spruch oder einer Fähigkeit] mit einem einzelnen Ziel“ schaut, überprüft, wie oft jegliche Objekte, Spieler oder Zonen Ziel dieses Zauberspruchs oder dieser Fähigkeit wurden, als er bzw. sie auf den Stapel gelegt wurde, nicht jedoch die Anzahl an Zielen, die aktuell legal sind. Falls dasselbe Objekt, derselbe Spieler oder dieselbe Zone mehr als einmal Ziel wurde, wird jede Instanz einzeln gezählt.
 
-114.8b Ein Objekt, das nach „[einem Spruch oder einer Fähigkeit], der bzw. die 
-auf [etwas] zielt“ schaut, überprüft den aktuellen Zustand der Ziele 
-dieses Zauberspruchs oder dieser Fähigkeit. Wenn ein Ziel-Objekt immer 
-noch in der erwarteten Zone ist oder der Ziel-Spieler immer noch im Spiel 
-ist, werden die aktuellen Informationen über das Ziel benutzt, selbst wenn es 
-derzeit kein legales Ziel für den Zauberspruch oder die Fähigkeit ist. Falls 
-ein Ziel-Objekt nicht mehr in der erwarteten Zone ist oder der Ziel-Spieler
-nicht mehr im Spiel ist, wird das Ziel ignoriert; seine zuletzt 
-bekannten Informationen werden nicht genutzt.
+114.8b Ein Objekt, das nach „[einem Spruch oder einer Fähigkeit], der bzw. die auf [etwas] zielt“ schaut, überprüft den aktuellen Zustand der Ziele dieses Zauberspruchs oder dieser Fähigkeit. Wenn ein Ziel-Objekt immer noch in der erwarteten Zone ist oder der Ziel-Spieler immer noch im Spiel ist, werden die aktuellen Informationen über das Ziel benutzt, selbst wenn es derzeit kein legales Ziel für den Zauberspruch oder die Fähigkeit ist. Falls ein Ziel-Objekt nicht mehr in der erwarteten Zone ist oder der Ziel-Spieler nicht mehr im Spiel ist, wird das Ziel ignoriert; seine zuletzt bekannten Informationen werden nicht genutzt.
 
-114.8c Ein Objekt, das nach „[einem Spruch oder einer Fähigkeit], der bzw. die 
-nur auf [etwas]“ Ausschau hält, überprüft, wie viele verschiedene Objekte oder 
-Spieler Ziel dieses Zauberspruchs oder dieser Fähigkeit wurden, als er bzw. sie 
-auf den Stapel gelegt wurde (sowie sie durch Effekte verändert wurden, die diese 
-Ziel geändert haben), nicht jedoch die Anzahl an Objekten oder Spieler, die 
-aktuell legale Ziele sind. Falls diese Zahl eins ist (selbst wenn der 
-Zauberspruch oder die Fähigkeit mehrfach auf dieses Objekt oder diesen Spieler 
-zielt), wird der aktuelle Zustand des Ziels dieses Zauberspruchs oder dieser 
-Fähigkeit wie in Regel 114.8b beschrieben überprüft.
+114.8c Ein Objekt, das nach „[einem Spruch oder einer Fähigkeit], der bzw. die nur auf [etwas]“ Ausschau hält, überprüft, wie viele verschiedene Objekte oder Spieler Ziel dieses Zauberspruchs oder dieser Fähigkeit wurden, als er bzw. sie auf den Stapel gelegt wurde (sowie sie durch Effekte verändert wurden, die diese Ziel geändert haben), nicht jedoch die Anzahl an Objekten oder Spieler, die aktuell legale Ziele sind. Falls diese Zahl eins ist (selbst wenn der Zauberspruch oder die Fähigkeit mehrfach auf dieses Objekt oder diesen Spieler zielt), wird der aktuelle Zustand des Ziels dieses Zauberspruchs oder dieser Fähigkeit wie in Regel 114.8b beschrieben überprüft.
 
-114.9. Zaubersprüche und Fähigkeiten können Objekte und Spieler beeinflussen, 
-auf die sie nicht zielen. Solche Objekte und Spieler werden im Allgemeinen erst 
-bestimmt, wenn der Zauberspruch oder die Fähigkeit verrechnet wird. Siehe 
-Regel 608, „Zaubersprüche und Fähigkeiten verrechnen.“
+114.9. Zaubersprüche und Fähigkeiten können Objekte und Spieler beeinflussen, auf die sie nicht zielen. Solche Objekte und Spieler werden im Allgemeinen erst bestimmt, wenn der Zauberspruch oder die Fähigkeit verrechnet wird. Siehe Regel 608, „Zaubersprüche und Fähigkeiten verrechnen.“
 
-114.9a Nur weil ein Objekt oder ein Spieler durch einen Zauberspruch oder eine Fähigkeit
-beeinflusst wird, ist dieses Objekt oder dieser Spieler kein Ziel dieses Zauberspruchs oder 
-dieser Fähigkeit. Wenn das Objekt oder der Spieler nicht durch die Formulierung „deiner Wahl“
- im Text des Zauberspruchs oder der Fähigkeit identifiziert wird, ist es bzw. er kein Ziel.
+114.9a Nur weil ein Objekt oder ein Spieler durch einen Zauberspruch oder eine Fähigkeit beeinflusst wird, ist dieses Objekt oder dieser Spieler kein Ziel dieses Zauberspruchs oder dieser Fähigkeit. Wenn das Objekt oder der Spieler nicht durch die Formulierung „deiner Wahl“ im Text des Zauberspruchs oder der Fähigkeit identifiziert wird, ist es bzw. er kein Ziel.
 
 114.9b Insbesondere bezeichnet das Wort „du“ im Text eines Objekts kein Ziel.
 
 115. Sonderaktionen
 
-115.1. Sonderaktionen sind Aktionen, die ein Spieler durchführen kann, wenn er 
-Vorrang hat, und die nicht den Stapel benutzen. Diese sollten nicht 
-mit rundenbasierten Aktionen und zustandsbasierten Aktionen, die das Spiel
-automatisch generiert, verwechselt werden. (Siehe Regel 703, „Rundenbasierte Aktionen“
-und Regel 704, „Zustandsbasierte Aktionen.“)
+115.1. Sonderaktionen sind Aktionen, die ein Spieler durchführen kann, wenn er Priorität hat, und die nicht den Stapel benutzen. Diese sollten nicht mit rundenbasierten Aktionen und zustandsbasierten Aktionen, die das Spiel automatisch generiert, verwechselt werden. (Siehe Regel 703, „Rundenbasierte Aktionen“ und Regel 704, „Zustandsbasierte Aktionen.“)
 
 115.2. Es gibt sechs Sonderaktionen:
 
-115.2a Das Spielen eines Landes ist eine Sonderaktion. Um ein Land zu spielen, 
-nimmt ein Spieler das Land aus der Zone, in der es ist (üblicherweise die Hand 
-dieses Spielers) und legt es ins Spiel. Ein Spieler kann diese Sonderaktion 
-jederzeit durchführen, wenn er Vorrang hat und der Stapel während einer 
-Hauptphase seines Zuges leer ist, jedoch nur, wenn er in diesem Zug noch kein 
-Land gespielt hat. Siehe Regel 305, „Länder.“
+115.2a Das Spielen eines Landes ist eine Sonderaktion. Um ein Land zu spielen, nimmt ein Spieler das Land aus der Zone, in der es ist (üblicherweise die Hand dieses Spielers) und legt es ins Spiel. Ein Spieler kann diese Sonderaktion jederzeit durchführen, wenn er Priorität hat und der Stapel während einer Hauptphase seines Zuges leer ist, jedoch nur, wenn er in diesem Zug noch kein Land gespielt hat. Siehe Regel 305, „Länder.“
 
-115.2b Das Aufdecken einer verdeckten Kreatur ist eine Sonderaktion. Ein 
-Spieler kann diese Sonderaktion jederzeit durchführen, wenn er Vorrang hat. 
-Siehe Regel 707, „Verdeckte Zaubersprüche und bleibende Karten.“
+115.2b Das Aufdecken einer verdeckten Kreatur ist eine Sonderaktion. Ein Spieler kann diese Sonderaktion jederzeit durchführen, wenn er Priorität hat. Siehe Regel 707, „Verdeckte Zaubersprüche und bleibende Karten.“
 
-115.2c Einige Effekte erlauben einem Spieler, eine Aktion zu einem späteren 
-Zeitpunkt durchzuführen, normalerweise um einen dauerhaften Effekt zu beenden 
-oder um eine verzögerte ausgelöste Fähigkeit daran zu hindern ausgelöst zu werden.
-Dies ist eine Sonderaktion. Ein Spieler kann eine solche Sonderaktion jederzeit 
-durchführen, wenn er Vorrang hat, jedoch nur, wenn die Fähigkeit oder der 
-Effekt dies erlaubt.
+115.2c Einige Effekte erlauben einem Spieler, eine Aktion zu einem späteren Zeitpunkt durchzuführen, normalerweise um einen dauerhaften Effekt zu beenden oder um eine verzögerte ausgelöste Fähigkeit daran zu hindern ausgelöst zu werden. Dies ist eine Sonderaktion. Ein Spieler kann eine solche Sonderaktion jederzeit durchführen, wenn er Priorität hat, jedoch nur, wenn die Fähigkeit oder der Effekt dies erlaubt.
 
-115.2d Einige Effekte von statischen Fähigkeiten erlauben einem Spieler, eine 
-Aktion zu durchzuführen, um den Effekt dieser Fähigkeit für eine Zeit lang zu 
-ignorieren. Dies zu tun ist eine Sonderaktion. Ein Spieler kann eine solche 
-Sonderaktion jederzeit durchführen, wenn er Vorrang hat.
+115.2d Einige Effekte von statischen Fähigkeiten erlauben einem Spieler, eine Aktion zu durchzuführen, um den Effekt dieser Fähigkeit für eine Zeit lang zu ignorieren. Dies zu tun ist eine Sonderaktion. Ein Spieler kann eine solche Sonderaktion jederzeit durchführen, wenn er Priorität hat.
 
-115.2e Ein Spieler, der eine Karte mit Aussetzen in seiner Hand hat, kann diese 
-Karte ins Exil schicken. Dies ist eine Sonderaktion. Ein Spieler kann diese 
-Sonderaktion jederzeit durchführen, wenn er Vorrang hat, jedoch nur, 
-wenn er beginnen könnte, diese Karte zu wirken, indem er sie auf den Stapel 
-legt. Siehe Regel 702.60, „Aussetzen.“
+115.2e Ein Spieler, der eine Karte mit Aussetzen in seiner Hand hat, kann diese Karte ins Exil schicken. Dies ist eine Sonderaktion. Ein Spieler kann diese Sonderaktion jederzeit durchführen, wenn er Priorität hat, jedoch nur, wenn er beginnen könnte, diese Karte zu wirken, indem er sie auf den Stapel legt. Siehe Regel 702.60, „Aussetzen.“
 
-115.2f In einer Partie „Planechase“ ist das Werfen des Weltenwürfels eine 
-Sonderaktion. Ein Spieler kann diese Aktion jederzeit in einer Hauptphase 
-seines Zuges durchführen, wenn er Vorrang hat und der Stapel leer ist. Das 
-Durchführen dieser Aktion kostet den Spieler so viel Mana wie er diese Aktion 
-in diesem Zug zuvor durchgeführt hat. Beachte, dass diese Zahl nicht gleich der 
-Anzahl an Würfen des Weltenwürfels ist, falls in diesem Zug ein Effekt dazu 
-geführt hat, dass der Spieler den Weltenwürfel geworfen hat. Siehe Regel 901, 
-„Planechase.“
+115.2f In einer Partie „Planechase“ ist das Werfen des Weltenwürfels eine Sonderaktion. Ein Spieler kann diese Aktion jederzeit in einer Hauptphase seines Zuges durchführen, wenn er Priorität hat und der Stapel leer ist. Das Durchführen dieser Aktion kostet den Spieler so viel Mana wie er diese Aktion in diesem Zug zuvor durchgeführt hat. Beachte, dass diese Zahl nicht gleich der Anzahl an Würfen des Weltenwürfels ist, falls in diesem Zug ein Effekt dazu geführt hat, dass der Spieler den Weltenwürfel geworfen hat. Siehe Regel 901, „Planechase.“
 
-115.3. Wenn ein Spieler eine Sonderaktion durchführt, erhält dieser Spieler 
-anschließend Vorrang.
+115.3. Wenn ein Spieler eine Sonderaktion durchführt, erhält dieser Spieler anschließend Priorität.
 
-116. Timing und Vorrang
+116. Timing und Priorität
 
-116.1. Solange kein Zauberspruch und keine Fähigkeit einen Spieler anweisen, 
-eine Aktion durchzuführen, legt ein System von \Vorrang\ fest, welcher Spieler 
-zu einem beliebigen Zeitpunkt Aktionen durchführen darf. Der Spieler, der 
-Vorrang hat, kann Zaubersprüche wirken, Fähigkeiten aktivieren und 
-Sonderaktionen durchführen.
+116.1. Solange kein Zauberspruch und keine Fähigkeit einen Spieler anweisen, eine Aktion durchzuführen, legt ein System von \Priorität\ fest, welcher Spieler zu einem beliebigen Zeitpunkt Aktionen durchführen darf. Der Spieler, der Priorität hat, kann Zaubersprüche wirken, Fähigkeiten aktivieren und Sonderaktionen durchführen.
 
-116.1a Ein Spieler kann einen Spontanzauber immer wirken, wenn er 
-Vorrang hat. Ein Spieler kann einen Zauberspruch, der kein Spontanzauber ist, 
-in seiner Hauptphase immer wirken, wenn er Vorrang hat und der Stapel leer 
-ist.
+116.1a Ein Spieler kann einen Spontanzauber immer wirken, wenn er Priorität hat. Ein Spieler kann einen Zauberspruch, der kein Spontanzauber ist, in seiner Hauptphase immer wirken, wenn er Priorität hat und der Stapel leer ist.
 
-116.1b Ein Spieler kann eine aktivierte Fähigkeit immer aktivieren, wenn er 
-Vorrang hat.
+116.1b Ein Spieler kann eine aktivierte Fähigkeit immer aktivieren, wenn er Priorität hat.
 
-116.1c Ein Spieler kann manche Sonderaktionen immer durchführen, wenn er 
-Vorrang hat. Ein Spieler kann andere Sonderaktionen in seiner Hauptphase 
-immer durchführen, wenn er Vorrang hat und der Stapel leer ist. Siehe 
-Regel 115, „Sonderaktionen.“
+116.1c Ein Spieler kann manche Sonderaktionen immer durchführen, wenn er Priorität hat. Ein Spieler kann andere Sonderaktionen in seiner Hauptphase immer durchführen, wenn er Priorität hat und der Stapel leer ist. Siehe Regel 115, „Sonderaktionen.“
 
-116.1d Ein Spieler kann eine Manafähigkeit immer aktivieren, wenn er Vorrang 
-hat, wenn er einen Zauberspruch wirkt oder eine Fähigkeit aktiviert, der bzw. 
-die eine Manazahlung verlangt, oder wenn eine Regel oder ein Effekt zu einer 
-Manazahlung auffordert (selbst inmitten des Wirkens oder Verrechnens eines 
-Zauberspruchs oder Aktivierens oder Verrechnens einer Fähigkeit).
+116.1d Ein Spieler kann eine Manafähigkeit immer aktivieren, wenn er Priorität hat, wenn er einen Zauberspruch wirkt oder eine Fähigkeit aktiviert, der bzw. die eine Manazahlung verlangt, oder wenn eine Regel oder ein Effekt zu einer Manazahlung auffordert (selbst inmitten des Wirkens oder Verrechnens eines Zauberspruchs oder Aktivierens oder Verrechnens einer Fähigkeit).
 
-116.2. Andere Arten von Fähigkeiten und Aktionen werden automatisch von den 
-Spielregeln generiert oder durchgeführt, oder sie werden von Spielern durchgeführt,
-ohne dass sie Vorrang erhalten.
+116.2. Andere Arten von Fähigkeiten und Aktionen werden automatisch von den Spielregeln generiert oder durchgeführt, oder sie werden von Spielern durchgeführt, ohne dass sie Priorität erhalten.
 
-116.2a Ausgelöste Fähigkeiten können jederzeit ausgelöst werden, einschließlich 
-während des Wirkens eines Zauberspruchs, des Aktivierens einer Fähigkeit oder 
-der Verrechnung eines Zauberspruchs oder einer Fähigkeit. (Siehe Regel 603, 
-„Handhabung ausgelöster Fähigkeiten.“) Jedoch passiert zu dem Zeitpunkt, 
-an dem die Fähigkeit ausgelöst wird, tatsächlich zunächst nichts. Jedes Mal, wenn ein Spieler 
-Vorrang erhalten würde, wird jede Fähigkeit, die ausgelöst wurde und bislang 
-noch nicht auf den Stapel gelegt wurde, auf den Stapel gelegt. Siehe 
-Regel 116.5.
+116.2a Ausgelöste Fähigkeiten können jederzeit ausgelöst werden, einschließlich während des Wirkens eines Zauberspruchs, des Aktivierens einer Fähigkeit oder der Verrechnung eines Zauberspruchs oder einer Fähigkeit. (Siehe Regel 603, „Handhabung ausgelöster Fähigkeiten.“) Jedoch passiert zu dem Zeitpunkt, an dem die Fähigkeit ausgelöst wird, tatsächlich zunächst nichts. Jedes Mal, wenn ein Spieler Priorität erhalten würde, wird jede Fähigkeit, die ausgelöst wurde und bislang noch nicht auf den Stapel gelegt wurde, auf den Stapel gelegt. Siehe Regel 116.5.
 
-116.2b Statische Fähigkeiten beeinflussen das Spiel kontinuierlich. Vorrang 
-gilt für sie nicht. (Siehe Regel 604, „Handhabung statischer Fähigkeiten,“ und 
-Regel 611, „Dauerhafte Effekte.“)
+116.2b Statische Fähigkeiten beeinflussen das Spiel kontinuierlich. Priorität gilt für sie nicht. (Siehe Regel 604, „Handhabung statischer Fähigkeiten,“ und Regel 611, „Dauerhafte Effekte.“)
 
-116.2c Rundenbasierte Aktionen werden automatisch durchgeführt, wenn 
-bestimmte Segmente oder Phasen beginnen. Sie werden abgehandelt, bevor ein 
-Spieler Vorrang erhalten würde. Siehe Regel 116.3a. Rundenbasierte
-Aktionen werden auch automatisch durchgeführt, wenn jedes Segment und jede 
-Phase endet; kein Spieler erhält danach Vorrang. Siehe Regel 703, 
-„Rundenbasierte Aktionen.“
+116.2c Rundenbasierte Aktionen werden automatisch durchgeführt, wenn bestimmte Segmente oder Phasen beginnen. Sie werden abgehandelt, bevor ein Spieler Priorität erhalten würde. Siehe Regel 116.3a. Rundenbasierte Aktionen werden auch automatisch durchgeführt, wenn jedes Segment und jede Phase endet; kein Spieler erhält danach Priorität. Siehe Regel 703, „Rundenbasierte Aktionen.“
 
-116.2d Zustandsbasierte Aktionen werden automatisch durchgeführt, wenn 
-bestimmte Bedingungen erfüllt sind. Siehe Regel 704. Sie werden abgehandelt, 
-bevor ein Spieler Vorrang erhalten würde. Siehe Regel 116.5.
+116.2d Zustandsbasierte Aktionen werden automatisch durchgeführt, wenn bestimmte Bedingungen erfüllt sind. Siehe Regel 704. Sie werden abgehandelt, bevor ein Spieler Priorität erhalten würde. Siehe Regel 116.5.
 
-116.2e Bei der Verrechnung von Zaubersprüchen und Fähigkeiten können Spieler 
-angewiesen werden, Entscheidungen zu treffen oder Aktionen durchzuführen, oder 
-es kann Spielern erlaubt werden, Manafähigkeiten zu aktivieren. Auch wenn ein 
-Spieler dies tut, erhält kein Spieler Vorrang, während ein Zauberspruch oder 
-eine Fähigkeit verrechnet wird. Siehe Regel 608, „Zaubersprüche und Fähigkeiten 
-verrechnen.“
+116.2e Bei der Verrechnung von Zaubersprüchen und Fähigkeiten können Spieler angewiesen werden, Entscheidungen zu treffen oder Aktionen durchzuführen, oder es kann Spielern erlaubt werden, Manafähigkeiten zu aktivieren. Auch wenn ein Spieler dies tut, erhält kein Spieler Priorität, während ein Zauberspruch oder eine Fähigkeit verrechnet wird. Siehe Regel 608, „Zaubersprüche und Fähigkeiten verrechnen.“
 
-116.3. Welcher Spieler Vorrang hat, wird durch die folgenden Regeln ermittelt:
+116.3. Welcher Spieler Priorität hat, wird durch die folgenden Regeln ermittelt:
 
-116.3a Der aktive Spieler erhält zu Beginn der meisten Phasen und Segmente 
-Vorrang, nachdem alle rundenbasierten Aktionen (wie das Ziehen einer 
-Karte im Ziehsegment; siehe Regel 703) abgehandelt wurden und Fähigkeiten, die 
-zu Beginn dieser Phase oder dieses Segments ausgelöst wurden, auf den Stapel 
-gelegt wurden. Während des Enttappsegments erhält kein Spieler Vorrang. 
-Spieler erhalten normalerweise keinen Vorrang während des Aufräumsegments 
-(siehe Regel 514.3).
+116.3a Der aktive Spieler erhält zu Beginn der meisten Phasen und Segmente Priorität, nachdem alle rundenbasierten Aktionen (wie das Ziehen einer Karte im Ziehsegment; siehe Regel 703) abgehandelt wurden und Fähigkeiten, die zu Beginn dieser Phase oder dieses Segments ausgelöst wurden, auf den Stapel gelegt wurden. Während des Enttappsegments erhält kein Spieler Priorität. Spieler erhalten normalerweise keinen Priorität während des Aufräumsegments (siehe Regel 514.3).
 
-116.3b Der aktive Spieler erhält Vorrang, nachdem ein Zauberspruch oder eine 
-Fähigkeit (außer Manafähigkeiten) verrechnet wurde.
+116.3b Der aktive Spieler erhält Priorität, nachdem ein Zauberspruch oder eine Fähigkeit (außer Manafähigkeiten) verrechnet wurde.
 
-116.3c Wenn ein Spieler Vorrang hat, wenn er einen Zauberspruch wirkt, eine 
-Fähigkeit aktiviert oder eine Sonderaktion durchführt, erhält er anschließend 
-wieder Vorrang.
+116.3c Wenn ein Spieler Priorität hat, wenn er einen Zauberspruch wirkt, eine Fähigkeit aktiviert oder eine Sonderaktion durchführt, erhält er anschließend wieder Priorität.
 
-116.3d Wenn ein Spieler Vorrang hat und sich entschließt, keine Aktionen 
-durchzuführen, passt dieser Spieler. Falls sich noch Mana im Manavorrat dieses 
-Spielers befindet, sagt er an, welches Mana dort ist. Dann erhält der 
-nächste Spieler in Zugreihenfolge Vorrang.
+116.3d Wenn ein Spieler Priorität hat und sich entschließt, keine Aktionen durchzuführen, passt dieser Spieler. Falls sich noch Mana im Manavorrat dieses Spielers befindet, sagt er an, welches Mana dort ist. Dann erhält der nächste Spieler in Zugreihenfolge Priorität.
 
-116.4. Wenn alle Spieler nacheinander passen (d. h. wenn alle Spieler passen 
-ohne dazwischen eine Aktion durchzuführen), wird der Zauberspruch oder 
-die Fähigkeit zuoberst auf dem Stapel verrechnet oder, falls der Stapel leer 
-ist, endet die Phase oder das Segment.
+116.4. Wenn alle Spieler nacheinander passen (d. h. wenn alle Spieler passen ohne dazwischen eine Aktion durchzuführen), wird der Zauberspruch oder die Fähigkeit zuoberst auf dem Stapel verrechnet oder, falls der Stapel leer ist, endet die Phase oder das Segment.
 
-116.5. Jedes Mal, wenn ein Spieler Vorrang erhalten würde, führt das Spiel 
-zuerst alle anwendbaren zustandsbasierten Aktionen als ein einzelnes 
-Ereignis durch (siehe Regel 704, „Zustandsbasierte Aktionen“) und 
-wiederholt diesen Prozess, bis keine zustandsbasierten Aktionen mehr 
-durchgeführt werden. Dann werden ausgelöste Fähigkeiten auf den Stapel gelegt 
-(siehe Regel 603, „Handhabung ausgelöster Fähigkeiten“). Diese Schritte 
-wiederholen sich in dieser Reihenfolge, bis keine weiteren zustandsbasierten Aktionen durchgeführt oder ausgelösten Fähigkeiten ausgelöst 
-werden. Danach erhält der vorgesehene Spieler Vorrang.
+116.5. Jedes Mal, wenn ein Spieler Priorität erhalten würde, führt das Spiel zuerst alle anwendbaren zustandsbasierten Aktionen als ein einzelnes Ereignis durch (siehe Regel 704, „Zustandsbasierte Aktionen“) und wiederholt diesen Prozess, bis keine zustandsbasierten Aktionen mehr durchgeführt werden. Dann werden ausgelöste Fähigkeiten auf den Stapel gelegt (siehe Regel 603, „Handhabung ausgelöster Fähigkeiten“). Diese Schritte wiederholen sich in dieser Reihenfolge, bis keine weiteren zustandsbasierten Aktionen durchgeführt oder ausgelösten Fähigkeiten ausgelöst werden. Danach erhält der vorgesehene Spieler Priorität.
 
-116.6. In einer Mehrspieler-Partie, die die Option Team-Züge teilen verwendet, 
-erhalten Teams Vorrang, statt einzelnen Spielern. Siehe Regel 805, 
-„Option Team-Züge teilen.“
+116.6. In einer Mehrspieler-Partie, die die Option Team-Züge teilen verwendet, erhalten Teams Priorität, statt einzelnen Spielern. Siehe Regel 805, „Option Team-Züge teilen.“
 
-116.7. Wenn ein Spieler, der Vorrang hat, einen Zauberspruch wirkt oder eine 
-aktivierte Fähigkeit aktiviert, während sich ein anderer Zauberspruch oder eine 
-andere Fähigkeit auf dem Stapel befindet, wurde der neue Zauberspruch oder die 
-neue Fähigkeit „als Antwort auf“ den früheren 
-Zauberspruch oder die frühere Fähigkeit gewirkt bzw. aktiviert. Der neue 
-Zauberspruch oder die neue Fähigkeit wird zuerst verrechnet. Siehe Regel 608, 
-„Zaubersprüche und Fähigkeiten verrechnen.“
+116.7. Wenn ein Spieler, der Priorität hat, einen Zauberspruch wirkt oder eine aktivierte Fähigkeit aktiviert, während sich ein anderer Zauberspruch oder eine andere Fähigkeit auf dem Stapel befindet, wurde der neue Zauberspruch oder die neue Fähigkeit „als Antwort auf“ den früheren Zauberspruch oder die frühere Fähigkeit gewirkt bzw. aktiviert. Der neue Zauberspruch oder die neue Fähigkeit wird zuerst verrechnet. Siehe Regel 608, „Zaubersprüche und Fähigkeiten verrechnen.“
 
 117. Kosten
 
-117.1. Kosten sind Aktionen oder Zahlungen, die notwendig sind, um eine andere 
-Aktion durchzuführen oder um eine andere Aktion davon abzuhalten stattzufinden. 
-Um Kosten zu bezahlen, befolgt ein Spieler die Anweisungen, die durch den 
-Zauberspruch, die Fähigkeit oder den Effekt angegeben sind, der bzw. die die 
-Kosten enthalten.
+117.1. Kosten sind Aktionen oder Zahlungen, die notwendig sind, um eine andere Aktion durchzuführen oder um eine andere Aktion davon abzuhalten stattzufinden. Um Kosten zu bezahlen, befolgt ein Spieler die Anweisungen, die durch den Zauberspruch, die Fähigkeit oder den Effekt angegeben sind, der bzw. die die Kosten enthalten.
 
-117.2. Wenn Kosten eine Manazahlung enthalten, hat der Spieler, der die Kosten 
-zahlt, die Gelegenheit, Manafähigkeiten zu aktivieren. Das Zahlen der Kosten, 
-um einen Zauberspruch zu wirken oder eine aktivierte Fähigkeit zu aktivieren, 
-folgt den Schritten in den Regeln 601.2e–g.
+117.2. Wenn Kosten eine Manazahlung enthalten, hat der Spieler, der die Kosten zahlt, die Gelegenheit, Manafähigkeiten zu aktivieren. Das Zahlen der Kosten, um einen Zauberspruch zu wirken oder eine aktivierte Fähigkeit zu aktivieren, folgt den Schritten in den Regeln 601.2e–g.
 
-117.3. Ein Spieler kann Kosten nur dann zahlen, wenn er die notwendigen 
-Ressourcen besitzt, um sie vollständig zu zahlen. Zum Beispiel kann ein 
-Spieler mit nur 1 Lebenspunkt keine Kosten von 2 Lebenspunkten bezahlen und 
-eine bleibende Karte, die bereits getappt ist, kann nicht getappt werden, um 
-Kosten zu bezahlen. Siehe Regel 202, „Manakosten und Farbe“ und Regel 602, 
-„Aktivierte Fähigkeiten aktivieren.“
+117.3. Ein Spieler kann Kosten nur dann zahlen, wenn er die notwendigen Ressourcen besitzt, um sie vollständig zu zahlen. Zum Beispiel kann ein Spieler mit nur 1 Lebenspunkt keine Kosten von 2 Lebenspunkten bezahlen und eine bleibende Karte, die bereits getappt ist, kann nicht getappt werden, um Kosten zu bezahlen. Siehe Regel 202, „Manakosten und Farbe“ und Regel 602, „Aktivierte Fähigkeiten aktivieren.“
 
-117.3a Mana wird bezahlt, indem das angegebene Mana aus dem Manavorrat des 
-Spielers entfernt wird. (Spieler können immer 0 Mana bezahlen.) Falls sich nach 
-der Bezahlung überschüssiges Mana im Manavorrat dieses Spielers verbleibt, 
-kündigt er an, welches Mana noch dort ist.
+117.3a Mana wird bezahlt, indem das angegebene Mana aus dem Manavorrat des Spielers entfernt wird. (Spieler können immer 0 Mana bezahlen.) Falls sich nach der Bezahlung überschüssiges Mana im Manavorrat dieses Spielers verbleibt, kündigt er an, welches Mana noch dort ist.
 
-117.3b Lebenspunkte werden bezahlt, indem die angegebene Menge an Lebenspunkten 
-vom Lebenspunktestand des Spielers abgezogen wird. (Spieler können immer 
-0 Lebenspunkte bezahlen.)
+117.3b Lebenspunkte werden bezahlt, indem die angegebene Menge an Lebenspunkten vom Lebenspunktestand des Spielers abgezogen wird. (Spieler können immer 0 Lebenspunkte bezahlen.)
 
-117.3c Manafähigkeiten zu aktivieren ist nicht verpflichtend, auch wenn das 
-Bezahlen von bestimmten Kosten verpflichtend ist.
+117.3c Manafähigkeiten zu aktivieren ist nicht verpflichtend, auch wenn das Bezahlen von bestimmten Kosten verpflichtend ist.
 
-Beispiel: Ein Spieler kontrolliert einen Magneteisengolem, der besagt „Nicht-
-Artefaktzauber kosten beim Wirken {1} mehr.“ Ein anderer Spieler entfernt 
-die letzte Zeitmarke von einer ausgesetzten Hexereikarte. Dieser Spieler 
-muss diesen Spruch wirken, falls möglich, aber das kostet {1}. Der Spieler 
-ist gezwungen, {1} zu bezahlen, falls sich genug Mana in seinem Manavorrat 
-befindet, aber der Spieler ist nicht gezwungen, eine Manafähigkeit zu 
-aktivieren, um dieses {1} zu produzieren. Falls er es nicht tut, bleibt die 
-Karte einfach im Exil.
+Beispiel: Ein Spieler kontrolliert einen Magneteisengolem, der besagt „Nicht-Artefaktzauber kosten beim Wirken {1} mehr.“ Ein anderer Spieler entfernt die letzte Zeitmarke von einer ausgesetzten Hexereikarte. Dieser Spieler muss diesen Spruch wirken, falls möglich, aber das kostet {1}. Der Spieler ist gezwungen, {1} zu bezahlen, falls sich genug Mana in seinem Manavorrat befindet, aber der Spieler ist nicht gezwungen, eine Manafähigkeit zu aktivieren, um dieses {1} zu produzieren. Falls er es nicht tut, bleibt die Karte einfach im Exil.
 
 117.4. Manche Kosten enthalten ein {X} oder ein X. Siehe Regel 107.3.
 
-117.5. Manche Kosten werden durch {0} dargestellt oder auf {0} reduziert. Die 
-notwendige Aktion, um solche Kosten zu bezahlen, ist die Bestätigung des 
-Spielers, dass er sie bezahlt. Auch wenn solche Kosten keine Ressourcen 
-benötigen, werden sie nicht automatisch bezahlt.
+117.5. Manche Kosten werden durch {0} dargestellt oder auf {0} reduziert. Die notwendige Aktion, um solche Kosten zu bezahlen, ist die Bestätigung des Spielers, dass er sie bezahlt. Auch wenn solche Kosten keine Ressourcen benötigen, werden sie nicht automatisch bezahlt.
 
-117.5a Ein Zauberspruch, dessen Manakosten {0} sind, muss dennoch auf die 
-gleiche Weise gewirkt werden wie einer mit Kosten größer null; er wirkt sich 
-nicht automatisch. Das gleiche gilt für eine aktivierte Fähigkeit, deren Kosten 
-{0} sind.
+117.5a Ein Zauberspruch, dessen Manakosten {0} sind, muss dennoch auf die gleiche Weise gewirkt werden wie einer mit Kosten größer null; er wirkt sich nicht automatisch. Das gleiche gilt für eine aktivierte Fähigkeit, deren Kosten {0} sind.
 
-117.6. Manche Manakosten enthalten keine Manasymbole. Dies stellt \unbezahlbare 
-Kosten\ dar. Eine Fähigkeit kann ebenfalls unbezahlbare Kosten besitzen, wenn 
-diese Kosten sich aus den Manakosten eines Objekts ohne Manakosten ableiten. Zu 
-versuchen, einen Zauberspruch zu wirken oder eine Fähigkeit zu aktivieren, der 
-bzw. die unbezahlbare Kosten besitzt, ist eine legale Aktion. Jedoch ist der Versuch, 
-unbezahlbare Kosten zu bezahlen, eine illegale Aktion.
+117.6. Manche Manakosten enthalten keine Manasymbole. Dies stellt \unbezahlbare Kosten\ dar. Eine Fähigkeit kann ebenfalls unbezahlbare Kosten besitzen, wenn diese Kosten sich aus den Manakosten eines Objekts ohne Manakosten ableiten. Zu versuchen, einen Zauberspruch zu wirken oder eine Fähigkeit zu aktivieren, der bzw. die unbezahlbare Kosten besitzt, ist eine legale Aktion. Jedoch ist der Versuch, unbezahlbare Kosten zu bezahlen, eine illegale Aktion.
 
-117.6a Wenn unbezahlbare Kosten durch einen Effekt erhöht werden oder zusätzliche 
-Kosten auferlegt werden, sind die Kosten immer noch unbezahlbar. Wenn 
-alternative Kosten auf unbezahlbare Kosten angewandt werden, einschließlich eines 
-Effekts, der einem Spieler erlaubt, einen Zauberspruch zu wirken, ohne seine 
-Manakosten zu bezahlen, können die alternativen Kosten bezahlt werden.
+117.6a Wenn unbezahlbare Kosten durch einen Effekt erhöht werden oder zusätzliche Kosten auferlegt werden, sind die Kosten immer noch unbezahlbar. Wenn alternative Kosten auf unbezahlbare Kosten angewandt werden, einschließlich eines Effekts, der einem Spieler erlaubt, einen Zauberspruch zu wirken, ohne seine Manakosten zu bezahlen, können die alternativen Kosten bezahlt werden.
 
-117.7. Was ein Spieler tatsächlich tun muss, um Kosten zu bezahlen, kann durch 
-Effekte geändert oder reduziert werden. Wenn die Manakomponente von Kosten 
-durch Reduktionseffekte auf nichts reduziert wird, wird sie als {0} betrachtet. 
-Das Bezahlen von Kosten, die durch einen Effekt verändert oder reduziert 
-wurden, zählt als das Bezahlen der ursprünglichen Kosten.
+117.7. Was ein Spieler tatsächlich tun muss, um Kosten zu bezahlen, kann durch Effekte geändert oder reduziert werden. Wenn die Manakomponente von Kosten durch Reduktionseffekte auf nichts reduziert wird, wird sie als {0} betrachtet. Das Bezahlen von Kosten, die durch einen Effekt verändert oder reduziert wurden, zählt als das Bezahlen der ursprünglichen Kosten.
 
-117.7a Wenn Kosten um eine Menge von farbigem Mana reduziert werden, aber die 
-farbige Manakomponente der Kosten kein Mana dieser Farbe enthält, werden 
-die Kosten um die entsprechende Menge an beliebigem Mana reduziert.
+117.7a Wenn Kosten um eine Menge von farbigem Mana reduziert werden, aber die farbige Manakomponente der Kosten kein Mana dieser Farbe enthält, werden die Kosten um die entsprechende Menge an beliebigem Mana reduziert.
 
-117.7b Wenn Kosten um eine Menge von farbigen Mana reduziert werden, die die 
-farbige Manakomponente dieser Farbe überschreitet, wird die entsprechende farbige
-Manakomponente der Kosten auf null reduziert, und die beliebige Manakomponente der Kosten 
-wird um die Differenz reduziert.
+117.7b Wenn Kosten um eine Menge von farbigen Mana reduziert werden, die die farbige Manakomponente dieser Farbe überschreitet, wird die entsprechende farbige Manakomponente der Kosten auf null reduziert, und die beliebige Manakomponente der Kosten wird um die Differenz reduziert.
 
-117.7c Wenn Kosten um eine Menge von Mana reduziert werden, die durch ein 
-hybrides Manasymbol dargestellt wird, wählt der Spieler, der die Kosten bezahlt, 
-eine Hälfte dieses Symbols, sobald die Kostenreduzierung angewandt wird (siehe 
-Regel 601.2e). Falls eine farbige Hälfte gewählt wird, werden die Kosten um ein 
-Mana dieser Farbe reduziert. Falls eine farblose Hälfte gewählt wird, werden 
-die Kosten um die in der Hälfte angegebene Menge an beliebigem Mana reduziert.
+117.7c Wenn Kosten um eine Menge von Mana reduziert werden, die durch ein hybrides Manasymbol dargestellt wird, wählt der Spieler, der die Kosten bezahlt, eine Hälfte dieses Symbols, sobald die Kostenreduzierung angewandt wird (siehe Regel 601.2e). Falls eine farbige Hälfte gewählt wird, werden die Kosten um ein Mana dieser Farbe reduziert. Falls eine farblose Hälfte gewählt wird, werden die Kosten um die in der Hälfte angegebene Menge an beliebigem Mana reduziert.
 
-117.7d Wenn Kosten um eine Menge von Mana reduziert werden, die durch ein 
-phyrexianisches Manasymbol dargestellt wird, werden die Kosten um ein Mana in 
-der Farbe dieses Symbols reduziert.
+117.7d Wenn Kosten um eine Menge von Mana reduziert werden, die durch ein phyrexianisches Manasymbol dargestellt wird, werden die Kosten um ein Mana in der Farbe dieses Symbols reduziert.
 
-117.8. Manche Zaubersprüche und Fähigkeiten haben \zusätzliche Kosten\. 
-Zusätzliche Kosten sind Kosten, die im Regeltext eines Zauberspruchs angegeben 
-sind oder durch einen anderen Effekt auf einen Zauberspruch oder eine Fähigkeit 
-angewendet werden, und die der Beherrscher zur gleichen Zeit wie die Manakosten 
-des Zauberspruchs oder Aktivierungskosten der Fähigkeit bezahlen muss. Kosten 
-sind nur dann zusätzliche Kosten, wenn ihre Formulierung das Wort „zusätzlich“ 
-verwendet. Beachte, dass manche zusätzlichen Kosten durch Schlüsselwörter 
-angegeben sind; siehe Regel 702.
+117.8. Manche Zaubersprüche und Fähigkeiten haben \zusätzliche Kosten\.  Zusätzliche Kosten sind Kosten, die im Regeltext eines Zauberspruchs angegeben sind oder durch einen anderen Effekt auf einen Zauberspruch oder eine Fähigkeit angewendet werden, und die der Beherrscher zur gleichen Zeit wie die Manakosten des Zauberspruchs oder Aktivierungskosten der Fähigkeit bezahlen muss. Kosten sind nur dann zusätzliche Kosten, wenn ihre Formulierung das Wort „zusätzlich“ verwendet. Beachte, dass manche zusätzlichen Kosten durch Schlüsselwörter angegeben sind; siehe Regel 702.
 
-117.8a Wenn ein Zauberspruch gewirkt oder eine Fähigkeit aktiviert wird, kann 
-eine beliebige Zahl an zusätzlichen Kosten angewandt werden. Der Beherrscher 
-des Zauberspruchs oder der Fähigkeit kündigt wie in Regel 601.2b beschrieben 
-seine Absicht an, einige oder alle diese Kosten zu bezahlen.
+117.8a Wenn ein Zauberspruch gewirkt oder eine Fähigkeit aktiviert wird, kann eine beliebige Zahl an zusätzlichen Kosten angewandt werden. Der Beherrscher des Zauberspruchs oder der Fähigkeit kündigt wie in Regel 601.2b beschrieben seine Absicht an, einige oder alle diese Kosten zu bezahlen.
 
 117.8b Manche zusätzlichen Kosten sind optional.
 
-117.8c Zusätzliche Kosten verändern nicht die Manakosten eines Zauberspruchs, 
-sondern lediglich, was sein Beherrscher zu bezahlen hat, um ihn zu wirken. 
-Zaubersprüche und Fähigkeiten, die die Manakosten eines Zauberspruchs wissen 
-wollen, sehen immer noch den ursprünglichen Wert.
+117.8c Zusätzliche Kosten verändern nicht die Manakosten eines Zauberspruchs, sondern lediglich, was sein Beherrscher zu bezahlen hat, um ihn zu wirken. Zaubersprüche und Fähigkeiten, die die Manakosten eines Zauberspruchs wissen wollen, sehen immer noch den ursprünglichen Wert.
 
-117.8d Manche Effekte erhöhen die Kosten, die bezahlt werden müssen, um einen 
-Zauberspruch zu wirken oder eine Fähigkeit zu aktivieren, ohne das Wort 
-„zusätzlich“ zu verwenden. Hierbei handelt es sich nicht um zusätzliche Kosten, 
-und sie werden erst berücksichtigt, wenn wie in Regel 601.2e beschrieben die 
-Gesamtkosten eines Zauberspruchs oder einer Fähigkeit ermittelt werden.
+117.8d Manche Effekte erhöhen die Kosten, die bezahlt werden müssen, um einen Zauberspruch zu wirken oder eine Fähigkeit zu aktivieren, ohne das Wort „zusätzlich“ zu verwenden. Hierbei handelt es sich nicht um zusätzliche Kosten, und sie werden erst berücksichtigt, wenn wie in Regel 601.2e beschrieben die Gesamtkosten eines Zauberspruchs oder einer Fähigkeit ermittelt werden.
 
-117.9. Manche Zaubersprüche haben \alternative Kosten\. Alternative Kosten sind 
-Kosten, die im Regeltext eines Zauberspruchs angegeben sind oder durch einen 
-anderen Effekt auf ihn angewendet werden, und die der Beherrscher statt der 
-Manakosten des Zauberspruchs bezahlen kann. Alternative Kosten verwenden 
-üblicherweise eine Formulierung wie „Du kannst [Aktion] anstatt die Manakosten 
-von [diesem Objekt] zu bezahlen“ oder „Du kannst [dieses Objekt] wirken, ohne 
-seine Manakosten zu bezahlen“. Beachte, dass manche alternativen Kosten durch 
-Schlüsselwörter angegeben sind; siehe Regel 702.
+117.9. Manche Zaubersprüche haben \alternative Kosten\. Alternative Kosten sind Kosten, die im Regeltext eines Zauberspruchs angegeben sind oder durch einen anderen Effekt auf ihn angewendet werden, und die der Beherrscher statt der Manakosten des Zauberspruchs bezahlen kann. Alternative Kosten verwenden üblicherweise eine Formulierung wie „Du kannst [Aktion] anstatt die Manakosten von [diesem Objekt] zu bezahlen“ oder „Du kannst [dieses Objekt] wirken, ohne seine Manakosten zu bezahlen“. Beachte, dass manche alternativen Kosten durch Schlüsselwörter angegeben sind; siehe Regel 702.
 
-117.9a Wenn ein Zauberspruch gewirkt wird, kann nur eine Möglichkeit von 
-alternativen Kosten angewandt werden. Der Beherrscher des Zauberspruchs kündigt 
-wie in Regel 601.2b beschrieben seine Absicht an, diese Kosten zu bezahlen.
+117.9a Wenn ein Zauberspruch gewirkt wird, kann nur eine Möglichkeit von alternativen Kosten angewandt werden. Der Beherrscher des Zauberspruchs kündigt wie in Regel 601.2b beschrieben seine Absicht an, diese Kosten zu bezahlen.
 
 117.9b Alternative Kosten sind immer optional.
 
-117.9c Alternative Kosten verändern nicht die Manakosten eines Zauberspruchs, 
-sondern lediglich, was sein Beherrscher zu bezahlen hat, um ihn zu wirken. 
-Zaubersprüche und Fähigkeiten, die die Manakosten eines Zauberspruchs wissen 
-wollen, sehen immer noch den Originalwert.
+117.9c Alternative Kosten verändern nicht die Manakosten eines Zauberspruchs, sondern lediglich, was sein Beherrscher zu bezahlen hat, um ihn zu wirken. Zaubersprüche und Fähigkeiten, die die Manakosten eines Zauberspruchs wissen wollen, sehen immer noch den Originalwert.
 
-117.9d Falls alternative Kosten bezahlt werden, um einen Zauberspruchs zu 
-wirken, werden jegliche zusätzlichen Kosten, Kostenerhöhungen und 
-Kostenreduktionen, die diesen Zauberspruch beeinflussen, auf diese alternativen 
-Kosten angewandt. (Siehe Regel 601.2e.)
+117.9d Falls alternative Kosten bezahlt werden, um einen Zauberspruchs zu wirken, werden jegliche zusätzlichen Kosten, Kostenerhöhungen und Kostenreduktionen, die diesen Zauberspruch beeinflussen, auf diese alternativen Kosten angewandt. (Siehe Regel 601.2e.)
 
-117.10. Jede Bezahlung von Kosten gilt nur für einen Zauberspruch, eine 
-Fähigkeit oder einen Effekt. Ein Spieler kann beispielsweise nicht eine Kreatur 
-opfern, um die aktivierten Fähigkeiten von zwei bleibenden Karten zu 
-aktivieren, die jeweils das Opfern einer Kreatur als Kosten verlangen. 
-Ebenso werden durch die Verrechnung eines Zauberspruchs oder einer 
-Fähigkeit nicht die Kosten eines anderen Zauberspruchs oder einer anderen 
-Fähigkeit bezahlt, selbst wenn ein Teil seines Effekts genau das tut, wonach 
-die anderen Kosten verlangen.
+117.10. Jede Bezahlung von Kosten gilt nur für einen Zauberspruch, eine Fähigkeit oder einen Effekt. Ein Spieler kann beispielsweise nicht eine Kreatur opfern, um die aktivierten Fähigkeiten von zwei bleibenden Karten zu aktivieren, die jeweils das Opfern einer Kreatur als Kosten verlangen. Ebenso werden durch die Verrechnung eines Zauberspruchs oder einer Fähigkeit nicht die Kosten eines anderen Zauberspruchs oder einer anderen Fähigkeit bezahlt, selbst wenn ein Teil seines Effekts genau das tut, wonach die anderen Kosten verlangen.
 
-117.11. Die Aktionen, die bei der Bezahlung von Kosten durchgeführt werden, 
-können durch Effekte modifiziert werden. Falls dies der Fall ist und die 
-Aktionen dadurch nicht mehr dem entsprechen, wonach verlangt war, wurden die 
-Kosten dennoch bezahlt.
+117.11. Die Aktionen, die bei der Bezahlung von Kosten durchgeführt werden, können durch Effekte modifiziert werden. Falls dies der Fall ist und die Aktionen dadurch nicht mehr dem entsprechen, wonach verlangt war, wurden die Kosten dennoch bezahlt.
 
-Beispiel: Ein Spieler kontrolliert einen Gedankenstrudel, eine Verzauberung 
-mit kumulativen Versorgungskosten von „Ziehe eine Karte“, und einen 
-Eigenwilligen Vertrauten, eine Kreatur, die besagt „Falls du eine Karte 
-ziehen würdest, kannst du dieses Kartenziehen stattdessen übergehen“. Der 
-Spieler kann sich dazu entscheiden, die kumulativen Versorgungskosten des 
-Gedankenstrudels zu bezahlen und dann keine Karten zu ziehen anstatt die 
-zutreffende Menge. Die kumulativen Versorgungskosten wurden dennoch bezahlt.
+Beispiel: Ein Spieler kontrolliert einen Gedankenstrudel, eine Verzauberung mit kumulativen Versorgungskosten von „Ziehe eine Karte“, und einen Eigenwilligen Vertrauten, eine Kreatur, die besagt „Falls du eine Karte ziehen würdest, kannst du dieses Kartenziehen stattdessen übergehen“. Der Spieler kann sich dazu entscheiden, die kumulativen Versorgungskosten des Gedankenstrudels zu bezahlen und dann keine Karten zu ziehen anstatt die zutreffende Menge. Die kumulativen Versorgungskosten wurden dennoch bezahlt.
 
-117.12. Einige Zaubersprüche, aktivierte Fähigkeiten und ausgelöste Fähigkeiten 
-besagen: „[Tue etwas]. Falls [ein Spieler] [dies tut oder nicht tut], 
-[Effekt].“ oder „[ein Spieler] kann [etwas tun]. Falls [dieser Spieler] [dies 
-tut oder nicht tut], [Effekt].“ Die Aktion [tue etwas/etwas tun] sind Kosten, 
-die bezahlt werden, wenn der Zauberspruch oder die Fähigkeit verrechnet wird. 
-Die „Falls [ein Spieler] [dies tut oder nicht tut]“-Klausel prüft, ob der 
-Spieler sich dazu entschlossen hat, optionale Kosten zu bezahlen, oder begonnen hat, 
-verpflichtende Kosten zu bezahlen, unabhängig davon, welche Ereignisse tatsächlich 
-geschehen.
+117.12. Einige Zaubersprüche, aktivierte Fähigkeiten und ausgelöste Fähigkeiten besagen: „[Tue etwas]. Falls [ein Spieler] [dies tut oder nicht tut], [Effekt].“ oder „[ein Spieler] kann [etwas tun]. Falls [dieser Spieler] [dies tut oder nicht tut], [Effekt].“ Die Aktion [tue etwas/etwas tun] sind Kosten, die bezahlt werden, wenn der Zauberspruch oder die Fähigkeit verrechnet wird. Die „Falls [ein Spieler] [dies tut oder nicht tut]“-Klausel prüft, ob der Spieler sich dazu entschlossen hat, optionale Kosten zu bezahlen, oder begonnen hat, verpflichtende Kosten zu bezahlen, unabhängig davon, welche Ereignisse tatsächlich geschehen.
 
-Beispiel: Du kontrollierst Stillstand, eine Verzauberung, die besagt: „Wenn 
-ein Spieler einen Zauberspruch wirkt, opfere Stillstand. Falls du dies tust, 
-zieht jeder Gegner dieses Spielers drei Karten.“ Ein Zauberspruch wird 
-gewirkt, der dadurch die Fähigkeit von Stillstand auslöst. Danach wird eine 
-Fähigkeit aktiviert, die Stillstand ins Exil schickt. Wenn die Fähigkeit von 
-Stillstand verrechnet wird, bist du nicht in der Lage, die „opfere 
-Stillstand“-Kosten zu bezahlen. Kein Spieler zieht Karten.
+Beispiel: Du kontrollierst Stillstand, eine Verzauberung, die besagt: „Wenn ein Spieler einen Zauberspruch wirkt, opfere Stillstand. Falls du dies tust, zieht jeder Gegner dieses Spielers drei Karten.“ Ein Zauberspruch wird gewirkt, der dadurch die Fähigkeit von Stillstand auslöst. Danach wird eine Fähigkeit aktiviert, die Stillstand ins Exil schickt. Wenn die Fähigkeit von Stillstand verrechnet wird, bist du nicht in der Lage, die „opfere Stillstand“-Kosten zu bezahlen. Kein Spieler zieht Karten.
 
-Beispiel: Dein Gegner hat Exemplare begutachten gewirkt, einen Zauberspruch, 
-der besagt „Falls eine Kreatur unter der Kontrolle eines Gegners in diesem 
-Zug ins Spiel kommen würde, kommt sie stattdessen unter deiner Kontrolle ins 
-Spiel.“ Du kontrollierst ein verdecktes Dermoplasma, eine Kreatur mit Morph, 
-die besagt „Wenn Dermoplasma aufgedeckt wird, kannst du eine Kreaturenkarte 
-mit Morph von deiner Hand aufgedeckt ins Spiel bringen. Falls du dies tust, 
-bringe Dermoplasma auf die Hand seines Besitzers zurück.“ Du deckst 
-Dermoplasma auf und du wählst, eine Kreaturenkarte mit Morph von deiner Hand 
-ins Spiel zu bringen. Durch Exemplare begutachten kommt sie unter der 
-Kontrolle deines Gegners ins Spiel anstatt unter deiner. Da du jedoch 
-gewählt hattest, die Kosten zu bezahlen, wird Dermoplasma trotzdem auf die 
-Hand seines Besitzers zurückgebracht.
+Beispiel: Dein Gegner hat Exemplare begutachten gewirkt, einen Zauberspruch, der besagt „Falls eine Kreatur unter der Kontrolle eines Gegners in diesem Zug ins Spiel kommen würde, kommt sie stattdessen unter deiner Kontrolle ins Spiel.“ Du kontrollierst ein verdecktes Dermoplasma, eine Kreatur mit Morph, die besagt „Wenn Dermoplasma aufgedeckt wird, kannst du eine Kreaturenkarte mit Morph von deiner Hand aufgedeckt ins Spiel bringen. Falls du dies tust, bringe Dermoplasma auf die Hand seines Besitzers zurück.“ Du deckst Dermoplasma auf und du wählst, eine Kreaturenkarte mit Morph von deiner Hand ins Spiel zu bringen. Durch Exemplare begutachten kommt sie unter der Kontrolle deines Gegners ins Spiel anstatt unter deiner. Da du jedoch gewählt hattest, die Kosten zu bezahlen, wird Dermoplasma trotzdem auf die Hand seines Besitzers zurückgebracht.
 
-117.12a Einige Zaubersprüche, aktivierte Fähigkeiten und ausgelöste Fähigkeiten 
-besagen: „[Tue etwas], falls du nicht [etwas anderes tust].“ Das bedeutet das 
-Gleiche wie „Du kannst [etwas anderes tun]. Falls du dies nicht tust, [tue 
-etwas].“
+117.12a Einige Zaubersprüche, aktivierte Fähigkeiten und ausgelöste Fähigkeiten besagen: „[Tue etwas], falls du nicht [etwas anderes tust].“ Das bedeutet das Gleiche wie „Du kannst [etwas anderes tun]. Falls du dies nicht tust, [tue etwas].“
 
 118. Lebenspunkte
 
 118.1. Jeder Spieler beginnt das Spiel mit einem Lebenspunktestand von 20.
 
-118.1a In einer Partie Two-Headed Giant beginnt jedes Team stattdessen mit 
-einem gemeinsamen Lebenspunktestand von 30; siehe Regel 810,
-„Variante Two-Headed Giant.“
+118.1a In einer Partie Two-Headed Giant beginnt jedes Team stattdessen mit einem gemeinsamen Lebenspunktestand von 30; siehe Regel 810, „Variante Two-Headed Giant.“
 
-118.1b In einer Partie Vanguard beginnt jeder Spieler mit einem
-Lebenspunktestand von 20, unter Berücksichtigung der auf seiner Vanguard-Karte 
-angegebenen Anpassung der Lebenspunkte. Siehe Regel 902, „Vanguard.“
+118.1b In einer Partie Vanguard beginnt jeder Spieler mit einem Lebenspunktestand von 20, unter Berücksichtigung der auf seiner Vanguard-Karte angegebenen Anpassung der Lebenspunkte. Siehe Regel 902, „Vanguard.“
 
-118.1c In einer Partie Commander beginnt jeder Spieler stattdessen mit einem 
-Lebenspunktestand von 40; siehe Regel 903, „Commander.“
+118.1c In einer Partie Commander beginnt jeder Spieler stattdessen mit einem Lebenspunktestand von 40; siehe Regel 903, „Commander.“
 
-118.1d In einer Partie Archenemy beginnt der Erzfeind stattdessen mit einem 
-Lebenspunktestand von 40; siehe Regel 904, „Archenemy.“
+118.1d In einer Partie Archenemy beginnt der Erzfeind stattdessen mit einem Lebenspunktestand von 40; siehe Regel 904, „Archenemy.“
 
-118.2. Schaden, der einem Spieler zugefügt wird, führt normalerweise dazu, dass 
-dieser Spieler entsprechend viele Lebenspunkte verliert. Siehe Regel 119.3.
+118.2. Schaden, der einem Spieler zugefügt wird, führt normalerweise dazu, dass dieser Spieler entsprechend viele Lebenspunkte verliert. Siehe Regel 119.3.
 
-118.3. Wenn ein Effekt bewirkt, dass ein Spieler Lebenspunkte dazuerhält oder 
-verliert, wird der Lebenspunktestand dieses Spielers entsprechend angepasst.
+118.3. Wenn ein Effekt bewirkt, dass ein Spieler Lebenspunkte dazuerhält oder verliert, wird der Lebenspunktestand dieses Spielers entsprechend angepasst.
 
-118.4. Wenn Kosten oder ein Effekt einem Spieler erlauben, eine Menge an 
-Lebenspunkten größer 0 zu bezahlen, kann der Spieler dies nur tun, falls sein 
-Lebenspunktestand größer oder gleich der zu zahlenden Menge ist. Wenn ein Spieler 
-Lebenspunkte bezahlt, wird die Zahlung von seinem Lebenspunktestand 
-abgezogen; in anderen Worten, der Spieler verliert entsprechend viele 
-Lebenspunkte. (Spieler können immer 0 Lebenspunkte bezahlen.)
+118.4. Wenn Kosten oder ein Effekt einem Spieler erlauben, eine Menge an Lebenspunkten größer 0 zu bezahlen, kann der Spieler dies nur tun, falls sein Lebenspunktestand größer oder gleich der zu zahlenden Menge ist. Wenn ein Spieler Lebenspunkte bezahlt, wird die Zahlung von seinem Lebenspunktestand abgezogen; in anderen Worten, der Spieler verliert entsprechend viele Lebenspunkte. (Spieler können immer 0 Lebenspunkte bezahlen.)
 
-118.4a Wenn Kosten oder ein Effekt es einem Spieler in einer Partie 
-„Two-Headed Giant“ erlauben, eine Menge an Lebenspunkten größer 0 zu 
-bezahlen, kann dieser Spieler dies nur tun, falls der Lebenspunktestand seines 
-Teams größer oder gleich der Menge an Lebenspunkten ist, die beide 
-Teammitglieder für diese Kosten oder diesen Effekt bezahlen. Wenn ein Spieler 
-Lebenspunkte bezahlt, wird die Zahlung vom Lebenspunktestand seines Teams 
-abgezogen. (Spieler können immer 0 Lebenspunkte bezahlen.)
+118.4a Wenn Kosten oder ein Effekt es einem Spieler in einer Partie „Two-Headed Giant“ erlauben, eine Menge an Lebenspunkten größer 0 zu bezahlen, kann dieser Spieler dies nur tun, falls der Lebenspunktestand seines Teams größer oder gleich der Menge an Lebenspunkten ist, die beide Teammitglieder für diese Kosten oder diesen Effekt bezahlen. Wenn ein Spieler Lebenspunkte bezahlt, wird die Zahlung vom Lebenspunktestand seines Teams abgezogen. (Spieler können immer 0 Lebenspunkte bezahlen.)
 
-118.5. Wenn ein Effekt den Lebenspunktestand eines Spielers auf einen 
-spezifischen Wert setzt, erhält oder verliert der Spieler die nötige Menge 
-an Lebenspunkten, um beim neuen Wert zu landen.
+118.5. Wenn ein Effekt den Lebenspunktestand eines Spielers auf einen spezifischen Wert setzt, erhält oder verliert der Spieler die nötige Menge an Lebenspunkten, um beim neuen Wert zu landen.
 
-118.6. Wenn ein Spieler 0 oder weniger Lebenspunkte hat, verliert der Spieler 
-das Spiel als zustandsbasierte Aktion. Siehe Regel 704.
+118.6. Wenn ein Spieler 0 oder weniger Lebenspunkte hat, verliert der Spieler das Spiel als zustandsbasierte Aktion. Siehe Regel 704.
 
-118.7. Wenn ein Effekt besagt, dass ein Spieler keine Lebenspunkte erhalten 
-kann, kann dieser Spieler keinen Austausch durchführen, der seinen 
-Lebenspunktestand höher werden lässt; in diesem Fall findet der Austausch nicht 
-statt. Zusätzlich können Kosten, die beinhalten, dass dieser Spieler 
-Lebenspunkte erhält, nicht bezahlt werden und ein Ersatzeffekt, der ein 
-diesen Spieler betreffendes Lebenspunkte-erhöhendes Ereignis ersetzen würde, tut nichts.
+118.7. Wenn ein Effekt besagt, dass ein Spieler keine Lebenspunkte erhalten kann, kann dieser Spieler keinen Austausch durchführen, der seinen Lebenspunktestand höher werden lässt; in diesem Fall findet der Austausch nicht statt. Zusätzlich können Kosten, die beinhalten, dass dieser Spieler Lebenspunkte erhält, nicht bezahlt werden und ein Ersatzeffekt, der ein diesen Spieler betreffendes Lebenspunkte-erhöhendes Ereignis ersetzen würde, tut nichts.
 
-118.8. Wenn ein Effekt besagt, dass ein Spieler keine Lebenspunkte verlieren 
-kann, kann dieser Spieler keinen Austausch durchführen, der seinen 
-Lebenspunktestand niedriger werden lässt; in diesem Fall findet der Austausch 
-nicht statt. Zusätzlich können Kosten, für die dieser Spieler Lebenspunkte zu 
-bezahlen hätte, nicht bezahlt werden.
+118.8. Wenn ein Effekt besagt, dass ein Spieler keine Lebenspunkte verlieren kann, kann dieser Spieler keinen Austausch durchführen, der seinen Lebenspunktestand niedriger werden lässt; in diesem Fall findet der Austausch nicht statt. Zusätzlich können Kosten, für die dieser Spieler Lebenspunkte zu bezahlen hätte, nicht bezahlt werden.
 
-118.9. Manche ausgelösten Fähigkeiten benutzen die Formulierung „Immer wenn [ein 
-Spieler] Lebenspunkte dazu erhält, ...“. Solche Fähigkeiten werden behandelt, als 
-ob sie „Immer wenn eine Quelle dazu führt, dass [ein Spieler] Lebenspunkte dazu 
-erhält, ...“ lauten würden. Falls ein Spieler 0 Lebenspunkte dazu erhält, hat 
-kein Lebenspunkte-erhöhendes Ereignis stattgefunden, und diese Fähigkeiten 
-werden nicht ausgelöst.
+118.9. Manche ausgelösten Fähigkeiten benutzen die Formulierung „Immer wenn [ein Spieler] Lebenspunkte dazu erhält, ...“. Solche Fähigkeiten werden behandelt, als ob sie „Immer wenn eine Quelle dazu führt, dass [ein Spieler] Lebenspunkte dazu erhält, ...“ lauten würden. Falls ein Spieler 0 Lebenspunkte dazu erhält, hat kein Lebenspunkte-erhöhendes Ereignis stattgefunden, und diese Fähigkeiten werden nicht ausgelöst.
 
-Beispiel: Ein Spieler kontrolliert Ajanis Rudelmitglied, der besagt „Immer 
-wenn du Lebenspunkte dazu erhältst, kannst du eine +1/+1-Marke auf Ajanis 
-Rudelmitglied legen“, sowie zwei Kreaturen mit Lebensverknüpfung. Die 
-Kreaturen mit Lebensverknüpfung fügen gleichzeitig ihren Kampfschaden zu. 
-Die Fähigkeit von Ajanis Rudelmitglied wird zweimal ausgelöst.
+Beispiel: Ein Spieler kontrolliert Ajanis Rudelmitglied, der besagt „Immer wenn du Lebenspunkte dazu erhältst, kannst du eine +1/+1-Marke auf Ajanis Rudelmitglied legen“, sowie zwei Kreaturen mit Lebensverknüpfung. Die Kreaturen mit Lebensverknüpfung fügen gleichzeitig ihren Kampfschaden zu. Die Fähigkeit von Ajanis Rudelmitglied wird zweimal ausgelöst.
 
 119. Schaden
 
-119.1. Objekte können Kreaturen, Planeswalkern und Spielern \Schaden\ zufügen. 
-Dies ist üblicherweise nachteilig für das Objekt oder den Spieler, das bzw. der 
-Schaden erhält. Ein Objekt, das Schaden zufügt, ist die \Quelle\ dieses Schadens.
+119.1. Objekte können Kreaturen, Planeswalkern und Spielern \Schaden\ zufügen. Dies ist üblicherweise nachteilig für das Objekt oder den Spieler, das bzw. der Schaden erhält. Ein Objekt, das Schaden zufügt, ist die \Quelle\ dieses Schadens.
 
-119.1a Einem Objekt, das weder eine Kreatur noch ein Planeswalker ist, kann 
-kein Schaden zugefügt werden.
+119.1a Einem Objekt, das weder eine Kreatur noch ein Planeswalker ist, kann kein Schaden zugefügt werden.
 
 119.2. Jedes Objekt kann Schaden zufügen.
 
-119.2a Schaden kann als Ergebnis des Kampfes zugefügt werden. Jede angreifende 
-und blockende Kreatur fügt im Kampfschadensegment Kampfschaden in Höhe ihrer 
-Stärke zu.
+119.2a Schaden kann als Ergebnis des Kampfes zugefügt werden. Jede angreifende und blockende Kreatur fügt im Kampfschadensegment Kampfschaden in Höhe ihrer Stärke zu.
 
-119.2b Schaden kann als Effekt eines Zauberspruchs oder einer Fähigkeit 
-zugefügt werden. Der Zauberspruch oder die Fähigkeit gibt an, welches Objekt 
-den Schaden zufügt.
+119.2b Schaden kann als Effekt eines Zauberspruchs oder einer Fähigkeit zugefügt werden. Der Zauberspruch oder die Fähigkeit gibt an, welches Objekt den Schaden zufügt.
 
-119.3. Schaden kann eine oder mehrere der nachstehenden Folgen haben, abhängig davon, ob 
-der Schadensempfänger ein Spieler oder eine bleibende Karte ist, welche 
-Eigenschaften die Schadensquelle hat und welche Eigenschaften der 
-Schadensempfänger hat (falls dieser eine bleibende Karte ist).
+119.3. Schaden kann eine oder mehrere der nachstehenden Folgen haben, abhängig davon, ob der Schadensempfänger ein Spieler oder eine bleibende Karte ist, welche Eigenschaften die Schadensquelle hat und welche Eigenschaften der Schadensempfänger hat (falls dieser eine bleibende Karte ist).
 
-119.3a Schaden, der einem Spieler von einer Quelle ohne Infizieren zugefügt 
-wird, führt dazu, dass dieser Spieler entsprechend viele Lebenspunkte verliert.
+119.3a Schaden, der einem Spieler von einer Quelle ohne Infizieren zugefügt wird, führt dazu, dass dieser Spieler entsprechend viele Lebenspunkte verliert.
 
-119.3b Schaden, der einem Spieler von einer Quelle mit Infizieren zugefügt 
-wird, führt dazu, dass dieser Spieler entsprechend viele Giftmarken erhält.
+119.3b Schaden, der einem Spieler von einer Quelle mit Infizieren zugefügt wird, führt dazu, dass dieser Spieler entsprechend viele Giftmarken erhält.
 
-119.3c Schaden, der einem Planeswalker zugefügt wird, führt dazu, dass 
-entsprechend viele Loyalitätsmarken von diesem Planeswalker entfernt werden.
+119.3c Schaden, der einem Planeswalker zugefügt wird, führt dazu, dass entsprechend viele Loyalitätsmarken von diesem Planeswalker entfernt werden.
 
-119.3d Schaden, der einer Kreatur von einer Quelle mit Verdorren und/oder 
-Infizieren zugefügt wird, führt dazu, dass entsprechend viele -1/-1-Marken auf 
-diese Kreatur gelegt werden.
+119.3d Schaden, der einer Kreatur von einer Quelle mit Verdorren und/oder Infizieren zugefügt wird, führt dazu, dass entsprechend viele -1/-1-Marken auf diese Kreatur gelegt werden.
 
-119.3e Schaden, der einer Kreatur von einer Quelle ohne Verdorren und ohne 
-Infizieren zugefügt wird, führt dazu, dass entsprechend viele Schadenspunkte 
-auf dieser Kreatur vermerkt werden.
+119.3e Schaden, der einer Kreatur von einer Quelle ohne Verdorren und ohne Infizieren zugefügt wird, führt dazu, dass entsprechend viele Schadenspunkte auf dieser Kreatur vermerkt werden.
 
-119.3f Schaden, der einem Objekt oder einem Spieler von einer Quelle mit 
-Lebensverknüpfung zugefügt wird, führt zusätzlich zu den sonstigen Auswirkungen 
-des Schadens dazu, dass der Beherrscher der Schadensquelle entsprechend viele 
-Lebenspunkte dazu erhält.
+119.3f Schaden, der einem Objekt oder einem Spieler von einer Quelle mit Lebensverknüpfung zugefügt wird, führt zusätzlich zu den sonstigen Auswirkungen des Schadens dazu, dass der Beherrscher der Schadensquelle entsprechend viele Lebenspunkte dazu erhält.
 
 119.4. Schaden wird in drei Schritten verarbeitet.
 
-119.4a Als Erstes wird der Schaden zugefügt, so wie er durch Ersatz- und 
-Verhinderungseffekte, die mit Schaden interagieren, verändert wird. Siehe Regel 614, „Ersatzeffekte“ und 
-Regel 615, „Verhinderungseffekte“.) Fähigkeiten, die ausgelöst werden, wenn Schaden 
-zugefügt wird, werden nun ausgelöst und warten darauf, auf den Stapel gelegt zu werden.
+119.4a Als Erstes wird der Schaden zugefügt, so wie er durch Ersatz- und Verhinderungseffekte, die mit Schaden interagieren, verändert wird. Siehe Regel 614, „Ersatzeffekte“ und Regel 615, „Verhinderungseffekte“.) Fähigkeiten, die ausgelöst werden, wenn Schaden zugefügt wird, werden nun ausgelöst und warten darauf, auf den Stapel gelegt zu werden.
 
-119.4b Als Nächstes wird der zugefügte Schaden in seine Folgen umgesetzt, so wie 
-er durch Ersatzeffekte verändert wird, die sich auf diese Folgen auswirken (wie etwa Lebenspunkteverlust oder Marken).
+119.4b Als Nächstes wird der zugefügte Schaden in seine Folgen umgesetzt, so wie er durch Ersatzeffekte verändert wird, die sich auf diese Folgen auswirken (wie etwa Lebenspunkteverlust oder Marken).
 
 119.4c Schließlich findet das Schadensereignis statt.
 
-Beispiel: Ein Spieler, der eine Strahlenspiegelung kontrolliert, eine 
-Verzauberung, die besagt: „Falls du Lebenspunkte dazu erhalten würdest, 
-erhältst du stattdessen doppelt so viele Lebenspunkte dazu,“ greift mit 
-einer 3/3-Kreatur mit Verdorren und Lebensverknüpfung an. Sie wird von einer 
-2/2-Kreatur geblockt, und der verteidigende Spieler wirkt einen Zauberspruch, der 
-die nächsten 2 Schadenspunkte verhindert, die der blockenden Kreatur 
-zugefügt würden. Das Schadensereignis beginnt als [3 Schaden werden der 2/2-
-Kreatur zugefügt, 2 Schaden werden der 3/3-Kreatur zugefügt]. Der 
-Verhinderungseffekt wird angewendet, also wird aus dem Schadensereignis 
-[1 Schaden wird der 2/2-Kreatur zugefügt, 2 Schaden werden der 3/3-Kreatur 
-zugefügt]. Dies wird in seine Folgen umgesetzt, also ist das 
-Schadensereignis nun [eine -1/-1-Marke wird auf die 2/2-Kreatur gelegt, der 
-aktive Spieler erhält 1 Lebenspunkt dazu, 2 Schaden werden auf der 3/3-
-Kreatur vermerkt]. Der Effekt der Strahlenspiegelung wird angewendet, also 
-wird aus dem Schadensereignis [eine -1/-1-Marke wird auf die 2/2-Kreatur 
-gelegt, der aktive Spieler erhält 2 Lebenspunkte dazu, 2 Schaden werden auf 
-der 3/3-Kreatur vermerkt]. Dann findet das Schadensereignis statt.
+Beispiel: Ein Spieler, der eine Strahlenspiegelung kontrolliert, eine Verzauberung, die besagt: „Falls du Lebenspunkte dazu erhalten würdest, erhältst du stattdessen doppelt so viele Lebenspunkte dazu,“ greift mit einer 3/3-Kreatur mit Verdorren und Lebensverknüpfung an. Sie wird von einer 2/2-Kreatur geblockt, und der verteidigende Spieler wirkt einen Zauberspruch, der die nächsten 2 Schadenspunkte verhindert, die der blockenden Kreatur zugefügt würden. Das Schadensereignis beginnt als [3 Schaden werden der 2/2-Kreatur zugefügt, 2 Schaden werden der 3/3-Kreatur zugefügt]. Der Verhinderungseffekt wird angewendet, also wird aus dem Schadensereignis [1 Schaden wird der 2/2-Kreatur zugefügt, 2 Schaden werden der 3/3-Kreatur zugefügt]. Dies wird in seine Folgen umgesetzt, also ist das Schadensereignis nun [eine -1/-1-Marke wird auf die 2/2-Kreatur gelegt, der aktive Spieler erhält 1 Lebenspunkt dazu, 2 Schaden werden auf der 3/3-Kreatur vermerkt]. Der Effekt der Strahlenspiegelung wird angewendet, also wird aus dem Schadensereignis [eine -1/-1-Marke wird auf die 2/2-Kreatur gelegt, der aktive Spieler erhält 2 Lebenspunkte dazu, 2 Schaden werden auf der 3/3-Kreatur vermerkt]. Dann findet das Schadensereignis statt.
 
-Beispiel: Der verteidigende Spieler kontrolliert eine Kreatur und die 
-Anbetung, eine Verzauberung, die besagt: „Wenn du eine Kreatur 
-kontrollierst, reduziert aller Schaden, der deine Lebenspunkte auf weniger 
-als 1 reduzieren würde, stattdessen deine Lebenspunkte auf 1.“ Dieser 
-Spieler hat noch 2 Lebenspunkte und wird von zwei ungeblockten 5/5-Kreaturen 
-angegriffen. Der Spieler wirkt auf eine dieser Kreaturen Von Ehrfurcht 
-ergriffen, welches besagt: „Das nächste Mal, dass eine Kreatur deiner Wahl 
-in diesem Zug Schaden zufügen würde, verhindere diesen Schaden. Du erhältst 
-so viele Lebenspunkte dazu, wie auf diese Weise Schadenspunkte verhindert 
-wurden.“ Das Schadensereignis beginnt als [10 Schaden werden dem 
-verteidigenden Spieler zugefügt]. Der Effekt von Von Ehrfurcht ergriffen 
-wird angewendet, also wird aus dem Schadensereignis [5 Schaden werden dem 
-verteidigenden Spieler zugefügt, der verteidigende Spieler erhält 
-5 Lebenspunkte dazu]. Dies wird in seine Folgen umgesetzt, also ist das 
-Schadensereignis nun [der verteidigende Spieler verliert 5 Lebenspunkte, der 
-verteidigende Spieler erhält 5 Lebenspunkte dazu]. Der Effekt der Anbetung 
-sieht, dass das Schadensereignis die Lebenspunkte des Spielers nicht unter 1 
-reduzieren würde, also wird der Effekt der Anbetung nicht angewendet. Dann 
-findet das Schadensereignis statt.
+Beispiel: Der verteidigende Spieler kontrolliert eine Kreatur und die Anbetung, eine Verzauberung, die besagt: „Wenn du eine Kreatur kontrollierst, reduziert aller Schaden, der deine Lebenspunkte auf weniger als 1 reduzieren würde, stattdessen deine Lebenspunkte auf 1.“ Dieser Spieler hat noch 2 Lebenspunkte und wird von zwei ungeblockten 5/5-Kreaturen angegriffen. Der Spieler wirkt auf eine dieser Kreaturen Von Ehrfurcht ergriffen, welches besagt: „Das nächste Mal, dass eine Kreatur deiner Wahl in diesem Zug Schaden zufügen würde, verhindere diesen Schaden. Du erhältst so viele Lebenspunkte dazu, wie auf diese Weise Schadenspunkte verhindert wurden.“ Das Schadensereignis beginnt als [10 Schaden werden dem verteidigenden Spieler zugefügt]. Der Effekt von Von Ehrfurcht ergriffen wird angewendet, also wird aus dem Schadensereignis [5 Schaden werden dem verteidigenden Spieler zugefügt, der verteidigende Spieler erhält 5 Lebenspunkte dazu]. Dies wird in seine Folgen umgesetzt, also ist das Schadensereignis nun [der verteidigende Spieler verliert 5 Lebenspunkte, der verteidigende Spieler erhält 5 Lebenspunkte dazu]. Der Effekt der Anbetung sieht, dass das Schadensereignis die Lebenspunkte des Spielers nicht unter 1 reduzieren würde, also wird der Effekt der Anbetung nicht angewendet. Dann findet das Schadensereignis statt.
 
-119.5. Schaden, der Kreaturen oder Planeswalkern zugefügt wird, zerstört diese 
-nicht. Ebenso zerstört die Schadensquelle sie nicht. Vielmehr können 
-zustandsbasierte Aktionen eine Kreatur oder einen Planeswalker aufgrund 
-der Folgen des Schadens, der ihnen zugefügt wurde, zerstören oder auf andere 
-Weise in den Friedhof ihres Besitzers legen. Siehe Regel 704.
+119.5. Schaden, der Kreaturen oder Planeswalkern zugefügt wird, zerstört diese nicht. Ebenso zerstört die Schadensquelle sie nicht. Vielmehr können zustandsbasierte Aktionen eine Kreatur oder einen Planeswalker aufgrund der Folgen des Schadens, der ihnen zugefügt wurde, zerstören oder auf andere Weise in den Friedhof ihres Besitzers legen. Siehe Regel 704.
 
-Beispiel: Ein Spieler wirkt einen Blitzschlag, einen Spontanzauber, der 
-besagt: „Der Blitzschlag fügt einer Kreatur oder einem Spieler deiner Wahl 
-3 Schaden zu,“ und zielt damit auf eine 2/2-Kreatur. Nachdem der Blitzschlag 
-der Kreatur 3 Schaden zufügt, wird die Kreatur durch eine zustandsbasierte Aktion zerstört. Weder der Blitzschlag noch der durch den 
-Blitzschlag zugefügte Schaden haben die Kreatur zerstört.
+Beispiel: Ein Spieler wirkt einen Blitzschlag, einen Spontanzauber, der besagt: „Der Blitzschlag fügt einer Kreatur oder einem Spieler deiner Wahl 3 Schaden zu,“ und zielt damit auf eine 2/2-Kreatur. Nachdem der Blitzschlag der Kreatur 3 Schaden zufügt, wird die Kreatur durch eine zustandsbasierte Aktion zerstört. Weder der Blitzschlag noch der durch den Blitzschlag zugefügte Schaden haben die Kreatur zerstört.
 
-119.6. Der auf einer Kreatur vermerkte Schaden bleibt bis zum 
-Aufräumsegment erhalten, selbst wenn die bleibende Karte aufhört, eine Kreatur 
-zu sein. Falls der Gesamtschaden, der auf eine Kreatur vermerkt wurde, größer 
-als oder gleich ihrer Widerstandskraft ist, wurde dieser Kreatur tödlicher 
-Schaden zugefügt und sie wird als zustandsbasierte Aktion zerstört 
-(siehe Regel 704). Aller Schaden, der auf einer bleibenden Karte vermerkt wurde, 
-wird entfernt, wenn sie regeneriert (siehe Regel 701.12, „Regeneration“), und 
-während des Aufräumsegments (siehe Regel 514.2).
+119.6. Der auf einer Kreatur vermerkte Schaden bleibt bis zum Aufräumsegment erhalten, selbst wenn die bleibende Karte aufhört, eine Kreatur zu sein. Falls der Gesamtschaden, der auf eine Kreatur vermerkt wurde, größer als oder gleich ihrer Widerstandskraft ist, wurde dieser Kreatur tödlicher Schaden zugefügt und sie wird als zustandsbasierte Aktion zerstört (siehe Regel 704). Aller Schaden, der auf einer bleibenden Karte vermerkt wurde, wird entfernt, wenn sie regeneriert (siehe Regel 701.12, „Regeneration“), und während des Aufräumsegments (siehe Regel 514.2).
 
-119.7. Die Schadensquelle ist das Objekt, das ihn zugefügt hat. Wenn ein 
-Effekt einen Spieler anweist, eine Schadensquelle zu bestimmen, kann er eine 
-bleibende Karte bestimmen; einen Zauberspruch auf dem Stapel (einschließlich 
-einem Bleibende-Karte-Zauberspruch); ein beliebiges Objekt, auf das sich ein 
-Objekt auf dem Stapel, ein auf Anwendung wartender Verhinderungs- oder Ersatzeffekt,
- oder eine verzögerte ausgelöste Fähigkeit, die darauf wartet ausgelöst zu werden, bezieht 
-(auch wenn sich das Objekt nicht mehr in der Zone 
-befindet, in der es war); oder, in bestimmten Freizeitspiel-Varianten, eine 
-aufgedeckte Karte in der Kommandozone. Eine Quelle muss nicht in der Lage sein, 
-Schaden zuzufügen, um eine legale Wahl zu sein. Siehe Regel 609.7, 
-„Schadensquellen.“
+119.7. Die Schadensquelle ist das Objekt, das ihn zugefügt hat. Wenn ein Effekt einen Spieler anweist, eine Schadensquelle zu bestimmen, kann er eine bleibende Karte bestimmen; einen Zauberspruch auf dem Stapel (einschließlich einem Bleibende-Karte-Zauberspruch); ein beliebiges Objekt, auf das sich ein Objekt auf dem Stapel, ein auf Anwendung wartender Verhinderungs- oder Ersatzeffekt, oder eine verzögerte ausgelöste Fähigkeit, die darauf wartet ausgelöst zu werden, bezieht (auch wenn sich das Objekt nicht mehr in der Zone befindet, in der es war); oder, in bestimmten Freizeitspiel-Varianten, eine aufgedeckte Karte in der Kommandozone. Eine Quelle muss nicht in der Lage sein, Schaden zuzufügen, um eine legale Wahl zu sein. Siehe Regel 609.7, „Schadensquellen.“
 
-119.8. Wenn eine Quelle 0 Schadenspunkte zufügen würde, fügt sie überhaupt 
-keinen Schaden zu. Das bedeutet, dass Fähigkeiten, die dadurch ausgelöst werden, 
-dass Schaden zugefügt wird, nicht ausgelöst werden. Es bedeutet auch, dass 
-Ersatzeffekte, die den zugefügten Schaden erhöhen oder die Quelle den Schaden 
-einem anderen Objekt oder einem anderen Spieler zufügen lassen würden, kein 
-Ereignis zum Ersetzen haben und somit keinen Effekt haben.
+119.8. Wenn eine Quelle 0 Schadenspunkte zufügen würde, fügt sie überhaupt keinen Schaden zu. Das bedeutet, dass Fähigkeiten, die dadurch ausgelöst werden, dass Schaden zugefügt wird, nicht ausgelöst werden. Es bedeutet auch, dass Ersatzeffekte, die den zugefügten Schaden erhöhen oder die Quelle den Schaden einem anderen Objekt oder einem anderen Spieler zufügen lassen würden, kein Ereignis zum Ersetzen haben und somit keinen Effekt haben.
 
 120. Kartenziehen
 
-120.1. Ein Spieler zieht eine Karte, indem er die oberste Karte seiner 
-Bibliothek in seine Hand legt. Dies wird während des Ziehsegments 
- jedes Spielers als rundenbasierte Aktion getan. Es kann auch als Teil der Kosten oder 
-des Effekts eines Zauberspruchs oder einer Fähigkeit getan werden.
+120.1. Ein Spieler zieht eine Karte, indem er die oberste Karte seiner Bibliothek in seine Hand legt. Dies wird während des Ziehsegments  jedes Spielers als rundenbasierte Aktion getan. Es kann auch als Teil der Kosten oder des Effekts eines Zauberspruchs oder einer Fähigkeit getan werden.
 
-120.2. Karten können nur einzeln gezogen werden. Wenn ein Spieler angewiesen 
-wird, mehrere Karten zu ziehen, führt dieser Spieler entsprechend viele einzelne 
-Ziehaktionen durch.
+120.2. Karten können nur einzeln gezogen werden. Wenn ein Spieler angewiesen wird, mehrere Karten zu ziehen, führt dieser Spieler entsprechend viele einzelne Ziehaktionen durch.
 
-120.2a Wenn ein Effekt mehr als einen Spieler anweist, Karten zu ziehen, 
-führt der aktive Spieler all seine Ziehaktionen zuerst durch, dann macht jeder 
-andere Spieler in Zugreihenfolge dasselbe.
+120.2a Wenn ein Effekt mehr als einen Spieler anweist, Karten zu ziehen, führt der aktive Spieler all seine Ziehaktionen zuerst durch, dann macht jeder andere Spieler in Zugreihenfolge dasselbe.
 
-120.2b Wenn ein Effekt mehr als einen Spieler in einer Partie, in der die 
-Option Team-Züge teilen verwendet wird (so wie eine Partie Two-Headed Giant), 
-anweist, Karten zu ziehen, führen erst die Spieler des aktiven 
-Teams in beliebiger Reihenfolge all ihre Ziehaktionen durch, danach macht jeder 
-Spieler jedes nichtaktiven Teams in Zugreihenfolge dasselbe.
+120.2b Wenn ein Effekt mehr als einen Spieler in einer Partie, in der die Option Team-Züge teilen verwendet wird (so wie eine Partie Two-Headed Giant), anweist, Karten zu ziehen, führen erst die Spieler des aktiven Teams in beliebiger Reihenfolge all ihre Ziehaktionen durch, danach macht jeder Spieler jedes nichtaktiven Teams in Zugreihenfolge dasselbe.
 
-120.3. Wenn die Bibliothek eines Spielers keine Karten enthält und ein 
-Effekt diesem Spieler anbietet, eine Karte zu ziehen, kann dieser Spieler 
-entscheiden, dies zu tun. Wenn ein Effekt jedoch besagt, dass ein Spieler keine 
-Karten ziehen kann und ein anderer Effekt diesem Spieler die Wahl anbietet, 
-eine Karte zu ziehen, kann dieser Spieler nicht wählen, dies zu tun.
+120.3. Wenn die Bibliothek eines Spielers keine Karten enthält und ein Effekt diesem Spieler anbietet, eine Karte zu ziehen, kann dieser Spieler entscheiden, dies zu tun. Wenn ein Effekt jedoch besagt, dass ein Spieler keine Karten ziehen kann und ein anderer Effekt diesem Spieler die Wahl anbietet, eine Karte zu ziehen, kann dieser Spieler nicht wählen, dies zu tun.
 
-120.3a Das gleiche Prinzip wird angewendet, wenn der Spieler, der die 
-Entscheidung trifft, nicht der Spieler ist, der die Karte ziehen würde. Wenn 
-Letzterer keine Karten in seiner Bibliothek hat, kann die Wahl getroffen 
-werden. Wenn ein Effekt jedoch besagt, dass der zuletzt genannte Spieler keine 
-Karten ziehen kann, kann die Wahl nicht getroffen werden.
+120.3a Das gleiche Prinzip wird angewendet, wenn der Spieler, der die Entscheidung trifft, nicht der Spieler ist, der die Karte ziehen würde. Wenn Letzterer keine Karten in seiner Bibliothek hat, kann die Wahl getroffen werden. Wenn ein Effekt jedoch besagt, dass der zuletzt genannte Spieler keine Karten ziehen kann, kann die Wahl nicht getroffen werden.
 
-120.4. Ein Spieler, der versucht, eine Karte von einer Bibliothek zu ziehen, die 
-keine Karten enthält, verliert das Spiel das nächste Mal, wenn ein Spieler 
-Vorrang erhalten würde. (Dies ist eine zustandsbasierte Aktion. Siehe 
-Regel 704.)
+120.4. Ein Spieler, der versucht, eine Karte von einer Bibliothek zu ziehen, die keine Karten enthält, verliert das Spiel das nächste Mal, wenn ein Spieler Priorität erhalten würde. (Dies ist eine zustandsbasierte Aktion. Siehe Regel 704.)
 
-120.5. Wenn ein Effekt Karten aus der Bibliothek eines Spielers auf die Hand 
-dieses Spielers bewegt ohne das Wort „ziehen“ zu benutzen, hat der Spieler 
-diese Karte nicht gezogen. Dies macht einen Unterschied für Fähigkeiten, die 
-durch das Ziehen von Karten ausgelöst werden, oder für Effekte, die das Ziehen von Karten
-ersetzen, oder auch wenn die Bibliothek des Spielers leer ist.
+120.5. Wenn ein Effekt Karten aus der Bibliothek eines Spielers auf die Hand dieses Spielers bewegt ohne das Wort „ziehen“ zu benutzen, hat der Spieler diese Karte nicht gezogen. Dies macht einen Unterschied für Fähigkeiten, die durch das Ziehen von Karten ausgelöst werden, oder für Effekte, die das Ziehen von Karten ersetzen, oder auch wenn die Bibliothek des Spielers leer ist.
 
 120.6. Einige Effekte ersetzen Kartenziehen.
 
-120.6a Ein Effekt, der das Ziehen einer Karte ersetzt, wird auch angewendet, 
-wenn keine Karten gezogen werden können, weil die Bibliothek des betreffenden 
-Spielers keine Karten enthält.
+120.6a Ein Effekt, der das Ziehen einer Karte ersetzt, wird auch angewendet, wenn keine Karten gezogen werden können, weil die Bibliothek des betreffenden Spielers keine Karten enthält.
 
-120.6b Wenn ein Effekt das Ziehen innerhalb einer Folge von Kartenziehen 
-ersetzt, wird der Ersatzeffekt abgeschlossen, bevor die Folge weitergeführt 
-wird.
+120.6b Wenn ein Effekt das Ziehen innerhalb einer Folge von Kartenziehen ersetzt, wird der Ersatzeffekt abgeschlossen, bevor die Folge weitergeführt wird.
 
-120.6c Einige Effekte vollführen zusätzliche Aktionen mit einer Karte, nachdem 
-sie gezogen wurde. Wenn das Kartenziehen ersetzt wird, wird die zusätzliche Aktion 
-nicht auf Karten ausgeführt, die als Resultat dieses Ersatzeffektes oder 
-irgendwelcher anschließenden Ersatzeffekte gezogen werden.
+120.6c Einige Effekte vollführen zusätzliche Aktionen mit einer Karte, nachdem sie gezogen wurde. Wenn das Kartenziehen ersetzt wird, wird die zusätzliche Aktion nicht auf Karten ausgeführt, die als Resultat dieses Ersatzeffektes oder irgendwelcher anschließenden Ersatzeffekte gezogen werden.
 
-120.7. Einige Ersatzeffekte und Verhinderungseffekte resultieren darin, dass 
-mehrere Karten gezogen werden. In solchen Fällen finden erst alle Teile des 
-ursprünglichen Ereignisses statt, die nicht durch den Effekt ersetzt wurden, 
-danach geschieht das Kartenziehen nacheinander.
+120.7. Einige Ersatzeffekte und Verhinderungseffekte resultieren darin, dass mehrere Karten gezogen werden. In solchen Fällen finden erst alle Teile des ursprünglichen Ereignisses statt, die nicht durch den Effekt ersetzt wurden, danach geschieht das Kartenziehen nacheinander.
 
 121. Marken
 
-121.1. Eine \Marke\ ist ein Gegenstand, der auf ein Objekt oder zu einem 
-Spieler gelegt wird und dessen Eigenschaften modifiziert und/oder mit einer 
-Regel, einer Fähigkeit oder einem Effekt interagiert. Marken sind keine 
-Objekte und haben keine Eigenschaften. Insbesondere ist eine Marke kein 
-Spielstein und ein Spielstein ist keine Marke. Marken mit demselben Namen 
-oder derselben Beschreibung sind austauschbar.
+121.1. Eine \Marke\ ist ein Gegenstand, der auf ein Objekt oder zu einem Spieler gelegt wird und dessen Eigenschaften modifiziert und/oder mit einer Regel, einer Fähigkeit oder einem Effekt interagiert. Marken sind keine Objekte und haben keine Eigenschaften. Insbesondere ist eine Marke kein Spielstein und ein Spielstein ist keine Marke. Marken mit demselben Namen oder derselben Beschreibung sind austauschbar.
 
-121.1a Eine +X/+Y-Marke auf einer Kreatur oder auf einer Kreaturenkarte in einer 
-anderen Zone als im Spiel, wobei X und Y Zahlen sind, erhöht die Stärke dieses Objekts um X und die Widerstandskraft dieses Objekts um Y. Gleichermaßen verringern 
--X/-Y-Marken die Stärke und Widerstandskraft. Siehe Regel 613.3.
+121.1a Eine +X/+Y-Marke auf einer Kreatur oder auf einer Kreaturenkarte in einer anderen Zone als im Spiel, wobei X und Y Zahlen sind, erhöht die Stärke dieses Objekts um X und die Widerstandskraft dieses Objekts um Y. Gleichermaßen verringern -X/-Y-Marken die Stärke und Widerstandskraft. Siehe Regel 613.3.
 
-121.1b Die Anzahl an Loyalitätsmarken auf einem Planeswalker im Spiel gibt an, 
-wie viel Loyalität er hat. Ein Planeswalker mit einer Loyalität von 0 wird 
-durch eine zustandsbasierte Aktion in den Friedhof seines Besitzers 
-gelegt. Siehe Regel 704.
+121.1b Die Anzahl an Loyalitätsmarken auf einem Planeswalker im Spiel gibt an, wie viel Loyalität er hat. Ein Planeswalker mit einer Loyalität von 0 wird durch eine zustandsbasierte Aktion in den Friedhof seines Besitzers gelegt. Siehe Regel 704.
 
-121.1c Wenn ein Spieler zehn oder mehr Giftmarken hat, verliert er das Spiel 
-durch eine zustandsbasierte Aktion. Siehe Regel 704. Ein Spieler ist 
-„vergiftet“, wenn er eine oder mehrere Giftmarken hat. (Siehe Regel 810 für 
-zusätzliche Regeln für Partien Two-Headed Giant.)
+121.1c Wenn ein Spieler zehn oder mehr Giftmarken hat, verliert er das Spiel durch eine zustandsbasierte Aktion. Siehe Regel 704. Ein Spieler ist „vergiftet“, wenn er eine oder mehrere Giftmarken hat. (Siehe Regel 810 für zusätzliche Regeln für Partien Two-Headed Giant.)
 
-121.2. Marken auf einem Objekt bleiben nicht erhalten, wenn sich das Objekt von 
-einer Zone in eine andere bewegt. Die Marken werden nicht „entfernt“; sie hören 
-einfach auf zu existieren. Siehe Regel 400.7.
+121.2. Marken auf einem Objekt bleiben nicht erhalten, wenn sich das Objekt von einer Zone in eine andere bewegt. Die Marken werden nicht „entfernt“; sie hören einfach auf zu existieren. Siehe Regel 400.7.
 
-121.3. Wenn eine bleibende Karte sowohl eine +1/+1- als auch eine -1/-1-Marke 
-auf sich hat, werden durch eine zustandsbasierte Aktion N +1/+1-Marken 
-und N -1/-1-Marken von ihr entfernt, wobei N die kleinere Anzahl an +1/+1- und 
--1/-1-Marken ist. Siehe Regel 704.
+121.3. Wenn eine bleibende Karte sowohl eine +1/+1- als auch eine -1/-1-Marke auf sich hat, werden durch eine zustandsbasierte Aktion N +1/+1-Marken und N -1/-1-Marken von ihr entfernt, wobei N die kleinere Anzahl an +1/+1- und -1/-1-Marken ist. Siehe Regel 704.
 
-121.4. Falls mehr als N Marken einer bestimmten Sorte auf einer bleibenden 
-Karte liegen, die eine Fähigkeit hat, die besagt, dass sie nicht mehr als N 
-Marken dieser Sorte auf sich liegen haben kann, werden durch eine zustandsbasierte Aktion alle bis auf N dieser Marken von ihr entfernt. Siehe 
-Regel 704.
+121.4. Falls mehr als N Marken einer bestimmten Sorte auf einer bleibenden Karte liegen, die eine Fähigkeit hat, die besagt, dass sie nicht mehr als N Marken dieser Sorte auf sich liegen haben kann, werden durch eine zustandsbasierte Aktion alle bis auf N dieser Marken von ihr entfernt. Siehe Regel 704.
 
-121.5. Wenn ein Effekt besagt, eine Zählmarke zu "bewegen", dann bedeutet das, 
-sie von dem Objekt zu nehmen, wo sie gerade ist, und auf ein zweites Objekt zu 
-legen. Wenn das erste und das zweite Objekte dasselbe Objekt sind, passiert 
-nichts. Wenn das erste Objekt keine Marken auf sich hat, passiert nichts; auf 
-das zweite Objekt wird keine Marke gelegt. Wenn das zweite Objekt (oder 
-jedes mögliche zweite Objekt) nicht länger in der korrekten Zone ist, wenn der 
-Effekt die Marke bewegen würde, passiert nichts; von dem ersten Objekt wird 
-keine Marke entfernt.
+121.5. Wenn ein Effekt besagt, eine Zählmarke zu "bewegen", dann bedeutet das, sie von dem Objekt zu nehmen, wo sie gerade ist, und auf ein zweites Objekt zu legen. Wenn das erste und das zweite Objekte dasselbe Objekt sind, passiert nichts. Wenn das erste Objekt keine Marken auf sich hat, passiert nichts; auf das zweite Objekt wird keine Marke gelegt. Wenn das zweite Objekt (oder jedes mögliche zweite Objekt) nicht länger in der korrekten Zone ist, wenn der Effekt die Marke bewegen würde, passiert nichts; von dem ersten Objekt wird keine Marke entfernt.
 
-121.6. Wenn sich ein Zauberspruch oder eine Fähigkeit darauf bezieht, dass eine Marke 
-auf eine bleibende Karte „gelegt“ wird, meint er oder sie, dass 
-eine Marke auf diese bleibende Karte gelegt wird, während sie im Spiel ist, 
-oder dass diese bleibende Karte durch die Anwendung eines Ersatzeffekts mit einer Marke auf sich ins Spiel kommt.
-
-
+121.6. Wenn sich ein Zauberspruch oder eine Fähigkeit darauf bezieht, dass eine Marke auf eine bleibende Karte „gelegt“ wird, meint er oder sie, dass eine Marke auf diese bleibende Karte gelegt wird, während sie im Spiel ist, oder dass diese bleibende Karte durch die Anwendung eines Ersatzeffekts mit einer Marke auf sich ins Spiel kommt.
 
 2. Bestandteile einer Karte
 
@@ -1970,7 +1399,7 @@ Loyalitätsmarken auf sich ins Spiel kommt.
 eine Loyalitätsfähigkeit. Loyalitätsfähigkeiten folgen besonderen Regeln: Ein 
 Spieler kann eine Loyalitätsfähigkeit einer bleibenden Karte, die er 
 kontrolliert, während einer Hauptphase seines Zuges aktivieren, wenn er 
-Vorrang hat und der Stapel leer ist, jedoch nur, wenn keine der 
+Priorität hat und der Stapel leer ist, jedoch nur, wenn keine der 
 Loyalitätsfähigkeiten dieser bleibenden Karte in diesem Zug aktiviert wurden. 
 Siehe Regel 606, „Loyalitätsfähigkeiten.“
 
@@ -2034,7 +1463,7 @@ einer Karte des anderen Kartentyps.
 
 301. Artefakte
 
-301.1. Ein Spieler, der Vorrang hat, kann eine Artefaktkarte während einer 
+301.1. Ein Spieler, der Priorität hat, kann eine Artefaktkarte während einer 
 Hauptphase seines Zuges von seiner Hand wirken, wenn der Stapel leer ist. Ein Artefakt als Zauberspruch zu wirken benutzt den Stapel. (Siehe Regel 601, 
 „Zaubersprüche wirken.“)
 
@@ -2101,7 +1530,7 @@ die keine Befestigung ist, mit „das befestigte Land“ auf kein Land.
 
 302. Kreaturen
 
-302.1. Ein Spieler, der Vorrang hat, kann während einer Hauptphase seines 
+302.1. Ein Spieler, der Priorität hat, kann während einer Hauptphase seines 
 Zuges eine Kreaturenkarte von seiner Hand wirken, wenn der Stapel leer ist. Eine Kreatur als Zauberspruch zu wirken benutzt den Stapel. (Siehe Regel 601, 
 „Zaubersprüche wirken.“)
 
@@ -2149,7 +1578,7 @@ während des Aufräumsegments (siehe Regel 514.2).
 
 303. Verzauberungen
 
-303.1. Ein Spieler, der Vorrang hat, kann während einer Hauptphase seines 
+303.1. Ein Spieler, der Priorität hat, kann während einer Hauptphase seines 
 Zuges eine Verzauberungskarte von seiner Hand wirken, wenn der Stapel leer ist. 
 Eine Verzauberung als Zauberspruch zu wirken benutzt den Stapel. (Siehe 
 Regel 601, „Zaubersprüche wirken.“)
@@ -2225,7 +1654,7 @@ sich dieser Text auf kein Objekt und keinen Spieler.
 
 304. Spontanzauber
 
-304.1. Ein Spieler, der Vorrang hat, kann eine Spontanzauberkarte von seiner 
+304.1. Ein Spieler, der Priorität hat, kann eine Spontanzauberkarte von seiner 
 Hand wirken. Einen Spontanzauber als Zauberspruch zu wirken benutzt den 
 Stapel. (Siehe Regel 601, „Zaubersprüche wirken“.)
 
@@ -2246,7 +1675,7 @@ Spiel kommen würde, bleibt er stattdessen in seiner vorherigen Zone.
 
 304.5. Wenn ein Text angibt, dass ein Spieler etwas „zu jedem Zeitpunkt“ machen 
 kann, „zu dem er einen Spontanzauber wirken könnte“, bedeutet das nur, dass der 
-Spieler Vorrang haben muss. Der Spieler muss keinen Spontanzauber haben, den 
+Spieler Priorität haben muss. Der Spieler muss keinen Spontanzauber haben, den 
 er tatsächlich wirken könnte. Effekte, die diesen Spieler davon abhalten 
 würden, einen Zauberspruch oder einen Spontanzauber zu wirken, beeinflussen 
 nicht die Fähigkeit des Spielers, diese Aktion durchzuführen (außer die Aktion 
@@ -2254,7 +1683,7 @@ besteht selbst darin, einen Zauberspruch oder einen Spontanzauber zu wirken).
 
 305. Länder
 
-305.1. Ein Spieler, der Vorrang hat, kann während einer Hauptphase seines 
+305.1. Ein Spieler, der Priorität hat, kann während einer Hauptphase seines 
 Zuges eine Landkarte von seiner Hand spielen, wenn der Stapel leer ist. Ein Land zu
 spielen ist eine Sonderaktion; sie benutzt nicht den Stapel (siehe 
 Regel 115.) Vielmehr legt der Spieler das Land einfach ins Spiel. Da das Land 
@@ -2313,7 +1742,7 @@ als ein Land gespielt werden. Es kann nicht als Zauberspruch gewirkt werden.
 
 306. Planeswalker
 
-306.1. Ein Spieler, der Vorrang hat, kann während einer Hauptphase seines 
+306.1. Ein Spieler, der Priorität hat, kann während einer Hauptphase seines 
 Zuges eine Planeswalkerkarte von seiner Hand wirken, wenn der Stapel leer ist. 
 Das Wirken eines Planeswalkers als Zauberspruch nutzt den Stapel. (Siehe 
 Regel 601, „Zaubersprüche wirken“.)
@@ -2349,7 +1778,7 @@ Loyalitätsmarken auf ihm.
 306.5d Jeder Planeswalker besitzt mehrere Loyalitätsfähigkeiten, bei denen es 
 sich um aktivierte Fähigkeit mit einem Loyalitätssymbol in den Kosten handelt. 
 Loyalitätsfähigkeiten folgen besonderen Regeln: Ein Spieler kann eine 
-Loyalitätsfähigkeit einer bleibenden Karte, die er kontrolliert, jederzeit aktivieren, wenn der Stapel leer ist und er während einer Hauptphase seines Zuges Vorrang hat, jedoch nur, wenn keine der Loyalitätsfähigkeiten dieser bleibenden Karte in diesem Zug aktiviert wurden. Siehe Regel 606, „Loyalitätsfähigkeiten.“
+Loyalitätsfähigkeit einer bleibenden Karte, die er kontrolliert, jederzeit aktivieren, wenn der Stapel leer ist und er während einer Hauptphase seines Zuges Priorität hat, jedoch nur, wenn keine der Loyalitätsfähigkeiten dieser bleibenden Karte in diesem Zug aktiviert wurden. Siehe Regel 606, „Loyalitätsfähigkeiten.“
 
 306.6. Planeswalker können angegriffen werden. (Siehe Regel 508, „Angreifer 
 deklarieren-Segment.“)
@@ -2371,7 +1800,7 @@ Regel 704.)
 
 307. Hexereien
 
-307.1. Ein Spieler, der Vorrang hat, kann während der Hauptphase seines Zuges 
+307.1. Ein Spieler, der Priorität hat, kann während der Hauptphase seines Zuges 
 eine Hexerei-Karte von seiner Hand wirken, wenn der Stapel leer ist. Eine 
 Hexerei als Zauberspruch zu wirken nutzt den Stapel. (Siehe Regel 601, „Zaubersprüche 
 wirken.“)
@@ -2391,7 +1820,7 @@ kommen würde, bleibt sie stattdessen in ihrer vorherigen Zone.
 
 307.5. Wenn ein Zauberspruch, eine Fähigkeit oder ein Effekt angibt, dass ein 
 Spieler etwas nur „zu einem Zeitpunkt, zu dem er eine Hexerei wirken könnte“, 
-bedeutet das nur, dass der Spieler Vorrang haben, es während der Hauptphase 
+bedeutet das nur, dass der Spieler Priorität haben, es während der Hauptphase 
 seines Zuges sein und der Stapel leer sein muss. Der Spieler muss keine Hexerei 
 haben, die er tatsächlich wirken könnte. Effekte, die diesen Spieler davon 
 abhalten würden, einen Zauberspruch oder eine Hexerei zu wirken, beeinflussen 
@@ -2401,7 +1830,7 @@ besteht selbst darin, einen Zauberspruch oder eine Hexerei zu wirken).
 307.5a Gleichermaßen prüft ein Effekt, der prüft, ob ein Zauberspruch „zu einem 
 Zeitpunkt gewirkt wurde, zu dem keine Hexerei hätte gewirkt werden können“, 
 lediglich, ob der Beherrscher des Zauberspruchs diesen gewirkt hat, ohne 
-Vorrang zu haben, ob er ihn in einer anderen Phase als seiner Hauptphase 
+Priorität zu haben, ob er ihn in einer anderen Phase als seiner Hauptphase 
 gewirkt hat oder während ein anderes Objekt auf dem Stapel war.
 
 308. Stammeskarten
@@ -2491,7 +1920,7 @@ Objekt.
 310.7. Wenn sich eine aufgedeckte Phänomenkarte in der Kommandozone befindet, 
 die nicht die Quelle einer ausgelösten Fähigkeit ist, die ausgelöst wurde, aber 
 noch nicht den Stapel verlassen hat, weltenwandert der Weltenbeherrscher das 
-nächste Mal, wenn ein Spieler Vorrang erhalten würde. (Dies ist eine 
+nächste Mal, wenn ein Spieler Priorität erhalten würde. (Dies ist eine 
 zustandsbasierte Aktion; siehe Regel 704. Siehe auch Regel 701.21, 
 „Weltenwandern“.)
 
@@ -2560,7 +1989,7 @@ Komplott-Karte ist ihr Besitzer.
 312.6. Wenn eine nicht-andauernde Komplott-Karte in der Kommandozone aufgedeckt 
 ist, und sie nicht die Quelle einer ausgelösten Fähigkeit ist, die ausgelöst 
 wurde, aber noch nicht den Stapel verlassen hat, wird diese Komplott-Karte das 
-nächste Mal, wenn ein Spieler Vorrang erhalten würde, verdeckt und unter das 
+nächste Mal, wenn ein Spieler Priorität erhalten würde, verdeckt und unter das 
 Komplott-Deck ihres Besitzers gelegt. (Dies ist eine zustandsbasierte 
 Aktion. Siehe Regel 704.)
 
@@ -2837,8 +2266,8 @@ Regel 604.3).
 405.6c Manafähigkeiten werden sofort verrechnet. Wenn eine Manafähigkeit sowohl 
 Mana produziert als auch einen anderen Effekt hat, wird das Mana sofort 
 produziert, und auch der andere Effekt geschieht sofort. Wenn ein Spieler 
-Vorrang hatte, bevor eine Manafähigkeit aktiviert wurde, erhält dieser 
-Spieler Vorrang, nachdem sie verrechnet wurde. (Siehe Regel 605, 
+Priorität hatte, bevor eine Manafähigkeit aktiviert wurde, erhält dieser 
+Spieler Priorität, nachdem sie verrechnet wurde. (Siehe Regel 605, 
 „Manafähigkeiten.“)
 
 405.6d Sonderaktionen benutzen nicht den Stapel; sie finden sofort statt. Siehe 
@@ -2846,14 +2275,14 @@ Regeln 115, „Sonderaktionen.“
 
 405.6e Rundenbasierte Aktionen benutzen nicht den Stapel; sie passieren 
 automatisch, wenn bestimmte Segmente oder Phasen beginnen. Sie 
-werden abgehandelt, bevor ein Spieler Vorrang erhalten würde. (Siehe 
+werden abgehandelt, bevor ein Spieler Priorität erhalten würde. (Siehe 
 Regel 116.3a.) Rundenbasierte Aktionen werden auch automatisch 
 durchgeführt, wenn Segmente und Phasen enden; kein Spieler erhält 
-danach Vorrang. Siehe Regel 703.
+danach Priorität. Siehe Regel 703.
 
 405.6f Zustandsbasierte Aktionen benutzen nicht den Stapel; sie passieren 
 automatisch, wenn bestimmte Bedingungen erfüllt sind. Siehe 
-Regel 704. Sie werden abgehandelt, bevor ein Spieler Vorrang erhalten würde. 
+Regel 704. Sie werden abgehandelt, bevor ein Spieler Priorität erhalten würde. 
 Siehe Regel 116.5.
 
 405.6g Ein Spieler kann das Spiel jederzeit aufgeben. Dieser Spieler verlässt 
@@ -2959,14 +2388,14 @@ der Endphase. Jede dieser Phasen findet in jedem Zug statt, selbst wenn nichts
 während der Phase passiert. Die Start-, Kampf- und Endphasen sind weiter in 
 Segmente unterteilt, welche nacheinander stattfinden.
 
-500.2. Eine Phase oder ein Segment, in der bzw. in dem Spieler Vorrang 
+500.2. Eine Phase oder ein Segment, in der bzw. in dem Spieler Priorität 
 erhalten, endet, wenn der Stapel leer ist und alle Spieler nacheinander passen. 
 Einfach den Stapel leer werden zu lassen, bewirkt nicht, dass solch eine Phase 
 oder solch ein Segment endet; alle Spieler müssen mit leerem Stapel 
 nacheinander passen. Dadurch erhält jeder Spieler die Chance, neue Sachen auf den 
 Stapel zu legen, bevor diese Phase bzw. dieses Segment endet.
 
-500.3. Ein Segment, in dem kein Spieler Vorrang erhält, endet, wenn alle 
+500.3. Ein Segment, in dem kein Spieler Priorität erhält, endet, wenn alle 
 angegebenen Aktionen, die während dieses Segments stattfinden, vollendet sind. 
 Die einzigen solchen Segmente sind das Enttappsegment (siehe Regel 502) und 
 bestimmte Aufräumsegmente (siehe Regel 514).
@@ -3030,11 +2459,11 @@ rundenbasierte Aktion nutzt nicht den Stapel. Normalerweise enttappen
 alle bleibenden Karten eines Spielers, aber Effekte können eine oder mehrere 
 bleibende Karten eines Spielers vom Enttappen abhalten.
 
-502.3. Während des Enttappsegments erhält kein Spieler Vorrang. Somit können 
+502.3. Während des Enttappsegments erhält kein Spieler Priorität. Somit können 
 keine Zaubersprüche gewirkt oder verrechnet werden und keine Fähigkeiten 
 aktiviert oder verrechnet werden. Jede Fähigkeit, die während dieses 
 Segments ausgelöst wird, wird aufgeschoben, bis ein 
-Spieler das nächste Mal Vorrang erhalten würde, was normalerweise während des 
+Spieler das nächste Mal Priorität erhalten würde, was normalerweise während des 
 Versorgungssegmentes ist. (Siehe Regel 503, „Versorgungssegment.“)
 
 503. Versorgungssegment
@@ -3044,7 +2473,7 @@ Versorgungssegments ausgelöst werden, und alle Fähigkeiten, die während des
 Enttappsegments des Zuges ausgelöst wurden, auf den Stapel. (Siehe 
 Regel 603, „Handhabung ausgelöster Fähigkeiten.“)
 
-503.2. Als Zweites erhält der aktive Spieler Vorrang. Spieler können 
+503.2. Als Zweites erhält der aktive Spieler Priorität. Spieler können 
 Zaubersprüche wirken und Fähigkeiten aktivieren.
 
 504. Ziehsegment
@@ -3056,7 +2485,7 @@ nutzt nicht den Stapel.
 ausgelöst werden, und alle anderen Fähigkeiten, die ausgelöst wurden, auf den 
 Stapel.
 
-504.3. Als Drittes erhält der aktive Spieler Vorrang. Spieler können 
+504.3. Als Drittes erhält der aktive Spieler Priorität. Spieler können 
 Zaubersprüche wirken und Fähigkeiten aktivieren.
 
 505. Hauptphase
@@ -3086,7 +2515,7 @@ Komplott seines Komplott-Decks (siehe Regel 701.22). Diese rundenbasierte Aktion
 ausgelöst werden, auf den Stapel. (Siehe Regel 603, „Handhabung ausgelöster 
 Fähigkeiten.“)
 
-505.5. Als Drittes erhält der aktive Spieler Vorrang. Die Spieler können 
+505.5. Als Drittes erhält der aktive Spieler Priorität. Die Spieler können 
 Zaubersprüche wirken und Fähigkeiten aktivieren. Der aktive Spieler kann ein 
 Land spielen.
 
@@ -3095,7 +2524,7 @@ Land spielen.
 kann. Nur der aktive Spieler kann diese Zaubersprüche wirken.
 
 505.5b Während jeder Hauptphase kann der aktive Spieler eine Landkarte von 
-seiner Hand spielen, wenn der Stapel leer ist, der Spieler Vorrang hat 
+seiner Hand spielen, wenn der Stapel leer ist, der Spieler Priorität hat 
 und er diese Sonderaktion in diesem Zug bisher noch nicht genutzt hat. (Siehe 
 Regel 305, „Länder.“) Diese Aktion nutzt nicht den Stapel. Weder das Land noch 
 das Spielen eines Landes ist ein Zauberspruch oder eine Fähigkeit, daher kann 
@@ -3257,7 +2686,7 @@ Stapel. (Siehe Regel 506.2.)
 507.2. Als Zweites gehen alle Fähigkeiten, die zu Beginn des Kampfes ausgelöst 
 werden, auf den Stapel. (Siehe Regel 603, „Handhabung ausgelöster Fähigkeiten.“)
 
-507.3. Als Drittes erhält der aktive Spieler Vorrang. Spieler können 
+507.3. Als Drittes erhält der aktive Spieler Priorität. Spieler können 
 Zaubersprüche wirken und Fähigkeiten aktivieren.
 
 508. Angreifer-deklarieren-Segment
@@ -3351,7 +2780,7 @@ angreift, zerstöre diese Kreatur am Ende des Kampfes.“ Wenn eine blaue
 Kreatur angreift und später in Grün umgewandelt wird, wird die Fähigkeit 
 nicht ausgelöst.
 
-508.3. Als Drittes erhält der aktive Spieler Vorrang. Spieler können 
+508.3. Als Drittes erhält der aktive Spieler Priorität. Spieler können 
 Zaubersprüche wirken und Fähigkeiten aktivieren.
 
 508.4. Wenn eine Kreatur angreifend ins Spiel gebracht wird, wählt ihr 
@@ -3574,7 +3003,7 @@ nicht geblockt wird, ...“ wird ausgelöst, wenn keine Kreaturen als Blocker f�
 Kreatur deklariert werden. Sie wird nicht ausgelöst, wenn die angreifende 
 Kreatur geblockt wird und dann alle ihre Blocker vom Kampf entfernt werden.
 
-509.5. Als Fünftes erhält der aktive Spieler Vorrang. Spieler können 
+509.5. Als Fünftes erhält der aktive Spieler Priorität. Spieler können 
 Zaubersprüche wirken und Fähigkeiten aktivieren.
 
 509.6. Wenn ein Zauberspruch oder eine Fähigkeit dazu führt, dass eine Kreatur 
@@ -3715,7 +3144,7 @@ aber dem Geschwaderfalken hätte kein Schaden zugefügt werden können.
 von Schaden ausgelöst wurden, auf den Stapel. (Siehe Regel 603, „Handhabung 
 ausgelöster Fähigkeiten.“)
 
-510.4. Als Viertes erhält der aktive Spieler Vorrang. Spieler können 
+510.4. Als Viertes erhält der aktive Spieler Priorität. Spieler können 
 Zaubersprüche wirken und Fähigkeiten aktivieren.
 
 510.5. Wenn zu Beginn des Kampfschadensegments mindestens eine angreifende oder 
@@ -3735,7 +3164,7 @@ Kampfes-Segment.
 511.1. Als Erstes werden alle „am Ende des Kampfes“-Fähigkeiten ausgelöst und 
 gehen auf den Stapel. (Siehe Regel 603, „Handhabung ausgelöster Fähigkeiten.“)
 
-511.2. Als Zweites erhält der aktive Spieler Vorrang. Spieler können 
+511.2. Als Zweites erhält der aktive Spieler Priorität. Spieler können 
 Zaubersprüche wirken und Fähigkeiten aktivieren.
 
 511.3. Sobald das Ende-des-Kampfes-Segment endet, werden alle Kreaturen und 
@@ -3760,7 +3189,7 @@ gedruckt wurden, haben in der Oracle-Kartenreferenz Errata erhalten und
 benutzen nun die Formulierung „zu Beginn des Endsegments“ oder „zu Beginn des 
 nächsten Endsegments.“
 
-513.2. Als Zweites erhält der aktive Spieler Vorrang. Spieler können 
+513.2. Als Zweites erhält der aktive Spieler Priorität. Spieler können 
 Zaubersprüche wirken und Fähigkeiten aktivieren.
 
 513.3. Wenn eine bleibende Karte mit einer Fähigkeit, die „zu Beginn des 
@@ -3785,7 +3214,7 @@ der für bleibende Karten (inklusive destabilisierter bleibender Karten) vermerk
 wurde, wird entfernt, und alle „bis zum Ende des Zuges“- und „in diesem Zug“-Effekte
 enden. Diese rundenbasierte Aktion benutzt nicht den Stapel.
 
-514.3. Normalerweise erhält im Aufräumsegment kein Spieler Vorrang, sodass 
+514.3. Normalerweise erhält im Aufräumsegment kein Spieler Priorität, sodass 
 keine Zaubersprüche gewirkt oder Fähigkeiten aktiviert werden können. 
 Allerdings unterliegt diese Regel der folgenden Ausnahme:
 
@@ -3794,7 +3223,7 @@ ausgelösten Fähigkeiten darauf warten, auf den Stapel gelegt zu werden
 (inklusive solcher, die „zu Beginn des nächsten Aufräumsegments“ ausgelöst werden). 
 Falls dem so ist, werden die zustandsbasierten Aktionen durchgeführt, 
 dann werden die ausgelösten Fähigkeiten auf den Stapel gelegt, dann erhält der 
-aktive Spieler Vorrang. Spieler können Zaubersprüche wirken und Fähigkeiten 
+aktive Spieler Priorität. Spieler können Zaubersprüche wirken und Fähigkeiten 
 aktivieren. Sobald der Stapel leer ist und alle Spieler nacheinander passen, 
 beginnt ein weiteres Aufräumsegment.
 
@@ -3926,8 +3355,8 @@ du {B}, nicht {1}{B}, auch wenn du den Vertrauten opferst.
 601.2h Sobald die in 601.2a–g beschriebenen Schritte vollendet sind, gilt der 
 Zauberspruch als gewirkt. Alle Fähigkeiten, die ausgelöst werden, wenn ein Zauberspruch 
 gewirkt oder auf den Stapel gelegt wird, werden zu diesem Zeitpunkt ausgelöst. 
-Falls der Beherrscher des Zauberspruchs Vorrang hatte, bevor er ihn wirkte, 
-erhält er Vorrang.
+Falls der Beherrscher des Zauberspruchs Priorität hatte, bevor er ihn wirkte, 
+erhält er Priorität.
 
 601.3. Einige Zaubersprüche geben an, dass ein Gegner ihres Beherrschers etwas 
 tut, das normalerweise der Beherrscher tun würde, während er gewirkt wird, so 
@@ -4114,8 +3543,8 @@ Beispiel: Eine Fähigkeit, die durch das Zufügen von Schaden ausgelöst wird,
 wird nicht ausgelöst, wenn all der Schaden verhindert wird.
 
 603.3. Nachdem eine Fähigkeit ausgelöst wurde, legt ihr Beherrscher sie das 
-nächste Mal, wenn ein Spieler Vorrang erhalten würde, als ein Objekt ohne zugehörige Karte 
-auf den Stapel. Siehe Regel 116, „Timing und Vorrang“. Die 
+nächste Mal, wenn ein Spieler Priorität erhalten würde, als ein Objekt ohne zugehörige Karte 
+auf den Stapel. Siehe Regel 116, „Timing und Priorität“. Die 
 Fähigkeit wird zum obersten Objekt auf dem Stapel. Sie hat den Text der 
 Fähigkeit, die sie erzeugt hat und keine anderen Eigenschaften. Sie bleibt 
 auf dem Stapel, bis sie neutralisiert oder verrechnet wird, sie aufgrund einer 
@@ -4127,14 +3556,14 @@ ist eine verzögerte ausgelöste Fähigkeit. Um den Beherrscher einer verzögert
 ausgelösten Fähigkeit zu ermitteln, siehe Regel 603.7d–f.
 
 603.3b Wenn mehrere Fähigkeiten ausgelöst wurden, seit das letzte Mal ein 
-Spieler Vorrang erhalten hat, legt jeder Spieler in ASNAS-Reihenfolge die 
+Spieler Priorität erhalten hat, legt jeder Spieler in ASNAS-Reihenfolge die 
 ausgelöste Fähigkeiten, die er kontrolliert, in der von ihm bestimmten Reihenfolge 
 auf den Stapel. (Siehe Regel 101.4.) Danach prüft das Spiel erneut auf 
 zustandsbasierte Aktionen und führt diese gegebenenfalls durch, bis 
 keine Aktionen erzeugt werden. Dann gehen Fähigkeiten, die während dieses Prozesses 
 ausgelöst wurden, auf den Stapel. Dieser Prozess wiederholt sich, bis keine 
 neuen zustandsbasierten Aktionen generiert und keine Fähigkeiten 
-ausgelöst werden. Danach erhält der entsprechende Spieler Vorrang.
+ausgelöst werden. Danach erhält der entsprechende Spieler Priorität.
 
 603.3c Wenn eine ausgelöste Fähigkeit modal ist, sagt ihr Beherrscher die Wahl 
 des Modus an, wenn er die Fähigkeit auf den Stapel legt. Wenn einer der Modi 
@@ -4450,7 +3879,7 @@ jeder anderen aktivierten Fähigkeit (siehe Regel 602.2), mit den folgenden
 Ausnahmen:
 
 605.3a Ein Spieler kann eine aktivierte Manafähigkeit immer aktivieren, wenn er 
-Vorrang hat, wenn er einen Zauberspruch wirkt oder eine Fähigkeit aktiviert, 
+Priorität hat, wenn er einen Zauberspruch wirkt oder eine Fähigkeit aktiviert, 
 der bzw. die eine Manazahlung verlangt, oder wenn eine Regel oder ein Effekt 
 nach einer Manazahlung fragt, selbst inmitten des Wirkens oder Verrechnens 
 eines Zauberspruchs oder Aktivierens oder Verrechnens einer Fähigkeit.
@@ -4467,7 +3896,7 @@ folgenden Ausnahme:
 605.4a Eine ausgelöste Manafähigkeit geht nicht auf den Stapel, daher kann sie 
 nicht als Ziel bestimmt oder neutralisiert werden, und es kann nicht auf sie geantwortet 
 werden. Sie wird vielmehr sofort nach der Manafähigkeit verrechnet, durch die 
-sie ausgelöst wurde, ohne dass auf Vorrang gewartet wird.
+sie ausgelöst wurde, ohne dass auf Priorität gewartet wird.
 
 Beispiel: Eine Verzauberung lautet: „Immer wenn ein Spieler ein Land für 
 Mana tappt, erhöht dieser Spieler seinen Manavorrat um ein Mana eines 
@@ -4504,7 +3933,7 @@ Loyalitätsfähigkeiten.
 
 606.3. Ein Spieler kann eine Loyalitätsfähigkeit einer bleibenden Karte, die er 
 kontrolliert, während einer Hauptphase seines Zuges aktivieren, wenn er 
-Vorrang hat und der Stapel leer ist, jedoch nur, wenn kein Spieler eine der 
+Priorität hat und der Stapel leer ist, jedoch nur, wenn kein Spieler eine der 
 Loyalitätsfähigkeiten dieser bleibenden Karte in diesem Zug zuvor aktiviert hat.
 
 606.4. Als Kosten, um eine Loyalitätsfähigkeit einer bleibenden Karte zu 
@@ -4743,7 +4172,7 @@ Manafähigkeiten aktivieren, bevor er diese Aktion durchführt. Wenn ein Effekt
 einen Spieler speziell anweist oder ihm erlaubt, einen Zauberspruch während 
 einer Verrechnung zu wirken, macht er dies, indem er diesen Spruch oben auf den 
 Stapel legt und dann fortfährt, ihn zu wirken, indem er den Schritten in den 
-Regeln 601.2a–h folgt, außer dass kein Spieler Vorrang erhält, nachdem er 
+Regeln 601.2a–h folgt, außer dass kein Spieler Priorität erhält, nachdem er 
 gewirkt wurde. Der momentan verrechnende Spruch oder die momentan verrechnende 
 Fähigkeit setzt dann mit der Verrechnung fort, was das Wirken anderer Sprüche 
 auf diese Weise enthalten kann. Während einer Verrechnung können normalerweise 
@@ -5736,7 +5165,7 @@ legen und ihre Kosten zu bezahlen, sodass sie schließlich verrechnet wird
 und ihren Effekt haben wird. Nur der Beherrscher eines Objekts (oder sein 
 Besitzer, falls es keinen Beherrscher hat) kann die aktivierte Fähigkeit des 
 Objekts aktivieren, außer das Objekt gibt ausdrücklich etwas anderes an. Ein 
-Spieler kann eine Fähigkeit aktivieren, wenn er Vorrang hat. Siehe Regel 602, 
+Spieler kann eine Fähigkeit aktivieren, wenn er Priorität hat. Siehe Regel 602, 
 „Aktivierte Fähigkeiten aktivieren.“
 
 701.3. Anlegen
@@ -5772,7 +5201,7 @@ und/oder die Aura, Ausrüstung oder Befestigung das Spiel verlässt.
 701.4a Einen Zauberspruch zu wirken bedeutet, ihn von der Zone, in der er sich 
 befindet (normalerweise die Hand), zu nehmen, auf den Stapel zu legen und seine 
 Kosten zu bezahlen, sodass er schließlich verrechnet wird und seinen Effekt 
-haben wird. Ein Spieler kann einen Zauberspruch wirken, wenn er Vorrang hat. 
+haben wird. Ein Spieler kann einen Zauberspruch wirken, wenn er Priorität hat. 
 Siehe Regel 601, „Zaubersprüche wirken.“
 
 701.4b Eine Karte zu wirken bedeutet, sie als Zauberspruch zu wirken.
@@ -5898,7 +5327,7 @@ die verrechnet wird und sie zum Kämpfen anweist, wird kein Schaden zugefügt.
 
 701.11a Ein Land zu spielen bedeutet, es von der Zone, in der es sich befindet 
 (normalerweise die Hand), ins Spiel zu bringen. Ein Spieler kann ein Land 
-spielen, wenn er Vorrang hat, es die Hauptphase seines Zuges ist, der Stapel 
+spielen, wenn er Priorität hat, es die Hauptphase seines Zuges ist, der Stapel 
 leer ist und er in diesem Zug noch kein Land gespielt hat. Ein Land spielen ist 
 eine Sonderaktion (siehe Regel 115), die nicht den Stapel benutzt; es findet 
 einfach statt. Ein Land als Ergebnis eines Zauberspruchs oder einer Fähigkeit 
@@ -6928,7 +6357,7 @@ endet, wenn die bleibende Karte aufgedeckt wird.
 
 702.35c Du kannst keine Karte verdeckt spielen, wenn sie nicht Morph besitzt.
 
-702.35d Wenn du Vorrang hast, kannst du eine verdeckte bleibende Karte, die 
+702.35d Wenn du Priorität hast, kannst du eine verdeckte bleibende Karte, die 
 du kontrollierst, aufdecken. Dies ist eine Sonderaktion; sie benutzt nicht den 
 Stapel (siehe Regel 115). Um dies zu tun, zeige allen Spielern, was die 
 Morphkosten der bleibenden Karte wären, wenn sie aufgedeckt wäre, zahle diese 
@@ -7780,7 +7209,7 @@ SpielzugAktionen. (Siehe Regel 603.3c.)
 irgendwelche rundenbasierten Aktionen verknüpft sind, werden diese 
 rundenbasierten Aktionen zuerst abgearbeitet. Das geschieht, bevor 
 zustandsbasierte Aktionen überprüft werden, bevor ausgelöste 
-Fähigkeiten auf den Stapel gelegt werden und bevor Spieler Vorrang erhalten.
+Fähigkeiten auf den Stapel gelegt werden und bevor Spieler Priorität erhalten.
 
 703.4 Die rundenbasierten Aktionen sind wie folgt:
 
@@ -7865,8 +7294,8 @@ Regel 603, „Ausgelöste Fähigkeiten“.)
 704.2 zustandsbasierte Aktionen werden das ganze Spiel hindurch 
 überprüft und werden von keinem Spieler kontrolliert.
 
-704.3 Immer wenn ein Spieler Vorrang erhalten würde (siehe Regel 116, „Timing 
-und Vorrang“), überprüft das Spiel auf jede der aufgelisteten Bedingungen für 
+704.3 Immer wenn ein Spieler Priorität erhalten würde (siehe Regel 116, „Timing 
+und Priorität“), überprüft das Spiel auf jede der aufgelisteten Bedingungen für 
 zustandsbasierte Aktionen und führt alle anwendbaren Effekte 
 gleichzeitig als ein einzelnes Ereignis durch. Falls als Ergebnis der 
 Überprüfung irgendwelche zustandsbasierte Aktionen durchgeführt wurden, 
@@ -7874,9 +7303,9 @@ wird die Überprüfung wiederholt; ansonsten werden alle ausgelöste Fähigkeite
 die darauf warten, auf den Stapel gelegt zu werden, auf den Stapel gelegt, dann 
 wird die Überprüfung wiederholt. Sobald keine weiteren zustandsbasierten Aktionen als Ergebnis der Überprüfung generiert wurden und keine 
 ausgelösten Fähigkeiten darauf warten, auf den Stapel gelegt zu werden, erhält 
-der entsprechende Spieler Vorrang. Dieser Vorgang findet auch während des 
+der entsprechende Spieler Priorität. Dieser Vorgang findet auch während des 
 Aufräumsegments statt (siehe Regel 514), mit dem Unterschied, dass kein Spieler 
-Vorrang erhält und das Segment endet, falls keine zustandsbasierten 
+Priorität erhält und das Segment endet, falls keine zustandsbasierten 
 Aktionen als Ergebnis der ersten Überprüfung in diesem Segment generiert wurden 
 und keine ausgelösten Fähigkeiten darauf warten, auf den Stapel gelegt zu 
 werden.
@@ -8796,21 +8225,21 @@ dargestellt werden, hören das nächste Mal, wenn zustandsbasierte
 Aktionen überprüft werden, auf zu existieren (siehe Regel 704, „Zustandsbasierte Aktionen“).
 
 713.1b Überprüfe zustandsbasierte Aktionen. Kein Spieler erhält 
-Vorrang, und es werden keine ausgelösten Fähigkeiten auf den Stapel gelegt.
+Priorität, und es werden keine ausgelösten Fähigkeiten auf den Stapel gelegt.
 
 713.1c Die/Das momentane Phase/Segment endet. Das Spiel springt direkt zum 
 Aufräumsegment. Übergehe alle Phasen oder Segment zwischen dieser Phase bzw. 
 diesem Segment und dem Aufräumsegment.
 
-713.2 Kein Spieler erhält während dieses Vorgangs Vorrang, somit werden 
+713.2 Kein Spieler erhält während dieses Vorgangs Priorität, somit werden 
 ausgelöste Fähigkeiten nicht auf den Stapel gelegt. Wenn irgendwelche 
 ausgelösten Fähigkeiten zwischen der Verrechnung des Zauberspruchs oder der 
 Fähigkeit und dem Ende des Aufräumsegments ausgelöst wurden, werden diese 
 Fähigkeiten im Aufräumsegment auf den Stapel gelegt, dann erhält der aktive 
-Spieler Vorrang, und Spieler Können Zaubersprüche wirken und Fähigkeiten 
+Spieler Priorität, und Spieler Können Zaubersprüche wirken und Fähigkeiten 
 aktivieren. Danach gibt es ein weiteres Aufräumsegment, bevor der Zug letztlich 
 endet. Falls während dieses Vorgangs keine ausgelösten Fähigkeiten ausgelöst 
-wurden, erhält im Aufräumsegment kein Spieler Vorrang. Siehe Regel 514, 
+wurden, erhält im Aufräumsegment kein Spieler Priorität. Siehe Regel 514, 
 „Aufräumsegment“).
 
 713.3 Obwohl der Zug endet, werden „zu Beginn des Endsegments“-ausgelöste 
@@ -8849,8 +8278,8 @@ Spieler genommen hat. (Siehe Regel 704, „zustandsbasierte Aktionen“.)
 unmittelbar vor dem Enttappsegment des ersten Zuges. Falls der Zauberspruch 
 oder die Fähigkeit, der bzw. die den Effekt generiert hat, zusätzliche 
 Anweisungen enthält, werden diese zu diesem Zeitpunkt befolgt. Kein Spieler 
-erhält Vorrang, und jedwede ausgelösten Fähigkeiten, die als Folge ausgelöst 
-werden, werden auf den Stapel gelegt, sobald ein Spieler Vorrang erhält, 
+erhält Priorität, und jedwede ausgelösten Fähigkeiten, die als Folge ausgelöst 
+werden, werden auf den Stapel gelegt, sobald ein Spieler Priorität erhält, 
 normalerweise während des Versorgungssegments des ersten Zuges.
 
 714.5 Effekte können Karten von der Prozedur ausschließen, mit der die Partie 
@@ -8994,7 +8423,7 @@ durchführen zu müssen, und wie die Schleife aufgebrochen werden kann.
 716.2 Das Nehmen einer Abkürzung folgt dem folgenden Verfahren.
 
 716.2a Zu einem beliebigen Zeitpunkt in der Partie kann der Spieler, der 
-Vorrang hat, eine Abkürzung vorschlagen, indem er für alle Spieler eine 
+Priorität hat, eine Abkürzung vorschlagen, indem er für alle Spieler eine 
 Abfolge von Spielentscheidungen beschreibt, die auf Basis des aktuellen 
 Spielzustands und den zu erwartenden Ergebnissen der Abfolge von Entscheidungen 
 legal getroffen werden können. Diese Abfolge kann eine nicht-wiederholende 
@@ -9002,7 +8431,7 @@ Reihe von Entscheidungen sein, eine Schleife, die sich eine angegebene Anzahl
 an Malen wiederholt, mehrere Schleifen oder geschachtelte Schleifen, und kann 
 sogar mehrere Züge überspannen. Sie kann keine bedingten Aktionen umfassen, wo 
 das Ergebnis eines Spielereignisses die nächste Aktion eines Spielers bestimmt. 
-Am Endpunkt dieser Abfolge muss ein Spieler Vorrang haben, auch wenn es nicht 
+Am Endpunkt dieser Abfolge muss ein Spieler Priorität haben, auch wenn es nicht 
 der Spieler sein muss, der die Abkürzung vorschlägt.
 
    Beispiel: Ein Spieler kontrolliert eine Kreatur, die mit Gonds Ausstrahlung 
@@ -9010,14 +8439,14 @@ der Spieler sein muss, der die Abkürzung vorschlägt.
    Bringe einen 1/1 grünen Elf-Krieger-Kreaturenspielstein ins Spiel“, und ein 
    anderer Spieler kontrolliert eine Alarmwache, die u. a. lautet „Immer wenn 
    eine Kreatur ins Spiel kommt, enttappe alle Kreaturen.“ Wenn der Spieler 
-   Vorrang hat, kann er vorschlagen „Ich erzeuge eine Million Spielsteine,“ 
+   Priorität hat, kann er vorschlagen „Ich erzeuge eine Million Spielsteine,“ 
    indem er die Abfolge erklärt, wie er die Kreaturenfähigkeit aktiviert, alle 
    Spieler passen, die Kreaturenfähigkeit verrechnet wird und einen Spielstein 
    ins Spiel bringt (wodurch die Fähigkeit von der Alarmwache ausgelöst wird), 
    der Beherrscher der Alarmwache die ausgelöste Fähigkeit auf den Stapel legt, 
    alle Spieler passen, die ausgelöste Fähigkeit der Alarmwache verrechnet 
    wird, alle Spieler passen, bis der Spieler, der die Abkürzung vorschlägt, 
-   wieder Vorrang hat, und diese Abfolge 999.999 weitere Male wiederholt, bis 
+   wieder Priorität hat, und diese Abfolge 999.999 weitere Male wiederholt, bis 
    sie in dem Moment endet, wo die letzte Spielstein-erzeugende Fähigkeit 
    verrechnet wird.
 
@@ -9034,13 +8463,13 @@ Stelle wird der neue Endpunkt der vorgeschlagenen Abfolge.
    falls möglich.“) auf der Hand und sagt „In deinem Beginn-des-Kampfes-Segment 
    möchte ich einen Zauberspruch wirken.“ Die momentan vorgeschlagene Abkürzung 
    sieht vor, dass in diesem Zug alle Spieler bei jeder Gelegenheit passen, bis 
-   der inaktive Spieler im Beginn-des-Kampfes-Segment Vorrang hat.
+   der inaktive Spieler im Beginn-des-Kampfes-Segment Priorität hat.
 
 716.2c Sobald der letzte Spieler entweder der Abkürzung zugestimmt oder sie 
 verkürzt hat, wird die Abkürzung genommen. Das Spiel rückt bis zum zuletzt 
 vorgeschlagenen Endpunkt vor, wobei alle Spielentscheidungen so getroffen 
 werden, wie sie vorgeschlagen wurden. Falls die ursprünglich vorgeschlagene 
-Abkürzung verkürzt wurde, muss der Spieler, der jetzt Vorrang hat, eine 
+Abkürzung verkürzt wurde, muss der Spieler, der jetzt Priorität hat, eine 
 andere Spielentscheidung treffen, als ursprünglich für ihn vorgeschlagen wurde.
 
 716.3 Manchmal kann eine Schleife zersplittert sein, d. h. dass jeder an der 
@@ -9104,7 +8533,7 @@ Bibliothek in eine andere Zone als den Stapel bewegt haben, oder die dazu
 geführt haben, dass eine Bibliothek gemischt wurde.
 
 717.2 Wenn illegale Zaubersprüche oder Fähigkeiten umgekehrt werden, erhält der 
-Spieler, der Vorrang hatte, diese wieder und kann eine andere Aktion machen 
+Spieler, der Priorität hatte, diese wieder und kann eine andere Aktion machen 
 oder passen. Der Spieler kann die umgekehrte Aktion noch mal auf legale Weise 
 durchführen oder irgendeine andere von den Regeln erlaubte Aktion durchführen.
 
@@ -9139,7 +8568,7 @@ Spieler kontrolliert werden, hören auf zu existieren. Wenn es danach immer noch
 Objekte gibt, die von diesem Spieler kontrolliert werden, werden diese Objekte 
 ins Exil geschickt. Dies ist keine zustandsbasierte Aktion. Es 
 geschieht, sobald der Spieler das Spiel verlässt. Wenn der Spieler, der das 
-Spiel verlassen hat, Vorrang besaß, als er es verließ, wird die Vorrang an 
+Spiel verlassen hat, Priorität besaß, als er es verließ, wird die Priorität an 
 den nächsten Spieler in Zugfolge, der noch im Spiel ist, gepasst.
 
    Beispiel: Alex wirkt Verstandeskontrolle, eine Aura, die lautet „Du 
@@ -9218,8 +8647,8 @@ Spiel ist; andernfalls nutzt der Effekt die zuletzt bekannten Informationen
 
 800.4h Wenn ein Spieler das Spiel während seines Zuges verlässt, wird dieser 
 Zug bis zu seiner Vollendung ohne aktiven Spieler fortgesetzt. Wenn der aktive 
-Spieler Vorrang erhalten würde, erhält stattdessen der nächste Spieler in 
-Zugfolge Vorrang oder das oberste Objekt auf dem Stapel wird verrechnet oder 
+Spieler Priorität erhalten würde, erhält stattdessen der nächste Spieler in 
+Zugfolge Priorität oder das oberste Objekt auf dem Stapel wird verrechnet oder 
 die Phase oder das Segment endet, was auch immer zutreffend ist.
 
 800.4i Wenn ein Spieler das Spiel verlässt, dauern jegliche dauerhaften 
@@ -9652,16 +9081,16 @@ eine Karte.
 805.4c Jeder Spieler in einem Team kann während jedes Zuges dieses Teams ein 
 Land spielen.
 
-805.5 Teams erhalten Vorrang, nicht einzelne Spieler.
+805.5 Teams erhalten Priorität, nicht einzelne Spieler.
 
 805.5a Ein Spieler kann einen Zauberspruch wirken, eine Fähigkeit aktivieren 
-oder eine Sonderaktion ausführen, wenn sein Team Vorrang hat.
+oder eine Sonderaktion ausführen, wenn sein Team Priorität hat.
 
-805.5b Wenn ein Team Vorrang hat und keiner der Spieler dieses Teams etwas zu 
+805.5b Wenn ein Team Priorität hat und keiner der Spieler dieses Teams etwas zu 
 tun wünscht, passt das Team. Wenn alle Teams nacheinander passen (das heißt, 
 wenn alle Teams passen, ohne dass irgendein Spieler zwischen dem Passen 
 irgendeine Aktion durchführt), wird das oberste Objekt des Stapels verrechnet. 
-Danach erhält das aktive Team Vorrang. Wenn der Stapel leer ist, wenn alle 
+Danach erhält das aktive Team Priorität. Wenn der Stapel leer ist, wenn alle 
 Teams nacheinander passen, endet die Phase oder das Segment und die bzw. das 
 nächste beginnt.
 
@@ -9683,7 +9112,7 @@ erst die Spieler im aktiven Team in beliebiger Reihenfolge all ihr Ziehen, dann
 macht jeder Spieler in jedem inaktiven Team in Zugreihenfolge dasselbe.
 
 805.7 Wenn mehrere ausgelöste Fähigkeiten seit dem letzten Mal, an dem ein Team 
-Vorrang erhalten hat, ausgelöst wurden, legen die Mitglieder des aktiven 
+Priorität erhalten hat, ausgelöst wurden, legen die Mitglieder des aktiven 
 Teams alle ausgelösten Fähigkeiten, die jedweder von beiden kontrolliert, in 
 beliebiger Reihenfolge auf den Stapel. Danach machen die Spieler in jedem 
 inaktiven Team in Zugreihenfolge dasselbe.
@@ -9827,12 +9256,12 @@ nächsten Zug.
 807.5 Anstelle einen einzelnen Stapel zu haben, enthalten Riesentumult-Partien 
 mehrere Stapel. Jede Zugmarke repräsentiert ihren eigenen Stapel.
 
-807.5a Ein Spieler erhält nur Vorrang für einen Stapel einer bestimmten 
+807.5a Ein Spieler erhält nur Priorität für einen Stapel einer bestimmten 
 Zugmarke, wenn die Zugmarke innerhalb seiner Einflussweite ist oder ein Objekt 
 auf diesem Stapel von einem Spieler innerhalb seiner Einflussweite kontrolliert 
 wird.
 
-807.5b Wenn ein Spieler Vorrang für mehre Stapel besitzt und einen 
+807.5b Wenn ein Spieler Priorität für mehre Stapel besitzt und einen 
 Zauberspruch wirkt, eine Fähigkeit aktiviert oder eine ausgelöste Fähigkeit, 
 die er kontrolliert, ausgelöst wird, muss der Spieler festlegen, auf welchen 
 dieser Stapel der Zauberspruch oder die Fähigkeit gelegt wird. Wenn ein Objekt 
@@ -10281,7 +9710,7 @@ hat keine Quelle und wird von dem Spieler kontrolliert, dessen Welten-Würfel-
 Wurf zum Auslösen geführt hat. Das ist eine Ausnahme zu Regel 112.8.
 
 901.9 Der aktive Spieler kann jederzeit in einer Hauptphases seines Zuges den 
-Welten-Würfel würfeln, wenn er Vorrang hat und der Stapel leer ist. Das 
+Welten-Würfel würfeln, wenn er Priorität hat und der Stapel leer ist. Das 
 Durchführen dieser Aktion kostet den Spieler so viel Mana wie er diese Aktion 
 in diesem Zug zuvor durchgeführt hat. Das ist eine Sonderaktion, die nicht den 
 Stapel benutzt. Beachte, dass diese Zahl nicht gleich der Anzahl an Würfen des 
@@ -10289,15 +9718,15 @@ Welten-Würfels ist, falls in diesem Zug ein Effekt dazu geführt hat, dass der
 Spieler den Welten-Würfel geworfen hat. (Siehe Regel 115.2f.)
 
 901.9a Falls der Würfelwurf eine leere Seite ist, passiert nichts. Der aktive 
-Spieler erhält Vorrang.
+Spieler erhält Priorität.
 
 901.9b Falls der Würfelwurf das Chaos-Symbol {chaos} ist, wird jede Fähigkeit 
 einer aufgedeckten Weltenkarte ausgelöst, die mit „Wenn du {chaos} würfelst“ 
-beginnt, und auf den Stapel gelegt. Der aktive Spieler erhält Vorrang.
+beginnt, und auf den Stapel gelegt. Der aktive Spieler erhält Priorität.
 
 901.9c Falls der Würfelwurf das Weltenwanderer-Symbol {planeswalker} ist, wird 
 die „Weltenwanderer-Fähigkeit“ ausgelöst und auf den Stapel gelegt. Der aktive 
-Spieler erhält Vorrang.
+Spieler erhält Priorität.
 
 901.10 Wenn ein Spieler das Spiel verlässt, verlassen alle Objekte, die dieser 
 Spieler besitzt, das Spiel. (Siehe Regel 800.4a.) Falls sich darunter eine 
@@ -10622,7 +10051,7 @@ schmiedest“ werden ausgelöst.
 904.10 Wenn eine nicht-andauernde Komplott-Karte in der Kommandozone aufgedeckt 
 ist, und sie nicht die Quelle einer ausgelösten Fähigkeit ist, die ausgelöst 
 wurde, aber noch nicht den Stapel verlassen hat, wird diese Komplott-Karte das 
-nächste Mal, wenn ein Spieler Vorrang erhalten würde, verdeckt und unter das 
+nächste Mal, wenn ein Spieler Priorität erhalten würde, verdeckt und unter das 
 Komplott-Deck ihres Besitzers gelegt. (Dies ist eine zustandsbasierte 
 Aktion. Siehe Regel 704.)
 
@@ -10886,7 +10315,7 @@ Auslösen
 Immer wenn ein Spielereignis oder ein Spielzustand dem Auslöseereignis einer 
 ausgelösten Fähigkeit entspricht, wird diese Fähigkeit automatisch „ausgelöst“. 
 Das bedeutet, dass ihr Beherrscher sie auf den Stapel legt, sobald das nächste 
-Mal ein Spieler Vorrang erhalten würde. Siehe Regel 603, „Handhabung 
+Mal ein Spieler Priorität erhalten würde. Siehe Regel 603, „Handhabung 
 ausgelöster Fähigkeiten“.
 
 Ausrüsten
@@ -11929,7 +11358,7 @@ Eine Hauptphase, die nach dem Kampf kommt. Siehe Hauptphase.
 Nacheinander passen
 Alle Spieler „passen nacheinander“, wenn jeder Spieler im Spiel (beginnend bei 
 irgendeinem von ihnen) sich entscheidet, keine Aktion durchzuführen, wenn er 
-Vorrang erhält. Siehe Regel 116, „Timing und Vorrang“.
+Priorität erhält. Siehe Regel 116, „Timing und Priorität“.
 
 Name
 Eine Eigenschaft und Teil einer Karte. Der Name einer Karte ist in ihrer 
@@ -12033,8 +11462,8 @@ Die aktuelle Partie sofort beenden und neu starten. Siehe Regel 104,
 
 Passen
 Ablehnen, eine Aktion durchzuführen (so wie einen Zauberspruch wirken oder eine 
-Fähigkeit aktivieren), wenn man Vorrang hat. Siehe Regel 116, „Timing und 
-Vorrang“.
+Fähigkeit aktivieren), wenn man Priorität hat. Siehe Regel 116, „Timing und 
+Priorität“.
 
 Permanent (veraltet)
 Ein veralteter Begriff, mit dem angezeigt wurde, dass ein dauerhafter Effekt 
@@ -12086,10 +11515,10 @@ Fähigkeiten auftauchte, für deren Kosten das Artefakt nicht getappt werden
 musste. Karten, die mit diesem Text gedruckt wurden, haben in der Oracle-
 Kartenreferenz Errata erhalten und verwenden nun einfach den Begriff „Artefakt“.
 
-Vorrang
+Priorität
 Welcher Spieler zu einem bestimmten Zeitpunkt Aktionen durchführen kann, wird 
-durch ein System der „Vorrang“ festgelegt. Siehe Regel 116, „Timing und 
-Vorrang“.
+durch ein System der „Priorität“ festgelegt. Siehe Regel 116, „Timing und 
+Priorität“.
 
 Provozieren
 Eine Schlüsselwortfähigkeit, die eine Kreatur zum Blocken zwingen kann. Siehe 
@@ -12757,8 +12186,8 @@ Vorhersage
 Eine Schlüsselwortfähigkeit, das einer aktivierten Fähigkeit erlaubt, von der 
 Hand eines Spielers aktiviert zu werden. Siehe Regel 702.55, „Vorhersage“.
 
-Vorrang
-Siehe Vorrang.
+Priorität
+Siehe Priorität.
 
 Vorzeigen
 Siehe Offen vorzeigen.
