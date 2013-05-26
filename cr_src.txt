@@ -857,588 +857,237 @@ Beispiel: Ein Spieler wirkt einen Blitzschlag, einen Spontanzauber, der besagt: 
 
 200. Allgemeines
 
-200.1. Die Bestandteile einer Karte sind Name, Manakosten, Illustration, 
-Farbanzeiger, Typuszeile, Erweiterungssymbol, Textbox, Stärke und 
-Widerstandskraft, Loyalität, Anpassung der Handkartenzahl, Anpassung der 
-Lebenspunkte, Künstlerangabe, Rechtshinweis und Sammlernummer. Manche Karten 
-können einige oder alle dieser Bestandtile mehr als einmal haben.
+200.1. Die Bestandteile einer Karte sind Name, Manakosten, Illustration, Farbanzeiger, Typuszeile, Erweiterungssymbol, Textbox, Stärke und Widerstandskraft, Loyalität, Anpassung der Handkartenzahl, Anpassung der Lebenspunkte, Künstlerangabe, Rechtshinweis und Sammlernummer. Manche Karten können einige oder alle dieser Bestandtile mehr als einmal haben.
 
-200.2. Manche Bestandteile einer Karte sind zugleich Eigenschaften von dem Objekt, 
-das diese hat. Siehe Regel 109.3.
+200.2. Manche Bestandteile einer Karte sind zugleich Eigenschaften von dem Objekt, das diese hat. Siehe Regel 109.3.
 
-200.3. Manche Objekte, die keine Karten sind (Spielsteine, Kopien von Karten und 
-Kopien von Zaubersprüchen) haben einige Bestandteile einer Karte, aber 
-nur solche, die auch Eigenschaften sind. Siehe Regel 110.5 und Regel 706.
+200.3. Manche Objekte, die keine Karten sind (Spielsteine, Kopien von Karten und Kopien von Zaubersprüchen) haben einige Bestandteile einer Karte, aber nur solche, die auch Eigenschaften sind. Siehe Regel 110.5 und Regel 706.
 
 201. Name
 
 201.1. Der Name einer Karte ist in ihrer oberen linken Ecke gedruckt.
 
-201.2. Zwei Karten haben denselben Namen, wenn die englischen Versionen ihrer 
-Namen identisch sind.
+201.2. Zwei Karten haben denselben Namen, wenn die englischen Versionen ihrer Namen identisch sind.
 
-201.3. Wenn ein Effekt einen Spieler anweist, eine Karte zu benennen, muss der 
-Spieler einen Namen einer Karte wählen, die in der Oracle-Kartenreferenz 
-existiert (siehe Regel 108.1) und in dem Spielformat, das der Spieler spielt, legal ist. 
-(Siehe Regel 100.6.) Wenn der Spieler eine geteilte Karte benennen möchte, muss 
-er beide Hälften der geteilten Karte benennen. (Siehe Regel 708.) Wenn der 
-Spieler den alternativen Namen einer Wendekarte benennen möchte, kann er dies 
-tun. (Siehe Regel 709.) Wenn der Spieler die Rückseite einer doppelseitigen 
-Karte benennen möchte, kann er dies tun. (Siehe Regel 711.) Ein Spieler kann 
-nicht den Namen eines Spielsteins wählen, außer es ist zugleich der Name einer 
-Karte.
+201.3. Wenn ein Effekt einen Spieler anweist, eine Karte zu benennen, muss der Spieler einen Namen einer Karte wählen, die in der Oracle-Kartenreferenz existiert (siehe Regel 108.1) und in dem Spielformat, das der Spieler spielt, legal ist. (Siehe Regel 100.6.) Wenn der Spieler eine geteilte Karte benennen möchte, muss er beide Hälften der geteilten Karte benennen. (Siehe Regel 708.) Wenn der Spieler den alternativen Namen einer Wendekarte benennen möchte, kann er dies tun. (Siehe Regel 709.) Wenn der Spieler die Rückseite einer doppelseitigen Karte benennen möchte, kann er dies tun. (Siehe Regel 711.) Ein Spieler kann nicht den Namen eines Spielsteins wählen, außer es ist zugleich der Name einer Karte.
 
-201.4. Text, der sich auf das Objekt, auf dem er ist, mit dessen Namen bezieht, 
-meint nur dieses bestimmte Objekt und kein anderes Objekte mit diesem Namen, 
-ungeachtet irgendwelcher Namensänderungen, die durch Spieleffekte herbeigeführt 
-wurden.
+201.4. Text, der sich auf das Objekt, auf dem er ist, mit dessen Namen bezieht, meint nur dieses bestimmte Objekt und kein anderes Objekte mit diesem Namen, ungeachtet irgendwelcher Namensänderungen, die durch Spieleffekte herbeigeführt wurden.
 
-201.4a Wenn der Effekt einer Fähigkeit einem Objekt eine Fähigkeit verleiht, die 
-sich mit einem Namen auf die Quelle der ersten Fähigkeit bezieht, bezieht sich 
-der Name nur auf die Quelle der ersten Fähigkeit, nicht auf irgendein anderes 
-Objekt mit demselben Namen. Das gilt auch, wenn die zweite Fähigkeit auf ein 
-neues Objekt kopiert wird.
+201.4a Wenn der Effekt einer Fähigkeit einem Objekt eine Fähigkeit verleiht, die sich mit einem Namen auf die Quelle der ersten Fähigkeit bezieht, bezieht sich der Name nur auf die Quelle der ersten Fähigkeit, nicht auf irgendein anderes Objekt mit demselben Namen. Das gilt auch, wenn die zweite Fähigkeit auf ein neues Objekt kopiert wird.
 
-Beispiel: Gossenschmutz besitzt eine Fähigkeit, die lautet: „Immer wenn eine 
-Nichtspielstein-Kreatur stirbt, die du kontrollierst, lege eine Schleimmarke 
-auf den Gossenschmutz und bringe dann einen grünen Schlammwesen-
-Kreaturenspielstein mit ‚Stärke und Widerstandskraft dieser Kreatur sind 
-gleich der Anzahl an Schleimmarken auf dem Gossenschmutz‘ ins Spiel.“ Die 
-Fähigkeit, die der Spielsteinkreatur gegeben wurde, schaut nur auf den 
-Gossenschmutz, der den Spielstein erschaffen hat, nicht auf irgendeinen 
-anderen Gossenschmutz im Spiel. Eine Kopie dieses Spielsteins hätte 
-ebenfalls eine Fähigkeit, die sich nur auf den Gossenschmutz bezieht, der 
-den Original-Spielstein erschaffen hat.
+Beispiel: Gossenschmutz besitzt eine Fähigkeit, die lautet: „Immer wenn eine Nichtspielstein-Kreatur stirbt, die du kontrollierst, lege eine Schleimmarke auf den Gossenschmutz und bringe dann einen grünen Schlammwesen-Kreaturenspielstein mit ‚Stärke und Widerstandskraft dieser Kreatur sind gleich der Anzahl an Schleimmarken auf dem Gossenschmutz‘ ins Spiel.“ Die Fähigkeit, die der Spielsteinkreatur gegeben wurde, schaut nur auf den Gossenschmutz, der den Spielstein erschaffen hat, nicht auf irgendeinen anderen Gossenschmutz im Spiel. Eine Kopie dieses Spielsteins hätte ebenfalls eine Fähigkeit, die sich nur auf den Gossenschmutz bezieht, der den Original-Spielstein erschaffen hat.
 
-201.4b Wenn eine Fähigkeit eines Objekts sich mit dem Namen auf das Objekt 
-bezieht, und ein Objekt mit einem anderen Namen erhält diese Fähigkeit, sollten 
-alle Vorkommen des ersten Namens in der erhaltenen Fähigkeit, die sich mit dem 
-Namen auf das erste Objekt bezieht, so behandelt werden, als wäre es der zweite 
-Name.
+201.4b Wenn eine Fähigkeit eines Objekts sich mit dem Namen auf das Objekt bezieht, und ein Objekt mit einem anderen Namen erhält diese Fähigkeit, sollten alle Vorkommen des ersten Namens in der erhaltenen Fähigkeit, die sich mit dem Namen auf das erste Objekt bezieht, so behandelt werden, als wäre es der zweite Name.
 
-Beispiel: Das Quecksilber-Elementar besagt unter anderem: „{U}: Das 
-Quecksilber-Elementar erhält bis zum Ende des Zuges alle aktivierten 
-Fähigkeiten einer Kreatur deiner Wahl.‘“ Wenn es eine Fähigkeit erhält, die 
-besagt „{G}: Regeneriere den Knüppel-Troll.“ wird durch das Aktivieren 
-dieser Fähigkeit das Quecksilber-Elementar regeneriert und nicht den Knüppel-
-Troll, von dem es diese Fähigkeit erhalten hat.
+Beispiel: Das Quecksilber-Elementar besagt unter anderem: „{U}: Das Quecksilber-Elementar erhält bis zum Ende des Zuges alle aktivierten Fähigkeiten einer Kreatur deiner Wahl.‘“ Wenn es eine Fähigkeit erhält, die besagt „{G}: Regeneriere den Knüppel-Troll.“ wird durch das Aktivieren dieser Fähigkeit das Quecksilber-Elementar regeneriert und nicht den Knüppel-Troll, von dem es diese Fähigkeit erhalten hat.
 
-Beispiel: Gletscherstrahl ist ein Spontanzauber mit „arkane Kopplung“, der 
-besagt „Der Gletscherstrahl fügt einer Kreatur oder einem Spieler deiner 
-Wahl 2 Schadenspunkte zu.“ Wenn er an Zugriff des Kodamas gekoppelt 
-wird, fügt dieser Zugriff des Kodamas der gewählten Kreatur oder dem 
-gewählten Spieler die 2 Schadenspunkte zu.
+Beispiel: Gletscherstrahl ist ein Spontanzauber mit „arkane Kopplung“, der besagt „Der Gletscherstrahl fügt einer Kreatur oder einem Spieler deiner Wahl 2 Schadenspunkte zu.“ Wenn er an Zugriff des Kodamas gekoppelt wird, fügt dieser Zugriff des Kodamas der gewählten Kreatur oder dem gewählten Spieler die 2 Schadenspunkte zu.
 
-Beispiel: Der Dimir-Doppelgänger besagt „{1}{U}{B}: Schicke eine 
-Kreaturenkarte deiner Wahl aus einem Friedhof ins Exil. Der Dimir-
-Doppelgänger wird zu einer Kopie dieser Karte und erhält diese Fähigkeit.“ 
-Die Fähigkeit des Dimir-Doppelgängers wird mit einer Runenklauenbär-Karte 
-als Ziel aktiviert. Der Dimir-Doppelgänger wird zu einer Kopie des 
-Runenklauenbären und erhält eine Fähigkeit, die behandelt werden sollte, als 
-laute sie „{1}{U}{B}: Schicke eine Kreaturenkarte deiner Wahl aus einem 
-Friedhof ins Exil. Der Runenklauenbär wird zu einer Kopie dieser Karte und 
-erhält diese Fähigkeit.“
+Beispiel: Der Dimir-Doppelgänger besagt „{1}{U}{B}: Schicke eine Kreaturenkarte deiner Wahl aus einem Friedhof ins Exil. Der Dimir-Doppelgänger wird zu einer Kopie dieser Karte und erhält diese Fähigkeit.“ Die Fähigkeit des Dimir-Doppelgängers wird mit einer Runenklauenbär-Karte als Ziel aktiviert. Der Dimir-Doppelgänger wird zu einer Kopie des Runenklauenbären und erhält eine Fähigkeit, die behandelt werden sollte, als laute sie „{1}{U}{B}: Schicke eine Kreaturenkarte deiner Wahl aus einem Friedhof ins Exil. Der Runenklauenbär wird zu einer Kopie dieser Karte und erhält diese Fähigkeit.“
 
-201.4c Der gedruckte Text auf manchen legendären Karten bezieht sich mit einer verkürzten 
-Form des Namens auf diese Karte. Dies kommt nur ab dem zweiten Bezug vor; der 
-erste Bezug benutzt stets den vollen Namen der Karte. Die so verwendeten 
-Vorkommen des verkürzten Namens werden behandelt, als ob sie den vollen 
-Kartennamen benutzen würden.
+201.4c Der gedruckte Text auf manchen legendären Karten bezieht sich mit einer verkürzten Form des Namens auf diese Karte. Dies kommt nur ab dem zweiten Bezug vor; der erste Bezug benutzt stets den vollen Namen der Karte. Die so verwendeten Vorkommen des verkürzten Namens werden behandelt, als ob sie den vollen Kartennamen benutzen würden.
 
-201.5. Wenn eine Fähigkeit eines Objekts eine Formulierung wie „dieses [etwas]“ 
-benutzt, um ein Objekt zu identifizieren, wobei [etwas] eine Eigenschaft ist, 
-bezieht es sich auf dieses bestimmte Objekt, selbst dann, wenn es zu der Zeit 
-nicht die entsprechende Eigenschaft hat.
+201.5. Wenn eine Fähigkeit eines Objekts eine Formulierung wie „dieses [etwas]“ benutzt, um ein Objekt zu identifizieren, wobei [etwas] eine Eigenschaft ist, bezieht es sich auf dieses bestimmte Objekt, selbst dann, wenn es zu der Zeit nicht die entsprechende Eigenschaft hat.
 
-Beispiel: Eine Fähigkeit lautet: „Eine Kreatur deiner Wahl erhält +2/+2 bis 
-zum Ende des Zuges. Zerstöre diese Kreatur zu Beginn des nächsten 
-Endsegments.“ Die Fähigkeit wird das Objekt, dem es +2/+2 gegeben hat, 
-zerstören, auch wenn das Objekt zu Beginn des nächsten Endsegments keine 
-Kreatur mehr ist.
+Beispiel: Eine Fähigkeit lautet: „Eine Kreatur deiner Wahl erhält +2/+2 bis zum Ende des Zuges. Zerstöre diese Kreatur zu Beginn des nächsten Endsegments.“ Die Fähigkeit wird das Objekt, dem es +2/+2 gegeben hat, zerstören, auch wenn das Objekt zu Beginn des nächsten Endsegments keine Kreatur mehr ist.
 
 202. Manakosten und Farbe
 
-202.1. Die Manakosten einer Karte werden durch Manasymbole in der Nähe des oberen Randes angezeigt. (Siehe Regel 107.4.) Auf den meisten 
-Karten sind diese Symbole in der oberen rechten Ecke gedruckt. Einige Karten 
-aus dem Set \Blick in die Zukunft\ besitzen alternative Rahmen, in denen die 
-Manasymbole links neben der Illustration erscheinen.
+202.1. Die Manakosten einer Karte werden durch Manasymbole in der Nähe des oberen Randes angezeigt. (Siehe Regel 107.4.) Auf den meisten Karten sind diese Symbole in der oberen rechten Ecke gedruckt. Einige Karten aus dem Set \Blick in die Zukunft\ besitzen alternative Rahmen, in denen die Manasymbole links neben der Illustration erscheinen.
 
-202.1a Die Manakosten eines Objekts repräsentieren, was ein Spieler aus seinem 
-Manavorrat ausgeben muss, um diese Karte zu wirken. Sofern die Manakosten eines 
-Objekts keine phyrexianischen Manasymbole enthalten (siehe Regel 107.4f), erfordert
-die Bezahlung dieser Manakosten die farbliche Übereinstimmung mit jedem 
-farbigen Manasymbol, sowie das Bezahlen der beliebigen 
-Manakosten, die in den Kosten angezeigt sind.
+202.1a Die Manakosten eines Objekts repräsentieren, was ein Spieler aus seinem Manavorrat ausgeben muss, um diese Karte zu wirken. Sofern die Manakosten eines Objekts keine phyrexianischen Manasymbole enthalten (siehe Regel 107.4f), erfordert die Bezahlung dieser Manakosten die farbliche Übereinstimmung mit jedem farbigen Manasymbol, sowie das Bezahlen der beliebigen Manakosten, die in den Kosten angezeigt sind.
 
-202.1b Einige Objekte haben keine Manakosten. Das umfasst üblicherweise alle 
-Landkarten, sowie andere Karten, die keine Manasymbole an der Stelle haben, wo 
-ihre Manakosten erscheinen würden, Spielsteine (es sei denn, der Effekt, der 
-sie erzeugt, gibt etwas anderes an) und nicht herkömmliche #Magic#-Karten. 
-Keine Manakosten zu haben repräsentiert unbezahlbare Kosten (siehe Regel 117.6). 
-Beachte, dass Länder gespielt werden ohne irgendwelche Kosten zu zahlen. (siehe 
-Regel 305, „Länder“).
+202.1b Einige Objekte haben keine Manakosten. Das umfasst üblicherweise alle Landkarten, sowie andere Karten, die keine Manasymbole an der Stelle haben, wo ihre Manakosten erscheinen würden, Spielsteine (es sei denn, der Effekt, der sie erzeugt, gibt etwas anderes an) und nicht herkömmliche #Magic#-Karten. Keine Manakosten zu haben repräsentiert unbezahlbare Kosten (siehe Regel 117.6). Beachte, dass Länder gespielt werden ohne irgendwelche Kosten zu zahlen.(siehe Regel 305, „Länder“).
 
-202.2. Ein Objekt hat die Farbe oder Farben der Manasymbole in seinen Manakosten,
-ungeachtet der Farbe seines Rahmens.
+202.2. Ein Objekt hat die Farbe oder Farben der Manasymbole in seinen Manakosten, ungeachtet der Farbe seines Rahmens.
 
-202.2a Die fünf Farben sind Weiß, Blau, Schwarz, Rot und Grün. Das weiße 
-Manasymbol wird durch {W} dargestellt, das blaue durch ein {U}, das schwarze 
-durch ein {B}, das rote durch ein {R} und das grüne durch ein {G}.
+202.2a Die fünf Farben sind Weiß, Blau, Schwarz, Rot und Grün. Das weiße Manasymbol wird durch {W} dargestellt, das blaue durch ein {U}, das schwarze durch ein {B}, das rote durch ein {R} und das grüne durch ein {G}.
 
-Beispiel: Ein Objekt mit Manakosten von {2}{W} ist weiß, ein Objekt mit 
-Manakosten von {2} ist farblos und eines mit Manakosten von {2}{W}{B} ist 
-sowohl weiß als auch schwarz.
+Beispiel: Ein Objekt mit Manakosten von {2}{W} ist weiß, ein Objekt mit Manakosten von {2} ist farblos und eines mit Manakosten von {2}{W}{B} ist sowohl weiß als auch schwarz.
 
 202.2b Objekte ohne farbiges Mana in ihren Manakosten sind farblos.
 
-202.2c Ein Objekt mit zwei oder mehr verschiedenen farbigen Manasymbolen in 
-seinen Manakosten hat alle Farben dieser Manasymbole. Die meisten 
-mehrfarbigen Karten sind mit einem goldenen Rahmen gedruckt, aber das ist keine 
-Voraussetzung dafür, dass eine Karte mehrfarbig ist.
+202.2c Ein Objekt mit zwei oder mehr verschiedenen farbigen Manasymbolen in seinen Manakosten hat alle Farben dieser Manasymbole. Die meisten mehrfarbigen Karten sind mit einem goldenen Rahmen gedruckt, aber das ist keine Voraussetzung dafür, dass eine Karte mehrfarbig ist.
 
-202.2d Ein Objekt mit einem oder mehreren hybriden Manasymbolen und/oder 
-phyrexianischen Manasymbolen in seinen Manakosten hat jede der Farben dieser 
-Manasymbole, zusätzlich zu allen anderen Farben, die das Objekt haben mag. (Die 
-meisten Karten mit hybriden Manasymbolen in ihren Manakosten sind mit einem 
-zweifarbigen Rahmen gedruckt. Siehe Regel 107.4e.)
+202.2d Ein Objekt mit einem oder mehreren hybriden Manasymbolen und/oder phyrexianischen Manasymbolen in seinen Manakosten hat jede der Farben dieser Manasymbole, zusätzlich zu allen anderen Farben, die das Objekt haben mag. (Die meisten Karten mit hybriden Manasymbolen in ihren Manakosten sind mit einem zweifarbigen Rahmen gedruckt. Siehe Regel 107.4e.)
 
-202.2e Ein Objekt kann links von der Typuszeile einen Farbanzeiger besitzen. 
-Das Objekt hat jede Farbe, die durch den Farbanzeiger angegeben ist. (Siehe 
-Regel 204.)
+202.2e Ein Objekt kann links von der Typuszeile einen Farbanzeiger besitzen. Das Objekt hat jede Farbe, die durch den Farbanzeiger angegeben ist. (Siehe Regel 204.)
 
-202.2f Effekte können die Farbe eines Objekts ändern, einem farblosen Objekt 
-eine Farbe geben oder bewirken, dass ein farbiges Objekt farblos wird; siehe 
-Regel 105.3.
+202.2f Effekte können die Farbe eines Objekts ändern, einem farblosen Objekt eine Farbe geben oder bewirken, dass ein farbiges Objekt farblos wird; siehe Regel 105.3.
 
-202.3. Die umgewandelten Manakosten eines Objekts sind eine Zahl, die gleich der 
-Gesamtsumme an Mana in dessen Manakosten ist, ungeachtet der Farbe.
+202.3. Die umgewandelten Manakosten eines Objekts sind eine Zahl, die gleich der Gesamtsumme an Mana in dessen Manakosten ist, ungeachtet der Farbe.
 
 Beispiel: Manakosten von {3}{U}{U} ergeben umgewandelte Manakosten von 5.
 
 202.3a Die umgewandelten Manakosten eines Objekts ohne Manakosten sind 0.
 
-202.3b Bei der Berechnung der umgewandelten Manakosten eines Objekts mit {X} in 
-seinen Manakosten wird X als 0 behandelt, während das Objekt nicht auf dem 
-Stapel ist, und als die Zahl, die dafür gewählt wurde, während das Objekt auf 
-dem Stapel ist.
+202.3b Bei der Berechnung der umgewandelten Manakosten eines Objekts mit {X} in seinen Manakosten wird X als 0 behandelt, während das Objekt nicht auf dem Stapel ist, und als die Zahl, die dafür gewählt wurde, während das Objekt auf dem Stapel ist.
 
-202.3c Bei der Berechnung von umgewandelten Manakosten eines Objekts mit einem 
-hybriden Manasymbol in seinen Manakosten, nutze die größte Komponente eines jeden 
-hybriden Symbols.
+202.3c Bei der Berechnung von umgewandelten Manakosten eines Objekts mit einem hybriden Manasymbol in seinen Manakosten, nutze die größte Komponente eines jeden hybriden Symbols.
 
-Beispiel: Die umgewandelten Manakosten einer Karte mit Manakosten von 
-{1}{W/U}{W/U} sind 3.
+Beispiel: Die umgewandelten Manakosten einer Karte mit Manakosten von {1}{W/U}{W/U} sind 3.
 
-Beispiel: Die umgewandelten Manakosten einer Karte mit Manakosten von 
-{2/B}{2/B}{2/B} sind 6.
+Beispiel: Die umgewandelten Manakosten einer Karte mit Manakosten von {2/B}{2/B}{2/B} sind 6.
 
-202.3d Jedes phyrexianische Manasymbol in den Manakosten einer Karte trägt 1 
-für ihre umgewandelten Manakosten bei.
+202.3d Jedes phyrexianische Manasymbol in den Manakosten einer Karte trägt 1 für ihre umgewandelten Manakosten bei.
 
-Beispiel: Die umgewandelten Manakosten einer Karte mit Manakosten von 
-   {1}{W/P}{W/P} sind 3.
+Beispiel: Die umgewandelten Manakosten einer Karte mit Manakosten von {1}{W/P}{W/P} sind 3.
 
-202.4. Jegliche zusätzlichen Kosten, die im Regeltext eines Objekts aufgeführt 
-oder von einem Effekt auferlegt sind, sind nicht Teil der Manakosten. (Siehe 
-Regel 601, „Zaubersprüche wirken.“) Solche Kosten werden zur selben Zeit wie 
-die anderen Kosten des Zauberspruchs bezahlt.
+202.4. Jegliche zusätzlichen Kosten, die im Regeltext eines Objekts aufgeführt oder von einem Effekt auferlegt sind, sind nicht Teil der Manakosten. (Siehe Regel 601, „Zaubersprüche wirken.“) Solche Kosten werden zur selben Zeit wie die anderen Kosten des Zauberspruchs bezahlt.
 
 203. Illustration
 
-203.1. Die Illustration ist in der oberen Hälfte einer Karte gedruckt und hat 
-keine Auswirkung auf das Spiel. Zum Beispiel besitzt eine Kreatur nicht 
-Flugfähigkeit, solange es nicht im Regeltext angegeben ist, selbst wenn sie als 
-fliegend dargestellt wird.
+203.1. Die Illustration ist in der oberen Hälfte einer Karte gedruckt und hat keine Auswirkung auf das Spiel. Zum Beispiel besitzt eine Kreatur nicht Flugfähigkeit, solange es nicht im Regeltext angegeben ist, selbst wenn sie als fliegend dargestellt wird.
 
 204. Farbanzeiger
 
-204.1. Der Farbanzeiger befindet sich links von der Typuszeile direkt unter der 
-Illustration. Er besteht aus einem kreisförmigen Symbol, das mit einer oder 
-mehreren Farben gefüllt ist. Ein Farbanzeiger taucht gewöhnlich auf 
-Nichtland-Karten ohne Manakosten auf.
+204.1. Der Farbanzeiger befindet sich links von der Typuszeile direkt unter der Illustration. Er besteht aus einem kreisförmigen Symbol, das mit einer oder mehreren Farben gefüllt ist. Ein Farbanzeiger taucht gewöhnlich auf Nichtland-Karten ohne Manakosten auf.
 
-204.2. Ein Objekt mit einem Farbanzeiger hat jede Farbe, die durch den 
-Farbanzeiger angegeben ist.
+204.2. Ein Objekt mit einem Farbanzeiger hat jede Farbe, die durch den Farbanzeiger angegeben ist.
 
 205. Typuszeile
 
-205.1. Die Typuszeile befindet sich direkt unter der Illustration. Sie enthält 
-den oder die Kartentypen einer Karte sowie ihre Untertypen und Übertypen, falls 
-vorhanden.
+205.1. Die Typuszeile befindet sich direkt unter der Illustration. Sie enthält den oder die Kartentypen einer Karte sowie ihre Untertypen und Übertypen, falls vorhanden.
 
-205.1a Einige Effekte setzen den Kartentyp eines Objekts. In solchen Fällen 
-ersetzt/en der/die neue(n) Kartentyp(en) sämtliche 
-vorhandenen Kartentypen. Marken, Effekte und auf dem Objekt vermerkter 
-Schaden bleiben auf ihm, selbst dann, wenn sie für den neuen Typ bedeutungslos 
-sind. Wenn ein Effekt einen oder mehrere Untertypen eines Objekts setzt, 
-ersetzt/en der/die neue(n) Untertyp(en) gleichermaßen 
-sämtliche vorhandenen Untertypen des entsprechenden Satzes (Kreaturentypen, 
-Landtypen, Artefakttypen, Verzauberungstypen, Planeswalkertypen und 
-Zauberspruchtypen). Wenn der Kartentyp eines Objekts entfernt wird, bleiben die 
-Untertypen, die mit diesem Kartentyp in Beziehung stehen, erhalten, falls sie 
-auch Untertypen eines Kartentyps sind, den das Objekt momentan besitzt; 
-andernfalls sind sie ebenfalls für die gesamte Dauer entfernt, die der 
-Kartentyp des Objekts entfernt ist. Das Entfernen eines Untertyps eines Objekts 
-beeinflusst dessen Kartentypen überhaupt nicht.
+205.1a Einige Effekte setzen den Kartentyp eines Objekts. In solchen Fällen ersetzt/en der/die neue(n) Kartentyp(en) sämtliche vorhandenen Kartentypen. Marken, Effekte und auf dem Objekt vermerkter Schaden bleiben auf ihm, selbst dann, wenn sie für den neuen Typ bedeutungslos sind. Wenn ein Effekt einen oder mehrere Untertypen eines Objekts setzt, ersetzt/en der/die neue(n) Untertyp(en) gleichermaßen sämtliche vorhandenen Untertypen des entsprechenden Satzes (Kreaturentypen, Landtypen, Artefakttypen, Verzauberungstypen, Planeswalkertypen und Zauberspruchtypen). Wenn der Kartentyp eines Objekts entfernt wird, bleiben die Untertypen, die mit diesem Kartentyp in Beziehung stehen, erhalten, falls sie auch Untertypen eines Kartentyps sind, den das Objekt momentan besitzt; andernfalls sind sie ebenfalls für die gesamte Dauer entfernt, die der Kartentyp des Objekts entfernt ist. Das Entfernen eines Untertyps eines Objekts beeinflusst dessen Kartentypen überhaupt nicht.
 
-205.1b Einige Effekte ändern den Kartentyp, Übertyp oder Untertyp eines 
-Objekts, geben aber an, dass das Objekt einen früheren Kartentyp, Übertyp oder 
-Untertyp beibehält. In solchen Fällen werden alle bisherigen Kartentypen, 
-Übertypen und Untertypen des Objekts beibehalten. Diese Regel gilt für 
-Effekte, die die Formulierung „zusätzlich zu seinen anderen Typen“ benutzen 
-oder angeben, dass es „[immer noch/weiterhin] ein [Typ, Übertyp oder Untertyp]“ ist.
-Einige Effekte geben an, dass ein Objekt 
-eine „Artefaktkreatur“ wird; diese Effekte erlauben dem Objekt ebenfalls, all 
-seine früheren Kartentypen und Untertypen beizubehalten.
+205.1b Einige Effekte ändern den Kartentyp, Übertyp oder Untertyp eines Objekts, geben aber an, dass das Objekt einen früheren Kartentyp, Übertyp oder Untertyp beibehält. In solchen Fällen werden alle bisherigen Kartentypen, Übertypen und Untertypen des Objekts beibehalten. Diese Regel gilt für Effekte, die die Formulierung „zusätzlich zu seinen anderen Typen“ benutzen oder angeben, dass es „[immer noch/weiterhin] ein [Typ, Übertyp oder Untertyp]“ ist. Einige Effekte geben an, dass ein Objekt eine „Artefaktkreatur“ wird; diese Effekte erlauben dem Objekt ebenfalls, all seine früheren Kartentypen und Untertypen beizubehalten.
 
-Beispiel: Eine Fähigkeit lautet: „Alle Länder sind 1/1-Kreaturen, die 
-weiterhin Länder sind.“ Die beeinflussten Länder besitzen nun zwei 
-Kartentypen: Kreatur und Land. Wenn es irgendwelche Länder gäbe, die auch 
-Artefakte waren, bevor der Effekt der Fähigkeit auf sie angewendet wurde, dann würden 
-diese Länder „Land, Artefaktkreatur“ werden, nicht nur „Kreatur“. Der Effekt 
-erlaubt ihnen, sowohl den Kartentyp „Artefakt“ als auch den Kartentyp „Land“ 
-beizubehalten. Außerdem behält jedes Land, das von der Fähigkeit betroffen 
-ist, alle Landtypen und Übertypen, die es hatte, bevor die Fähigkeit 
-einsetzte.
+Beispiel: Eine Fähigkeit lautet: „Alle Länder sind 1/1-Kreaturen, die weiterhin Länder sind.“ Die beeinflussten Länder besitzen nun zwei Kartentypen: Kreatur und Land. Wenn es irgendwelche Länder gäbe, die auch Artefakte waren, bevor der Effekt der Fähigkeit auf sie angewendet wurde, dann würden diese Länder „Land, Artefaktkreatur“ werden, nicht nur „Kreatur“. Der Effekt erlaubt ihnen, sowohl den Kartentyp „Artefakt“ als auch den Kartentyp „Land“ beizubehalten. Außerdem behält jedes Land, das von der Fähigkeit betroffen ist, alle Landtypen und Übertypen, die es hatte, bevor die Fähigkeit einsetzte.
 
-Beispiel: Eine Fähigkeit lautet: „Alle Artefakte sind 1/1-
-Artefaktkreaturen.“ Wenn eine bleibende Karte sowohl ein Artefakt als auch 
-eine Verzauberung ist, wird sie eine „Verzauberung, Artefaktkreatur“.
+Beispiel: Eine Fähigkeit lautet: „Alle Artefakte sind 1/1-Artefaktkreaturen.“ Wenn eine bleibende Karte sowohl ein Artefakt als auch eine Verzauberung ist, wird sie eine „Verzauberung, Artefaktkreatur“.
 
 205.2. Kartentypen
 
-205.2a Die Kartentypen sind Artefakt, Hexerei, Komplott, Kreatur, Land, 
-Planeswalker, Spontanzauber, Stammeskarte, Vanguard, Verzauberung und 
-Welt (engl. \plane\). Siehe Abschnitt 3, „Kartentypen.“
+205.2a Die Kartentypen sind Artefakt, Hexerei, Komplott, Kreatur, Land, Planeswalker, Spontanzauber, Stammeskarte, Vanguard, Verzauberung und Welt (engl. \plane\). Siehe Abschnitt 3, „Kartentypen.“
 
-205.2b Einige Objekte besitzen mehr als einen Kartentyp (zum Beispiel eine 
-Artefaktkreatur). Solche Objekte genügen den Kriterien jedes Effekts, der 
-irgendeinen ihrer Kartentypen betrifft.
+205.2b Einige Objekte besitzen mehr als einen Kartentyp (zum Beispiel eine Artefaktkreatur). Solche Objekte genügen den Kriterien jedes Effekts, der irgendeinen ihrer Kartentypen betrifft.
 
-205.2c Spielsteine haben Kartentypen, obwohl sie keine Karten sind. 
-Dasselbe gilt für Kopien von Zaubersprüchen und Kopien von Karten.
+205.2c Spielsteine haben Kartentypen, obwohl sie keine Karten sind. Dasselbe gilt für Kopien von Zaubersprüchen und Kopien von Karten.
 
 205.3. Untertypen
 
 205.3a Eine Karte kann einen oder mehrere Untertypen in ihrer Typuszeile haben.
 
-205.3b Untertypen zu jedem Kartentyp außer Welt sind immer einzelne Wörter und werden
-nach einem Gedankenstrich aufgeführt. Jedes Wort nach dem Gedankenstrich ist ein einzelner
-Untertyp; solche Objekte können mehrere Typen besitzen. Untertypen von Welten sind ebenfalls
-nach einen Gedankenstrich aufgeführt, können aber aus mehreren Wörtern bestehen; alle Wörter
-nach dem Gedankenstrich bilden gemeinsam einen Untertyp.
+205.3b Untertypen zu jedem Kartentyp außer Welt sind immer einzelne Wörter und werden nach einem Gedankenstrich aufgeführt. Jedes Wort nach dem Gedankenstrich ist ein einzelner Untertyp; solche Objekte können mehrere Typen besitzen. Untertypen von Welten sind ebenfalls nach einen Gedankenstrich aufgeführt, können aber aus mehreren Wörtern bestehen; alle Wörter nach dem Gedankenstrich bilden gemeinsam einen Untertyp.
 
-Beispiel: „Standardland – Gebirge“ bedeutet, die Karte ist ein Land mit dem 
-Untertyp Gebirge. „Kreatur – Goblin, Zauberer“ bedeutet, die Karte ist eine 
-Kreatur mit den Untertypen Goblin und Zauberer. „Artefakt – Ausrüstung“ 
-bedeutet, die Karte ist ein Artefakt mit dem Untertyp Ausrüstung.
+Beispiel: „Standardland – Gebirge“ bedeutet, die Karte ist ein Land mit dem Untertyp Gebirge. „Kreatur – Goblin, Zauberer“ bedeutet, die Karte ist eine Kreatur mit den Untertypen Goblin und Zauberer. „Artefakt – Ausrüstung“ bedeutet, die Karte ist ein Artefakt mit dem Untertyp Ausrüstung.
 
-205.3c Wenn eine Karte mit mehreren Kartentypen einen oder mehrere Untertypen 
-besitzt, bezieht sich jeder Untertyp auf seinen entsprechenden Kartentyp.
+205.3c Wenn eine Karte mit mehreren Kartentypen einen oder mehrere Untertypen besitzt, bezieht sich jeder Untertyp auf seinen entsprechenden Kartentyp.
 
-Beispiel: Die Typuszeile der Laube der Dryaden besagt „Land, Kreatur – 
-Wald, Dryade“. Wald ist ein Landtyp und Dryade ein Kreaturentyp.
+Beispiel: Die Typuszeile der Laube der Dryaden besagt „Land, Kreatur – Wald, Dryade“. Wald ist ein Landtyp und Dryade ein Kreaturentyp.
 
-205.3d Ein Objekt kann keinen Untertyp erhalten, der nicht einem der 
-Typen dieses Objekts entspricht.
+205.3d Ein Objekt kann keinen Untertyp erhalten, der nicht einem der Typen dieses Objekts entspricht.
 
-205.3e Wenn ein Effekt einen Spieler anweist, einen Untertyp zu bestimmen, muss 
-dieser Spieler genau einen existierenden Untertyp bestimmen, und der 
-Untertyp, den er bestimmt, muss vom entsprechenden Kartentyp sein. Zum Beispiel 
-kann der Spieler keinen Landtyp bestimmen, wenn eine Anweisung fordert, einen 
-Kreaturentyp zu bestimen.
+205.3e Wenn ein Effekt einen Spieler anweist, einen Untertyp zu bestimmen, muss dieser Spieler genau einen existierenden Untertyp bestimmen, und der Untertyp, den er bestimmt, muss vom entsprechenden Kartentyp sein. Zum Beispiel kann der Spieler keinen Landtyp bestimmen, wenn eine Anweisung fordert, einen Kreaturentyp zu bestimen.
 
-   Beispiel: Wenn ein Kreaturentyp zu bestimmen ist, dann sind „Meervolk“ oder 
-   „Zauberer“ zulässig, aber „Meervolk, Zauberer“ ist es nicht. Wörter wie 
-   „Artefakt“, „Gegner“, „Sumpf“ oder „Lastwagen“ können nicht gewählt werden, 
-   weil sie keine Kreaturentypen sind.
+Beispiel: Wenn ein Kreaturentyp zu bestimmen ist, dann sind „Meervolk“ oder „Zauberer“ zulässig, aber „Meervolk, Zauberer“ ist es nicht. Wörter wie „Artefakt“, „Gegner“, „Sumpf“ oder „Lastwagen“ können nicht gewählt werden, weil sie keine Kreaturentypen sind.
 
-205.3f Viele Karten wurden mit Kartentypen gedruckt, die nun veraltet sind. 
-Viele Karten habe rückwirkend Untertypen erhalten. Benutze die Oracle-
-Kartenreferenz, um zu ermitteln, welche Untertypen eine Karte hat. (Siehe Regel 108.1.)
+205.3f Viele Karten wurden mit Kartentypen gedruckt, die nun veraltet sind. Viele Karten habe rückwirkend Untertypen erhalten. Benutze die Oracle-Kartenreferenz, um zu ermitteln, welche Untertypen eine Karte hat. (Siehe Regel 108.1.)
 
-205.3g Artefakte haben ihren eigenen, einzigartigen Satz von Untertypen; diese 
-Untertypen werden \Artefakttypen\ genannt. Die Artefakttypen sind Ausrüstung 
-(siehe Regel 301.5), Befestigung (siehe Regel 301.6) und Gerät.
+205.3g Artefakte haben ihren eigenen, einzigartigen Satz von Untertypen; diese Untertypen werden \Artefakttypen\ genannt. Die Artefakttypen sind Ausrüstung (siehe Regel 301.5), Befestigung (siehe Regel 301.6) und Gerät.
 
-205.3h Verzauberungen haben ihren eigenen, einzigartigen Satz von Untertypen; diese 
-Untertypen werden \Verzauberungstypen\ genannt. Die Verzauberungstypen sind Aura 
-(siehe Regel 303.4), Fluch und Schrein.
+205.3h Verzauberungen haben ihren eigenen, einzigartigen Satz von Untertypen; diese Untertypen werden \Verzauberungstypen\ genannt. Die Verzauberungstypen sind Aura (siehe Regel 303.4), Fluch und Schrein.
 
-205.3i Länder haben ihren eigenen, einzigartigen Satz von Untertypen; diese 
-Untertypen werden \Landtypen\ genannt. Die Landtypen sind Ebene, Gebirge, Hort, 
-Insel, Kraftwerk, Mine, Ort, Sumpf, Turm, Urzas, Wald und Wüste.
+205.3i Länder haben ihren eigenen, einzigartigen Satz von Untertypen; diese Untertypen werden \Landtypen\ genannt. Die Landtypen sind Ebene, Gebirge, Hort, Insel, Kraftwerk, Mine, Ort, Sumpf, Turm, Urzas, Wald und Wüste.
 
-Von dieser Liste sind Ebene, Gebirge, Insel, Sumpf und Wald \Standardlandtypen\. 
-Siehe Regel 305.6.
+Von dieser Liste sind Ebene, Gebirge, Insel, Sumpf und Wald \Standardlandtypen\. Siehe Regel 305.6.
 
-205.3j Planeswalker haben ihren eigenen, einzigartigen Satz von Untertypen; diese 
-Untertypen werden \Planeswalkertypen\ genannt. Die Planeswalkertypen sind Ajani, 
-Bolas, Chandra, Elspeth, Garruk, Gideon, Jace, Karn, Koth, Liliana, Nissa, 
-Sarkhan, Sorin, Tamiyo, Tezzeret, Tibalt und Venser.
+205.3j Planeswalker haben ihren eigenen, einzigartigen Satz von Untertypen; diese Untertypen werden \Planeswalkertypen\ genannt. Die Planeswalkertypen sind Ajani, Bolas, Chandra, Elspeth, Garruk, Gideon, Jace, Karn, Koth, Liliana, Nissa, Sarkhan, Sorin, Tamiyo, Tezzeret, Tibalt und Venser.
 
-Wenn zwei oder mehr Planeswalker im Spiel einen Planeswalkertyp gemeinsam haben,
-werden alle in den Friedhof ihrer Besitzer gelegt. Diese 
-„Planeswalker-Einzigartigkeitsregel“ ist eine zustandsbasierte Aktion. 
-Siehe Regel 704.
+Wenn zwei oder mehr Planeswalker im Spiel einen Planeswalkertyp gemeinsam haben, werden alle in den Friedhof ihrer Besitzer gelegt. Diese „Planeswalker-Einzigartigkeitsregel“ ist eine zustandsbasierte Aktion. Siehe Regel 704.
 
-205.3k Spontanzauber und Hexereien teilen sich ihre Liste von Untertypen; diese 
-Untertypen werden \Zauberspruchtypen\ genannt. Die Zauberspruchtypen sind Arkan 
-und Falle.
+205.3k Spontanzauber und Hexereien teilen sich ihre Liste von Untertypen; diese Untertypen werden \Zauberspruchtypen\ genannt. Die Zauberspruchtypen sind Arkan und Falle.
 
-205.3m Kreaturen und Stammeskarten teilen sich ihre Liste von Untertypen; diese 
-Untertypen werden \Kreaturentypen\ genannt. Die Kreaturentypen sind Ältester, 
-Ameisenbär, Antilope, Archon, Assassine, Atog, Auerochse, Auster, Avatar, Bär, 
-Barbar, Basilisk, Baumhirte, Berater, Berserker, Bestie, Betrachter, 
-Blinkmotte, Bobbel, Bogenschütze, Bold, Bringer, Buboh, Bürger, Buschköter, 
-Camarid, Chimäre, Dachs, Dämon, Dauthi, Deserteur, Diener, Drache, Drohne, 
-Druide, Dryade, Dschinn, Egel, Eichhörnchen, Eidechse, Einhorn, Elch, Eldrazi, 
-Elementarwesen, Elefant, Elf, Engel, Fahnenträger, Feenwesen, Feigling, Fisch, 
-Fledermaus, Flusspferd, Freihändler, Frettchen, Frosch, Fuchs, Gargoyle, Geist, 
-Gestaltwandler, Gewürm, Gnom, Goblin, Golem, Gorgo, Greif, Gremlin, Handwerker, 
-Harpyie, Hase, Homarid, Homunculus, Hund, Hyäne, Hydra, Hippogriff, Ifrit, 
-Illusion, Inkarnation, Insekt, Juggernaut, Kamel, Karibu, Katze, Kavu, Keim, 
-Kirin, Kithkin, Kleriker, Kneifer, Kobold, Konstrukt, Kor, Krabbe, Krake, 
-Krieger, Krokodil, Laich, Lammasu, Leibeigener, Leiche, Leviathan, Lhurgoyf, 
-Mantikor, Mastikor, Mauer, Meervolk, Mensch, Menschenaffe, Methathran, 
-Minotaurus, Modulon, Mönch, Mondvolk, Montagearbeiter, Monteur, Mungo, Mutant, 
-Myr, Mystiker, Nachtmahr, Nachtschrat, Nashorn, Nautilus, Nephilim, Nervensäge, 
-Ninja, Noggele, Nomade, Ochse, Oger, Oktopus, Ophis, Orgg, Ork, Pegasus, 
-Pentavit, Pferd, Pflanze, Phelddagrif, Phoenix, Pilzwesen, Pirat, Prätor, 
-Prisma, Qualle, Ratte, Räuber, Rebell, Reflektion, Remasuri, Riese, Ritter, 
-Salamander, Samurai, Sand, Saproling, Satyr, Sceada, Schaf, Schamane, Schatten, 
-Schildkröte, Schlachtschiff, Schlammwesen, Schlange, Schnecke, Schrecken, 
-Schwamm, Seestern, Seltsamkeit, Sirene, Skelett, Skorpion, Slith, Soldat, 
-Söldner, Soltari, Späher, Sphäre, Specter, Sphinx, Spinne, Splitter, 
-Spruchwandler, Stachel, Surrakar, Tetravit, Teufel, Teufelsbraten, Thalakos, 
-Thopter, Thrull, Tintenfisch, Triskelavit, Troll, Überlebender, Überträger, 
-Vampir, Vedalken, Verbündeter, Vettel, Viashino, Vielfraß, Vogel, 
-Vogelscheuche, Wal, Werwolf, Wildschwein, Wolf, Wolpertinger, Wombat, Wraith, 
-Wurm, Yeti, Zauberer, Zecke, Zentaur, Zephalid, Ziege, Zombie, Zubera, Zwerg 
-und Zyklop.
+205.3m Kreaturen und Stammeskarten teilen sich ihre Liste von Untertypen; diese Untertypen werden \Kreaturentypen\ genannt. Die Kreaturentypen sind Ältester, Ameisenbär, Antilope, Archon, Assassine, Atog, Auerochse, Auster, Avatar, Bär, Barbar, Basilisk, Baumhirte, Berater, Berserker, Bestie, Betrachter, Blinkmotte, Bobbel, Bogenschütze, Bold, Bringer, Buboh, Bürger, Buschköter, Camarid, Chimäre, Dachs, Dämon, Dauthi, Deserteur, Diener, Drache, Drohne, Druide, Dryade, Dschinn, Egel, Eichhörnchen, Eidechse, Einhorn, Elch, Eldrazi, Elementarwesen, Elefant, Elf, Engel, Fahnenträger, Feenwesen, Feigling, Fisch, Fledermaus, Flusspferd, Freihändler, Frettchen, Frosch, Fuchs, Gargoyle, Geist, Gestaltwandler, Gewürm, Gnom, Goblin, Golem, Gorgo, Greif, Gremlin, Handwerker, Harpyie, Hase, Homarid, Homunculus, Hund, Hyäne, Hydra, Hippogriff, Ifrit, Illusion, Inkarnation, Insekt, Juggernaut, Kamel, Karibu, Katze, Kavu, Keim, Kirin, Kithkin, Kleriker, Kneifer, Kobold, Konstrukt, Kor, Krabbe, Krake, Krieger, Krokodil, Laich, Lammasu, Leibeigener, Leiche, Leviathan, Lhurgoyf, Mantikor, Mastikor, Mauer, Meervolk, Mensch, Menschenaffe, Methathran, Minotaurus, Modulon, Mönch, Mondvolk, Montagearbeiter, Monteur, Mungo, Mutant, Myr, Mystiker, Nachtmahr, Nachtschrat, Nashorn, Nautilus, Nephilim, Nervensäge, Ninja, Noggele, Nomade, Ochse, Oger, Oktopus, Ophis, Orgg, Ork, Pegasus, Pentavit, Pferd, Pflanze, Phelddagrif, Phoenix, Pilzwesen, Pirat, Prätor, Prisma, Qualle, Ratte, Räuber, Rebell, Reflektion, Remasuri, Riese, Ritter, Salamander, Samurai, Sand, Saproling, Satyr, Sceada, Schaf, Schamane, Schatten, Schildkröte, Schlachtschiff, Schlammwesen, Schlange, Schnecke, Schrecken, Schwamm, Seestern, Seltsamkeit, Sirene, Skelett, Skorpion, Slith, Soldat, Söldner, Soltari, Späher, Sphäre, Specter, Sphinx, Spinne, Splitter, Spruchwandler, Stachel, Surrakar, Tetravit, Teufel, Teufelsbraten, Thalakos, Thopter, Thrull, Tintenfisch, Triskelavit, Troll, Überlebender, Überträger, Vampir, Vedalken, Verbündeter, Vettel, Viashino, Vielfraß, Vogel, Vogelscheuche, Wal, Werwolf, Wildschwein, Wolf, Wolpertinger, Wombat, Wraith, Wurm, Yeti, Zauberer, Zecke, Zentaur, Zephalid, Ziege, Zombie, Zubera, Zwerg und Zyklop.
 
-205.3n Welten haben ihren eigenen, einzigartigen Satz an Untertypen; diese 
-Untertypen werden \Weltentypen\ genannt. Die Weltentypen sind Alara, 
-Arkhos, Azgol, Belenon, Bolas' Meditationsreich, Dominaria, Equilor, 
-Ergamon, Fabacin, Innistrad, Iquatana, Ir, Kaldheim, Kamigawa, Karsus, 
-Kephalai, Kinshala, Kolbahan, Kyneth, Lorwyn, Luvion, Mercadia, Mirrodin, Moag, 
-Mongseng, Muraganda, Das neue Phyrexia, Phyrexia, Pyrulea, Rabiah, Rath, Ravnica, 
-Regatha, Segovia, Serras Reich, Schattenmoor, Shandalar, Ulgrotha, Valla, Vryn, 
-Wildfeuer, Xerex und Zendikar.
+205.3n Welten haben ihren eigenen, einzigartigen Satz an Untertypen; diese Untertypen werden \Weltentypen\ genannt. Die Weltentypen sind Alara, Arkhos, Azgol, Belenon, Bolas' Meditationsreich, Dominaria, Equilor, Ergamon, Fabacin, Innistrad, Iquatana, Ir, Kaldheim, Kamigawa, Karsus, Kephalai, Kinshala, Kolbahan, Kyneth, Lorwyn, Luvion, Mercadia, Mirrodin, Moag, Mongseng, Muraganda, Das neue Phyrexia, Phyrexia, Pyrulea, Rabiah, Rath, Ravnica, Regatha, Segovia, Serras Reich, Schattenmoor, Shandalar, Ulgrotha, Valla, Vryn, Wildfeuer, Xerex und Zendikar.
 
-205.3p Phänomenkarten, Komplottkarten und Vanguard-Karten haben keine 
-Untertypen.
+205.3p Phänomenkarten, Komplottkarten und Vanguard-Karten haben keine Untertypen.
 
 205.4. Übertypen
 
-205.4a Eine Karte kann auch einen oder mehrere Übertypen besitzen. Diese sind 
-direkt vor den Kartentypen der Karte gedruckt. Die Übertypen sind Andauernd, 
-Legendär, Standard, Verschneit und Welt (engl. \world\).
+205.4a Eine Karte kann auch einen oder mehrere Übertypen besitzen. Diese sind direkt vor den Kartentypen der Karte gedruckt. Die Übertypen sind Andauernd, Legendär, Standard, Verschneit und Welt (engl. \world\).
 
-205.4b Der Übertyp eines Objekts ist unabhängig von dessen Kartentyp und 
-Untertyp, auch wenn einige Übertypen eng mit bestimmten Kartentypen in 
-Verbindung gebracht werden. Das Ändern der Kartentypen oder Untertypen eines 
-Objekts ändert nicht dessen Übertyp. Das Ändern des Übertyps eines Objekts 
-ändert nicht dessen Kartentypen oder Untertypen. Wenn ein Objekt einen Übertyp 
-erhält oder verliert, behält es alle anderen Übertypen, die es besaß.
+205.4b Der Übertyp eines Objekts ist unabhängig von dessen Kartentyp und Untertyp, auch wenn einige Übertypen eng mit bestimmten Kartentypen in Verbindung gebracht werden. Das Ändern der Kartentypen oder Untertypen eines Objekts ändert nicht dessen Übertyp. Das Ändern des Übertyps eines Objekts ändert nicht dessen Kartentypen oder Untertypen. Wenn ein Objekt einen Übertyp erhält oder verliert, behält es alle anderen Übertypen, die es besaß.
 
-Beispiel: Eine Fähigkeit lautet: „Alle Länder sind 1/1-Kreaturen, die 
-weiterhin Länder sind.“ Wenn irgendeines der beeinflussten Länder legendär 
-war, ist es weiterhin legendär.
+Beispiel: Eine Fähigkeit lautet: „Alle Länder sind 1/1-Kreaturen, die weiterhin Länder sind.“ Wenn irgendeines der beeinflussten Länder legendär war, ist es weiterhin legendär.
 
-205.4c Jedes Land mit dem Übertyp „Standard“ ist ein Standardland. Jedes Land, 
-das diesen Übertyp nicht besitzt, ist ein Nichtstandardland, auch wenn es einen 
-Standardlandtyp besitzt.
+205.4c Jedes Land mit dem Übertyp „Standard“ ist ein Standardland. Jedes Land, das diesen Übertyp nicht besitzt, ist ein Nichtstandardland, auch wenn es einen Standardlandtyp besitzt. Karten, die in Sets vor dem Hauptset \Achte Edition\ gedruckt wurden, verwenden nicht das Wort „Standard“, um ein Standardland zu kennzeichnen. Karten von diesen Sets mit den folgenden Namen sind Standardländer und haben entsprechende Errata in der Oracle-Kartenreferenz erhalten: Ebene, Gebirge, Insel, Sumpf, Wald, Verschneite Ebene, Verschneite Insel, Verschneiter Sumpf, Verschneiter Wald und Verschneites Gebirge.
 
-Karten, die in Sets vor dem Hauptset \Achte Edition\ gedruckt wurden, verwenden 
-nicht das Wort „Standard“, um ein Standardland zu kennzeichnen. Karten von 
-diesen Sets mit den folgenden Namen sind Standardländer und haben entsprechende 
-Errata in der Oracle-Kartenreferenz erhalten: Ebene, Gebirge, Insel, Sumpf, 
-Wald, Verschneite Ebene, Verschneite Insel, Verschneiter Sumpf, Verschneiter 
-Wald und Verschneites Gebirge.
+205.4d Jede bleibende Karte mit dem Übertyp „Legendär“ unterliegt der zustandsbasierten Aktion für legendäre bleibende Karten, auch die „Legendenregel“ genannt (siehe Regel 704.5k).
 
-205.4d Jede bleibende Karte mit dem Übertyp „Legendär“ unterliegt der 
-zustandsbasierten Aktion für legendäre bleibende Karten, auch die 
-„Legendenregel“ genannt (siehe Regel 704.5k).
+205.4e Jede bleibende Karte mit dem Übertyp „Welt“ unterliegt der zustandsbasierten Aktion für bleibende Welt-Karten, auch die „Welt-Regel“ genannt (siehe Regel 704.5m).
 
-205.4e Jede bleibende Karte mit dem Übertyp „Welt“ unterliegt der 
-zustandsbasierten Aktion für bleibende Welt-Karten, auch die 
-„Welt-Regel“ genannt (siehe Regel 704.5m).
+205.4f Jede bleibende Karte mit dem Übertyp „verschneit“ ist eine verschneite bleibende Karte. Jede bleibende Karte, die diesen Übertyp nicht besitzt, ist eine nichtverschneite bleibende Karte, unabhängig von ihrem Namen.
 
-205.4f Jede bleibende Karte mit dem Übertyp „verschneit“ ist eine verschneite 
-bleibende Karte. Jede bleibende Karte, die diesen Übertyp nicht besitzt, ist 
-eine nichtverschneite bleibende Karte, unabhängig von ihrem Namen.
-
-205.4g Jede Komplott-Karte mit dem Übertyp „andauernd“ ist von der 
-zustandsbasierten Aktion für Komplotte ausgenommen (siehe Regel 704.5w).
+205.4g Jede Komplott-Karte mit dem Übertyp „andauernd“ ist von der zustandsbasierten Aktion für Komplotte ausgenommen (siehe Regel 704.5w).
 
 206. Erweiterungssymbol
 
-206.1. Das Erweiterungssymbol zeigt an, aus welchem #Magic#-Set eine Karte 
-ist. Es ist ein kleines Bild, das normalerweise unter der rechten Ecke der 
-Illustration gedruckt ist.
+206.1. Das Erweiterungssymbol zeigt an, aus welchem #Magic#-Set eine Karte ist. Es ist ein kleines Bild, das normalerweise unter der rechten Ecke der Illustration gedruckt ist.
 
-206.2. Die Farbe des Erweiterungssymbols zeigt die Seltenheit der Karte in ihrer 
-Edition an. Ein rot-oranges Symbol zeigt an, dass die Karte sagenhaft selten ist. Ein 
-goldenes Symbol zeigt an, dass die Karte selten ist. Ein silbernes Symbol zeigt 
-an, dass die Karte nicht so häufig ist. Ein schwarzes oder weißes Symbol zeigt 
-an, dass die Karte häufig oder ein Standardland ist. Ein violettes Symbol 
-zeigt eine besondere Seltenheit an; bisher haben nur die „zeitverschobenen“ 
-Karten aus \Zeitspirale\®, die seltener waren als die seltenen Karten des Sets, 
-ein violettes Erweiterungssymbol bekommen. (Vor dem Set \Exodus\™ waren alle 
-Erweiterungssymbole schwarz, ungeachtet ihrer Seltenheit. Auch besaßen 
-#Magic#-Hauptsets vor der \Sechsten Edition\, mit der Ausnahme des Hauptsets 
-der \Fünften Edition\ in vereinfachtem Chinesisch, überhaupt keine 
-Erweiterungssymbole.)
+206.2. Die Farbe des Erweiterungssymbols zeigt die Seltenheit der Karte in ihrer Edition an. Ein rot-oranges Symbol zeigt an, dass die Karte sagenhaft selten ist. Ein goldenes Symbol zeigt an, dass die Karte selten ist. Ein silbernes Symbol zeigt an, dass die Karte nicht so häufig ist. Ein schwarzes oder weißes Symbol zeigt an, dass die Karte häufig oder ein Standardland ist. Ein violettes Symbol zeigt eine besondere Seltenheit an; bisher haben nur die „zeitverschobenen“ Karten aus \Zeitspirale\, die seltener waren als die seltenen Karten des Sets, ein violettes Erweiterungssymbol bekommen. (Vor dem Set \Exodus\ waren alle Erweiterungssymbole schwarz, ungeachtet ihrer Seltenheit. Auch besaßen #Magic#-Hauptsets vor der \Sechsten Edition\, mit der Ausnahme des Hauptsets der \Fünften Edition\ in vereinfachtem Chinesisch, überhaupt keine Erweiterungssymbole.)
 
-206.3. Ein Zauberspruch oder eine Fähigkeit, der bzw. die Karten einer 
-bestimmten Edition beeinflusst, prüft nur auf das Erweiterungssymbol dieses 
-Sets. Eine Karte, die im Hauptset oder einem anderen Set nachgedruckt wurde, 
-erhält das Erweiterungssymbol dieses Sets. Jede nachgedruckte Version der Karte 
-zählt nicht länger als Teil ihres ursprünglichen Sets, es sei denn, sie wurde mit dem 
-Erweiterungssymbol dieses Sets nachgedruckt.
+206.3. Ein Zauberspruch oder eine Fähigkeit, der bzw. die Karten einer bestimmten Edition beeinflusst, prüft nur auf das Erweiterungssymbol dieses Sets. Eine Karte, die im Hauptset oder einem anderen Set nachgedruckt wurde, erhält das Erweiterungssymbol dieses Sets. Jede nachgedruckte Version der Karte zählt nicht länger als Teil ihres ursprünglichen Sets, es sei denn, sie wurde mit dem Erweiterungssymbol dieses Sets nachgedruckt.
 
-206.4. Spieler können Karten von beliebigen Sets in ihren Constructed-Decks 
-verwenden, wenn diese Karten in einem Set erschienen sind, das in diesem Format 
-erlaubt ist (oder diese Karten ausdrücklich durch die #Magic#-Turnierregeln 
-erlaubt sind). Die aktuellen Festlegungen für die Constructed-Formate sind in 
-den #Magic#-Turnierregeln zu finden (_#www.wizards.com/wpn/Events/Rules.aspx#_).
+206.4. Spieler können Karten von beliebigen Sets in ihren Constructed-Decks verwenden, wenn diese Karten in einem Set erschienen sind, das in diesem Format erlaubt ist (oder diese Karten ausdrücklich durch die #Magic#-Turnierregeln erlaubt sind). Die aktuellen Festlegungen für die Constructed-Formate sind in den #Magic#-Turnierregeln zu finden (_#www.wizards.com/wpn/Events/Rules.aspx#_).
 
-206.5. Die vollständige Liste der Sets und Erweiterungssymbole ist im #Magic#-
-Produktbereich auf der Wizards of the Coast Webseite zu finden 
-(_#www.wizards.com/Magic/TCG/Article.aspx?x=mtg/tcg/products/allproducts#_).
+206.5. Die vollständige Liste der Sets und Erweiterungssymbole ist im #Magic#-Produktbereich auf der Wizards of the Coast Webseite zu finden (_#www.wizards.com/Magic/TCG/Article.aspx?x=mtg/tcg/products/allproducts#_).
 
 207. Textbox
 
-207.1. Die Textbox ist in der unteren Hälfte der Karte gedruckt. Sie enthält 
-gewöhnlich Regeltext, der die Fähigkeiten der Karte definiert.
+207.1. Die Textbox ist in der unteren Hälfte der Karte gedruckt. Sie enthält gewöhnlich Regeltext, der die Fähigkeiten der Karte definiert.
 
-207.2. Die Textbox kann auch kursiven Text enthalten, der keine Spielfunktion 
-besitzt.
+207.2. Die Textbox kann auch kursiven Text enthalten, der keine Spielfunktion besitzt.
 
-207.2a \Erinnerungstext\ ist kursiver Text in Klammern, der eine Regel 
-zusammenfasst, die für diese Karte gilt. Er erscheint üblicherweise in der 
-gleichen Zeile wie die Fähigkeit, für die er relevant ist, aber er kann auch in 
-einer eigenen Zeile erscheinen, wenn er sich auf einen Aspekt der Karte 
-bezieht, der keine Fähigkeit ist.
+207.2a \Erinnerungstext\ ist kursiver Text in Klammern, der eine Regel zusammenfasst, die für diese Karte gilt. Er erscheint üblicherweise in der gleichen Zeile wie die Fähigkeit, für die er relevant ist, aber er kann auch in einer eigenen Zeile erscheinen, wenn er sich auf einen Aspekt der Karte bezieht, der keine Fähigkeit ist.
 
-207.2b \Anekdotentext\ ist kursiver Text, der, wie die Illustration, dem Spiel 
-künstlerischen Reiz verleiht. Er erscheint unterhalb des Regeltextes.
+207.2b \Anekdotentext\ ist kursiver Text, der, wie die Illustration, dem Spiel künstlerischen Reiz verleiht. Er erscheint unterhalb des Regeltextes.
 
-207.2c Ein \Fähigkeitswort\ erscheint kursiv am Beginn einiger Fähigkeiten auf 
-Karten. Fähigkeitswörter sind ähnlich wie Schlüsselwörter, in dem sie Karten 
-verbinden, die eine ähnliche Funktionsweise besitzen, aber sie haben keine 
-spezielle Regelbedeutung und keine individuellen Einträge in den erweiterten 
-Regeln. Die Fähigkeitswörter sind Ausstrahlung, Blutzoll, Domäne, 
-Erhabenheit, Farbwert, Grenzwert, Landung, Metallkunst, Morbide, 
-Schicksalsstunde, Versessenheit, Verwandtschaft, Wegfegen und Zusammenarbeiten.
+207.2c Ein \Fähigkeitswort\ erscheint kursiv am Beginn einiger Fähigkeiten auf Karten. Fähigkeitswörter sind ähnlich wie Schlüsselwörter, in dem sie Karten verbinden, die eine ähnliche Funktionsweise besitzen, aber sie haben keine spezielle Regelbedeutung und keine individuellen Einträge in den erweiterten Regeln. Die Fähigkeitswörter sind Ausstrahlung, Blutzoll, Domäne, Erhabenheit, Farbwert, Grenzwert, Landung, Metallkunst, Morbide, Schicksalsstunde, Versessenheit, Verwandtschaft, Wegfegen und Zusammenarbeiten.
 
-207.3. In der Textbox vieler Karten des \Ravnica\®-Blocks erscheint ein 
-Gildensymbol. Diese Karten haben entweder einen für die angegebene Gilde
-exklusiven Mechanismus beziehen sich auf die zwei Farben, mit denen die Gilde
-in Zusammenhang steht. Gildensymbole haben keinen Einfluss auf das Spielgeschehen. In ähnlicher Weise erscheint in der Textbox der meisten Karten aus dem Block \Die Narben von Mirrodin\™ ein Fraktionssymbol. Diese Fraktionssymbole haben keinen Einfluss auf das 
-Spielgeschehen.
+207.3. In der Textbox vieler Karten des \Ravnica\-Blocks erscheint ein Gildensymbol. Diese Karten haben entweder einen für die angegebene Gilde exklusiven Mechanismus beziehen sich auf die zwei Farben, mit denen die Gilde in Zusammenhang steht. Gildensymbole haben keinen Einfluss auf das Spielgeschehen. In ähnlicher Weise erscheint in der Textbox der meisten Karten aus dem Block \Die Narben von Mirrodin\ ein Fraktionssymbol. Diese Fraktionssymbole haben keinen Einfluss auf das Spielgeschehen.
 
-207.4. Das Chaos-Symbol {C} erscheint in der Textbox jeder Weltenkarte links 
-von einer ausgelösten Fähigkeit, die ausgelöst wird, wenn mit dem Weltenwürfel 
-{C} gewürfelt wird. Das Symbol hat selbst keine besondere Regelbedeutung.
+207.4. Das Chaos-Symbol {C} erscheint in der Textbox jeder Weltenkarte links von einer ausgelösten Fähigkeit, die ausgelöst wird, wenn mit dem Weltenwürfel {C} gewürfelt wird. Das Symbol hat selbst keine besondere Regelbedeutung.
 
 208. Stärke/Widerstandskraft
 
-208.1. Eine Kreaturenkarte hat in ihrer unteren, rechten Ecke zwei Zahlen, die 
-durch einen Schrägstrich voneinander getrennt sind. Die erste Zahl ist ihre 
-Stärke (die Menge an Schaden, die die Kreatur im Kampf zufügt); die zweite Zahl ist ihre 
-Widerstandskraft (die Menge an Schaden, die benötigt wird, um die Kreatur zu zerstören). 
-Zum Beispiel bedeutet 2/3, die Kreatur besitzt Stärke 2 und Widerstandskraft 3. 
-Stärke und Widerstandskraft können durch Effekte verändert oder auf bestimmte Werte gesetzt werden.
+208.1. Eine Kreaturenkarte hat in ihrer unteren, rechten Ecke zwei Zahlen, die durch einen Schrägstrich voneinander getrennt sind. Die erste Zahl ist ihre Stärke (die Menge an Schaden, die die Kreatur im Kampf zufügt); die zweite Zahl ist ihre Widerstandskraft (die Menge an Schaden, die benötigt wird, um die Kreatur zu zerstören). Zum Beispiel bedeutet 2/3, die Kreatur besitzt Stärke 2 und Widerstandskraft 3. Stärke und Widerstandskraft können durch Effekte verändert oder auf bestimmte Werte gesetzt werden.
 
-208.2. Statt einer festen Zahl haben einige Kreaturenkarten eine Stärke und/oder 
-eine Widerstandskraft, die einen Stern (*) enthält.
+208.2. Statt einer festen Zahl haben einige Kreaturenkarten eine Stärke und/oder eine Widerstandskraft, die einen Stern (*) enthält.
 
-208.2a Die Karte kann eine Eigenschaft-definierende Fähigkeit haben, die ihre 
-Stärke und/oder Widerstandskraft gemäß einer angegebenen Bedingung setzt. 
-(Siehe Regel 604.3.) Solch eine Fähigkeit ist formuliert als „[Stärke oder 
-Widerstandskraft] [dieser Kreatur] ist gleich…“ oder „Stärke und 
-Widerstandskraft [dieser Kreatur] sind jeweils gleich…“ Diese Fähigkeit wirkt 
-überall, selbst außerhalb des Spiels. Wenn die Fähigkeit eine Zahl nutzen muss, 
-die nicht bestimmt werden kann, auch innerhalb einer Berechnung, benutze 0 
-anstelle dieser Zahl.
+208.2a Die Karte kann eine Eigenschaft-definierende Fähigkeit haben, die ihre Stärke und/oder Widerstandskraft gemäß einer angegebenen Bedingung setzt. (Siehe Regel 604.3.) Solch eine Fähigkeit ist formuliert als „[Stärke oder Widerstandskraft] [dieser Kreatur] ist gleich…“ oder „Stärke und Widerstandskraft [dieser Kreatur] sind jeweils gleich…“ Diese Fähigkeit wirkt überall, selbst außerhalb des Spiels. Wenn die Fähigkeit eine Zahl nutzen muss, die nicht bestimmt werden kann, auch innerhalb einer Berechnung, benutze 0 anstelle dieser Zahl.
 
-Beispiel: Jarkelds vergessener Orden besitzt Stärke und Widerstandskraft 
-gleich 1+*. Er hat die Fähigkeit „Sowie Jarkelds vergessener Orden ins Spiel 
-kommt, bestimme einen Gegner.“ und „Stärke und Widerstandskraft von Jarkelds 
-vergessenem Orden sind jeweils gleich 1 plus der Anzahl an Kreaturen, die 
-dieser Gegner kontrolliert.“ Solange Jarkelds vergessener Orden nicht im 
-Spiel ist, gibt es keinen bestimmten Gegner. Seine Stärke und 
-Widerstandskraft sind jeweils gleich 1 plus 0, also ist er 1/1.
+Beispiel: Jarkelds vergessener Orden besitzt Stärke und Widerstandskraft gleich 1+*. Er hat die Fähigkeit „Sowie Jarkelds vergessener Orden ins Spiel kommt, bestimme einen Gegner.“ und „Stärke und Widerstandskraft von Jarkelds vergessenem Orden sind jeweils gleich 1 plus der Anzahl an Kreaturen, die dieser Gegner kontrolliert.“ Solange Jarkelds vergessener Orden nicht im Spiel ist, gibt es keinen bestimmten Gegner. Seine Stärke und Widerstandskraft sind jeweils gleich 1 plus 0, also ist er 1/1.
 
-208.2b Die Karte kann eine statische Fähigkeit haben, die einen Ersatzeffekt 
-erzeugt, der die Stärke und Widerstandskraft der Kreatur auf einen von mehreren 
-möglichen Werten setzt, sowie die Kreatur ins Spiel kommt oder aufgedeckt wird. 
-(Siehe Regel 614, „Ersatzeffekte.“) Solch eine Fähigkeit ist formuliert als 
-„Sowie [diese Kreatur] ins Spiel kommt…“, „Sowie [diese Kreatur] aufgedeckt 
-wird…“ oder „[Dieser Kreatur] kommt als … ins Spiel.“ und führt zwei oder mehr 
-mögliche Werte für Stärke und Widerstandskraft auf (und kann außerdem auch 
-weitere Eigenschaften aufführen). Die mit diesen Effekten gewählten 
-Eigenschaften beeinflussen die kopierbaren Werte der Kreatur. (Siehe 
-Regel 706.2.) Wenn sich die Karte nicht im Spiel befindet, werden ihre Stärke 
-und Widerstandskraft jeweils als 0 angesehen.
+208.2b Die Karte kann eine statische Fähigkeit haben, die einen Ersatzeffekt erzeugt, der die Stärke und Widerstandskraft der Kreatur auf einen von mehreren möglichen Werten setzt, sowie die Kreatur ins Spiel kommt oder aufgedeckt wird. (Siehe Regel 614, „Ersatzeffekte.“) Solch eine Fähigkeit ist formuliert als „Sowie [diese Kreatur] ins Spiel kommt…“, „Sowie [diese Kreatur] aufgedeckt wird…“ oder „[Dieser Kreatur] kommt als … ins Spiel.“ und führt zwei oder mehr mögliche Werte für Stärke und Widerstandskraft auf (und kann außerdem auch  weitere Eigenschaften aufführen). Die mit diesen Effekten gewählten Eigenschaften beeinflussen die kopierbaren Werte der Kreatur. (Siehe Regel 706.2.) Wenn sich die Karte nicht im Spiel befindet, werden ihre Stärke und Widerstandskraft jeweils als 0 angesehen.
 
-208.3. Eine bleibende Nichtkreaturen-Karte besitzt weder Stärke noch 
-Widerstandskraft, selbst wenn sie eine Karte mit aufgedruckter Stärke und Widerstandskraft 
-ist (wie etwa eine Zecke, die eine Aura geworden ist).
+208.3. Eine bleibende Nichtkreaturen-Karte besitzt weder Stärke noch Widerstandskraft, selbst wenn sie eine Karte mit aufgedruckter Stärke und Widerstandskraft ist (wie etwa eine Zecke, die eine Aura geworden ist).
 
 209. Loyalität
 
-209.1. Jede Planeswalkerkarte hat in ihrer unteren rechten Ecke eine 
-Loyalitätszahl gedruckt. Diese gibt ihre Loyalität an, solange sie nicht im 
-Spiel ist, und sie gibt außerdem an, dass der Planeswalker mit so vielen 
-Loyalitätsmarken auf sich ins Spiel kommt.
+209.1. Jede Planeswalkerkarte hat in ihrer unteren rechten Ecke eine Loyalitätszahl gedruckt. Diese gibt ihre Loyalität an, solange sie nicht im Spiel ist, und sie gibt außerdem an, dass der Planeswalker mit so vielen Loyalitätsmarken auf sich ins Spiel kommt.
 
-209.2 Eine aktivierte Fähigkeit mit einem Loyalitätssymbol in den Kosten ist 
-eine Loyalitätsfähigkeit. Loyalitätsfähigkeiten folgen besonderen Regeln: Ein 
-Spieler kann eine Loyalitätsfähigkeit einer bleibenden Karte, die er 
-kontrolliert, während einer Hauptphase seines Zuges aktivieren, wenn er 
-Priorität hat und der Stapel leer ist, jedoch nur, wenn keine der 
-Loyalitätsfähigkeiten dieser bleibenden Karte in diesem Zug aktiviert wurden. 
-Siehe Regel 606, „Loyalitätsfähigkeiten.“
+209.2 Eine aktivierte Fähigkeit mit einem Loyalitätssymbol in den Kosten ist eine Loyalitätsfähigkeit. Loyalitätsfähigkeiten folgen besonderen Regeln: Ein Spieler kann eine Loyalitätsfähigkeit einer bleibenden Karte, die er kontrolliert, während einer Hauptphase seines Zuges aktivieren, wenn er Priorität hat und der Stapel leer ist, jedoch nur, wenn keine der Loyalitätsfähigkeiten dieser bleibenden Karte in diesem Zug aktiviert wurden. Siehe Regel 606, „Loyalitätsfähigkeiten.“
 
 210. Anpassung der Handkartenzahl
 
-210.1. Jede Vanguard-Karte hat in ihrer unteren linken Ecke eine Anpassung der 
-Handkartenzahl aufgedruckt. Dabei handelt es sich um eine Zahl mit 
-vorangestelltem Pluszeichen, eine Zahl mit vorangestelltem Minuszeichen oder 
-eine Null. Diese Anpassung wird auf die maximale Handkartenzahl des Besitzers 
-der Vanguard-Karte angewendet (normalerweise sieben), um zu ermitteln, wie 
-viele Karten dieser Spieler zu Beginn der Partie zieht und was seine maximale 
-Handkartenzahl ist.
+210.1. Jede Vanguard-Karte hat in ihrer unteren linken Ecke eine Anpassung der Handkartenzahl aufgedruckt. Dabei handelt es sich um eine Zahl mit vorangestelltem Pluszeichen, eine Zahl mit vorangestelltem Minuszeichen oder eine Null. Diese Anpassung wird auf die maximale Handkartenzahl des Besitzers der Vanguard-Karte angewendet (normalerweise sieben), um zu ermitteln, wie viele Karten dieser Spieler zu Beginn der Partie zieht und was seine maximale Handkartenzahl ist.
 
 211. Anpassung der Lebenspunkte
 
-211.1. Jede Vanguard-Karte hat in ihrer unteren rechten Ecke eine Anpassung der 
-Lebenspunkte aufgedruckt. Dabei handelt es sich um eine Zahl mit 
-vorangestelltem Pluszeichen, eine Zahl mit vorangestelltem Minuszeichen oder 
-eine Null. Diese Anpassung wird auf den Anfangswert der Lebenspunkte des 
-Besitzers der Vanguard-Karte angewendet (normalerweise 20), um zu ermitteln, 
-mit wie vielen Lebenspunkten dieser Spieler die Partie beginnt.
+211.1. Jede Vanguard-Karte hat in ihrer unteren rechten Ecke eine Anpassung der Lebenspunkte aufgedruckt. Dabei handelt es sich um eine Zahl mit vorangestelltem Pluszeichen, eine Zahl mit vorangestelltem Minuszeichen oder eine Null. Diese Anpassung wird auf den Anfangswert der Lebenspunkte des Besitzers der Vanguard-Karte angewendet (normalerweise 20), um zu ermitteln, mit wie vielen Lebenspunkten dieser Spieler die Partie beginnt.
 
 212. Informationen unter der Textbox
 
-212.1. Jede Karte weist Text auf, der unter der Textbox gedruckt ist und keinen 
-Einfluss auf das Spielgeschehen hat.
+212.1. Jede Karte weist Text auf, der unter der Textbox gedruckt ist und keinen Einfluss auf das Spielgeschehen hat.
 
-212.1a Die Künstlerangabe für eine Karte ist in der ersten Zeile unter der 
-Textbox gedruckt. Sie folgt einem Pinselsymbol oder, auf älteren Karten, der 
-Abkürzung „Illus.“
+212.1a Die Künstlerangabe für eine Karte ist in der ersten Zeile unter der Textbox gedruckt. Sie folgt einem Pinselsymbol oder, auf älteren Karten, der Abkürzung „Illus.“
 
-212.1b Rechtshinweis (das Kleingedruckte am unteren Rand der Karte) gibt die 
-Warenzeichen- und Copyrightinformationen an.
+212.1b Rechtshinweis (das Kleingedruckte am unteren Rand der Karte) gibt die Warenzeichen- und Copyrightinformationen an.
 
-212.1c Einige Kartensets weisen Sammlernummern auf. Diese Information ist in 
-der Form [Kartennummer]/[Summe der Karten im Set] gedruckt und folgt 
-unmittelbar nach dem Rechtshinweis.
-
-
+212.1c Einige Kartensets weisen Sammlernummern auf. Diese Information ist in der Form [Kartennummer]/[Summe der Karten im Set] gedruckt und folgt unmittelbar nach dem Rechtshinweis.
 
 3. Kartentypen
 
