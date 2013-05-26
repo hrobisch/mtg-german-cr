@@ -35,7 +35,7 @@ Als Reaktion auf Vorfälle beim Spiel und um dieses Regelwerk so aktuell wie mö
 
 100.3. Für manche Spielvarianten für Gelegenheitsspieler werden weitere Dinge benötigt, wie etwa besonders ausgewiesene Karten, nicht herkömmliche #Magic#-Karten und Würfel. Siehe Abschnitt 9, „Spielvarianten für Gelegenheitsspieler“.
 
-100.4. Jeder Spieler kann außerdem ein \Sideboard\ haben, das ist eine Anzahl von zusätzlichen Karten, die der Spieler benutzen kann, um sein Deck zwischen den Spielen eines Matchs zu verändern.
+100.4. Jeder Spieler kann außerdem ein \Sideboard\ haben, das ist eine Anzahl von zusätzlichen Karten, die der Spieler benutzen kann, um sein Deck zwischen den Partien eines Matchs zu verändern.
 
 100.4a Bei Constructed-Partien sind Sideboards optional, aber müssen aus genau fünfzehn Karten bestehen, falls sie verwendet werden. Die Vier-Karten-Beschränkung (siehe Regel 100.2a) gilt für die Kombination aus Deck und Sideboard.
 
