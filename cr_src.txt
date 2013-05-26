@@ -3881,1535 +3881,639 @@ Beispiel: Ein Spieler kontrolliert das Siegel der Reinheit, eine Verzauberung, d
 
 800. Allgemeines
 
-800.1 Eine Mehrspielerpartie ist eine Partie, die mit mehr als zwei Spielern 
-beginnt. Dieser Abschnitt enthält zusätzliche, optionale Regeln, die bei 
-Mehrspielerpartien benutzt werden können.
+800.1 Eine Mehrspielerpartie ist eine Partie, die mit mehr als zwei Spielern beginnt. Dieser Abschnitt enthält zusätzliche, optionale Regeln, die bei Mehrspielerpartien benutzt werden können.
 
-800.2 Diese Regeln bestehen aus einer Reihe von Optionen, die einer 
-Mehrspielerpartie hinzugefügt werden können, und einer Anzahl an Varianten von 
-Mehrspielerpartien. Eine einzelne Partie kann mehrere Optionen benutzen, aber 
-nur eine Variante.
+800.2 Diese Regeln bestehen aus einer Reihe von Optionen, die einer Mehrspielerpartie hinzugefügt werden können, und einer Anzahl an Varianten von Mehrspielerpartien. Eine einzelne Partie kann mehrere Optionen benutzen, aber nur eine Variante.
 
-800.3 Viele Mehrspielerturniere bei Magic haben zusätzliche Regeln, die hier 
-nicht enthalten sind, einschließlich Regeln für die Deckkonstruktion. Siehe die 
-aktuellsten Magic: The Gathering Turnierregeln für mehr Informationen. Sie 
-können unter www.wizards.com/WPN/Events/Rules.aspx gefunden werden.
+800.3 Viele Mehrspielerturniere bei Magic haben zusätzliche Regeln, die hier nicht enthalten sind, einschließlich Regeln für die Deckkonstruktion. Siehe die aktuellsten Magic: The Gathering Turnierregeln für mehr Informationen. Sie können unter www.wizards.com/WPN/Events/Rules.aspx gefunden werden.
 
-800.4 Anders als Zweispielerpartien können Mehrspielerpartien fortfahren, 
-nachdem ein oder mehrere Spieler das Spiel verlassen haben.
+800.4 Anders als Zweispielerpartien können Mehrspielerpartien fortfahren, nachdem ein oder mehrere Spieler das Spiel verlassen haben.
 
-800.4a Wenn ein Spieler das Spiel verlässt, verlassen alle Objekte (siehe 
-Regel 109), die dieser Spieler besitzt, das Spiel. Alle Effekte, die diesem 
-Spieler die Kontrolle über irgendwelche Objekte oder Spieler gegeben haben, 
-enden. Und alle Zaubersprüche und Fähigkeiten auf dem Stapel, die von diesem 
-Spieler kontrolliert werden, hören auf zu existieren. Wenn es danach immer noch 
-Objekte gibt, die von diesem Spieler kontrolliert werden, werden diese Objekte 
-ins Exil geschickt. Dies ist keine zustandsbasierte Aktion. Es 
-geschieht, sobald der Spieler das Spiel verlässt. Wenn der Spieler, der das 
-Spiel verlassen hat, Priorität besaß, als er es verließ, wird die Priorität an 
-den nächsten Spieler in Zugfolge, der noch im Spiel ist, gepasst.
+800.4a Wenn ein Spieler das Spiel verlässt, verlassen alle Objekte (siehe Regel 109), die dieser Spieler besitzt, das Spiel. Alle Effekte, die diesem Spieler die Kontrolle über irgendwelche Objekte oder Spieler gegeben haben, enden. Und alle Zaubersprüche und Fähigkeiten auf dem Stapel, die von diesem Spieler kontrolliert werden, hören auf zu existieren. Wenn es danach immer noch Objekte gibt, die von diesem Spieler kontrolliert werden, werden diese Objekte ins Exil geschickt. Dies ist keine zustandsbasierte Aktion. Es geschieht, sobald der Spieler das Spiel verlässt. Wenn der Spieler, der das Spiel verlassen hat, Priorität besaß, als er es verließ, wird die Priorität an den nächsten Spieler in Zugfolge, der noch im Spiel ist, gepasst.
 
-   Beispiel: Alex wirkt Verstandeskontrolle, eine Aura, die lautet „Du 
-   kontrollierst die verzauberte Kreatur.“, auf Biancas Angriffs-Greif. Wenn 
-   Alex das Spiel verlässt, tut die Verstandeskontrolle dies auch und der 
-   Angriffs-Greif kehrt wieder unter Biancas Kontrolle zurück. Wenn stattdessen 
-   Bianca das Spiel verlässt, tut der Angriffs-Greif das auch und die 
-   Verstandeskontrolle wird in Alex‘ Friedhof gelegt.
+Beispiel: Alex wirkt Verstandeskontrolle, eine Aura, die lautet „Du kontrollierst die verzauberte Kreatur.“, auf Biancas Angriffs-Greif. Wenn Alex das Spiel verlässt, tut die Verstandeskontrolle dies auch und der Angriffs-Greif kehrt wieder unter Biancas Kontrolle zurück. Wenn stattdessen Bianca das Spiel verlässt, tut der Angriffs-Greif das auch und die Verstandeskontrolle wird in Alex‘ Friedhof gelegt.
 
-   Beispiel: Alex wirkt eine Verräterische Tat, die zum Teil lautet „Erhalte 
-   bis zum Ende des Zuges die Kontrolle über eine Kreatur deiner Wahl“, und 
-   zielt auf Biancas Runenklauenbär. Wenn Alex das Spiel verlässt, endet der 
-   kontrolländernde Effekt der Verräterischen Tat, und der Runenklauenbär kehrt 
-   wieder unter Biancas Kontrolle zurück.
+Beispiel: Alex wirkt eine Verräterische Tat, die zum Teil lautet „Erhalte bis zum Ende des Zuges die Kontrolle über eine Kreatur deiner Wahl“, und zielt auf Biancas Runenklauenbär. Wenn Alex das Spiel verlässt, endet der kontrolländernde Effekt der Verräterischen Tat, und der Runenklauenbär kehrt wieder unter Biancas Kontrolle zurück.
 
-   Beispiel: Alex wirkt Bestechung, die lautet „Durchsuche die Bibliothek eines 
-   Gegners deiner Wahl nach einer Kreaturenkarte und bringe diese Karte unter 
-   deiner Kontrolle ins Spiel. Dann mischt dieser Spieler seine Bibliothek.“, 
-   und zielt damit auf Bianca. Alex bringt von Biancas Bibliothek einen Serra-
-   Engel ins Spiel. Wenn Bianca das Spiel verlässt, verlässt auch der Serra-
-   Engel das Spiel. Wenn stattdessen Alex das Spiel verlässt, wird der Serra-
-   Engel ins Exil geschickt.
+Beispiel: Alex wirkt Bestechung, die lautet „Durchsuche die Bibliothek eines Gegners deiner Wahl nach einer Kreaturenkarte und bringe diese Karte unter deiner Kontrolle ins Spiel. Dann mischt dieser Spieler seine Bibliothek.“, und zielt damit auf Bianca. Alex bringt von Biancas Bibliothek einen Serra-Engel ins Spiel. Wenn Bianca das Spiel verlässt, verlässt auch der Serra-Engel das Spiel. Wenn stattdessen Alex das Spiel verlässt, wird der Serra-Engel ins Exil geschickt.
 
-   Beispiel: Alex kontrolliert eine Genesis-Kammer, die lautet: „Immer wenn 
-   eine Nichtspielstein-Kreatur ins Spiel kommt, bringt ihr Beherrscher einen 
-   1/1 farblosen Myr-Artefaktkreaturenspielstein ins Spiel, falls die Genesis-
-   Kammer ungetappt ist.“ Wenn Alex das Spiel verlässt, verlassen alle solche 
-   Myr-Spielsteine, die unter Alex‘ Kontrolle ins Spiel gekommen sind, das 
-   Spiel, und alle solche Myr-Spielsteine, die unter der Kontrolle eines 
-   anderen Spielers ins Spiel gekommen sind, verbleiben im Spiel.
+Beispiel: Alex kontrolliert eine Genesis-Kammer, die lautet: „Immer wenn eine Nichtspielstein-Kreatur ins Spiel kommt, bringt ihr Beherrscher einen 1/1 farblosen Myr-Artefaktkreaturenspielstein ins Spiel, falls die Genesis-Kammer ungetappt ist.“ Wenn Alex das Spiel verlässt, verlassen alle solche Myr-Spielsteine, die unter Alex‘ Kontrolle ins Spiel gekommen sind, das Spiel, und alle solche Myr-Spielsteine, die unter der Kontrolle eines anderen Spielers ins Spiel gekommen sind, verbleiben im Spiel.
 
-800.4b Wenn ein Objekt unter die Kontrolle eines Spielers wechseln würde, der 
-das Spiel verlassen hat, tut es dies nicht. Wenn ein Spielstein unter der 
-Kontrolle eines Spielers, der das Spiel verlassen hat, ins Spiel gebracht 
-werden würde, wird kein Spielstein erschaffen. Wenn ein Spieler von einem 
-Spieler kontrolliert würde, der das Spiel verlassen hat, wird er nicht von 
-diesem Spieler kontrolliert.
+800.4b Wenn ein Objekt unter die Kontrolle eines Spielers wechseln würde, der das Spiel verlassen hat, tut es dies nicht. Wenn ein Spielstein unter der Kontrolle eines Spielers, der das Spiel verlassen hat, ins Spiel gebracht werden würde, wird kein Spielstein erschaffen. Wenn ein Spieler von einem Spieler kontrolliert würde, der das Spiel verlassen hat, wird er nicht von diesem Spieler kontrolliert.
 
-800.4c Wenn ein Effekt, der einem Spieler, der noch im Spiel ist, die Kontrolle 
-über ein Objekt gibt, endet und es keinen anderen Effekt gibt, der einem 
-anderen Spieler, der noch im Spiel ist, die Kontrolle über dieses Objekt gibt, 
-und das Objekt unter der Kontrolle eines Spielers ins Spiel kam, der das Spiel 
-verlassen hat, wird das Objekt ins Exil geschickt. Dies ist keine zustandsbasierte Aktion. Es geschieht, sobald der kontrolländernde Effekt endet.
+800.4c Wenn ein Effekt, der einem Spieler, der noch im Spiel ist, die Kontrolle über ein Objekt gibt, endet und es keinen anderen Effekt gibt, der einem anderen Spieler, der noch im Spiel ist, die Kontrolle über dieses Objekt gibt, und das Objekt unter der Kontrolle eines Spielers ins Spiel kam, der das Spiel verlassen hat, wird das Objekt ins Exil geschickt. Dies ist keine zustandsbasierte Aktion. Es geschieht, sobald der kontrolländernde Effekt endet.
 
-800.4d Wenn ein Objekt, dessen Besitzer ein Spieler wäre, der das Spiel 
-verlassen hat, in irgendeiner Zone erschaffen werden würde, wird es nicht 
-erschaffen. Wenn eine ausgelöste Fähigkeit, deren Beherrscher ein Spieler wäre, 
-der das Spiel verlassen hat, auf den Stapel gelegt werden würde, wird sie nicht 
-auf den Stapel gelegt.
+800.4d Wenn ein Objekt, dessen Besitzer ein Spieler wäre, der das Spiel verlassen hat, in irgendeiner Zone erschaffen werden würde, wird es nicht erschaffen. Wenn eine ausgelöste Fähigkeit, deren Beherrscher ein Spieler wäre, der das Spiel verlassen hat, auf den Stapel gelegt werden würde, wird sie nicht auf den Stapel gelegt.
 
-   Beispiel: Die Astralrutsche ist eine Verzauberung, die lautet: „Immer wenn 
-   ein Spieler eine Karte umwandelt, kannst du eine Kreatur deiner Wahl ins 
-   Exil schicken. Falls du dies tust, bringe diese Kreatur zu Beginn des 
-   nächsten Endsegments unter der Kontrolle ihres Besitzers ins Spiel zurück.“ 
-   Während Alex‘ Zug nutzt Bianca die Fähigkeit der Astralrutsche, um Alex‘ 
-   Hypnotisierendes Gespenst ins Exil zu schicken. Vor dem Ende dieses Zuges 
-   verlässt Bianca das Spiel. Zu Beginn des Endsegments wird die verzögert-
-   ausgelöste Fähigkeit, die von der Astralrutsche erschaffen wurde und das 
-   Hypnotisierende Gespenst zurückbringen würde, ausgelöst, aber sie wird nicht 
-   auf den Stapel gelegt. Das Hypnotisierende Gespenst kehrt niemals ins Spiel 
-   zurück.
+Beispiel: Die Astralrutsche ist eine Verzauberung, die lautet: „Immer wenn ein Spieler eine Karte umwandelt, kannst du eine Kreatur deiner Wahl ins Exil schicken. Falls du dies tust, bringe diese Kreatur zu Beginn des nächsten Endsegments unter der Kontrolle ihres Besitzers ins Spiel zurück.“ Während Alex‘ Zug nutzt Bianca die Fähigkeit der Astralrutsche, um Alex‘ Hypnotisierendes Gespenst ins Exil zu schicken. Vor dem Ende dieses Zuges verlässt Bianca das Spiel. Zu Beginn des Endsegments wird die verzögert-ausgelöste Fähigkeit, die von der Astralrutsche erschaffen wurde und das Hypnotisierende Gespenst zurückbringen würde, ausgelöst, aber sie wird nicht auf den Stapel gelegt. Das Hypnotisierende Gespenst kehrt niemals ins Spiel zurück.
 
-800.4e Wenn einem Spieler, der das Spiel verlassen hat, Kampfschaden zugewiesen 
-werden würde, wird dieser Schaden nicht zugewiesen.
+800.4e Wenn einem Spieler, der das Spiel verlassen hat, Kampfschaden zugewiesen werden würde, wird dieser Schaden nicht zugewiesen.
 
-800.4f Wenn ein Objekt von einem Spieler, der das Spiel verlassen hat, 
-verlangt, eine Wahl zu treffen, bestimmt der Beherrscher des Objekts einen 
-anderen Spieler, der diese Wahl trifft. Wenn die ursprüngliche Wahl von einem 
-Gegner des Beherrschers des Objekts getroffen werden sollte, wählt dieser 
-Spieler, wenn möglich, einen anderen Gegner.
+800.4f Wenn ein Objekt von einem Spieler, der das Spiel verlassen hat, verlangt, eine Wahl zu treffen, bestimmt der Beherrscher des Objekts einen anderen Spieler, der diese Wahl trifft. Wenn die ursprüngliche Wahl von einem Gegner des Beherrschers des Objekts getroffen werden sollte, wählt dieser Spieler, wenn möglich, einen anderen Gegner.
 
-800.4g Wenn ein Effekt Informationen über einen bestimmten Spieler verlangt, 
-nutzt der Effekt die aktuellen Informationen über den Spieler, falls er noch im 
-Spiel ist; andernfalls nutzt der Effekt die zuletzt bekannten Informationen 
-über den Spieler, bevor er das Spiel verließ.
+800.4g Wenn ein Effekt Informationen über einen bestimmten Spieler verlangt, nutzt der Effekt die aktuellen Informationen über den Spieler, falls er noch im Spiel ist; andernfalls nutzt der Effekt die zuletzt bekannten Informationen über den Spieler, bevor er das Spiel verließ.
 
-800.4h Wenn ein Spieler das Spiel während seines Zuges verlässt, wird dieser 
-Zug bis zu seiner Vollendung ohne aktiven Spieler fortgesetzt. Wenn der aktive 
-Spieler Priorität erhalten würde, erhält stattdessen der nächste Spieler in 
-Zugfolge Priorität oder das oberste Objekt auf dem Stapel wird verrechnet oder 
-die Phase oder das Segment endet, was auch immer zutreffend ist.
+800.4h Wenn ein Spieler das Spiel während seines Zuges verlässt, wird dieser Zug bis zu seiner Vollendung ohne aktiven Spieler fortgesetzt. Wenn der aktive Spieler Priorität erhalten würde, erhält stattdessen der nächste Spieler in Zugfolge Priorität oder das oberste Objekt auf dem Stapel wird verrechnet oder die Phase oder das Segment endet, was auch immer zutreffend ist.
 
-800.4i Wenn ein Spieler das Spiel verlässt, dauern jegliche dauerhaften 
-Effekte, die bis zum nächsten Zug dieses Spielers oder bis zu einem bestimmten 
-Zeitpunkt in diesem Zug andauern würden, weiter an, bis dieser Zug beginnen 
-würde. Sie enden weder sofort noch dauern sie unbegrenzt an.
+800.4i Wenn ein Spieler das Spiel verlässt, dauern jegliche dauerhaften Effekte, die bis zum nächsten Zug dieses Spielers oder bis zu einem bestimmten Zeitpunkt in diesem Zug andauern würden, weiter an, bis dieser Zug beginnen würde. Sie enden weder sofort noch dauern sie unbegrenzt an.
 
-800.4j Wenn ein Spieler das Spiel verlässt, verlassen die Objekte in der 
-Einsatzzone, die dieser Spieler besitzt, nicht das Spiel. Das ist eine Ausnahme 
-von Regel 800.4a. Siehe Regel 407, „Einsatzzone“.
+800.4j Wenn ein Spieler das Spiel verlässt, verlassen die Objekte in der Einsatzzone, die dieser Spieler besitzt, nicht das Spiel. Das ist eine Ausnahme von Regel 800.4a. Siehe Regel 407, „Einsatzzone“.
 
-800.4k Wenn in einer Partie „Weltenjagd“ der aktuelle Weltenbeherrscher das 
-Spiel verlassen würde, wird stattdessen der nächste Spieler in Zugreihenfolge, 
-der das Spiel nicht verlassen würde, der neue Weltenbeherrscher, dann verlässt 
-der alte Weltenbeherrscher das Spiel. Siehe Regel 309.5.
+800.4k Wenn in einer Partie „Weltenjagd“ der aktuelle Weltenbeherrscher das Spiel verlassen würde, wird stattdessen der nächste Spieler in Zugreihenfolge, der das Spiel nicht verlassen würde, der neue Weltenbeherrscher, dann verlässt der alte Weltenbeherrscher das Spiel. Siehe Regel 309.5.
 
-800.5 In einer Mehrspielerpartie zieht ein Spieler, wenn er zum ersten Mal 
-einen Mulligan nimmt, eine neue Hand aus sieben Karten anstelle von sechs 
-Karten. Weitere Hände nehmen wie gewöhnlich um eine Karte ab.
+800.5 In einer Mehrspielerpartie zieht ein Spieler, wenn er zum ersten Mal einen Mulligan nimmt, eine neue Hand aus sieben Karten anstelle von sechs Karten. Weitere Hände nehmen wie gewöhnlich um eine Karte ab.
 
-800.6 In einer Mehrspielerpartie überspringt der Startspieler nicht das 
-Ziehsegment seines ersten Zuges, außer in der Variante Zweiköpfiger Riese. In 
-einer Zweiköpfiger-Riese-Partie überspringt das Team, das zuerst spielt, das 
-Ziehsegment seines ersten Zuges. Siehe Regel 103.7.
+800.6 In einer Mehrspielerpartie überspringt der Startspieler nicht das Ziehsegment seines ersten Zuges, außer in der Variante Zweiköpfiger Riese. In einer Zweiköpfiger-Riese-Partie überspringt das Team, das zuerst spielt, das Ziehsegment seines ersten Zuges. Siehe Regel 103.7.
 
-800.7 Wenn in einer Mehrspielerpartie, in der die Option Begrenzte 
-Einflussweite (siehe Regel 801) nicht verwendet wird, ein Effekt festlegt, dass 
-ein Spieler das Spiel gewinnt, verlieren stattdessen alle Gegner dieses 
-Spielers das Spiel.
+800.7 Wenn in einer Mehrspielerpartie, in der die Option Begrenzte Einflussweite (siehe Regel 801) nicht verwendet wird, ein Effekt festlegt, dass ein Spieler das Spiel gewinnt, verlieren stattdessen alle Gegner dieses Spielers das Spiel.
 
 801. Option: Begrenzte Einflussweite
 
-801.1 Begrenzte Einflussweite ist eine Option, die auf die meisten 
-Mehrspielerpartien angewandt werden kann. Sie wird immer in der Variante Kaiser 
-verwendet (siehe Regel 809) und wird oft für Partien mit fünf oder mehr 
-Spielern verwendet.
+801.1 Begrenzte Einflussweite ist eine Option, die auf die meisten Mehrspielerpartien angewandt werden kann. Sie wird immer in der Variante Kaiser verwendet (siehe Regel 809) und wird oft für Partien mit fünf oder mehr Spielern verwendet.
 
-801.2 Die Einflussweite eines Spielers ist die maximale Entfernung vom Spieler, 
-gemessen in Spielerplätzen, die der Spieler beeinflussen kann. Spieler 
-innerhalb dieser Anzahl an Sitzen vom Spieler aus sind innerhalb der 
-Einflussweite des Spielers. Objekte, die von Spielern innerhalb der 
-Einflussweite des Spielers kontrolliert werden, sind ebenfalls innerhalb der 
-Einflussweite dieses Spielers. Einflussweite deckt Zaubersprüche, Fähigkeiten, 
-Effekte, Schadenszufügung, Angreifen, das Treffen von Entscheidungen ab und das 
-Gewinnen des Spiels.
+801.2 Die Einflussweite eines Spielers ist die maximale Entfernung vom Spieler, gemessen in Spielerplätzen, die der Spieler beeinflussen kann. Spieler innerhalb dieser Anzahl an Sitzen vom Spieler aus sind innerhalb der Einflussweite des Spielers. Objekte, die von Spielern innerhalb der Einflussweite des Spielers kontrolliert werden, sind ebenfalls innerhalb der Einflussweite dieses Spielers. Einflussweite deckt Zaubersprüche, Fähigkeiten, Effekte, Schadenszufügung, Angreifen, das Treffen von Entscheidungen ab und das Gewinnen des Spiels.
 
-801.2a Die am häufigsten gewählten begrenzten Einflussweiten sind 1 Platz und 
-2 Plätze. Verschiedene Spieler können unterschiedliche Einflussweiten besitzen.
+801.2a Die am häufigsten gewählten begrenzten Einflussweiten sind 1 Platz und 2 Plätze. Verschiedene Spieler können unterschiedliche Einflussweiten besitzen.
 
-   Beispiel: Eine Einflussweite von 1 bedeutet, dass nur du und die Spieler, 
-   die genau neben dir sitzen, in deiner Einflussweite sind.
+Beispiel: Eine Einflussweite von 1 bedeutet, dass nur du und die Spieler, die genau neben dir sitzen, in deiner Einflussweite sind.
 
-   Beispiel: Eine Einflussweite von 2 bedeutet, dass du, die zwei Spieler zu 
-   deiner Linken und die zwei Spieler zu deiner Rechten in deiner Einflussweite 
-   liegen.
+Beispiel: Eine Einflussweite von 2 bedeutet, dass du, die zwei Spieler zu deiner Linken und die zwei Spieler zu deiner Rechten in deiner Einflussweite liegen.
 
 801.2b Ein Spieler ist immer innerhalb seiner eigenen Einflussweite.
 
-801.2c Die jeweiligen Spieler, die innerhalb der Einflussweite jedes Spielers 
-liegen, werden bestimmt, sowie jeder Zug beginnt.
+801.2c Die jeweiligen Spieler, die innerhalb der Einflussweite jedes Spielers liegen, werden bestimmt, sowie jeder Zug beginnt.
 
-   Beispiel: In einem Spiel mit einer Einflussweite von 1 sitzt Alex links von 
-   Rob und Carissa rechts von Rob. Carissa ist nicht in Alex‘ Einflussweite. 
-   Wenn Rob das Spiel verlässt, wird Carissa Alex‘ Einflussbereich am Beginn 
-   des nächsten Zuges betreten.
+Beispiel: In einem Spiel mit einer Einflussweite von 1 sitzt Alex links von Rob und Carissa rechts von Rob. Carissa ist nicht in Alex‘ Einflussweite. Wenn Rob das Spiel verlässt, wird Carissa Alex‘ Einflussbereich am Beginn des nächsten Zuges betreten.
 
-801.2d Ein Objekt ist in der Einflussweite eines Spielers, wenn es von diesem 
-Spieler oder von einem anderen Spieler in dessen Einflussbereich kontrolliert 
-wird.
+801.2d Ein Objekt ist in der Einflussweite eines Spielers, wenn es von diesem Spieler oder von einem anderen Spieler in dessen Einflussbereich kontrolliert wird.
 
-801.3 Kreaturen können nur Gegner in der Einflussweite ihres Beherrschers 
-angreifen oder Planeswalker, die von diesen Gegnern kontrolliert werden. Wenn 
-innerhalb der Einflussweite keine Gegner sind, können Kreaturen, die dieser 
-Spieler kontrolliert, nicht angreifen.
+801.3 Kreaturen können nur Gegner in der Einflussweite ihres Beherrschers angreifen oder Planeswalker, die von diesen Gegnern kontrolliert werden. Wenn innerhalb der Einflussweite keine Gegner sind, können Kreaturen, die dieser Spieler kontrolliert, nicht angreifen.
 
-801.4 Objekte und Spieler außerhalb der Einflussweite eines Spielers, können 
-nicht Ziel von Zaubersprüchen oder Fähigkeiten sein, die dieser Spieler 
-kontrolliert.
+801.4 Objekte und Spieler außerhalb der Einflussweite eines Spielers, können nicht Ziel von Zaubersprüchen oder Fähigkeiten sein, die dieser Spieler kontrolliert.
 
-801.5 Einige Karten verlangen, dass Spieler Wahlen treffen. Diese Karten wirken 
-anders, wenn die Option Begrenzte Einflussweite verwendet wird.
+801.5 Einige Karten verlangen, dass Spieler Wahlen treffen. Diese Karten wirken anders, wenn die Option Begrenzte Einflussweite verwendet wird.
 
-801.5a Wenn ein Spieler gebeten wird, ein Objekt oder einen Spieler zu wählen, 
-muss er eines bzw. einen in seiner Einflussweite wählen.
+801.5a Wenn ein Spieler gebeten wird, ein Objekt oder einen Spieler zu wählen, muss er eines bzw. einen in seiner Einflussweite wählen.
 
-   Beispiel: In einer Partie mit einer Einflussweite von 1 sitzt Alex links von 
-   Rob. Alex aktiviert die Fähigkeit der Cuombajj-Hexen, die lautet: „Die 
-   Cuombajj-Hexen fügen einer Kreatur oder einem Spieler deiner Wahl und einer 
-   Kreatur oder einem Spieler der Wahl eines Gegners jeweils 1 Schadenspunkt 
-   zu.“ Er wählt Rob als Ziel und bestimmt Rob als den Gegner, der das andere 
-   Ziel wählen soll, aus. Rob muss ein Ziel wählen, das sowohl in seiner 
-   Einflussweite als auch in der Einflussweite des Beherrschers der Cuombajj-
-   Hexen liegt. Er muss also sich selbst, Alex oder eine Kreatur, die von ihm 
-   selbst oder Alex kontrolliert wird, bestimmen.
+Beispiel: In einer Partie mit einer Einflussweite von 1 sitzt Alex links von Rob. Alex aktiviert die Fähigkeit der Cuombajj-Hexen, die lautet: „Die Cuombajj-Hexen fügen einer Kreatur oder einem Spieler deiner Wahl und einer Kreatur oder einem Spieler der Wahl eines Gegners jeweils 1 Schadenspunkt zu.“ Er wählt Rob als Ziel und bestimmt Rob als den Gegner, der das andere Ziel wählen soll, aus. Rob muss ein Ziel wählen, das sowohl in seiner Einflussweite als auch in der Einflussweite des Beherrschers der Cuombajj-Hexen liegt. Er muss also sich selbst, Alex oder eine Kreatur, die von ihm selbst oder Alex kontrolliert wird, bestimmen.
 
-801.5b Wenn ein Spieler aufgefordert wird, zwischen einer oder mehreren 
-Optionen zu wählen (und nicht zwischen einem oder mehreren Objekten oder 
-Spielern), kann er zwischen diesen Optionen wählen, selbst wenn sich diese 
-Optionen auf ein Objekt oder einen Spieler außerhalb der Einflussweite des 
-Spielers beziehen.
+801.5b Wenn ein Spieler aufgefordert wird, zwischen einer oder mehreren Optionen zu wählen (und nicht zwischen einem oder mehreren Objekten oder Spielern), kann er zwischen diesen Optionen wählen, selbst wenn sich diese Optionen auf ein Objekt oder einen Spieler außerhalb der Einflussweite des Spielers beziehen.
 
-   Beispiel: Alex, der eine Einflussweite von 2 hat, sitzt links von Rob, und 
-   Carissa, die eine Einflussweite von 1 hat, sitzt rechts von Rob. Alex wirkt 
-   einen Zauberspruch, der lautet „Ein Gegner bestimmt eines – Du ziehst 
-   2 Karten; oder jede Kreatur, die du kontrollierst, erhält +2/+2“ und 
-   bestimmt Carissa, die Wahl zu treffen. Carissa kann den Modus wählen, obwohl 
-   Alex außerhalb ihrer Weite ist.
+Beispiel: Alex, der eine Einflussweite von 2 hat, sitzt links von Rob, und Carissa, die eine Einflussweite von 1 hat, sitzt rechts von Rob. Alex wirkt einen Zauberspruch, der lautet „Ein Gegner bestimmt eines – Du ziehst 2 Karten; oder jede Kreatur, die du kontrollierst, erhält +2/+2“ und bestimmt Carissa, die Wahl zu treffen. Carissa kann den Modus wählen, obwohl Alex außerhalb ihrer Weite ist.
 
-801.5c Wenn ein Effekt eine Wahl verlangt und es keinen Spieler in der 
-Einflussweite seines Beherrschers gibt, der diese Wahl treffen kann, trifft der 
-nahste zutreffende Spieler zur Linken des Beherrschers diese Wahl.
+801.5c Wenn ein Effekt eine Wahl verlangt und es keinen Spieler in der Einflussweite seines Beherrschers gibt, der diese Wahl treffen kann, trifft der nahste zutreffende Spieler zur Linken des Beherrschers diese Wahl.
 
-   Beispiel: In einer Partie Kaiser, in der alle Spieler eine Einflussweite von 
-   1 haben, wirkt ein Kaiser Fakt oder Fiktion, die lautet: „Decke die obersten 
-   fünf Karten deiner Bibliothek auf. Ein Gegner teilt diese in zwei offene 
-   Stapel auf. Nimm den einen Stapel auf deine Hand und lege den anderen in 
-   deinen Friedhof.“ Da kein Gegner innerhalb der Einflussweite des Kaisers 
-   ist, teilt der nächste Gegner zur Linken des Kaisers die Karten in Stapel 
-   auf.
+Beispiel: In einer Partie Kaiser, in der alle Spieler eine Einflussweite von 1 haben, wirkt ein Kaiser Fakt oder Fiktion, die lautet: „Decke die obersten fünf Karten deiner Bibliothek auf. Ein Gegner teilt diese in zwei offene Stapel auf. Nimm den einen Stapel auf deine Hand und lege den anderen in deinen Friedhof.“ Da kein Gegner innerhalb der Einflussweite des Kaisers ist, teilt der nächste Gegner zur Linken des Kaisers die Karten in Stapel auf.
 
-801.6 Ein Spieler kann keine aktivierten Fähigkeiten eines Objekts aktivieren, 
-das sich außerhalb seiner Einflussweite befindet.
+801.6 Ein Spieler kann keine aktivierten Fähigkeiten eines Objekts aktivieren, das sich außerhalb seiner Einflussweite befindet.
 
-801.7 Eine ausgelöste Fähigkeit wird nicht ausgelöst, es sei denn ihr 
-Auslöseereignis geschieht vollständig in der Einflussweite ihres Beherrschers.
+801.7 Eine ausgelöste Fähigkeit wird nicht ausgelöst, es sei denn ihr Auslöseereignis geschieht vollständig in der Einflussweite ihres Beherrschers.
 
-   Beispiel: In einer Partie, in der alle Spieler eine Einflussweite von 1 
-   haben, sitzt Alex links von Rob. Rob kontrolliert zwei Auren, die an Alex‘ 
-   Runenklauenbär angelegt sind: Eine mit der Auslösebedingung „Immer wenn die 
-   verzauberte Kreatur geblockt wird“ und eine mit der Auslösebedingung „Immer 
-   wenn die verzauberte Kreatur von einer Kreatur geblockt wird“. Alex‘ 
-   Runenklauenbär greift den Spieler links von Alex an und wird geblockt. Die 
-   Fähigkeit von Robs erster Aura wird ausgelöst, weil das gesamte Ereignis 
-   (der Runenklauenbär wird geblockt) innerhalb von Robs Einflussweite 
-   stattfindet. Die Fähigkeit von Robs zweiter Aura wird jedoch nicht 
-   ausgelöst, weil dieses Ereignis die blockende Kreatur umfasst, die sich 
-   außerhalb von Robs Einflussweite befindet.
+Beispiel: In einer Partie, in der alle Spieler eine Einflussweite von 1 haben, sitzt Alex links von Rob. Rob kontrolliert zwei Auren, die an Alex‘ Runenklauenbär angelegt sind: Eine mit der Auslösebedingung „Immer wenn die verzauberte Kreatur geblockt wird“ und eine mit der Auslösebedingung „Immer wenn die verzauberte Kreatur von einer Kreatur geblockt wird“. Alex‘  Runenklauenbär greift den Spieler links von Alex an und wird geblockt. Die Fähigkeit von Robs erster Aura wird ausgelöst, weil das gesamte Ereignis (der Runenklauenbär wird geblockt) innerhalb von Robs Einflussweite stattfindet. Die Fähigkeit von Robs zweiter Aura wird jedoch nicht ausgelöst, weil dieses Ereignis die blockende Kreatur umfasst, die sich außerhalb von Robs Einflussweite befindet.
 
-801.7a Wenn ein Auslöseereignis beinhaltet, dass sich ein Objekt aus der oder 
-in die Einflussweite eines Spielers bewegt, nutze den Spielzustand vor oder nach 
-dem Ereignis, wie er geeignet ist, um zu bestimmen, ob die ausgelöste Fähigkeit 
-ausgelöst wird. Siehe Regel 410.10.
+801.7a Wenn ein Auslöseereignis beinhaltet, dass sich ein Objekt aus der oder in die Einflussweite eines Spielers bewegt, nutze den Spielzustand vor oder nach dem Ereignis, wie er geeignet ist, um zu bestimmen, ob die ausgelöste Fähigkeit ausgelöst wird. Siehe Regel 410.10.
 
-   Beispiel: Carissa und Alex sind außerhalb der Einflussweite des jeweils 
-   anderen. Carissa kontrolliert einen Runenklauenbär, deren Besitzer Alex ist, 
-   und sie kontrollieren beide je einen Auspressenden Dämon, eine Kreatur, die 
-   unter anderem lautet: „Immer wenn eine andere Kreatur das Spiel verlässt, 
-   kannst du einen Spieler deiner Wahl die obersten beiden Karten seiner 
-   Bibliothek auf seinen Friedhof legen lassen.“ Der Runenklauenbär wird 
-   zerstört und in Alex‘ Friedhof gelegt. Die Fähigkeit von Alex‘ Auspressenden 
-   Dämon wird nicht ausgelöst, weil sich das Verlässt-das-Spiel-Ereignis 
-   außerhalb von Alex‘ Einflussweite befand. Die Fähigkeit von Carissas 
-   Auspressenden Dämon wird ausgelöst, obwohl die Kreatur in einen Friedhof 
-   außerhalb ihrer Einflussweite geht, weil sich das Verlässt-das-Spiel-
-   Ereignis in ihrer Einflussweite befand.
+Beispiel: Carissa und Alex sind außerhalb der Einflussweite des jeweils anderen. Carissa kontrolliert einen Runenklauenbär, deren Besitzer Alex ist, und sie kontrollieren beide je einen Auspressenden Dämon, eine Kreatur, die unter anderem lautet: „Immer wenn eine andere Kreatur das Spiel verlässt, kannst du einen Spieler deiner Wahl die obersten beiden Karten seiner Bibliothek auf seinen Friedhof legen lassen.“ Der Runenklauenbär wird zerstört und in Alex‘ Friedhof gelegt. Die Fähigkeit von Alex‘ Auspressenden Dämon wird nicht ausgelöst, weil sich das Verlässt-das-Spiel-Ereignis  außerhalb von Alex‘ Einflussweite befand. Die Fähigkeit von Carissas Auspressenden Dämon wird ausgelöst, obwohl die Kreatur in einen Friedhof außerhalb ihrer Einflussweite geht, weil sich das Verlässt-das-Spiel-Ereignis in ihrer Einflussweite befand.
 
-801.8 Eine Aura kann ein Objekt oder einen Spieler außerhalb der Einflussweite 
-ihres Beherrschers nicht verzaubern. Wenn eine Aura an ein illegales Objekt 
-oder einen illegalen Spieler angelegt ist, wird die Aura als zustandsbasierte Aktion in den Friedhof ihres Besitzers gelegt. Siehe Regel 704.
+801.8 Eine Aura kann ein Objekt oder einen Spieler außerhalb der Einflussweite ihres Beherrschers nicht verzaubern. Wenn eine Aura an ein illegales Objekt oder einen illegalen Spieler angelegt ist, wird die Aura als zustandsbasierte Aktion in den Friedhof ihres Besitzers gelegt. Siehe Regel 704.
 
-801.9 Eine Ausrüstung kann ein Objekt außerhalb der Einflussweite ihres 
-Beherrschers nicht ausrüsten und eine Befestigung kann ein Objekt außerhalb der 
-Einflussweite ihres Beherrschers nicht befestigen. Wenn eine Ausrüstung oder 
-Befestigung an eine illegale bleibende Karte angelegt ist, wird sie von dieser 
-bleibenden Karte gelöst, verbleibt aber im Spiel. Dies ist eine zustandsbasierte Aktion. Siehe Regel 704.
+801.9 Eine Ausrüstung kann ein Objekt außerhalb der Einflussweite ihres Beherrschers nicht ausrüsten und eine Befestigung kann ein Objekt außerhalb der Einflussweite ihres Beherrschers nicht befestigen. Wenn eine Ausrüstung oder Befestigung an eine illegale bleibende Karte angelegt ist, wird sie von dieser bleibenden Karte gelöst, verbleibt aber im Spiel. Dies ist eine zustandsbasierte Aktion. Siehe Regel 704.
 
-801.10 Zaubersprüche und Fähigkeiten können Objekte außerhalb der Einflussweite 
-ihres Beherrschers nicht beeinflussen. Die Teile des Effekts, die versuchen, 
-ein Objekt oder einen Spieler außerhalb der Einflussweite zu beeinflussen, tun 
-gar nichts. Der Rest des Effekts wirkt normal.
+801.10 Zaubersprüche und Fähigkeiten können Objekte außerhalb der Einflussweite ihres Beherrschers nicht beeinflussen. Die Teile des Effekts, die versuchen, ein Objekt oder einen Spieler außerhalb der Einflussweite zu beeinflussen, tun gar nichts. Der Rest des Effekts wirkt normal.
 
-   Beispiel: In einer 6-Spieler-Partie, in der jeder Spieler eine Einflussweite 
-   von 1 besitzt, wirkt Alex eine Feuermasse, die lautet: „Die Feuermasse fügt 
-   jeder Kreatur 2 Schadenspunkte zu.“ Die Feuermasse fügt jeder Kreatur, die 
-   von Alex, dem Spieler zu Alex‘ Linken und dem Spieler zu Alex‘ Rechten 
-   kontrolliert wird, 2 Schadenspunkte zu. Es wird keinen anderen Kreaturen 
-   Schaden zugefügt.
+Beispiel: In einer 6-Spieler-Partie, in der jeder Spieler eine Einflussweite von 1 besitzt, wirkt Alex eine Feuermasse, die lautet: „Die Feuermasse fügt jeder Kreatur 2 Schadenspunkte zu.“ Die Feuermasse fügt jeder Kreatur, die von Alex, dem Spieler zu Alex‘ Linken und dem Spieler zu Alex‘ Rechten kontrolliert wird, 2 Schadenspunkte zu. Es wird keinen anderen Kreaturen Schaden zugefügt.
 
-801.11 Wenn ein Zauberspruch oder eine Fähigkeit Informationen vom Spiel 
-benötigt, erhält er bzw. sie nur Informationen von innerhalb der Einflussweite 
-seines bzw. ihres Beherrschers. Er bzw. sie sieht keine Objekte oder Ereignisse 
-außerhalb der Einflussweite seines bzw. ihres Beherrschers.
+801.11 Wenn ein Zauberspruch oder eine Fähigkeit Informationen vom Spiel benötigt, erhält er bzw. sie nur Informationen von innerhalb der Einflussweite seines bzw. ihres Beherrschers. Er bzw. sie sieht keine Objekte oder Ereignisse außerhalb der Einflussweite seines bzw. ihres Beherrschers.
 
-   Beispiel: In einer 6-Spieler-Partie, in der jeder Spieler eine Einflussweite 
-   von 1 hat, kontrolliert Alex den Waffenrock, der lautet: „Jede Kreatur 
-   erhält für jede andere Kreatur, die mit ihr einen Kreaturentyp gemeinsam 
-   hat, +1/+1.“ Der Waffenrock wird Alex‘ Kreaturen nur auf Basis der Kreaturen 
-   verstärken, die von Alex, dem Spieler zu Alex‘ Linken und dem Spieler zu 
-   Alex‘ Rechten kontrolliert werden.
+Beispiel: In einer 6-Spieler-Partie, in der jeder Spieler eine Einflussweite von 1 hat, kontrolliert Alex den Waffenrock, der lautet: „Jede Kreatur erhält für jede andere Kreatur, die mit ihr einen Kreaturentyp gemeinsam hat, +1/+1.“ Der Waffenrock wird Alex‘ Kreaturen nur auf Basis der Kreaturen verstärken, die von Alex, dem Spieler zu Alex‘ Linken und dem Spieler zu Alex‘ Rechten kontrolliert werden.
 
-   Beispiel: In derselben Partie sitzt Rob rechts von Alex. Der Waffenrock wird 
-   Robs Kreaturen auf Basis der Kreaturen verstärken, die von Spielern 
-   kontrolliert werden, die innerhalb der Einflussweite von Alex sitzen, 
-   inklusive dem Spieler links von Alex, der außerhalb von Robs Einflussweite 
-   sitzt.
+Beispiel: In derselben Partie sitzt Rob rechts von Alex. Der Waffenrock wird Robs Kreaturen auf Basis der Kreaturen verstärken, die von Spielern kontrolliert werden, die innerhalb der Einflussweite von Alex sitzen, inklusive dem Spieler links von Alex, der außerhalb von Robs Einflussweite sitzt.
 
-801.12 Die „Legendenregel“ (siehe Regel 704.5k) wird auf eine bleibende Karte 
-nur angewandt, wenn sich andere legendäre bleibende Karten mit demselben Namen 
-innerhalb der Einflussweite ihres Beherrschers befinden.
+801.12 Die „Legendenregel“ (siehe Regel 704.5k) wird auf eine bleibende Karte nur angewandt, wenn sich andere legendäre bleibende Karten mit demselben Namen innerhalb der Einflussweite ihres Beherrschers befinden.
 
-   Beispiel: Alex hat eine Einflussweite von 1 und Carissa hat eine 
-   Einflussweite von 2. Rob sitzt zwischen ihnen. Wenn Alex eine legendäre 
-   bleibende Karte kontrolliert und Carissa bringt eine legendäre bleibende 
-   Karte mit demselben Namen ins Spiel, wird nur diejenige, die von Carissa 
-   kontrolliert wird, in den Friedhof gelegt.
+Beispiel: Alex hat eine Einflussweite von 1 und Carissa hat eine Einflussweite von 2. Rob sitzt zwischen ihnen. Wenn Alex eine legendäre bleibende Karte kontrolliert und Carissa bringt eine legendäre bleibende Karte mit demselben Namen ins Spiel, wird nur diejenige, die von Carissa kontrolliert wird, in den Friedhof gelegt.
 
-801.13 Die „Weltenregel“ (siehe Regel 704.5m) wird auf eine bleibende Karte nur 
-angewandt, wenn sich andere bleibende Weltkarten innerhalb der Einflussweite 
-ihres Beherrschers befinden.
+801.13 Die „Weltenregel“ (siehe Regel 704.5m) wird auf eine bleibende Karte nur angewandt, wenn sich andere bleibende Weltkarten innerhalb der Einflussweite ihres Beherrschers befinden.
 
-801.14 Die „Planeswalker-Einzigartigkeitsregel“ (siehe Regel 704.5j) gilt für 
-einen Planeswalker nur dann, wenn sich andere Planeswalker mit dem gleichen 
-Planeswalkertyp innerhalb der Einflussweite ihres Beherrschers befinden.
+801.14 Die „Planeswalker-Einzigartigkeitsregel“ (siehe Regel 704.5j) gilt für einen Planeswalker nur dann, wenn sich andere Planeswalker mit dem gleichen Planeswalkertyp innerhalb der Einflussweite ihres Beherrschers befinden.
 
-801.15 Ersatz- und Verhinderungseffekte warten darauf, dass ein bestimmtes 
-Ereignis eintritt, und ersetzen dieses Ereignis dann teilweise oder 
-vollständig. Die Option Begrenzte Einflussweite kann dazu führen, dass das 
-modifizierte Ereignis Anweisungen enthält, die nicht ausgeführt werden können. 
-In diesem Fall ignoriert der Spieler einfach die unmöglichen Anweisungen. Siehe 
-Regel 614, „Ersatzeffekte“ und Regel 615, „Verhinderungseffekte“.
+801.15 Ersatz- und Verhinderungseffekte warten darauf, dass ein bestimmtes Ereignis eintritt, und ersetzen dieses Ereignis dann teilweise oder vollständig. Die Option Begrenzte Einflussweite kann dazu führen, dass das modifizierte Ereignis Anweisungen enthält, die nicht ausgeführt werden können. In diesem Fall ignoriert der Spieler einfach die unmöglichen Anweisungen. Siehe Regel 614, „Ersatzeffekte“ und Regel 615, „Verhinderungseffekte“.
 
-801.15a Wenn ein Ersatzeffekt versucht, einen Zauberspruch oder eine Fähigkeit 
-dazu zu bringen, ein Objekt oder einen Spieler außerhalb der Einflussweite 
-seines bzw. ihres Beherrschers zu beeinflussen, macht dieser Teil des 
-Ereignisses nichts.
+801.15a Wenn ein Ersatzeffekt versucht, einen Zauberspruch oder eine Fähigkeit dazu zu bringen, ein Objekt oder einen Spieler außerhalb der Einflussweite seines bzw. ihres Beherrschers zu beeinflussen, macht dieser Teil des Ereignisses nichts.
 
-   Beispiel: Alex wirkt Lavaaxt („Die Lavaaxt fügt einem Spieler deiner Wahl 
-   5 Schadenspunkte zu.“) und zielt damit auf Rob. Als Antwort wirkt Rob 
-   Manöver des Kapitäns („Die nächsten X Schadenspunkte, die in diesem Zug 
-   einer Kreatur oder einem Spieler deiner Wahl zugefügt würden, werden 
-   stattdessen einer anderen Kreatur oder einem anderen Spieler deiner Wahl 
-   zugefügt.“) mit X=3 und zielt damit auf Carissa. Carissa ist nicht in Alex‘ 
-   Einflussweite. Wenn die Lavaaxt verrechnet wird, fügt sie Rob 2 und Carissa 
-   keine Schadenspunkte zu.
+Beispiel: Alex wirkt Lavaaxt („Die Lavaaxt fügt einem Spieler deiner Wahl 5 Schadenspunkte zu.“) und zielt damit auf Rob. Als Antwort wirkt Rob Manöver des Kapitäns („Die nächsten X Schadenspunkte, die in diesem Zug einer Kreatur oder einem Spieler deiner Wahl zugefügt würden, werden stattdessen einer anderen Kreatur oder einem anderen Spieler deiner Wahl zugefügt.“) mit X=3 und zielt damit auf Carissa. Carissa ist nicht in Alex‘ Einflussweite. Wenn die Lavaaxt verrechnet wird, fügt sie Rob 2 und Carissa keine Schadenspunkte zu.
 
-801.15b Wenn ein Zauberspruch oder eine Fähigkeit einen Effekt erschafft, der 
-Schaden verhindert, der von einer Quelle zugefügt werden würde, kann er nur 
-Quellen innerhalb der Einflussweite des Beherrschers des Zauberspruchs oder der 
-Fähigkeit beeinflussen. Wenn ein Zauberspruch oder eine Fähigkeit einen Effekt 
-erschafft, der Schaden verhindert, der einer bleibenden Karte oder einem 
-Spieler zugefügt werden würde, kann er nur bleibende Karten und Spieler 
-innerhalb der Einflussweite ihres Beherrschers des Zauberspruchs oder der 
-Fähigkeit beeinflussen. Wenn ein Zauberspruch oder eine Fähigkeit einen Effekt 
-generiert, der Schaden verhindert, aber weder die Quelle noch der mögliche 
-Empfänger angegeben wird, verhindert er Schaden nur, wenn sowohl die Quelle als 
-auch der Empfänger des Schadens innerhalb der Einflussweite des Beherrschers 
-des Zauberspruchs oder der Fähigkeit sind.
+801.15b Wenn ein Zauberspruch oder eine Fähigkeit einen Effekt erschafft, der Schaden verhindert, der von einer Quelle zugefügt werden würde, kann er nur Quellen innerhalb der Einflussweite des Beherrschers des Zauberspruchs oder der Fähigkeit beeinflussen. Wenn ein Zauberspruch oder eine Fähigkeit einen Effekt erschafft, der Schaden verhindert, der einer bleibenden Karte oder einem Spieler zugefügt werden würde, kann er nur bleibende Karten und Spieler innerhalb der Einflussweite ihres Beherrschers des Zauberspruchs oder der Fähigkeit beeinflussen. Wenn ein Zauberspruch oder eine Fähigkeit einen Effekt generiert, der Schaden verhindert, aber weder die Quelle noch der mögliche Empfänger angegeben wird, verhindert er Schaden nur, wenn sowohl die Quelle als auch der Empfänger des Schadens innerhalb der Einflussweite des Beherrschers des Zauberspruchs oder der Fähigkeit sind.
 
-   Beispiel: Rob ist in Alex‘ Einflussweite, aber Carissa nicht. Alex 
-   kontrolliert eine Verzauberung, die lautet: „Verhindere allen Schaden, der 
-   von Kreaturen zugefügt werden würde.“ Carissa greift Rob mit einer Kreatur 
-   an. Die Kreatur fügt Rob Schaden zu.
+Beispiel: Rob ist in Alex‘ Einflussweite, aber Carissa nicht. Alex kontrolliert eine Verzauberung, die lautet: „Verhindere allen Schaden, der von Kreaturen zugefügt werden würde.“ Carissa greift Rob mit einer Kreatur an. Die Kreatur fügt Rob Schaden zu.
 
-   Beispiel: Rob ist in Alex‘ Einflussweite, aber Carissa nicht. Carissa wirkt 
-   Blitzstrahl („Blitzstrahl fügt einer Kreatur oder einem Spieler deiner Wahl 
-   4 Schadenspunkte zu.“) und zielt damit auf Rob. Als Antwort wirkt Alex 
-   Flickende Finger („Verhindere die nächsten 4 Schadenspunkte, die einer 
-   Kreatur oder einem Spieler deiner Wahl in diesem Zug zugefügt werden 
-   würden.“) und zielt damit auf Rob. Der Schaden auf Rob wird verhindert.
+Beispiel: Rob ist in Alex‘ Einflussweite, aber Carissa nicht. Carissa wirkt Blitzstrahl („Blitzstrahl fügt einer Kreatur oder einem Spieler deiner Wahl 4 Schadenspunkte zu.“) und zielt damit auf Rob. Als Antwort wirkt Alex Flickende Finger („Verhindere die nächsten 4 Schadenspunkte, die einer Kreatur oder einem Spieler deiner Wahl in diesem Zug zugefügt werden würden.“) und zielt damit auf Rob. Der Schaden auf Rob wird verhindert.
 
-   Beispiel: Rob ist in Alex‘ Einflussweite, aber Carissa nicht. Carissa greift 
-   Rob mit einer Kreatur an und Rob blockt mit einer Kreatur. Alex wirkt Nebel 
-   („Verhindere allen Kampfschaden, der in diesem Zug zugefügt werden würde.“). 
-   Carissas und Robs Kreaturen fügen einander Kampfschaden zu.
+Beispiel: Rob ist in Alex‘ Einflussweite, aber Carissa nicht. Carissa greift Rob mit einer Kreatur an und Rob blockt mit einer Kreatur. Alex wirkt Nebel („Verhindere allen Kampfschaden, der in diesem Zug zugefügt werden würde.“). Carissas und Robs Kreaturen fügen einander Kampfschaden zu.
 
-801.16 Wenn ein Effekt angibt, dass ein Spieler das Spiel gewinnt, verlieren 
-stattdessen alle Gegner dieses Spielers innerhalb seiner Einflussweite das 
-Spiel.
+801.16 Wenn ein Effekt angibt, dass ein Spieler das Spiel gewinnt, verlieren stattdessen alle Gegner dieses Spielers innerhalb seiner Einflussweite das Spiel.
 
-801.17 Wenn der Effekt eines Zauberspruchs oder einer Fähigkeit angibt, dass 
-das Spiel unentschieden endet, dann endet das Spiel für den Beherrscher dieses 
-Zauberspruchs bzw. dieser Fähigkeit und alle Spieler in seiner Einflussweite 
-unentschieden. Diese Spieler verlassen das Spiel. Alle anderen Spieler setzen 
-das Spiel fort.
+801.17 Wenn der Effekt eines Zauberspruchs oder einer Fähigkeit angibt, dass das Spiel unentschieden endet, dann endet das Spiel für den Beherrscher dieses Zauberspruchs bzw. dieser Fähigkeit und alle Spieler in seiner Einflussweite unentschieden. Diese Spieler verlassen das Spiel. Alle anderen Spieler setzen das Spiel fort.
 
-801.18 Wenn das Spiel irgendwie in eine „Schleife“ von unabdingbaren Aktionen 
-eintritt, in der es, ohne einen Weg dies zu stoppen, eine Reihe von Ereignissen 
-wiederholt, endet es unentschieden sowohl für jeden Spieler, der ein Objekt 
-kontrolliert, das an dieser Schleife beteiligt ist, als auch für jeden Spieler, 
-der in der Einflussweite von einem dieser Spieler sitzt. Sie verlassen das 
-Spiel. Alle verbliebenen Spieler setzen das Spiel fort.
+801.18 Wenn das Spiel irgendwie in eine „Schleife“ von unabdingbaren Aktionen eintritt, in der es, ohne einen Weg dies zu stoppen, eine Reihe von Ereignissen wiederholt, endet es unentschieden sowohl für jeden Spieler, der ein Objekt kontrolliert, das an dieser Schleife beteiligt ist, als auch für jeden Spieler, der in der Einflussweite von einem dieser Spieler sitzt. Sie verlassen das Spiel. Alle verbliebenen Spieler setzen das Spiel fort.
 
-801.19 Effekte, die die Partie neu starten (siehe Regel 714) sind eine Ausnahme 
-von der Option Begrenzte Einflussweite. Alle an der Partie teilnehmenden 
-Spieler nehmen an der neuen Partie teil.
+801.19 Effekte, die die Partie neu starten (siehe Regel 714) sind eine Ausnahme von der Option Begrenzte Einflussweite. Alle an der Partie teilnehmenden Spieler nehmen an der neuen Partie teil.
 
-801.20 In allen „Weltenjagd“-Mehrspielerpartien außer „Riesentumult“ sind die 
-Weltenkarten und Phänomenkarten nicht von der Option Begrenzte Einflussweite 
-betroffen. Ihre Fähigkeiten und die Effekte dieser Fähigkeiten beeinflussen 
-alle zutreffenden Objekte und Spieler im Spiel. Siehe Regel 901, „Weltenjagd“.
+801.20 In allen „Weltenjagd“-Mehrspielerpartien außer „Riesentumult“ sind die Weltenkarten und Phänomenkarten nicht von der Option Begrenzte Einflussweite betroffen. Ihre Fähigkeiten und die Effekte dieser Fähigkeiten beeinflussen alle zutreffenden Objekte und Spieler im Spiel. Siehe Regel 901, „Weltenjagd“.
 
 802. Option Mehrere Spieler angreifen
 
-802.1 Einige Mehrspielerpartien erlauben es dem aktiven Spieler, mehrere andere 
-Spieler anzugreifen. Wenn diese Option genutzt wird, kann ein Spieler auch 
-wählen, nur einen bestimmten Gegner anzugreifen.
+802.1 Einige Mehrspielerpartien erlauben es dem aktiven Spieler, mehrere andere Spieler anzugreifen. Wenn diese Option genutzt wird, kann ein Spieler auch wählen, nur einen bestimmten Gegner anzugreifen.
 
-802.2 Sowie die Kampfphase beginnt, wählt der Spieler keinen Gegner, der zum 
-verteidigenden Spieler wird. Stattdessen werden alle Gegner des aktiven 
-Spielers während der Kampfphase verteidigende Spielern.
+802.2 Sowie die Kampfphase beginnt, wählt der Spieler keinen Gegner, der zum verteidigenden Spieler wird. Stattdessen werden alle Gegner des aktiven Spielers während der Kampfphase verteidigende Spielern.
 
-802.2a Alle Regeln, Objekt oder Effekte, die sich auf einen „verteidigenden 
-Spieler“ beziehen, beziehen sich auf einen bestimmten verteidigenden Spieler, 
-nicht auf alle der verteidigenden Spieler. Falls sich eine Fähigkeit einer 
-angreifenden Kreatur auf einen verteidigenden Spieler bezieht, oder ein 
-Zauberspruch oder eine Fähigkeit sich sowohl auf eine angreifende Kreatur als 
-auch auf einen verteidigenden Spieler bezieht, dann ist der verteidigende 
-Spieler, auf den sie bzw. er sich bezieht, der Spieler, den diese Kreatur 
-angegriffen hat, als sie in diesem Kampf zu einer angreifenden Kreatur wurde, 
-oder der Beherrscher des Planeswalkers, den diese Kreatur angegriffen hat, als 
-sie in diesem Kampf zu einer angreifenden Kreatur wurde, es sei denn, falls 
-nichts anderes angegeben ist. Wenn der Zauberspruch oder die Fähigkeit auf 
-mehrere angreifende Kreaturen zutrifft, wird der entsprechende Spieler für jede 
-dieser angreifenden Kreaturen einzeln ermittelt. Wenn es mehrere verteidigende 
-Spieler gibt, die gewählt werden könnten, wählt der Beherrscher des 
-Zauberspruchs oder der Fähigkeit einen.
+802.2a Alle Regeln, Objekt oder Effekte, die sich auf einen „verteidigenden Spieler“ beziehen, beziehen sich auf einen bestimmten verteidigenden Spieler, nicht auf alle der verteidigenden Spieler. Falls sich eine Fähigkeit einer angreifenden Kreatur auf einen verteidigenden Spieler bezieht, oder ein Zauberspruch oder eine Fähigkeit sich sowohl auf eine angreifende Kreatur als auch auf einen verteidigenden Spieler bezieht, dann ist der verteidigende Spieler, auf den sie bzw. er sich bezieht, der Spieler, den diese Kreatur angegriffen hat, als sie in diesem Kampf zu einer angreifenden Kreatur wurde, oder der Beherrscher des Planeswalkers, den diese Kreatur angegriffen hat, als sie in diesem Kampf zu einer angreifenden Kreatur wurde, es sei denn, falls nichts anderes angegeben ist. Wenn der Zauberspruch oder die Fähigkeit auf mehrere angreifende Kreaturen zutrifft, wird der entsprechende Spieler für jede dieser angreifenden Kreaturen einzeln ermittelt. Wenn es mehrere verteidigende Spieler gibt, die gewählt werden könnten, wählt der Beherrscher des Zauberspruchs oder der Fähigkeit einen.
 
-   Beispiel: Rob greift Alex mit Runenklauenbär und Carissa mit einer Kreatur 
-   mit Gebirgstarnung an. Ob die Kreatur mit Gebirgstarnung unblockbar ist, 
-   hängt nur davon ab, ob Carissa ein Gebirge kontrolliert.
+Beispiel: Rob greift Alex mit Runenklauenbär und Carissa mit einer Kreatur    mit Gebirgstarnung an. Ob die Kreatur mit Gebirgstarnung unblockbar ist,    hängt nur davon ab, ob Carissa ein Gebirge kontrolliert.
 
-802.3 Sowie der angreifende Spieler jede angreifende Kreatur deklariert, 
-bestimmt er einen verteidigenden Spieler oder einen Planeswalker, der von einem 
-verteidigenden Spieler kontrolliert wird, den sie angreift. Siehe Regel 508, 
-„Angreifer-deklarieren-Segment“.
+802.3 Sowie der angreifende Spieler jede angreifende Kreatur deklariert, bestimmt er einen verteidigenden Spieler oder einen Planeswalker, der von einem verteidigenden Spieler kontrolliert wird, den sie angreift. Siehe Regel 508, „Angreifer-deklarieren-Segment“.
 
-802.3a Einschränkungen und Forderungen, die nicht auf das Angreifen eines 
-bestimmten Spielers angewandt werden, werden auf Basis der gesamten Gruppe von 
-angreifenden Kreaturen gewertet. Einschränkungen und Forderungen, die auf das 
-Angreifen eines bestimmten Spielers angewandt werden, werden nur auf Kreaturen 
-angewandt, die diesen Spieler angreifen. Die gesamte Gruppe von angreifenden 
-Kreaturen muss immer noch legal sein. Siehe Regel 508.1.
+802.3a Einschränkungen und Forderungen, die nicht auf das Angreifen eines bestimmten Spielers angewandt werden, werden auf Basis der gesamten Gruppe von angreifenden Kreaturen gewertet. Einschränkungen und Forderungen, die auf das Angreifen eines bestimmten Spielers angewandt werden, werden nur auf Kreaturen angewandt, die diesen Spieler angreifen. Die gesamte Gruppe von angreifenden Kreaturen muss immer noch legal sein. Siehe Regel 508.1.
 
-802.3b Kreaturen in einem Bündnis können nicht unterschiedliche Spieler 
-angreifen. Siehe Regel 702.20, „Bündnisfähigkeit“.
+802.3b Kreaturen in einem Bündnis können nicht unterschiedliche Spieler angreifen. Siehe Regel 702.20, „Bündnisfähigkeit“.
 
-802.4 Falls mehr als ein Spieler angegriffen wird oder einen Planeswalker 
-kontrolliert, der angegriffen wird, deklariert jeder verteidigende Spieler 
-Blocker in ASNAS-Reihenfolge, sowie das Blocker-deklarieren-Segment beginnt. 
-(Siehe Regel 101.4 und Regel 509, „Blocker-deklarieren-Segment“.) Der erste 
-verteidigende Spieler deklariert all seine Blocks, dann deklariert der zweite 
-verteidigende Spieler all seine Blocks und so weiter.
+802.4 Falls mehr als ein Spieler angegriffen wird oder einen Planeswalker kontrolliert, der angegriffen wird, deklariert jeder verteidigende Spieler Blocker in ASNAS-Reihenfolge, sowie das Blocker-deklarieren-Segment beginnt. (Siehe Regel 101.4 und Regel 509, „Blocker-deklarieren-Segment“.) Der erste verteidigende Spieler deklariert all seine Blocks, dann deklariert der zweite verteidigende Spieler all seine Blocks und so weiter.
 
-802.4a Ein verteidigender Spieler kann nur mit Kreaturen blocken, die er 
-kontrolliert. Diese Kreaturen können nur Kreaturen blocken, die diesen Spieler 
-oder einen Planeswalker, den dieser Spieler kontrolliert, angreifen.
+802.4a Ein verteidigender Spieler kann nur mit Kreaturen blocken, die er kontrolliert. Diese Kreaturen können nur Kreaturen blocken, die diesen Spieler oder einen Planeswalker, den dieser Spieler kontrolliert, angreifen.
 
-802.4b Wenn bestimmt wird, ob die Blocks eines verteidigenden Spielers legal 
-sind, ignoriere alle Kreaturen, die einen anderen Spieler angreifen und alle 
-blockenden Kreaturen, die von anderen Spielern kontrolliert werden.
+802.4b Wenn bestimmt wird, ob die Blocks eines verteidigenden Spielers legal sind, ignoriere alle Kreaturen, die einen anderen Spieler angreifen und alle blockenden Kreaturen, die von anderen Spielern kontrolliert werden.
 
-802.5 Nachdem Blocker deklariert wurden, erklärt jeder Spieler in ASNAS-
-Reihenfolge für jede blockende Kreatur, die er kontrolliert, ihre 
-Schadenszuweisungsreihenfolge unter den angreifenden Kreaturen, falls Kreaturen 
-mehrere Kreaturen blocken. Siehe Regel 510, „Kampfschadensegment“.
+802.5 Nachdem Blocker deklariert wurden, erklärt jeder Spieler in ASNAS-Reihenfolge für jede blockende Kreatur, die er kontrolliert, ihre Schadenszuweisungsreihenfolge unter den angreifenden Kreaturen, falls Kreaturen mehrere Kreaturen blocken. Siehe Regel 510, „Kampfschadensegment“.
 
-802.6 Kampfschaden wird in ASNAS-Reihenfolge zugewiesen. Mit dieser Ausnahme 
-fährt das Kampfschadensegment wie in einer Zweispielerpartie fort. Siehe 
-Regel 510, „Kampfschadensegment“.
+802.6 Kampfschaden wird in ASNAS-Reihenfolge zugewiesen. Mit dieser Ausnahme fährt das Kampfschadensegment wie in einer Zweispielerpartie fort. Siehe Regel 510, „Kampfschadensegment“.
 
 803. Optionen Links angreifen und Rechts angreifen
 
-803.1 Einige Mehrspielerpartien nutzen die optionalen Regeln für Links 
-angreifen oder Rechts angreifen.
+803.1 Einige Mehrspielerpartien nutzen die optionalen Regeln für Links angreifen oder Rechts angreifen.
 
-803.1a Wenn die Option Links angreifen benutzt wird, kann ein Spieler nur einen 
-Gegner angreifen, der direkt links von ihm sitzt. Wenn der nächste Gegner zur 
-Linken eines Spielers mehr als einen Platz entfernt ist, kann der Spieler nicht 
-angreifen.
+803.1a Wenn die Option Links angreifen benutzt wird, kann ein Spieler nur einen Gegner angreifen, der direkt links von ihm sitzt. Wenn der nächste Gegner zur Linken eines Spielers mehr als einen Platz entfernt ist, kann der Spieler nicht angreifen.
 
-803.1b Wenn die Option Rechts angreifen benutzt wird, kann ein Spieler nur 
-einen Gegner angreifen, der direkt rechts von ihm sitzt. Wenn der nächste 
-Gegner zur Rechten eines Spielers mehr als einen Platz entfernt ist, kann der 
-Spieler nicht angreifen.
+803.1b Wenn die Option Rechts angreifen benutzt wird, kann ein Spieler nur einen Gegner angreifen, der direkt rechts von ihm sitzt. Wenn der nächste Gegner zur Rechten eines Spielers mehr als einen Platz entfernt ist, kann der Spieler nicht angreifen.
 
 804. Option Kreaturen stellen
 
-804.1 Die Variante Kaiser benutzt immer die Option Kreaturen stellen und sie 
-kann in anderen Varianten benutzt werden, die Spielern erlauben, im Team zu 
-spielen. Mehrspielerformate, in der Spieler individuell spielen, nutzen diese 
-Option üblicherweise nicht.
+804.1 Die Variante Kaiser benutzt immer die Option Kreaturen stellen und sie kann in anderen Varianten benutzt werden, die Spielern erlauben, im Team zu spielen. Mehrspielerformate, in der Spieler individuell spielen, nutzen diese Option üblicherweise nicht.
 
-804.2 Jede Kreatur hat die Fähigkeit: „{tap}: Ein Teammitglied deiner Wahl 
-erhält die Kontrolle über diese Kreatur. Aktiviere diese Fähigkeit nur zu einem 
-Zeitpunkt, zu dem du auch eine Hexerei spielen könntest.“
+804.2 Jede Kreatur hat die Fähigkeit: „{tap}: Ein Teammitglied deiner Wahl erhält die Kontrolle über diese Kreatur. Aktiviere diese Fähigkeit nur zu einem Zeitpunkt, zu dem du auch eine Hexerei spielen könntest.“
 
 805. Option Gemeinsame Team-Züge
 
-805.1 Einige Mehrspielerpartien zwischen Teams nutzen die Option Gemeinsame 
-Team-Züge. Sie wird immer in der Variante Zweiköpfiger Riese (siehe Regel 810) 
-und in der Freizeitspiel-Variante Erzfeind (siehe Regel 904) benutzt. Sie kann 
-nur benutzt werden, wenn die Mitglieder jedes Teams unmittelbar nebeneinander 
-sitzen.
+805.1 Einige Mehrspielerpartien zwischen Teams nutzen die Option Gemeinsame Team-Züge. Sie wird immer in der Variante Zweiköpfiger Riese (siehe Regel 810) und in der Freizeitspiel-Variante Erzfeind (siehe Regel 904) benutzt. Sie kann nur benutzt werden, wenn die Mitglieder jedes Teams unmittelbar nebeneinander sitzen.
 
-805.2 In jedem Team ist der aus Sicht dieses Teams rechts sitzende Spieler der 
-Primärspieler. Falls die Spieler eines Teams sich bei einer zu treffenden 
-Entscheidung nicht einigen können, so wie bei der Frage, welche Kreaturen 
-angreifen sollen oder in welcher Reihenfolge ausgelöste Fähigkeiten auf den 
-Stapel gelegt werden, trifft der Primärspieler diese Entscheidung.
+805.2 In jedem Team ist der aus Sicht dieses Teams rechts sitzende Spieler der Primärspieler. Falls die Spieler eines Teams sich bei einer zu treffenden Entscheidung nicht einigen können, so wie bei der Frage, welche Kreaturen angreifen sollen oder in welcher Reihenfolge ausgelöste Fähigkeiten auf den Stapel gelegt werden, trifft der Primärspieler diese Entscheidung.
 
-805.3 Die in Regel 103.2 beschriebenen Methoden werden angewendet, um zu 
-ermitteln, welches Team den ersten Zug macht. Das auf diese Weise ermittelte 
-Team ist das Startteam.
+805.3 Die in Regel 103.2 beschriebenen Methoden werden angewendet, um zu ermitteln, welches Team den ersten Zug macht. Das auf diese Weise ermittelte Team ist das Startteam.
 
-805.3a Der Prozess, nach dem Mulligans genommen werden, wird entsprechend 
-angepasst. Zuerst sagt jeder Spieler des Startteams in beliebiger Reihenfolge 
-an, ob er einen Mulligan nehmen will oder nicht. Dann tun die Spieler jedes 
-anderen Teams in Zugreihenfolge dasselbe. Die Teammitglieder können sich 
-untereinander absprechen, während sie diese Entscheidungen treffen. Dann werden 
-alle Mulligans gleichzeitig genommen. Ein Spieler kann einen Mulligan auch 
-nehmen, nachdem sein Mitspieler sich entschieden hat, seine Starthand zu 
-behalten. Siehe Regel 103.4.
+805.3a Der Prozess, nach dem Mulligans genommen werden, wird entsprechend angepasst. Zuerst sagt jeder Spieler des Startteams in beliebiger Reihenfolge an, ob er einen Mulligan nehmen will oder nicht. Dann tun die Spieler jedes anderen Teams in Zugreihenfolge dasselbe. Die Teammitglieder können sich untereinander absprechen, während sie diese Entscheidungen treffen. Dann werden alle Mulligans gleichzeitig genommen. Ein Spieler kann einen Mulligan auch nehmen, nachdem sein Mitspieler sich entschieden hat, seine Starthand zu behalten. Siehe Regel 103.4.
 
-805.3b Der Prozess, nach dem Karten gehandhabt werden, die einem Spieler 
-erlauben, das Spiel mit ihnen im Spiel zu beginnen, wird entsprechend 
-angepasst. Zuerst kann in beliebiger Reihenfolge jeder Spieler des Startteams 
-manche oder alle solche Karten von seiner Starthand ins Spiel bringen. Die 
-Teammitglieder können sich untereinander absprechen, während sie diese 
-Entscheidungen treffen. Dann tut jeder Spieler jedes anderen Teams in 
-Zugreihenfolge dasselbe.
+805.3b Der Prozess, nach dem Karten gehandhabt werden, die einem Spieler erlauben, das Spiel mit ihnen im Spiel zu beginnen, wird entsprechend angepasst. Zuerst kann in beliebiger Reihenfolge jeder Spieler des Startteams manche oder alle solche Karten von seiner Starthand ins Spiel bringen. Die Teammitglieder können sich untereinander absprechen, während sie diese Entscheidungen treffen. Dann tut jeder Spieler jedes anderen Teams in Zugreihenfolge dasselbe.
 
 805.4 Anstatt jedes Spielers macht jedes Team einen Zug.
 
-805.4a Das Team, dessen Zug es ist, ist das aktive Team. Das andere Team ist 
-das inaktive Team.
+805.4a Das Team, dessen Zug es ist, ist das aktive Team. Das andere Team ist das inaktive Team.
 
-805.4b Jeder Spieler in einem Team zieht während des Ziehsegments dieses Teams 
-eine Karte.
+805.4b Jeder Spieler in einem Team zieht während des Ziehsegments dieses Teams eine Karte.
 
-805.4c Jeder Spieler in einem Team kann während jedes Zuges dieses Teams ein 
-Land spielen.
+805.4c Jeder Spieler in einem Team kann während jedes Zuges dieses Teams ein Land spielen.
 
 805.5 Teams erhalten Priorität, nicht einzelne Spieler.
 
-805.5a Ein Spieler kann einen Zauberspruch wirken, eine Fähigkeit aktivieren 
-oder eine Sonderaktion ausführen, wenn sein Team Priorität hat.
+805.5a Ein Spieler kann einen Zauberspruch wirken, eine Fähigkeit aktivieren oder eine Sonderaktion ausführen, wenn sein Team Priorität hat.
 
-805.5b Wenn ein Team Priorität hat und keiner der Spieler dieses Teams etwas zu 
-tun wünscht, passt das Team. Wenn alle Teams nacheinander passen (das heißt, 
-wenn alle Teams passen, ohne dass irgendein Spieler zwischen dem Passen 
-irgendeine Aktion durchführt), wird das oberste Objekt des Stapels verrechnet. 
-Danach erhält das aktive Team Priorität. Wenn der Stapel leer ist, wenn alle 
-Teams nacheinander passen, endet die Phase oder das Segment und die bzw. das 
-nächste beginnt.
+805.5b Wenn ein Team Priorität hat und keiner der Spieler dieses Teams etwas zu tun wünscht, passt das Team. Wenn alle Teams nacheinander passen (das heißt, wenn alle Teams passen, ohne dass irgendein Spieler zwischen dem Passen irgendeine Aktion durchführt), wird das oberste Objekt des Stapels verrechnet. Danach erhält das aktive Team Priorität. Wenn der Stapel leer ist, wenn alle Teams nacheinander passen, endet die Phase oder das Segment und die bzw. das nächste beginnt.
 
-805.6 Die Aktiver-Spieler-Inaktiver-Spieler-Reihenfolge-Regel (siehe 
-Regel 101.4) wird modifiziert, wenn die Option Gemeinsame Team-Züge verwendet 
-wird. Wenn mehrere Teams zur selben Zeit Entscheidungen treffen und/oder 
-Aktionen durchführen würden, trifft zuerst das aktive Team alle benötigten 
-Entscheidungen, dann trifft jedes inaktive Team in Zugreihenfolge alle 
-Entscheidungen, die benötigt werden. Falls mehrere Spieler zur selben Zeit 
-Entscheidungen treffen und/oder Aktionen durchführen würden, trifft zuerst 
-jeder Spieler des aktiven Teams in beliebiger Reihenfolge alle benötigten 
-Entscheidungen, dann tun die Spieler jedes inaktiven Teams in Zugreihenfolge 
-dasselbe. Sobald alle Entscheidungen getroffen wurden, finden die Aktionen 
-gleichzeitig statt.
+805.6 Die Aktiver-Spieler-Inaktiver-Spieler-Reihenfolge-Regel (siehe Regel 101.4) wird modifiziert, wenn die Option Gemeinsame Team-Züge verwendet wird. Wenn mehrere Teams zur selben Zeit Entscheidungen treffen und/oder Aktionen durchführen würden, trifft zuerst das aktive Team alle benötigten Entscheidungen, dann trifft jedes inaktive Team in Zugreihenfolge alle Entscheidungen, die benötigt werden. Falls mehrere Spieler zur selben Zeit Entscheidungen treffen und/oder Aktionen durchführen würden, trifft zuerst jeder Spieler des aktiven Teams in beliebiger Reihenfolge alle benötigten Entscheidungen, dann tun die Spieler jedes inaktiven Teams in Zugreihenfolge dasselbe. Sobald alle Entscheidungen getroffen wurden, finden die Aktionen gleichzeitig statt.
 
-805.6a Wenn in einer Partie, in der die Option Gemeinsame Team-Züge verwendet 
-wird, ein Effekt mehr als einen Spieler anweist, Karten zu ziehen, vollführen 
-erst die Spieler im aktiven Team in beliebiger Reihenfolge all ihr Ziehen, dann 
-macht jeder Spieler in jedem inaktiven Team in Zugreihenfolge dasselbe.
+805.6a Wenn in einer Partie, in der die Option Gemeinsame Team-Züge verwendet wird, ein Effekt mehr als einen Spieler anweist, Karten zu ziehen, vollführen erst die Spieler im aktiven Team in beliebiger Reihenfolge all ihr Ziehen, dann macht jeder Spieler in jedem inaktiven Team in Zugreihenfolge dasselbe.
 
-805.7 Wenn mehrere ausgelöste Fähigkeiten seit dem letzten Mal, an dem ein Team 
-Priorität erhalten hat, ausgelöst wurden, legen die Mitglieder des aktiven 
-Teams alle ausgelösten Fähigkeiten, die jedweder von beiden kontrolliert, in 
-beliebiger Reihenfolge auf den Stapel. Danach machen die Spieler in jedem 
-inaktiven Team in Zugreihenfolge dasselbe.
+805.7 Wenn mehrere ausgelöste Fähigkeiten seit dem letzten Mal, an dem ein Team Priorität erhalten hat, ausgelöst wurden, legen die Mitglieder des aktiven Teams alle ausgelösten Fähigkeiten, die jedweder von beiden kontrolliert, in beliebiger Reihenfolge auf den Stapel. Danach machen die Spieler in jedem inaktiven Team in Zugreihenfolge dasselbe.
 
-805.8 Wenn ein Effekt einem Spieler einen Extrazug gibt oder eine Phase oder 
-ein Segment zum Zug dieses Spielers hinzufügt, nimmt das Team dieses Spielers 
-den Extrazug, die Extraphase bzw. das Extrasegment. Wenn ein Effekt einen 
-Spieler dazu bringt, ein Segment, eine Phase oder einen Zug zu übergehen, macht 
-das Team dieses Spielers dies. Wenn ein einzelner Effekt beide Spieler in 
-demselben Team dazu bringt, ein Segment, eine Phase oder einen Zug hinzuzufügen 
-oder zu übergehen, übergeht oder fügt das Team nur dieses Segment, diese Phase 
-oder diesen Zug hinzu. Wenn ein Effekt einen Spieler dazu bringt, einen anderen 
-Spieler zu kontrollieren, kontrolliert der Beherrscher dieses Effekts das Team 
-des beeinflussten Spielers.
+805.8 Wenn ein Effekt einem Spieler einen Extrazug gibt oder eine Phase oder ein Segment zum Zug dieses Spielers hinzufügt, nimmt das Team dieses Spielers den Extrazug, die Extraphase bzw. das Extrasegment. Wenn ein Effekt einen Spieler dazu bringt, ein Segment, eine Phase oder einen Zug zu übergehen, macht das Team dieses Spielers dies. Wenn ein einzelner Effekt beide Spieler in demselben Team dazu bringt, ein Segment, eine Phase oder einen Zug hinzuzufügen oder zu übergehen, übergeht oder fügt das Team nur dieses Segment, diese Phaseoder diesen Zug hinzu. Wenn ein Effekt einen Spieler dazu bringt, einen anderen Spieler zu kontrollieren, kontrolliert der Beherrscher dieses Effekts das Team des beeinflussten Spielers.
 
-805.9 Jede Fähigkeit, die sich auf den „aktiven Spieler“ bezieht, bezieht sich 
-auf einen bestimmten aktiven Spieler, nicht auf beide aktive Spieler. Der 
-Beherrscher der Fähigkeit bestimmt, auf welchen sie sich bezieht, sobald ihr 
-Effekt angewendet wird.
+805.9 Jede Fähigkeit, die sich auf den „aktiven Spieler“ bezieht, bezieht sich auf einen bestimmten aktiven Spieler, nicht auf beide aktive Spieler. Der Beherrscher der Fähigkeit bestimmt, auf welchen sie sich bezieht, sobald ihr Effekt angewendet wird.
 
 806. Variante Jeder gegen jeden (Free-for-All)
 
-806.1 In Jeder-gegen-jeden-Mehrspielerpartien tritt eine Gruppe von Spielern 
-als Individuen gegeneinander an.
+806.1 In Jeder-gegen-jeden-Mehrspielerpartien tritt eine Gruppe von Spielern als Individuen gegeneinander an.
 
-806.2 Alle Mehrspieleroptionen, die benutzt werden, werden festgelegt, bevor 
-das Spiel beginnt. Die Variante Jeder gegen jeden nutzt die folgenden 
-Standardoptionen.
+806.2 Alle Mehrspieleroptionen, die benutzt werden, werden festgelegt, bevor das Spiel beginnt. Die Variante Jeder gegen jeden nutzt die folgenden Standardoptionen.
 
-806.2a Die Option Begrenzte Einflussweite wird üblicherweise nicht in Jeder-
-gegen-jeden-Partien genutzt. Wenn sie es wird, hat jeder Spieler dieselbe 
-Einflussweite, die festgelegt wird, bevor das Spiel beginnt. Siehe Regel 801, 
-„Begrenzte Einflussweite“.
+806.2a Die Option Begrenzte Einflussweite wird üblicherweise nicht in Jeder-gegen-jeden-Partien genutzt. Wenn sie es wird, hat jeder Spieler dieselbe Einflussweite, die festgelegt wird, bevor das Spiel beginnt. Siehe Regel 801, „Begrenzte Einflussweite“.
 
-806.2b Genau eine der Optionen Links angreifen, Rechts angreifen oder Mehrere 
-Spieler angreifen muss genutzt werden. Siehe Regel 803, „Optionen Links 
-angreifen und Rechts angreifen“ und Regel 802, „Option Mehrere Spieler 
-angreifen“.
+806.2b Genau eine der Optionen Links angreifen, Rechts angreifen oder Mehrere Spieler angreifen muss genutzt werden. Siehe Regel 803, „Optionen Links angreifen und Rechts angreifen“ und Regel 802, „Option Mehrere Spieler angreifen“.
 
-806.2c Die Option Kreaturen stellen wird in der Variante Jeder gegen jeden 
-nicht genutzt.
+806.2c Die Option Kreaturen stellen wird in der Variante Jeder gegen jeden nicht genutzt.
 
 806.3 Die Spieler werden zufällig um den Tisch platziert.
 
 807. Variante Riesentumult (Grand Melee)
 
-807.1 Die Variante Riesentumult ist eine Modifikation der Variante Jeder gegen 
-jeden, in welcher eine Gruppe von Spielern als Individuen gegeneinander 
-antritt. Riesentumult wird normalerweise nur in Partien mit zehn oder mehr 
-Spielern benutzt.
+807.1 Die Variante Riesentumult ist eine Modifikation der Variante Jeder gegen jeden, in welcher eine Gruppe von Spielern als Individuen gegeneinander antritt. Riesentumult wird normalerweise nur in Partien mit zehn oder mehr Spielern benutzt.
 
-807.2 Alle Mehrspieleroptionen, die benutzt werden, werden bestimmt, bevor das 
-Spiel beginnt. Die Variante Riesentumult nutzt die folgenden Standardoptionen.
+807.2 Alle Mehrspieleroptionen, die benutzt werden, werden bestimmt, bevor das Spiel beginnt. Die Variante Riesentumult nutzt die folgenden Standardoptionen.
 
 807.2a Jeder Spieler hat eine Einflussweite von 1 (siehe Regel 801).
 
 807.2b Die Option Links angreifen wird benutzt (siehe Regel 803).
 
-807.2c Die Optionen mehrere Spieler angreifen und Kreaturen stellen werden der 
-Variante Riesentumult nicht benutzt.
+807.2c Die Optionen mehrere Spieler angreifen und Kreaturen stellen werden der Variante Riesentumult nicht benutzt.
 
 807.3 Die Spieler werden zufällig platziert.
 
-807.4 Die Variante Riesentumult erlaubt mehreren Spieler zur selben Zeit Züge 
-zu machen. Das Weitergeben von Zugmarken zeigt an, welche Spieler gerade Züge 
-machen. Jede Zugmarke repräsentiert den Zug eines aktiven Spielers.
+807.4 Die Variante Riesentumult erlaubt mehreren Spieler zur selben Zeit Züge zu machen. Das Weitergeben von Zugmarken zeigt an, welche Spieler gerade Züge machen. Jede Zugmarke repräsentiert den Zug eines aktiven Spielers.
 
 807.4a Es gibt eine Zugmarke für alle vollen vier Spieler in der Partie.
 
-   Beispiel: Eine Partie Riesentumult mit sechzehn Spielern hat vier Zugmarken. 
-   Eine Partie mit fünfzehn Spielern hat drei Zugmarken.
+Beispiel: Eine Partie Riesentumult mit sechzehn Spielern hat vier Zugmarken. Eine Partie mit fünfzehn Spielern hat drei Zugmarken.
 
-807.4b Der Startspieler im Spiel erhält die erste Zugmarke. Der Spieler 
-4 Plätze zu seiner Linken (der fünfte Spieler) nimmt die zweite Zugmarke und so 
-weiter, bis alle Zugmarken verteilt wurden. Jeder Zugmarke wird auf diese Weise 
-eine Nummer zugeordnet. Dann beginnen alle Spieler mit Zugmarken gleichzeitig 
-ihre Züge.
+807.4b Der Startspieler im Spiel erhält die erste Zugmarke. Der Spieler 4 Plätze zu seiner Linken (der fünfte Spieler) nimmt die zweite Zugmarke und so weiter, bis alle Zugmarken verteilt wurden. Jeder Zugmarke wird auf diese Weise eine Nummer zugeordnet. Dann beginnen alle Spieler mit Zugmarken gleichzeitig ihre Züge.
 
-807.4c Nachdem ein Spieler seinen Zug beendet hat, gibt dieser Spieler seine 
-Zugmarke nach links weiter. Wenn ein Spieler mit einer Zugmarke in seinem Zug 
-das Spiel verlässt, nimmt der Spieler zu seiner Linken die Zugmarke, nachdem 
-dieser Zug beendet wurde. Wenn ein Spieler mit einer Zugmarke das Spiel 
-verlässt, bevor sein Zug beginnt, nimmt der Spieler zu seiner Linken die 
-Zugmarke sofort.
+807.4c Nachdem ein Spieler seinen Zug beendet hat, gibt dieser Spieler seine Zugmarke nach links weiter. Wenn ein Spieler mit einer Zugmarke in seinem Zug das Spiel verlässt, nimmt der Spieler zu seiner Linken die Zugmarke, nachdem dieser Zug beendet wurde. Wenn ein Spieler mit einer Zugmarke das Spiel verlässt, bevor sein Zug beginnt, nimmt der Spieler zu seiner Linken die Zugmarke sofort.
 
-807.4d Ein Spieler, der eine Zugmarke erhält, kann seinen Zug nicht beginnen, 
-solange einer der Spieler auf den drei Plätzen zu seiner Linken eine Zugmarke 
-hat. In diesem Fall wartet er, bis der Spieler vier Plätze zu seiner Linken die 
-andere Zugmarke nimmt.
+807.4d Ein Spieler, der eine Zugmarke erhält, kann seinen Zug nicht beginnen, solange einer der Spieler auf den drei Plätzen zu seiner Linken eine Zugmarke hat. In diesem Fall wartet er, bis der Spieler vier Plätze zu seiner Linken die andere Zugmarke nimmt.
 
-807.4e Wenn ein Spieler das Spiel verlässt und jener Spieler, der das Spiel 
-verlässt, die Anzahl an Zugmarken im Spiel reduzieren würde, wird die Zugmarke 
-direkt zur Rechten des ausgeschiedenen Spielers zum Entfernen vorgemerkt. Wenn 
-mehr als ein Spieler das Spiel gleichzeitig verlässt, jener Spieler, die das 
-Spiel verlassen, die Anzahl an Zugmarken im Spiel reduzieren würden, und es 
-mehrere Zugmarken gibt, die entfernt werden könnten, wird die Marke mit der 
-kleinsten Zahl zum Entfernen vorgemerkt. Eine Zugmarke kann mehrfach zum 
-Entfernen vorgemerkt werden.
+807.4e Wenn ein Spieler das Spiel verlässt und jener Spieler, der das Spiel verlässt, die Anzahl an Zugmarken im Spiel reduzieren würde, wird die Zugmarke direkt zur Rechten des ausgeschiedenen Spielers zum Entfernen vorgemerkt. Wenn mehr als ein Spieler das Spiel gleichzeitig verlässt, jener Spieler, die das Spiel verlassen, die Anzahl an Zugmarken im Spiel reduzieren würden, und es mehrere Zugmarken gibt, die entfernt werden könnten, wird die Marke mit der kleinsten Zahl zum Entfernen vorgemerkt. Eine Zugmarke kann mehrfach zum Entfernen vorgemerkt werden.
 
-807.4f Um zu ermitteln, ob ein oder mehrere Spieler, die das Spiel verlassen, 
-die Anzahl an Zugmarken im Spiel reduzieren würden (siehe Regel 807.4e), 
-bleiben Zugmarken, die bereits zum Entfernen vorgemerkt wurden, 
-unberücksichtigt.
+807.4f Um zu ermitteln, ob ein oder mehrere Spieler, die das Spiel verlassen, die Anzahl an Zugmarken im Spiel reduzieren würden (siehe Regel 807.4e), bleiben Zugmarken, die bereits zum Entfernen vorgemerkt wurden, unberücksichtigt.
 
-807.4g Wenn ein Spieler, der am Zug ist, eine Zugmarke hat, die zum Entfernen 
-vorgemerkt wurde, wird diese Zugmarke entfernt anstatt weitergegeben, nachdem 
-dieser Zug endet. Wenn ein Spieler, der nicht am Zug ist, eine Zugmarke hat, 
-die zum Entfernen vorgemerkt wurde, wird diese Zugmarke sofort entfernt. Falls 
-die entfernte Zugmarke mehrfach zum Entfernen vorgemerkt wurde, wird die 
-Zugmarke zu ihrer Rechten entsprechend oft minus einmal zum Entfernen 
-vorgemerkt.
+807.4g Wenn ein Spieler, der am Zug ist, eine Zugmarke hat, die zum Entfernen vorgemerkt wurde, wird diese Zugmarke entfernt anstatt weitergegeben, nachdem dieser Zug endet. Wenn ein Spieler, der nicht am Zug ist, eine Zugmarke hat, die zum Entfernen vorgemerkt wurde, wird diese Zugmarke sofort entfernt. Falls die entfernte Zugmarke mehrfach zum Entfernen vorgemerkt wurde, wird die Zugmarke zu ihrer Rechten entsprechend oft minus einmal zum Entfernen vorgemerkt.
 
-807.4h Wenn ein oder mehrere, unmittelbar nebeneinander sitzende Spieler das 
-Spiel gleichzeitig verlassen, betreten die Spieler zu beiden Seiten dieser 
-Plätze erst zu Beginn des nächsten Zuges den Einflussbereichs des jeweils 
-anderen.
+807.4h Wenn ein oder mehrere, unmittelbar nebeneinander sitzende Spieler das Spiel gleichzeitig verlassen, betreten die Spieler zu beiden Seiten dieser Plätze erst zu Beginn des nächsten Zuges den Einflussbereichs des jeweils anderen.
 
-807.4i Wenn ein Effekt einen Spieler mit einer Zugmarke dazu bringt, einen 
-Extrazug nach dem aktuellen zu nehmen, behält jener Spieler die Zugmarke und 
-beginnt seinen nächsten Zug, nachdem der aktuelle geendet hat, es sei denn eine 
-andere Zugmarke ist zu diesem Zeitpunkt auf irgendeiner Seite zu nah. Wenn eine 
-Zugmarke innerhalb von drei Plätzen zur Linken des Spielers ist, wartet der 
-Extrazug darauf zu beginnen, bis der Spieler vier Plätze zu seiner Linken die 
-andere Zugmarke nimmt. Wenn eine Zugmarke innerhalb von drei Plätzen zur 
-Rechten des Spielers ist, passt der Spieler die Zugmarke zu seiner Linken, wenn 
-der Zug endet, anstatt sie zu behalten, und der Spieler nimmt den Extrazug 
-unmittelbar vor seinem nächsten Zug.
+807.4i Wenn ein Effekt einen Spieler mit einer Zugmarke dazu bringt, einen Extrazug nach dem aktuellen zu nehmen, behält jener Spieler die Zugmarke und beginnt seinen nächsten Zug, nachdem der aktuelle geendet hat, es sei denn eine andere Zugmarke ist zu diesem Zeitpunkt auf irgendeiner Seite zu nah. Wenn eine Zugmarke innerhalb von drei Plätzen zur Linken des Spielers ist, wartet der Extrazug darauf zu beginnen, bis der Spieler vier Plätze zu seiner Linken die andere Zugmarke nimmt. Wenn eine Zugmarke innerhalb von drei Plätzen zur Rechten des Spielers ist, passt der Spieler die Zugmarke zu seiner Linken, wenn der Zug endet, anstatt sie zu behalten, und der Spieler nimmt den Extrazug unmittelbar vor seinem nächsten Zug.
 
-807.4j Wenn ein Effekt einen Spieler dazu bringen würde, einen Extrazug nach 
-dem aktuellen zu nehmen, aber jener Spieler keine Zugmarke am Anfang jenes 
-Zuges hätte, nimmt der Spieler den Extrazug stattdessen direkt vor seinem 
-nächsten Zug.
+807.4j Wenn ein Effekt einen Spieler dazu bringen würde, einen Extrazug nach dem aktuellen zu nehmen, aber jener Spieler keine Zugmarke am Anfang jenes Zuges hätte, nimmt der Spieler den Extrazug stattdessen direkt vor seinem nächsten Zug.
 
-   Beispiel: Während seines Zuges wirkt Alex Time Walk, das ihn dazu bringt, 
-   einen Extrazug nach diesem zu nehmen. Während desselben Zuges verlässt der 
-   Spieler zu Alex‘ Linken das Spiel, was die Anzahl an Zugmarken dazu bringt, 
-   reduziert zu werden. Nachdem Alex‘ aktueller Zug endet, wird seine Zugmarke 
-   entfernt. Er nimmt nicht den Extrazug von Time Walk, bis kurz vor seinem 
-   normalen Zug, das nächste Mal, wenn er eine Zugmarke erhält.
+Beispiel: Während seines Zuges wirkt Alex Time Walk, das ihn dazu bringt, einen Extrazug nach diesem zu nehmen. Während desselben Zuges verlässt der Spieler zu Alex‘ Linken das Spiel, was die Anzahl an Zugmarken dazu bringt, reduziert zu werden. Nachdem Alex‘ aktueller Zug endet, wird seine Zugmarke entfernt. Er nimmt nicht den Extrazug von Time Walk, bis kurz vor seinem normalen Zug, das nächste Mal, wenn er eine Zugmarke erhält.
 
-807.5 Anstelle einen einzelnen Stapel zu haben, enthalten Riesentumult-Partien 
-mehrere Stapel. Jede Zugmarke repräsentiert ihren eigenen Stapel.
+807.5 Anstelle einen einzelnen Stapel zu haben, enthalten Riesentumult-Partien mehrere Stapel. Jede Zugmarke repräsentiert ihren eigenen Stapel.
 
-807.5a Ein Spieler erhält nur Priorität für einen Stapel einer bestimmten 
-Zugmarke, wenn die Zugmarke innerhalb seiner Einflussweite ist oder ein Objekt 
-auf diesem Stapel von einem Spieler innerhalb seiner Einflussweite kontrolliert 
-wird.
+807.5a Ein Spieler erhält nur Priorität für einen Stapel einer bestimmten Zugmarke, wenn die Zugmarke innerhalb seiner Einflussweite ist oder ein Objekt auf diesem Stapel von einem Spieler innerhalb seiner Einflussweite kontrolliert wird.
 
-807.5b Wenn ein Spieler Priorität für mehre Stapel besitzt und einen 
-Zauberspruch wirkt, eine Fähigkeit aktiviert oder eine ausgelöste Fähigkeit, 
-die er kontrolliert, ausgelöst wird, muss der Spieler festlegen, auf welchen 
-dieser Stapel der Zauberspruch oder die Fähigkeit gelegt wird. Wenn ein Objekt 
-auf einem dieser Stapel eine ausgelöste Fähigkeit dazu gebracht hat, ausgelöst 
-zu werden, muss der Spieler sie auf diesen Stapel legen. Wenn eine 
-verrechnender Zauberspruch oder eine Verrechnende Fähigkeit auf einem dieser 
-Spieler einen Spieler dazu bringt, einen Zauberspruch zu wirken oder eine Kopie 
-eines Zauberspruchs zu erschaffen, muss der neue Zauberspruch auf denselben 
-Stapel gelegt werden. Wenn ein Zauberspruch oder eine Fähigkeit auf ein Objekt 
-auf einem dieser Stapel zielt, muss er bzw. sie auf denselben Stapel wie sein 
-bzw. ihr Ziel gelegt werden; er bzw. sie kann nicht auf Ziele auf mehreren 
-Stapeln zielen.
+807.5b Wenn ein Spieler Priorität für mehre Stapel besitzt und einen Zauberspruch wirkt, eine Fähigkeit aktiviert oder eine ausgelöste Fähigkeit, die er kontrolliert, ausgelöst wird, muss der Spieler festlegen, auf welchen dieser Stapel der Zauberspruch oder die Fähigkeit gelegt wird. Wenn ein Objekt auf einem dieser Stapel eine ausgelöste Fähigkeit dazu gebracht hat, ausgelöst zu werden, muss der Spieler sie auf diesen Stapel legen. Wenn eine verrechnender Zauberspruch oder eine Verrechnende Fähigkeit auf einem dieser Spieler einen Spieler dazu bringt, einen Zauberspruch zu wirken oder eine Kopie eines Zauberspruchs zu erschaffen, muss der neue Zauberspruch auf denselben Stapel gelegt werden. Wenn ein Zauberspruch oder eine Fähigkeit auf ein Objekt auf einem dieser Stapel zielt, muss er bzw. sie auf denselben Stapel wie sein bzw. ihr Ziel gelegt werden; er bzw. sie kann nicht auf Ziele auf mehreren Stapeln zielen.
 
 808. Variante Team gegen Team (Team vs. Team)
 
-808.1 Team-gegen-Team-Partien werden mit zwei oder mehr Teams gespielt. Jedes 
-Team kann eine beliebige Anzahl an Spielern haben.
+808.1 Team-gegen-Team-Partien werden mit zwei oder mehr Teams gespielt. Jedes Team kann eine beliebige Anzahl an Spielern haben.
 
-808.2 Jedes Team sitzt beieinander auf einer Seite des Tisches. Jedes Team 
-bestimmt die Reihenfolge, in der seine Spieler sitzen.
+808.2 Jedes Team sitzt beieinander auf einer Seite des Tisches. Jedes Team bestimmt die Reihenfolge, in der seine Spieler sitzen.
 
-808.3 Alle Mehrspieleroptionen, die benutzt werden, werden festgelegt, bevor 
-das Spiel beginnt. Die Variante Team gegen Team nutzt die folgenden 
-Standardoptionen.
+808.3 Alle Mehrspieleroptionen, die benutzt werden, werden festgelegt, bevor das Spiel beginnt. Die Variante Team gegen Team nutzt die folgenden Standardoptionen.
 
 808.3a Die Option Mehrere Spieler angreifen wird genutzt (siehe Regel 802).
 
-808.3b Die Option Kreaturen stellen und die Option Begrenzte Einflussweite 
-werden üblicherweise nicht in der Team-gegen-Team-Variante genutzt.
+808.3b Die Option Kreaturen stellen und die Option Begrenzte Einflussweite werden üblicherweise nicht in der Team-gegen-Team-Variante genutzt.
 
-808.4 Um zu ermitteln, welcher Spieler anfängt, wird zufällig ein Team 
-bestimmt. Falls dieses Team eine ungerade Anzahl an Spielern hat, beginnt der 
-Spieler in der Mitte das Spiel. Falls das Team eine gerade Anzahl an Spielern 
-hat, beginnt der Spieler links von der Mitte das Spiel. Die Zugreihenfolge ist 
-linksherum.
+808.4 Um zu ermitteln, welcher Spieler anfängt, wird zufällig ein Team bestimmt. Falls dieses Team eine ungerade Anzahl an Spielern hat, beginnt der Spieler in der Mitte das Spiel. Falls das Team eine gerade Anzahl an Spielern hat, beginnt der Spieler links von der Mitte das Spiel.Die Zugreihenfolge ist linksherum.
 
-808.5 In der Variante Team gegen Team werden die Ressourcen eines Teams (Karten 
-in der Hand, Mana und so weiter) nicht gemeinsam genutzt. Teammitglieder können 
-sich jederzeit gegenseitig ihre Hände zeigen und Strategien diskutieren. 
-Teammitglieder können nicht die Karten oder bleibenden Karten von einander 
-manipulieren.
+808.5 In der Variante Team gegen Team werden die Ressourcen eines Teams (Karten in der Hand, Mana und so weiter) nicht gemeinsam genutzt. Teammitglieder können sich jederzeit gegenseitig ihre Hände zeigen und Strategien diskutieren. Teammitglieder können nicht die Karten oder bleibenden Karten von einander manipulieren.
 
 809. Variante Kaiser (Emperor)
 
 809.1 Die Variante Kaiser umfasst zwei oder mehr Teams aus je drei Spielern.
 
-809.2 Jedes Team sitzt zusammen auf einer Seite des Tisches. Jedes Team 
-bestimmt die Reihenfolge, in der es sitzt. Jedes Team hat einen Kaiser, der in 
-der Mitte des Teams sitzt. Die übrigens Spieler des Teams sind Generäle, deren 
-Aufgabe es ist, den Kaiser zu beschützen.
+809.2 Jedes Team sitzt zusammen auf einer Seite des Tisches. Jedes Team bestimmt die Reihenfolge, in der es sitzt. Jedes Team hat einen Kaiser, der in der Mitte des Teams sitzt. Die übrigens Spieler des Teams sind Generäle, deren Aufgabe es ist, den Kaiser zu beschützen.
 
 809.3 Die Variante Kaiser nutzt die folgenden Standardoptionen.
 
-809.3a Die Einflussweite ist für Kaiser auf 2 und für Generäle auf 1 begrenzt. 
-Siehe Regel 801, „Option Begrenzte Einflussweite“.
+809.3a Die Einflussweite ist für Kaiser auf 2 und für Generäle auf 1 begrenzt. Siehe Regel 801, „Option Begrenzte Einflussweite“.
 
 809.3b Kaiser-Partien nutzen die Option Kreaturen stellen (siehe Regel 804).
 
 809.3c Ein Spieler kann nur einen Gegner angreifen, der direkt neben ihm sitzt.
 
-   Beispiel: Zu Beginn einer Kaiser-Partie kann kein Kaiser irgendeinen Gegner 
-   angreifen, obwohl beide der gegnerischen Generäle in seiner Einflussweite 
-   sind.
+Beispiel: Zu Beginn einer Kaiser-Partie kann kein Kaiser irgendeinen Gegner angreifen, obwohl beide der gegnerischen Generäle in seiner Einflussweite sind.
 
-809.4 Bestimmt zufällig, welcher Kaiser anfängt. Die Zugreihenfolge ist 
-linksherum.
+809.4 Bestimmt zufällig, welcher Kaiser anfängt. Die Zugreihenfolge ist linksherum.
 
-809.5 Die Variante Kaiser umfasst die folgenden Festlegungen für das Gewinnen 
-und Verlieren des Spiels. Alle anderen Regeln für das Beenden der Partie gelten 
-ebenfalls (siehe Regel 104).
+809.5 Die Variante Kaiser umfasst die folgenden Festlegungen für das Gewinnen und Verlieren des Spiels. Alle anderen Regeln für das Beenden der Partie gelten ebenfalls (siehe Regel 104).
 
 809.5a Ein Team gewinnt das Spiel, wenn sein Kaiser gewinnt.
 
 809.5b Ein Team verliert das Spiel, wenn sein Kaiser verliert.
 
-809.5c Das Spiel endet für ein Team ein Unentschieden, wenn es für seinen 
-Kaiser ein Unentschieden ist.
+809.5c Das Spiel endet für ein Team ein Unentschieden, wenn es für seinen Kaiser ein Unentschieden ist.
 
-809.6 Die Variante Kaiser kann auch mit einer beliebigen Anzahl an gleichgroßen 
-Teams gespielt werden. Wenn die Teams mehr als drei Spieler haben, sollten die 
-Einflussweiten jedes Spielers angepasst werden.
+809.6 Die Variante Kaiser kann auch mit einer beliebigen Anzahl an gleichgroßen Teams gespielt werden. Wenn die Teams mehr als drei Spieler haben, sollten die Einflussweiten jedes Spielers angepasst werden.
 
-809.6a Als Einflussweite jedes Generals sollte die kleinste Zahl gewählt 
-werden, die gewährleistet, dass ein General eines gegnerischen Teams von Beginn 
-einer Partie an in diesem Einflussbereich ist. Als Einflussweite jedes Kaisers 
-sollte die kleinste Zahl gewählt werden, die gewährleistet, dass zwei Generäle 
-von gegnerischen Teams von Beginn einer Partie an in diesem Einflussbereich 
-ist. Die Spieler sollten so sitzen, dass zu Beginn einer Partie kein Kaiser in 
-der Einflussweite eines anderen Kaisers ist.
+809.6a Als Einflussweite jedes Generals sollte die kleinste Zahl gewählt werden, die gewährleistet, dass ein General eines gegnerischen Teams von Beginn einer Partie an in diesem Einflussbereich ist. Als Einflussweite jedes Kaisers sollte die kleinste Zahl gewählt werden, die gewährleistet, dass zwei Generäle von gegnerischen Teams von Beginn einer Partie an in diesem Einflussbereich ist. Die Spieler sollten so sitzen, dass zu Beginn einer Partie kein Kaiser in der Einflussweite eines anderen Kaisers ist.
 
-   Beispiel: In einer Kaiser-Partie mit zwei Teams zu je vier Spielern sollte 
-   die Sitzordnung (im Uhrzeigersinn oder gegen den Uhrzeigersinn um den Tisch 
-   herum) wie folgt sein: Team A General 1, Team A Kaiser, Team A General 2, 
-   Team A General 3, Team B General 1, Team B Kaiser, Team B General 2, Team B 
-   General 3. Jeder Kaiser hat eine Einflussweite von 3. Jeder General 2 hat 
-   eine Einflussweite von 2. Jeder General 1 und General 3 hat eine 
-   Einflussweite von 1.
+Beispiel: In einer Kaiser-Partie mit zwei Teams zu je vier Spielern sollte die Sitzordnung (im Uhrzeigersinn oder gegen den Uhrzeigersinn um den Tisch herum) wie folgt sein: Team A General 1, Team A Kaiser, Team A General 2, Team A General 3, Team B General 1, Team B Kaiser, Team B General 2, Team B General 3. Jeder Kaiser hat eine Einflussweite von 3. Jeder General 2 hat eine Einflussweite von 2. Jeder General 1 und General 3 hat eine Einflussweite von 1.
 
-809.7 In der Variante Kaiser werden die Ressourcen des Teams (Karten in der 
-Hand, Mana und so weiter) nicht gemeinsam genutzt. Teammitglieder können sich 
-jederzeit gegenseitig ihre Hände zeigen und Strategien diskutieren. 
-Teammitglieder können nicht die Karten oder bleibenden Karten von einander 
-manipulieren.
+809.7 In der Variante Kaiser werden die Ressourcen des Teams (Karten in der Hand, Mana und so weiter) nicht gemeinsam genutzt. Teammitglieder können sich jederzeit gegenseitig ihre Hände zeigen und Strategien diskutieren. Teammitglieder können nicht die Karten oder bleibenden Karten von einander manipulieren.
 
 810. Variante Zweiköpfiger Riese (Two-Headed Giant)
 
-810.1 Zweiköpfiger-Riese-Partien werden mit zwei Teams aus jeweils zwei 
-Spielern gespielt.
+810.1 Zweiköpfiger-Riese-Partien werden mit zwei Teams aus jeweils zwei Spielern gespielt.
 
-810.2 Die Variante Zweiköpfiger Riese benutzt die Option Gemeinsame Team-Züge. 
-Siehe Regel 805.
+810.2 Die Variante Zweiköpfiger Riese benutzt die Option Gemeinsame Team-Züge. Siehe Regel 805.
 
-810.3 Jedes Team sitzt zusammen auf einer Seite des Tisches. Jedes Team wählt 
-die Reihenfolge, in der seine Spieler sitzen.
+810.3 Jedes Team sitzt zusammen auf einer Seite des Tisches. Jedes Team wählt die Reihenfolge, in der seine Spieler sitzen.
 
-810.4 Jedes Team hat einen gemeinsamen Lebenspunktestand, der bei 
-30 Lebenspunkten startet.
+810.4 Jedes Team hat einen gemeinsamen Lebenspunktestand, der bei 30 Lebenspunkten startet.
 
-810.5 Mit der Ausnahme des Lebenspunktestands und Giftmarken werden die 
-Ressourcen eines Teams (Handkarten, Mana und so weiter) in der Variante 
-Zweiköpfiger Riese nicht gemeinsam genutzt. Die Teammitglieder können sich 
-jederzeit gegenseitig ihre Handkarten zeigen und Strategien diskutieren. 
-Teammitglieder können nicht Karten oder bleibende Karten des anderen 
-manipulieren.
+810.5 Mit der Ausnahme des Lebenspunktestands und Giftmarken werden die Ressourcen eines Teams (Handkarten, Mana und so weiter) in der Variante Zweiköpfiger Riese nicht gemeinsam genutzt. Die Teammitglieder können sich jederzeit gegenseitig ihre Handkarten zeigen und Strategien diskutieren. Teammitglieder können nicht Karten oder bleibende Karten des anderen manipulieren.
 
 810.6 Das Team, das anfängt, übergeht das Ziehsegment seines ersten Zuges.
 
-810.7 Die Kampfregeln der Variante Zweiköpfiger Riese unterscheiden sich von 
-denen anderer Mehrspielervarianten.
+810.7 Die Kampfregeln der Variante Zweiköpfiger Riese unterscheiden sich von denen anderer Mehrspielervarianten.
 
-810.7a Die Kreaturen jedes Teams greifen das andere Team als Gruppe an. Während 
-der Kampfphase ist das aktive Team das angreifende Team und jeder Spieler im 
-angreifenden Team ist ein angreifender Spieler. Ebenso ist das inaktive Team 
-das verteidigende Team und jeder Spieler im inaktiven Team ein verteidigender 
-Spieler.
+810.7a Die Kreaturen jedes Teams greifen das andere Team als Gruppe an. Während der Kampfphase ist das aktive Team das angreifende Team und jeder Spieler im angreifenden Team ist ein angreifender Spieler. Ebenso ist das inaktive Team das verteidigende Team und jeder Spieler im inaktiven Team ein verteidigender Spieler.
 
-810.7b Jeder einmalige Effekt, der sich auf den „verteidigenden Spieler“ 
-bezieht, bezieht sich auf einen bestimmten verteidigenden Spieler, nicht auf 
-beide verteidigende Spieler. Der Beherrscher des Effekts bestimmt zum 
-Zeitpunkt, da der Effekt angewandt wird, auf welchen sich der Zauberspruch oder 
-die Fähigkeit bezieht. Das gleiche trifft auf alle einmaligen Effekte zu, die 
-sich auf den „angreifenden Spieler“ beziehen.
+810.7b Jeder einmalige Effekt, der sich auf den „verteidigenden Spieler“ bezieht, bezieht sich auf einen bestimmten verteidigenden Spieler, nicht auf beide verteidigende Spieler. Der Beherrscher des Effekts bestimmt zum Zeitpunkt, da der Effekt angewandt wird, auf welchen sich der Zauberspruch oder die Fähigkeit bezieht. Das gleiche trifft auf alle einmaligen Effekte zu, die sich auf den „angreifenden Spieler“ beziehen.
 
-Jede eigenschafts-definierende Fähigkeit, die sich auf den „verteidigenden 
-Spieler“ bezieht, bezieht sich auf einen bestimmten verteidigenden Spieler, 
-nicht auf beide verteidigende Spieler. Der Beherrscher des Objekts mit der 
-eigenschafts-definierenden Fähigkeit bestimmt zum Zeitpunkt, da die inaktiven 
-Spieler zu verteidigenden Spielern werden, auf welchen sich die Fähigkeit 
-bezieht. Das gleiche trifft auf alle einmaligen Effekte zu, die sich auf den 
-„angreifenden Spieler“ beziehen.
+Jede eigenschafts-definierende Fähigkeit, die sich auf den „verteidigenden Spieler“ bezieht, bezieht sich auf einen bestimmten verteidigenden Spieler, nicht auf beide verteidigende Spieler. Der Beherrscher des Objekts mit der eigenschafts-definierenden Fähigkeit bestimmt zum Zeitpunkt, da die inaktiven Spieler zu verteidigenden Spielern werden, auf welchen sich die Fähigkeit bezieht. Das gleiche trifft auf alle einmaligen Effekte zu, die sich auf den „angreifenden Spieler“ beziehen.
 
-Alle anderen Fälle, in denen sich auf den „verteidigenden Spieler“ bezogen 
-wird, beziehen sich eigentlich auf beide verteidigenden Spieler. Wenn der Bezug 
-einen positiven (so wie zu fragen, ob der verteidigende Spieler eine Insel 
-kontrolliert) oder einen relativen Vergleich (so wie zu fragen, ob du mehr 
-Kreaturen kontrollierst als der verteidigende Spieler) enthält, erhält er nur 
-eine Antwort. Diese Antwort ist „ja“, wenn einer der verteidigenden Spieler im 
-Vergleich eine „ja“-Antwort erwidern würde, wenn sie individuell verglichen 
-werden würden. Wenn der Bezug einen negativen Vergleich enthält (so wie zu 
-fragen, ob der verteidigende Spieler keine schwarzen bleibenden Karten 
-kontrolliert), erhält er auch nur eine Antwort. Diese Antwort ist „ja“, wenn 
-das Durchführen des analogen positiven Vergleichs eine „nein“-Antwort erwidern 
-würde. Das gleiche trifft auf alle anderen Fälle zu, die sich auf den 
-„angreifenden Spieler“ beziehen.
+Alle anderen Fälle, in denen sich auf den „verteidigenden Spieler“ bezogen wird, beziehen sich eigentlich auf beide verteidigenden Spieler. Wenn der Bezug einen positiven (so wie zu fragen, ob der verteidigende Spieler eine Insel kontrolliert) oder einen relativen Vergleich (so wie zu fragen, ob du mehr Kreaturen kontrollierst als der verteidigende Spieler) enthält, erhält er nur eine Antwort. Diese Antwort ist „ja“, wenn einer der verteidigenden Spieler im Vergleich eine „ja“-Antwort erwidern würde, wenn sie individuell verglichen werden würden. Wenn der Bezug einen negativen Vergleich enthält (so wie zu fragen, ob der verteidigende Spieler keine schwarzen bleibenden Karten kontrolliert), erhält er auch nur eine Antwort. Diese Antwort ist „ja“, wenn das Durchführen des analogen positiven Vergleichs eine „nein“-Antwort erwidern würde. Das gleiche trifft auf alle anderen Fälle zu, die sich auf den „angreifenden Spieler“ beziehen.
 
-810.7c Sowie das Angreifer-deklarieren-Segment beginnt, deklariert das aktive 
-Team seine Angreifer. Wenn ein Effekt eines Objekts, das von einem 
-verteidigenden Spieler kontrolliert wird, einer Kreatur verbietet, ihn 
-anzugreifen, kann diese Kreatur nicht das verteidigende Team angreifen. Das 
-aktive Team hat einen kombinierten Angriff und der Satz an angreifenden 
-Kreaturen muss als Ganzes legal sein. Siehe Regel 508.1.
+810.7c Sowie das Angreifer-deklarieren-Segment beginnt, deklariert das aktive Team seine Angreifer. Wenn ein Effekt eines Objekts, das von einem verteidigenden Spieler kontrolliert wird, einer Kreatur verbietet, ihn anzugreifen, kann diese Kreatur nicht das verteidigende Team angreifen. Das aktive Team hat einen kombinierten Angriff und der Satz an angreifenden Kreaturen muss als Ganzes legal sein. Siehe Regel 508.1.
 
-   Beispiel: Ein Spieler in einer Zweiköpfiger-Riese-Partie kontrolliert 
-   Teferis Graben, der besagt: „Sowie Teferis Graben ins Spiel kommt, bestimme 
-   eine Farbe.“ und „Kreaturen der bestimmten Farbe ohne Flugfähigkeit können 
-   dich nicht angreifen.“ Kreaturen der bestimmten Farbe ohne Flugfähigkeit 
-   können das Team dieses Spielers nicht angreifen.
+Beispiel: Ein Spieler in einer Zweiköpfiger-Riese-Partie kontrolliert Teferis Graben, der besagt: „Sowie Teferis Graben ins Spiel kommt, bestimme eine Farbe.“ und „Kreaturen der bestimmten Farbe ohne Flugfähigkeit können dich nicht angreifen.“ Kreaturen der bestimmten Farbe ohne Flugfähigkeit können das Team dieses Spielers nicht angreifen.
 
-810.7d Sowie das Blocker-deklarieren-Segment beginnt, deklariert das 
-verteidigende Team Blocker. Kreaturen, die vom verteidigenden Team kontrolliert 
-werden, können jede angreifende Kreatur blocken. Das verteidigende Team hat 
-einen kombinierten Block und dieser Satz an blockenden Kreaturen muss als 
-Ganzes legal sein. Siehe Regel 509.1.
+810.7d Sowie das Blocker-deklarieren-Segment beginnt, deklariert das verteidigende Team Blocker. Kreaturen, die vom verteidigenden Team kontrolliert werden, können jede angreifende Kreatur blocken. Das verteidigende Team hat einen kombinierten Block und dieser Satz an blockenden Kreaturen muss als Ganzes legal sein. Siehe Regel 509.1.
 
-   Beispiel: Wenn eine angreifende Kreatur Waldtarnung hat und einer der 
-   Spieler im verteidigenden Team einen Wald kontrolliert, kann die Kreatur 
-   nicht geblockt werden.
+Beispiel: Wenn eine angreifende Kreatur Waldtarnung hat und einer der Spieler im verteidigenden Team einen Wald kontrolliert, kann die Kreatur nicht geblockt werden.
 
-810.7e Nachdem Blocker deklariert wurden, erklärt das aktive Team für jede 
-angreifende Kreatur, die von mehreren Kreaturen geblockt wird, ihre 
-Schadenszuweisungsreihenfolge unter den blockenden Kreaturen. Dann erklärt das 
-verteidigende Team für jede Kreatur, die mehrere Kreaturen blockt, ihre 
-Schadenszuweisungsreihenfolge unter den angreifenden Kreaturen.
+810.7e Nachdem Blocker deklariert wurden, erklärt das aktive Team für jede angreifende Kreatur, die von mehreren Kreaturen geblockt wird, ihre Schadenszuweisungsreihenfolge unter den blockenden Kreaturen. Dann erklärt das verteidigende Team für jede Kreatur, die mehrere Kreaturen blockt, ihre Schadenszuweisungsreihenfolge unter den angreifenden Kreaturen.
 
-810.7f Sowie das Kampfschadensegment beginnt, sagt das aktive Team an, wie jede 
-angreifende Kreatur ihren Kampfschaden zuweist. Wenn das angreifende Team dem 
-verteidigenden Team Kampfschaden zuweisen würde, wählt das angreifende Team nur 
-einen der verteidigenden Spieler, dem diese Kreatur ihren Kampfschaden zuweist. 
-Dann sagt das verteidigende Team an, wie jede blockende Kreatur ihren 
-Kampfschaden zuweist. Siehe Regel 510.1.
+810.7f Sowie das Kampfschadensegment beginnt, sagt das aktive Team an, wie jede angreifende Kreatur ihren Kampfschaden zuweist. Wenn das angreifende Team dem verteidigenden Team Kampfschaden zuweisen würde, wählt das angreifende Team nur einen der verteidigenden Spieler, dem diese Kreatur ihren Kampfschaden zuweist. Dann sagt das verteidigende Team an, wie jede blockende Kreatur ihren Kampfschaden zuweist. Siehe Regel 510.1.
 
-810.8 Die Variante Zweiköpfiger Riese nutzt die normalen Regeln für Gewinnen 
-und Verlieren (siehe Regel 104) mit den folgenden Zusätzen und Festlegungen.
+810.8 Die Variante Zweiköpfiger Riese nutzt die normalen Regeln für Gewinnen und Verlieren (siehe Regel 104) mit den folgenden Zusätzen und Festlegungen.
 
-810.8a Spieler gewinnen oder verlieren das Spiel nur als Team, nicht als 
-Individuen. Wenn einer der Spieler in einem Team das Spiel verlieren würde, 
-verliert das Team das Spiel. Wenn einer der Spieler in einem Team das Spiel 
-gewinnen würde, gewinnt das ganze Team das Spiel. Wenn ein Effekt einen Spieler 
-davon abhalten würde, das Spiel zu gewinnen, kann das Team dieses Spielers das 
-Spiel nicht gewinnen. Wenn ein Effekt einen Spieler davon abhalten würde, das 
-Spiel zu verlieren, kann das Team dieses Spielers das Spiel nicht verlieren.
+810.8a Spieler gewinnen oder verlieren das Spiel nur als Team, nicht als Individuen. Wenn einer der Spieler in einem Team das Spiel verlieren würde, verliert das Team das Spiel. Wenn einer der Spieler in einem Team das Spiel gewinnen würde, gewinnt das ganze Team das Spiel. Wenn ein Effekt einen Spieler davon abhalten würde, das Spiel zu gewinnen, kann das Team dieses Spielers das Spiel nicht gewinnen. Wenn ein Effekt einen Spieler davon abhalten würde, das Spiel zu verlieren, kann das Team dieses Spielers das Spiel nicht verlieren.
 
-   Beispiel: In einer Zweiköpfiger-Riese-Partie kontrolliert ein Spieler 
-   Transzendenz, die zum Teil lautet: „Du verlierst das Spiel nicht dafür, dass 
-   du 0 oder weniger Lebenspunkte hast.“ Wenn der Lebenspunktestand des Teams 
-   dieses Spielers 0 oder weniger ist, verliert dieses Team nicht das Spiel.
+Beispiel: In einer Zweiköpfiger-Riese-Partie kontrolliert ein Spieler Transzendenz, die zum Teil lautet: „Du verlierst das Spiel nicht dafür, dass du 0 oder weniger Lebenspunkte hast.“ Wenn der Lebenspunktestand des Teams dieses Spielers 0 oder weniger ist, verliert dieses Team nicht das Spiel.
 
-   Beispiel: In einer Zweiköpfiger-Riese-Partie versucht ein Spieler, eine 
-   Karte zu ziehen, während in der Bibliothek dieses Spielers keine Karten 
-   sind. Dieser Spieler verliert das Spiel, sodass das gesamte Team dieses 
-   Spielers das Spiel verliert.
+Beispiel: In einer Zweiköpfiger-Riese-Partie versucht ein Spieler, eine Karte zu ziehen, während in der Bibliothek dieses Spielers keine Karten sind. Dieser Spieler verliert das Spiel, sodass das gesamte Team dieses Spielers das Spiel verliert.
 
-   Beispiel: In einer Zweiköpfiger-Riese-Partie kontrolliert ein Spieler Platin-
-   Engel, der lautet: „Du kannst das Spiel nicht verlieren und deine Gegner 
-   können das Spiel nicht gewinnen.“ Weder dieser Spieler noch sein Teampartner 
-   kann das Spiel verlieren, solange der Platin-Engel im Spiel ist, und keiner 
-   der Spieler des gegnerischen Teams kann das Spiel gewinnen.
+Beispiel: In einer Zweiköpfiger-Riese-Partie kontrolliert ein Spieler Platin-Engel, der lautet: „Du kannst das Spiel nicht verlieren und deine Gegner können das Spiel nicht gewinnen.“ Weder dieser Spieler noch sein Teampartner kann das Spiel verlieren, solange der Platin-Engel im Spiel ist, und keiner der Spieler des gegnerischen Teams kann das Spiel gewinnen.
 
-810.8b Wenn ein Spieler aufgibt, verlässt sein Team sofort das Spiel. 
-Dieses Team verliert das Spiel.
+810.8b Wenn ein Spieler aufgibt, verlässt sein Team sofort das Spiel. Dieses Team verliert das Spiel.
 
-810.8c Wenn der Lebenspunktestand eines Teams 0 oder kleiner ist, verliert das 
-Team das Spiel. (Dies ist eine zustandsbasierte Aktion. Siehe 
-Regel 704.)
+810.8c Wenn der Lebenspunktestand eines Teams 0 oder kleiner ist, verliert das Team das Spiel. (Dies ist eine zustandsbasierte Aktion. Siehe Regel 704.)
 
-810.8d Wenn ein Team 15 oder mehr Giftmarken hat, verliert das Team das Spiel. 
-(Dies ist eine zustandsbasierte Aktion. Siehe Regel 704.)
+810.8d Wenn ein Team 15 oder mehr Giftmarken hat, verliert das Team das Spiel. (Dies ist eine zustandsbasierte Aktion. Siehe Regel 704.)
 
-810.9 Schaden, der Verlust von Lebenspunkten und der Erhalt von Lebenspunkten 
-betreffen jeden Spieler einzeln. Das Ergebnis wird auf den gemeinsamen 
-Lebenspunktestand des Teams angewandt.
+810.9 Schaden, der Verlust von Lebenspunkten und der Erhalt von Lebenspunkten betreffen jeden Spieler einzeln. Das Ergebnis wird auf den gemeinsamen Lebenspunktestand des Teams angewandt.
 
-   Beispiel: In einer Zweiköpfiger-Riese-Partie wirkt ein Spieler Flammende 
-   Öffnung, die lautet: „Die Flammende Öffnung fügt allen Spielern 
-   4 Schadenspunkte zu.“ Jedes Team erhält eine Gesamtzahl von 
-   8 Schadenspunkten.
+Beispiel: In einer Zweiköpfiger-Riese-Partie wirkt ein Spieler Flammende Öffnung, die lautet: „Die Flammende Öffnung fügt allen Spielern 4 Schadenspunkte zu.“ Jedes Team erhält eine Gesamtzahl von 8 Schadenspunkten.
 
-810.9a Wenn Kosten oder ein Effekt den Wert des Lebenspunktestandes eines 
-Spielers wissen müssen, benutzen die Kosten bzw. der Effekt stattdessen den 
-Lebenspunktestand des Teams.
+810.9a Wenn Kosten oder ein Effekt den Wert des Lebenspunktestandes eines Spielers wissen müssen, benutzen die Kosten bzw. der Effekt stattdessen den Lebenspunktestand des Teams.
 
-   Beispiel: In einer Zweiköpfiger-Riese-Partie wird ein Spieler eines Teams, 
-   das 17 Lebenspunkte hat, Ziel eines Leitsterns der Unsterblichkeit, der 
-   u. a. lautet: „Verdoppele den Lebenspunktestand eines Spielers deiner Wahl.“ 
-   Dieser Spieler erhält 17 Lebenspunkte dazu, sodass das Team am Ende 
-   34 Lebenspunkte hat.
+Beispiel: In einer Zweiköpfiger-Riese-Partie wird ein Spieler eines Teams, das 17 Lebenspunkte hat, Ziel eines Leitsterns der Unsterblichkeit, der u. a. lautet: „Verdoppele den Lebenspunktestand eines Spielers deiner Wahl.“ Dieser Spieler erhält 17 Lebenspunkte dazu, sodass das Team am Ende 34 Lebenspunkte hat.
 
-   Beispiel: In einer Zweiköpfiger-Riese-Partie kontrolliert ein Spieler 
-   Ausdauerprüfung, eine Verzauberung, die lautet: „Falls du zu Beginn deines 
-   Versorgungssegments 50 Lebenspunkte oder mehr hast, gewinnst du das Spiel.“ 
-   Zu Beginn des Versorgungssegments dieses Spielers gewinnt sein Team das 
-   Spiel, wenn der Lebenspunktestand seines Teams 50 oder mehr beträgt.
+Beispiel: In einer Zweiköpfiger-Riese-Partie kontrolliert ein Spieler Ausdauerprüfung, eine Verzauberung, die lautet: „Falls du zu Beginn deines Versorgungssegments 50 Lebenspunkte oder mehr hast, gewinnst du das Spiel.“ Zu Beginn des Versorgungssegments dieses Spielers gewinnt sein Team das Spiel, wenn der Lebenspunktestand seines Teams 50 oder mehr beträgt.
 
-   Beispiel: In einer Zweiköpfiger-Riese-Partie kontrolliert ein Spieler eines 
-   Teams, das 11 Lebenspunkte hat, ein Lauerndes Unheil, eine Verzauberung, die 
-   lautet: „Bezahle die Hälfte deiner Lebenspunkte, aufgerundet: Das Lauernde 
-   Unheil wird zu einer 4/4 Schreckenkreatur mit Flugfähigkeit.“ Um die 
-   Fähigkeit zu aktivieren, muss dieser Spieler 6 Lebenspunkte bezahlen. Das 
-   Team hat am Ende 5 Lebenspunkte.
+Beispiel: In einer Zweiköpfiger-Riese-Partie kontrolliert ein Spieler eines Teams, das 11 Lebenspunkte hat, ein Lauerndes Unheil, eine Verzauberung, die lautet: „Bezahle die Hälfte deiner Lebenspunkte, aufgerundet: Das Lauernde Unheil wird zu einer 4/4 Schreckenkreatur mit Flugfähigkeit.“ Um die Fähigkeit zu aktivieren, muss dieser Spieler 6 Lebenspunkte bezahlen. Das Team hat am Ende 5 Lebenspunkte.
 
-810.9b Falls Kosten oder ein Effekt beiden Spielern eines Teams erlauben, 
-gleichzeitig Lebenspunkte zu bezahlen, darf die Gesamtmenge an Lebenspunkten, 
-die sie bezahlen, nicht größer sein als der Lebenspunktestand ihres Teams. 
-(Spieler können immer 0 Lebenspunkte bezahlen.)
+810.9b Falls Kosten oder ein Effekt beiden Spielern eines Teams erlauben, gleichzeitig Lebenspunkte zu bezahlen, darf die Gesamtmenge an Lebenspunkten, die sie bezahlen, nicht größer sein als der Lebenspunktestand ihres Teams. (Spieler können immer 0 Lebenspunkte bezahlen.)
 
-810.9c Wenn ein Effekt den Lebenspunktestand eines einzelnen Spielers auf eine 
-bestimmte Zahl setzt, verliert dieser Spieler die notwendige Menge an 
-Lebenspunkte oder erhält diese dazu, um am Ende den neuen Lebenspunktestand zu 
-haben. Der Lebenspunktestand des Teams wird um die Menge an Lebenspunkten 
-angeglichen, die dieser Spieler erhalten oder verloren hat.
+810.9c Wenn ein Effekt den Lebenspunktestand eines einzelnen Spielers auf eine bestimmte Zahl setzt, verliert dieser Spieler die notwendige Menge an Lebenspunkte oder erhält diese dazu, um am Ende den neuen Lebenspunktestand zu haben. Der Lebenspunktestand des Teams wird um die Menge an Lebenspunkten angeglichen, die dieser Spieler erhalten oder verloren hat.
 
-   Beispiel: In einer Zweiköpfiger-Riese-Partie wird ein Spieler eines Teams, 
-   das 25 Lebenspunkte hat, Ziel einer Fähigkeit, die lautet: „Der 
-   Lebenspunktestand eines Spielers deiner Wahl wird 10.“ Der Lebenspunktestand 
-   dieses Spielers wird als 25 angesehen, also verliert dieser Spieler 
-   15 Lebenspunkte. Das Team hat am Ende 10 Lebenspunkte.
+Beispiel: In einer Zweiköpfiger-Riese-Partie wird ein Spieler eines Teams, das 25 Lebenspunkte hat, Ziel einer Fähigkeit, die lautet: „Der Lebenspunktestand eines Spielers deiner Wahl wird 10.“ Der Lebenspunktestand dieses Spielers wird als 25 angesehen, also verliert dieser Spieler 15 Lebenspunkte. Das Team hat am Ende 10 Lebenspunkte.
 
-810.9d Wenn ein Effekt den Lebenspunktestand jedes Spielers in einem Team auf 
-eine Zahl setzen würde, bestimmt das Team eines seiner Mitglieder. In diesem 
-Team wird nur dieser Spieler betroffen.
+810.9d Wenn ein Effekt den Lebenspunktestand jedes Spielers in einem Team auf eine Zahl setzen würde, bestimmt das Team eines seiner Mitglieder. In diesem Team wird nur dieser Spieler betroffen.
 
-   Beispiel: In einer Zweiköpfiger-Riese-Partie hat ein Team 7 Lebenspunkte und 
-   das andere 13. Ein Spieler wirkt Mit gleicher Münze heimzahlen, welches 
-   lautet: „Der Lebenspunktestand jedes Spielers wird zu dem niedrigsten 
-   Lebenspunktestand unter allen Spielern.“ Jedes Team bestimmt eines seiner 
-   Mitglieder, das betroffen wird. Als Resultat verliert der so bestimmte 
-   Spieler des Teams, das 13 Lebenspunkte hat, 6 Lebenspunkte, sodass dieses 
-   Team am Ende 7 Lebenspunkte hat.
+Beispiel: In einer Zweiköpfiger-Riese-Partie hat ein Team 7 Lebenspunkte und das andere 13. Ein Spieler wirkt Mit gleicher Münze heimzahlen, welches lautet: „Der Lebenspunktestand jedes Spielers wird zu dem niedrigsten Lebenspunktestand unter allen Spielern.“ Jedes Team bestimmt eines seiner Mitglieder, das betroffen wird. Als Resultat verliert der so bestimmte Spieler des Teams, das 13 Lebenspunkte hat, 6 Lebenspunkte, sodass dieses Team am Ende 7 Lebenspunkte hat.
 
-810.9e Ein Spieler kann nicht den Lebenspunktestand mit seinem Teampartner 
-tauschen. Falls ein Effekt dazu führen würde, dass dies passiert, findet der 
-Tausch nicht statt.
+810.9e Ein Spieler kann nicht den Lebenspunktestand mit seinem Teampartner tauschen. Falls ein Effekt dazu führen würde, dass dies passiert, findet der Tausch nicht statt.
 
-810.9f Wenn ein Effekt einen Spieler anweist, die Lebenspunktestände von einer 
-beliebigen Anzahl an Spielern neu zu verteilen, kann dieser Spieler nicht mehr 
-als ein Mitglied jedes Teams auf diese Weise beeinflussen.
+810.9f Wenn ein Effekt einen Spieler anweist, die Lebenspunktestände von einer beliebigen Anzahl an Spielern neu zu verteilen, kann dieser Spieler nicht mehr als ein Mitglied jedes Teams auf diese Weise beeinflussen.
 
-810.9g Wenn ein Effekt besagt, dass ein Spieler keine Lebenspunkte dazu 
-erhalten kann, kann kein Spieler des Teams dieses Spielers Lebenspunkte dazu 
-erhalten.
+810.9g Wenn ein Effekt besagt, dass ein Spieler keine Lebenspunkte dazu erhalten kann, kann kein Spieler des Teams dieses Spielers Lebenspunkte dazu erhalten.
 
-810.9h Wenn ein Effekt besagt, dass ein Spieler keine Lebenspunkte verlieren 
-kann, kann kein Spieler des Teams dieses Spielers Lebenspunkte verlieren oder 
-eine andere Menge als 0 Lebenspunkte bezahlen.
+810.9h Wenn ein Effekt besagt, dass ein Spieler keine Lebenspunkte verlieren kann, kann kein Spieler des Teams dieses Spielers Lebenspunkte verlieren oder eine andere Menge als 0 Lebenspunkte bezahlen.
 
-810.10 Effekte, die dazu führen, dass Spieler Giftmarken erhalten, betreffen 
-jeden Spieler einzeln. Die Giftmarken eines Teams werden gemeinsam benutzt.
+810.10 Effekte, die dazu führen, dass Spieler Giftmarken erhalten, betreffen jeden Spieler einzeln. Die Giftmarken eines Teams werden gemeinsam benutzt.
 
-810.10a Wenn ein Effekt wissen muss, wie viele Giftmarken ein einzelner Spieler 
-hat, benutzt der Effekt stattdessen die Anzahl an Giftmarken des Teams.
+810.10a Wenn ein Effekt wissen muss, wie viele Giftmarken ein einzelner Spieler hat, benutzt der Effekt stattdessen die Anzahl an Giftmarken des Teams.
 
-810.10b Wenn ein Effekt dazu führt, dass ein Spieler Giftmarken verliert, 
-verliert das Team dieses Spielers entsprechend viele Giftmarken.
+810.10b Wenn ein Effekt dazu führt, dass ein Spieler Giftmarken verliert, verliert das Team dieses Spielers entsprechend viele Giftmarken.
 
-810.10c Wenn ein Effekt besagt, dass ein Spieler keine Giftmarken erhalten 
-kann, kann kein Spieler dieses Teams Giftmarken erhalten.
+810.10c Wenn ein Effekt besagt, dass ein Spieler keine Giftmarken erhalten kann, kann kein Spieler dieses Teams Giftmarken erhalten.
 
-810.10d Ein Spieler ist „vergiftet“, wenn sein Team eine oder mehrere 
-Giftmarken hat.
+810.10d Ein Spieler ist „vergiftet“, wenn sein Team eine oder mehrere Giftmarken hat.
 
-810.11 Die Variante Zweiköpfiger Riese kann auch mit gleichgroßen Teams von 
-mehr als zwei Spielern gespielt werden. Der Anfangslebenspunktestand jedes 
-Teams ist gleich 15 mal der Anzahl an Spielern in dem Team. (Diese Varianten 
-werden inoffiziell Dreiköpfiger Riese, Vierköpfiger Riese und so weiter 
-genannt.)
+810.11 Die Variante Zweiköpfiger Riese kann auch mit gleichgroßen Teams von mehr als zwei Spielern gespielt werden. Der Anfangslebenspunktestand jedes Teams ist gleich 15 mal der Anzahl an Spielern in dem Team. (Diese Varianten werden inoffiziell Dreiköpfiger Riese, Vierköpfiger Riese und so weiter genannt.)
 
 811. Variante Abwechselnde Teams (Alternating Teams)
 
-811.1 Abwechselnde-Teams-Partien werden mit zwei oder mehr Teams gleicher Größe 
-gespielt.
+811.1 Abwechselnde-Teams-Partien werden mit zwei oder mehr Teams gleicher Größe gespielt.
 
-811.2 Alle Mehrspieleroptionen werden festgelegt, bevor das Spiel beginnt. Die 
-Variante Abwechselnde Teams nutzt die folgenden Standardoptionen.
+811.2 Alle Mehrspieleroptionen werden festgelegt, bevor das Spiel beginnt. Die Variante Abwechselnde Teams nutzt die folgenden Standardoptionen.
 
-811.2a Die empfohlene Einflussweite ist 2. Siehe Regel 801, „Option Begrenzte 
-Einflussweite“.
+811.2a Die empfohlene Einflussweite ist 2. Siehe Regel 801, „Option Begrenzte Einflussweite“.
 
-811.2b Es muss genau eine der Optionen Links angreifen, Rechts angreifen oder 
-mehrere Spieler angreifen gewählt werden. Siehe Regel 803, „Optionen Links 
-angreifen und Rechts angreifen“ und Regel 802, „Option Mehrere Spieler 
-angreifen“.
+811.2b Es muss genau eine der Optionen Links angreifen, Rechts angreifen oder mehrere Spieler angreifen gewählt werden. Siehe Regel 803, „Optionen Links angreifen und Rechts angreifen“ und Regel 802, „Option Mehrere Spieler angreifen“.
 
-811.2c Die Option Kreaturen stellen wird normalerweise nicht in der Variante 
-Abwechselnde Teams benutzt.
+811.2c Die Option Kreaturen stellen wird normalerweise nicht in der Variante Abwechselnde Teams benutzt.
 
-811.3 Zu Beginn der Partie werden die Spieler so verteilt, dass kein Spieler 
-neben einem Teammitglied sitzt und jedes Team gleich verteilt ist.
+811.3 Zu Beginn der Partie werden die Spieler so verteilt, dass kein Spieler neben einem Teammitglied sitzt und jedes Team gleich verteilt ist.
 
-   Beispiel: In einer Abwechselnde-Teams-Partie mit drei Teams A, B und C sind 
-   die Plätze um den Tisch zu Beginn der Partie A1, B1, C1, A2, B2, C2, A3, B3, 
-   C3 und so weiter.
+Beispiel: In einer Abwechselnde-Teams-Partie mit drei Teams A, B und C sind die Plätze um den Tisch zu Beginn der Partie A1, B1, C1, A2, B2, C2, A3, B3, C3 und so weiter.
 
-811.4 Ein Spieler kann keine Gegner angreifen, die nicht direkt neben ihm 
-sitzen.
+811.4 Ein Spieler kann keine Gegner angreifen, die nicht direkt neben ihm sitzen.
 
-811.5 In der Variante Abwechselnde Teams werden die Ressourcen eines Teams 
-(Karten in der Hand, Mana und so weiter) nicht gemeinsam genutzt. 
-Teammitglieder können sich nicht gegenseitig ihre Hände zeigen, es sei denn sie 
-sitzen nebeneinander. Teammitglieder können jederzeit Strategien diskutieren. 
-Teammitglieder können nicht die Karten oder bleibenden Karten von einander 
-manipulieren.
-
-
+811.5 In der Variante Abwechselnde Teams werden die Ressourcen eines Teams (Karten in der Hand, Mana und so weiter) nicht gemeinsam genutzt. Teammitglieder können sich nicht gegenseitig ihre Hände zeigen, es sei denn sie sitzen nebeneinander. Teammitglieder können jederzeit Strategien diskutieren. Teammitglieder können nicht die Karten oder bleibenden Karten von einander manipulieren.
 
 9. Varianten für das Freizeitspiel
 
 900. Allgemeines
 
-900.1 Dieser Abschnitt enthält zusätzliche optionale Regeln, die in bestimmten 
-Freizeitspiel-Varianten genutzt werden können. Er ist keineswegs umfassend.
+900.1 Dieser Abschnitt enthält zusätzliche optionale Regeln, die in bestimmten Freizeitspiel-Varianten genutzt werden können. Er ist keineswegs umfassend.
 
-900.2 Die hier erläuterten Freizeitspiel-Varianten verwenden zusätzliche Zonen, 
-Regeln, Karten und andere Hilfsmittel, die nicht in herkömmlichen Magic-Partien 
-verwendet werden.
+900.2 Die hier erläuterten Freizeitspiel-Varianten verwenden zusätzliche Zonen, Regeln, Karten und andere Hilfsmittel, die nicht in herkömmlichen Magic-Partien verwendet werden.
 
 901. Weltenjagd (Planechase)
 
-901.1 In der Variante „Weltenjagd“ erweitern Weltenkarten und Phänomenkarten 
-das Spiel um weitere Fähigkeiten und Zufall. Die Variante „Weltenjagd“ benutzt 
-alle normalen Regeln für eine Magic-Partie mit den folgenden Ergänzungen.
+901.1 In der Variante „Weltenjagd“ erweitern Weltenkarten und Phänomenkarten das Spiel um weitere Fähigkeiten und Zufall. Die Variante „Weltenjagd“ benutzt alle normalen Regeln für eine Magic-Partie mit den folgenden Ergänzungen.
 
-901.2 Eine Partie „Weltenjagd“ kann eine Zwei-Spieler-Partie oder eine 
-Mehrspielerpartie sein. In einer Mehrspielerpartie wird standardmäßig die Jeder-
-gegen-jeden-Variante mit der Option „Mehrere Spieler angreifen“ ohne die Option 
-„Begrenzte Einflussweite“ gewählt. Siehe Regel 806, „Variante Jeder gegen 
-jeden“.
+901.2 Eine Partie „Weltenjagd“ kann eine Zwei-Spieler-Partie oder eine Mehrspielerpartie sein. In einer Mehrspielerpartie wird standardmäßig die Jeder-gegen-jeden-Variante mit der Option „Mehrere Spieler angreifen“ ohne die Option „Begrenzte Einflussweite“ gewählt. Siehe Regel 806, „Variante Jeder gegen jeden“.
 
-901.3 Zusätzlich zu dem üblichen Spielmaterial benötigt jeder Spieler ein 
-Weltenkarten-Deck mit mindestens zehn Weltenkarten und/oder Phänomenkarten, 
-außerdem wird ein Welten-Würfel benötigt. Nicht mehr als zwei Karten im 
-Weltenkarten-Deck dürfen Phänomenkarten sein. Jede Karte in einem Weltenkarten-
-Deck muss einen anderen englischen Namen haben. (Siehe Regel 309, 
-„Weltenkarten“ und Regel 310, „Phänomene“.)
+901.3 Zusätzlich zu dem üblichen Spielmaterial benötigt jeder Spieler ein Weltenkarten-Deck mit mindestens zehn Weltenkarten und/oder Phänomenkarten, außerdem wird ein Welten-Würfel benötigt. Nicht mehr als zwei Karten im Weltenkarten-Deck dürfen Phänomenkarten sein. Jede Karte in einem Weltenkarten-Deck muss einen anderen englischen Namen haben. (Siehe Regel 309, „Weltenkarten“ und Regel 310, „Phänomene“.)
 
-901.3a Ein Welten-Würfel ist ein sechsseitiger Würfel. Eine Seite trägt das 
-Weltenwanderer-Symbol {planeswalker}. Eine Seite trägt das Chaos-Symbol 
-{chaos}. Die anderen Seiten sind leer.
+901.3a Ein Welten-Würfel ist ein sechsseitiger Würfel. Eine Seite trägt das Weltenwanderer-Symbol {planeswalker}. Eine Seite trägt das Chaos-Symbol {chaos}. Die anderen Seiten sind leer.
 
-901.4 Zu Spielbeginn mischt jeder Spieler sein Weltenkarten-Deck, sodass die 
-Karten in zufälliger Reihenfolge sind. Jedes Deck wird verdeckt neben die 
-Bibliothek seines Besitzers gelegt. Alle Weltenkarten und Phänomenkarten 
-verbleiben das ganze Spiel über in der Kommandozone, sowohl wenn sie Teil eines 
-Weltenkarten-Decks sind, als auch wenn sie aufgedeckt sind.
+901.4 Zu Spielbeginn mischt jeder Spieler sein Weltenkarten-Deck, sodass die Karten in zufälliger Reihenfolge sind. Jedes Deck wird verdeckt neben die Bibliothek seines Besitzers gelegt. Alle Weltenkarten und Phänomenkarten verbleiben das ganze Spiel über in der Kommandozone, sowohl wenn sie Teil eines Weltenkarten-Decks sind, als auch wenn sie aufgedeckt sind.
 
-901.5 Sobald alle Spieler ihre Starthand behalten und die Fähigkeiten von 
-Karten benutzt haben, die ihnen Aktionen erlauben, falls sich diese Karten auf 
-ihrer Starthand befinden, deckt der Startspieler die oberste Karte seines 
-Weltenkarten-Decks auf. Falls es eine Weltenkarte ist, ist diese Karte die 
-Startwelt. Falls es eine Phänomenkarte ist, legt dieser Spieler sie unter sein 
-Weltenkarten-Deck und wiederholt den Vorgang, bis eine Weltenkarte aufgedeckt 
-wird. (Siehe Regel 103.6.) Dadurch werden keine Fähigkeiten der auf diese Weise 
-aufgedeckten Karten ausgelöst.
+901.5 Sobald alle Spieler ihre Starthand behalten und die Fähigkeiten von Karten benutzt haben, die ihnen Aktionen erlauben, falls sich diese Karten auf ihrer Starthand befinden, deckt der Startspieler die oberste Karte seines Weltenkarten-Decks auf. Falls es eine Weltenkarte ist, ist diese Karte die Startwelt. Falls es eine Phänomenkarte ist, legt dieser Spieler sie unter sein Weltenkarten-Deck und wiederholt den Vorgang, bis eine Weltenkarte aufgedeckt wird. (Siehe Regel 103.6.) Dadurch werden keine Fähigkeiten der auf diese Weise aufgedeckten Karten ausgelöst.
 
-901.6 Der Besitzer einer Weltenkarte oder Phänomenkarte ist der Spieler, der 
-mit ihr in seinem Weltenkarten-Deck das Spiel begonnen hat. Der Beherrscher 
-einer aufgedeckten Weltenkarte oder Phänomenkarte ist der Spieler, der der 
-Weltenbeherrscher ist. Das ist normalerweise der aktive Spieler. Falls jedoch 
-der aktuelle Weltenbeherrscher das Spiel verlassen würde, wird stattdessen der 
-nächste Spieler in Zugreihenfolge, der das Spiel nicht verlassen würde, der 
-neue Weltenbeherrscher, dann verlässt der alte Weltenbeherrscher das Spiel. Der 
-neue Weltenbeherrscher behält diese Rolle, bis er das Spiel verlässt oder ein 
-anderer Spieler aktiver Spieler wird, je nachdem, was zuerst eintritt.
+901.6 Der Besitzer einer Weltenkarte oder Phänomenkarte ist der Spieler, der mit ihr in seinem Weltenkarten-Deck das Spiel begonnen hat. Der Beherrscher einer aufgedeckten Weltenkarte oder Phänomenkarte ist der Spieler, der der Weltenbeherrscher ist. Das ist normalerweise der aktive Spieler. Falls jedoch der aktuelle Weltenbeherrscher das Spiel verlassen würde, wird stattdessen der nächste Spieler in Zugreihenfolge, der das Spiel nicht verlassen würde, der neue Weltenbeherrscher, dann verlässt der alte Weltenbeherrscher das Spiel. Der neue Weltenbeherrscher behält diese Rolle, bis er das Spiel verlässt oder ein anderer Spieler aktiver Spieler wird, je nachdem, was zuerst eintritt.
 
-901.7 Alle Fähigkeiten einer aufgedeckten Weltenkarte oder Phänomenkarte in der 
-Kommandozone funktionieren von dieser Zone aus. Die statischen Fähigkeiten der 
-Karte beeinflussen das Spiel, ihre ausgelösten Fähigkeiten können auslösen, und 
-ihre aktivierten Fähigkeiten können aktiviert werden.
+901.7 Alle Fähigkeiten einer aufgedeckten Weltenkarte oder Phänomenkarte in der Kommandozone funktionieren von dieser Zone aus. Die statischen Fähigkeiten der Karte beeinflussen das Spiel, ihre ausgelösten Fähigkeiten können auslösen, und ihre aktivierten Fähigkeiten können aktiviert werden.
 
-901.7a Eine aufgedeckte Weltenkarte oder Phänomenkarte, die verdeckt wird, wird 
-zu einem neuen Objekt.
+901.7a Eine aufgedeckte Weltenkarte oder Phänomenkarte, die verdeckt wird, wird zu einem neuen Objekt.
 
-901.8 „Weltenjagd“-Partien haben eine eingebaute ausgelöste Fähigkeit, die 
-„Weltenwanderer-Fähigkeit“ genannt wird. Der vollständige Text dieser Fähigkeit 
-lautet „Immer wenn du {planeswalker} würfelst, weltenwandere.“ Diese Fähigkeit 
-hat keine Quelle und wird von dem Spieler kontrolliert, dessen Welten-Würfel-
-Wurf zum Auslösen geführt hat. Das ist eine Ausnahme zu Regel 112.8.
+901.8 „Weltenjagd“-Partien haben eine eingebaute ausgelöste Fähigkeit, die „Weltenwanderer-Fähigkeit“ genannt wird. Der vollständige Text dieser Fähigkeit lautet „Immer wenn du {planeswalker} würfelst, weltenwandere.“ Diese Fähigkeit hat keine Quelle und wird von dem Spieler kontrolliert, dessen Welten-Würfel-Wurf zum Auslösen geführt hat. Das ist eine Ausnahme zu Regel 112.8.
 
-901.9 Der aktive Spieler kann jederzeit in einer Hauptphases seines Zuges den 
-Welten-Würfel würfeln, wenn er Priorität hat und der Stapel leer ist. Das 
-Durchführen dieser Aktion kostet den Spieler so viel Mana wie er diese Aktion 
-in diesem Zug zuvor durchgeführt hat. Das ist eine Sonderaktion, die nicht den 
-Stapel benutzt. Beachte, dass diese Zahl nicht gleich der Anzahl an Würfen des 
-Welten-Würfels ist, falls in diesem Zug ein Effekt dazu geführt hat, dass der 
-Spieler den Welten-Würfel geworfen hat. (Siehe Regel 115.2f.)
+901.9 Der aktive Spieler kann jederzeit in einer Hauptphases seines Zuges den Welten-Würfel würfeln, wenn er Priorität hat und der Stapel leer ist. Das Durchführen dieser Aktion kostet den Spieler so viel Mana wie er diese Aktion in diesem Zug zuvor durchgeführt hat. Das ist eine Sonderaktion, die nicht den Stapel benutzt. Beachte, dass diese Zahl nicht gleich der Anzahl an Würfen des Welten-Würfels ist, falls in diesem Zug ein Effekt dazu geführt hat, dass der Spieler den Welten-Würfel geworfen hat. (Siehe Regel 115.2f.)
 
-901.9a Falls der Würfelwurf eine leere Seite ist, passiert nichts. Der aktive 
-Spieler erhält Priorität.
+901.9a Falls der Würfelwurf eine leere Seite ist, passiert nichts. Der aktive Spieler erhält Priorität.
 
-901.9b Falls der Würfelwurf das Chaos-Symbol {chaos} ist, wird jede Fähigkeit 
-einer aufgedeckten Weltenkarte ausgelöst, die mit „Wenn du {chaos} würfelst“ 
-beginnt, und auf den Stapel gelegt. Der aktive Spieler erhält Priorität.
+901.9b Falls der Würfelwurf das Chaos-Symbol {chaos} ist, wird jede Fähigkeit einer aufgedeckten Weltenkarte ausgelöst, die mit „Wenn du {chaos} würfelst“ beginnt, und auf den Stapel gelegt. Der aktive Spieler erhält Priorität.
 
-901.9c Falls der Würfelwurf das Weltenwanderer-Symbol {planeswalker} ist, wird 
-die „Weltenwanderer-Fähigkeit“ ausgelöst und auf den Stapel gelegt. Der aktive 
-Spieler erhält Priorität.
+901.9c Falls der Würfelwurf das Weltenwanderer-Symbol {planeswalker} ist, wird die „Weltenwanderer-Fähigkeit“ ausgelöst und auf den Stapel gelegt. Der aktive Spieler erhält Priorität.
 
-901.10 Wenn ein Spieler das Spiel verlässt, verlassen alle Objekte, die dieser 
-Spieler besitzt, das Spiel. (Siehe Regel 800.4a.) Falls sich darunter eine 
-aufgedeckte Weltenkarte oder Phänomenkarte befindet, deckt der 
-Weltenbeherrscher die oberste Karte seines Weltenkarten-Decks auf. Dies ist 
-keine zustandsbasierte Aktion. Es geschieht, sobald der Spieler das 
-Spiel verlässt.
+901.10 Wenn ein Spieler das Spiel verlässt, verlassen alle Objekte, die dieser Spieler besitzt, das Spiel. (Siehe Regel 800.4a.) Falls sich darunter eine aufgedeckte Weltenkarte oder Phänomenkarte befindet, deckt der Weltenbeherrscher die oberste Karte seines Weltenkarten-Decks auf. Dies ist keine zustandsbasierte Aktion. Es geschieht, sobald der Spieler das Spiel verlässt.
 
-901.10a Falls eine Weltenkarte das Spiel verlässt, während eine „Weltenwanderer-
-Fähigkeit“ auf dem Stapel liegt, hört diese Fähigkeit auf zu existieren.
+901.10a Falls eine Weltenkarte das Spiel verlässt, während eine „Weltenwanderer-Fähigkeit“ auf dem Stapel liegt, hört diese Fähigkeit auf zu existieren.
 
-901.11 Wenn ein Spieler die oberste Karte seines Weltenkarten-Decks aufdeckt, 
-nachdem das Spiel begonnen hat, ist dieser Spieler „weltengewandert“. 
-Dauerhafte Effekte, die andauern, bis ein Spieler weltenwandert, enden. 
-Fähigkeiten, die auslösen, wenn ein Spieler weltenwandert, werden ausgelöst. 
-Siehe Regel 701.21.
+901.11 Wenn ein Spieler die oberste Karte seines Weltenkarten-Decks aufdeckt, nachdem das Spiel begonnen hat, ist dieser Spieler „weltengewandert“. Dauerhafte Effekte, die andauern, bis ein Spieler weltenwandert, enden. Fähigkeiten, die auslösen, wenn ein Spieler weltenwandert, werden ausgelöst. Siehe Regel 701.21.
 
-901.11a Ein Spieler kann aufgrund der „Weltenwanderer-Fähigkeit“ weltenwandern 
-(siehe Regel 309.6), weil der Besitzer einer aufgedeckten Weltenkarte oder 
-Phänomenkarte das Spiel verlässt (siehe Regel 901.9), oder weil die ausgelöste 
-Fähigkeit einer Phänomenkarte den Stapel verlässt (siehe Regel 704.5x). 
-Fähigkeiten können auch einen Spieler zum Weltenwandern anweisen.
+901.11a Ein Spieler kann aufgrund der „Weltenwanderer-Fähigkeit“ weltenwandern (siehe Regel 309.6), weil der Besitzer einer aufgedeckten Weltenkarte oder Phänomenkarte das Spiel verlässt (siehe Regel 901.9), oder weil die ausgelöste Fähigkeit einer Phänomenkarte den Stapel verlässt (siehe Regel 704.5x). Fähigkeiten können auch einen Spieler zum Weltenwandern anweisen.
 
-901.11b Die Weltenkarte, die aufgedeckt wird, ist die Welt, zu der der Spieler 
-hin weltenwandert. Die Weltenkarte oder Phänomenkarte, die verdeckt wird oder 
-das Spiel verlässt, ist die Welt oder das Phänomen, von der bzw. dem der 
-Spieler weg weltenwandert.
+901.11b Die Weltenkarte, die aufgedeckt wird, ist die Welt, zu der der Spieler hin weltenwandert. Die Weltenkarte oder Phänomenkarte, die verdeckt wird oder das Spiel verlässt, ist die Welt oder das Phänomen, von der bzw. dem der Spieler weg weltenwandert.
 
-901.11c Wenn ein Spieler weltenwandert, während mehr als eine Weltenkarte 
-aufgedeckt ist, weltenwandert der Spieler weg von allen diesen Weltenkarten.
+901.11c Wenn ein Spieler weltenwandert, während mehr als eine Weltenkarte aufgedeckt ist, weltenwandert der Spieler weg von allen diesen Weltenkarten.
 
-901.12 Eine Zweiköpfiger-Riese-Partie „Weltenjagd“ benutzt alle Regeln für die 
-Mehrspieler-Variante Zweiköpfiger Riese und alle Regeln für die Freizeitspiel-
-Variante Weltenjagd, mit den folgenden Ergänzungen.
+901.12 Eine Zweiköpfiger-Riese-Partie „Weltenjagd“ benutzt alle Regeln für die Mehrspieler-Variante Zweiköpfiger Riese und alle Regeln für die Freizeitspiel-Variante Weltenjagd, mit den folgenden Ergänzungen.
 
 901.12a Jeder Spieler hat sein eigenes Weltenkarten-Deck.
 
-901.12b Der Weltenbeherrscher ist normalerweise der Primärspieler des aktiven 
-Teams. Falls jedoch das Team des aktuellen Weltenbeherrschers das Spiel 
-verlassen würde, wird stattdessen der Primärspieler des nächsten Teams in 
-Zugreihenfolge, das das Spiel nicht verlassen würde, der neue 
-Weltenbeherrscher, dann verlässt das Team des alten Weltenbeherrschers das 
-Spiel. Der neue Weltenbeherrscher behält diese Rolle, bis er das Spiel verlässt 
-oder ein anderes Team aktives Team wird, je nachdem, was zuerst eintritt.
+901.12b Der Weltenbeherrscher ist normalerweise der Primärspieler des aktiven Teams. Falls jedoch das Team des aktuellen Weltenbeherrschers das Spiel verlassen würde, wird stattdessen der Primärspieler des nächsten Teams in Zugreihenfolge, das das Spiel nicht verlassen würde, der neue Weltenbeherrscher, dann verlässt das Team des alten Weltenbeherrschers das Spiel. Der neue Weltenbeherrscher behält diese Rolle, bis er das Spiel verlässt oder ein anderes Team aktives Team wird, je nachdem, was zuerst eintritt.
 
-901.12c Auch wenn nur ein Spieler die aufgedeckte Weltenkarte oder 
-Phänomenkarte kontrolliert, bezieht sich das „du“ in jeder Fähigkeit dieser 
-Weltenkarte oder Phänomenkarte auf beide Spieler im Team des Weltenbeherrschers.
+901.12c Auch wenn nur ein Spieler die aufgedeckte Weltenkarte oder Phänomenkarte kontrolliert, bezieht sich das „du“ in jeder Fähigkeit dieser Weltenkarte oder Phänomenkarte auf beide Spieler im Team des Weltenbeherrschers.
 
-901.12d Da jedes Mitglied des aktiven Teams ein aktiver Spieler ist, kann jeder 
-von ihnen den Welten-Würfel würfeln. Die Kosten, die jeder Spieler dafür zu 
-bezahlen hat, errechnen sich daraus, wie oft genau dieser Spieler den Welten-
-Würfel in diesem Zug vorher schon gewürfelt hat.
+901.12d Da jedes Mitglied des aktiven Teams ein aktiver Spieler ist, kann jeder von ihnen den Welten-Würfel würfeln. Die Kosten, die jeder Spieler dafür zu bezahlen hat, errechnen sich daraus, wie oft genau dieser Spieler den Welten-Würfel in diesem Zug vorher schon gewürfelt hat.
 
-901.13 In anderen Mehrspielerformaten als „Riesentumult“ sind Weltenkarten und 
-Phänomenkarten von der Option „Begrenzte Einflussweite“ ausgenommen. Ihre 
-Fähigkeiten und die Effekte dieser Fähigkeiten betreffen alle zutreffenden 
-Objekte und Spieler im Spiel. (Siehe Regel 801, „Option: Begrenzte 
-Einflussweite“.)
+901.13 In anderen Mehrspielerformaten als „Riesentumult“ sind Weltenkarten und Phänomenkarten von der Option „Begrenzte Einflussweite“ ausgenommen. Ihre Fähigkeiten und die Effekte dieser Fähigkeiten betreffen alle zutreffenden Objekte und Spieler im Spiel. (Siehe Regel 801, „Option: Begrenzte Einflussweite“.)
 
-901.14 In einer Riesentumult-Partie „Weltenjagd“ können mehrere Weltenkarten 
-und Phänomenkarten gleichzeitig aufgedeckt sein.
+901.14 In einer Riesentumult-Partie „Weltenjagd“ können mehrere Weltenkarten und Phänomenkarten gleichzeitig aufgedeckt sein.
 
-901.14a Vor dem ersten Zug der Partie legt jeder Spieler, der mit einer 
-Zugmarke das Spiel beginnt, eine Startwelt fest (siehe Regel 901.5). Jeder von 
-ihnen ist ein Weltenbeherrscher.
+901.14a Vor dem ersten Zug der Partie legt jeder Spieler, der mit einer Zugmarke das Spiel beginnt, eine Startwelt fest (siehe Regel 901.5). Jeder von ihnen ist ein Weltenbeherrscher.
 
-901.14b Falls ein Spieler das Spiel verlassen würde und dieser Umstand die 
-Anzahl an Zugmarken im Spiel reduzieren würde, hört dieser Spieler erst auf, 
-Weltenbeherrscher zu sein (ohne dass ein anderer Spieler Weltenbeherrscher 
-wird), dann verlässt er das Spiel. Alle aufgedeckten Weltenkarten und 
-Phänomenkarten, die dieser Spieler kontrollierte, werden unter das Weltenkarten-
-Deck ihres Besitzers gelegt. Es hat kein Weltenwandern stattgefunden.
+901.14b Falls ein Spieler das Spiel verlassen würde und dieser Umstand die Anzahl an Zugmarken im Spiel reduzieren würde, hört dieser Spieler erst auf, Weltenbeherrscher zu sein (ohne dass ein anderer Spieler Weltenbeherrscher wird), dann verlässt er das Spiel. Alle aufgedeckten Weltenkarten und Phänomenkarten, die dieser Spieler kontrollierte, werden unter das Weltenkarten-Deck ihres Besitzers gelegt. Es hat kein Weltenwandern stattgefunden.
 
 901.15 Option Gemeinsames Weltenkarten-Deck
 
-901.15a Als alternative Option kann eine Partie „Weltenjagd“ mit einem 
-einzigen, gemeinschaftlichen Weltenkarten-Deck gespielt werden. In diesem Fall 
-muss das Weltenkarten-Deck aus mindestens 40 Karten bestehen oder mindestens 
-zehnmal so viele Karten enthalten, wie es Spieler im Spiel gibt, je nachdem, 
-welche Zahl kleiner ist. Das Weltenkarten-Deck kann nicht mehr Phänomenkarten 
-enthalten als die doppelte Anzahl an Spielern im Spiel. Jede Karte in dem 
-Weltenkarten-Deck muss einen anderen englischen Namen haben.
+901.15a Als alternative Option kann eine Partie „Weltenjagd“ mit einem einzigen, gemeinschaftlichen Weltenkarten-Deck gespielt werden. In diesem Fall muss das Weltenkarten-Deck aus mindestens 40 Karten bestehen oder mindestens zehnmal so viele Karten enthalten, wie es Spieler im Spiel gibt, je nachdem, welche Zahl kleiner ist. Das Weltenkarten-Deck kann nicht mehr Phänomenkarten enthalten als die doppelte Anzahl an Spielern im Spiel. Jede Karte in dem Weltenkarten-Deck muss einen anderen englischen Namen haben.
 
-901.15b In einer Partie „Weltenjagd“ mit der Option „Gemeinsames Weltenkarten-
-Deck“ gilt der Weltenbeherrscher als Besitzer aller Karten im Weltenkarten-Deck.
+901.15b In einer Partie „Weltenjagd“ mit der Option „Gemeinsames Weltenkarten-Deck“ gilt der Weltenbeherrscher als Besitzer aller Karten im Weltenkarten-Deck.
 
-901.15c Falls sich irgendeine Regel oder Fähigkeit auf das Weltenkarten-Deck 
-eines Spieler bezieht, wird stattdessen das gemeinschaftliche Weltenkarten-Deck 
-genommen.
+901.15c Falls sich irgendeine Regel oder Fähigkeit auf das Weltenkarten-Deck eines Spieler bezieht, wird stattdessen das gemeinschaftliche Weltenkarten-Deck genommen.
 
 902. Vanguard
 
-902.1 In der „Vanguard“-Variante erlauben Vanguard-Karten jedem Spieler, in die 
-Rolle einer berühmten Persönlichkeit zu schlüpfen. Jeder Spieler hat eine 
-aufgedeckte Vanguard-Karte, deren Fähigkeiten und sonstigen Eigenschaften das 
-Spiel beeinflussen. Die „Vanguard“-Variante benutzt alle normalen Regeln für 
-eine Magic-Partie mit den folgenden Ergänzungen.
+902.1 In der „Vanguard“-Variante erlauben Vanguard-Karten jedem Spieler, in die Rolle einer berühmten Persönlichkeit zu schlüpfen. Jeder Spieler hat eine aufgedeckte Vanguard-Karte, deren Fähigkeiten und sonstigen Eigenschaften das Spiel beeinflussen. Die „Vanguard“-Variante benutzt alle normalen Regeln für eine Magic-Partie mit den folgenden Ergänzungen.
 
-902.2 Eine „Vanguard“-Partie kann eine Zwei-Spieler-Partie oder eine 
-Mehrspielerpartie sein.
+902.2 Eine „Vanguard“-Partie kann eine Zwei-Spieler-Partie oder eine Mehrspielerpartie sein.
 
-902.3 Zusätzlich zu dem üblichen Spielmaterial benötigt jeder Spieler eine 
-Vanguard-Karte. Alle Vanguard-Karten werden vor dem Spiel aufgedeckt neben die 
-Bibliotheken ihrer Besitzer gelegt. Alle Vanguard-Karten verbleiben das ganze 
-Spiel über in der Kommandozone.
+902.3 Zusätzlich zu dem üblichen Spielmaterial benötigt jeder Spieler eine Vanguard-Karte. Alle Vanguard-Karten werden vor dem Spiel aufgedeckt neben die Bibliotheken ihrer Besitzer gelegt. Alle Vanguard-Karten verbleiben das ganze Spiel über in der Kommandozone.
 
-902.4 Jeder Spieler hat einen Lebenspunkte-Anfangswert von 20, unter 
-Berücksichtigung der auf seiner Vanguard-Karte angegebenen Anpassung der 
-Lebenspunkte.
+902.4 Jeder Spieler hat einen Lebenspunkte-Anfangswert von 20, unter Berücksichtigung der auf seiner Vanguard-Karte angegebenen Anpassung der Lebenspunkte.
 
-   Beispiel: Die Anpassung der Lebenspunkte auf der Vanguard-Karte eines 
-   Spielers ist –3. Der Spieler beginnt das Spiel mit 17 Lebenspunkten.
+Beispiel: Die Anpassung der Lebenspunkte auf der Vanguard-Karte eines Spielers ist –3. Der Spieler beginnt das Spiel mit 17 Lebenspunkten.
 
-902.5 Jeder Spieler zieht eine Hand von sieben Karten, unter Berücksichtigung 
-der auf seiner Vanguard-Karte angegebenen Anpassung der Handkartenzahl.
+902.5 Jeder Spieler zieht eine Hand von sieben Karten, unter Berücksichtigung der auf seiner Vanguard-Karte angegebenen Anpassung der Handkartenzahl.
 
-902.5a Wenn in einer „Vanguard“-Partie ein Spieler einen Mulligan nimmt, mischt 
-der Spieler wie in einer gewöhnlichen Partie seine Hand zurück ins Deck und 
-zieht dann eine neue Hand, die aus einer Karte weniger besteht als zuvor. (Wenn 
-in einer Mehrspielerpartie ein Spieler zum ersten Mal einen Mulligan nimmt, 
-zieht er eine neue Hand aus genauso vielen Karten, wie er vorher hatte.)
+902.5a Wenn in einer „Vanguard“-Partie ein Spieler einen Mulligan nimmt, mischt der Spieler wie in einer gewöhnlichen Partie seine Hand zurück ins Deck und zieht dann eine neue Hand, die aus einer Karte weniger besteht als zuvor. (Wenn in einer Mehrspielerpartie ein Spieler zum ersten Mal einen Mulligan nimmt, zieht er eine neue Hand aus genauso vielen Karten, wie er vorher hatte.)
 
-   Beispiel: Die Anpassung der Handkartenzahl auf der Vanguard-Karte eines 
-   Spielers ist +2. Der Spieler beginnt das Spiel mit 9 Handkarten. Falls er 
-   einen Mulligan nimmt, zieht er eine neue Hand mit 8 Karten, beim nächsten 
-   Mulligan 7 Karten usw.
+Beispiel: Die Anpassung der Handkartenzahl auf der Vanguard-Karte eines Spielers ist +2. Der Spieler beginnt das Spiel mit 9 Handkarten. Falls er einen Mulligan nimmt, zieht er eine neue Hand mit 8 Karten, beim nächsten Mulligan 7 Karten usw.
 
-902.5b Die maximale Handkartenzahl eines Spielers ist sieben, unter 
-Berücksichtigung der auf seiner Vanguard-Karte angegebenen Anpassung der 
-Handkartenzahl.
+902.5b Die maximale Handkartenzahl eines Spielers ist sieben, unter Berücksichtigung der auf seiner Vanguard-Karte angegebenen Anpassung der Handkartenzahl.
 
-   Beispiel: Die Anpassung der Handkartenzahl auf der Vanguard-Karte eines 
-   Spielers ist –1. Die maximale Handkartenzahl eines Spielers ist sechs. Falls 
-   der Spieler zu Beginn seines Aufräumsegments mehr als sechs Karten auf der 
-   Hand hat, wirft er alle bis auf sechs Karten ab.
+Beispiel: Die Anpassung der Handkartenzahl auf der Vanguard-Karte eines Spielers ist –1. Die maximale Handkartenzahl eines Spielers ist sechs. Falls der Spieler zu Beginn seines Aufräumsegments mehr als sechs Karten auf der Hand hat, wirft er alle bis auf sechs Karten ab.
 
-902.6 Der Besitzer einer Vanguard-Karte ist der Spieler, der mit ihr in der 
-Kommandozone das Spiel begonnen hat. Der Beherrscher einer Vanguard-Karte ist 
-ihr Besitzer.
+902.6 Der Besitzer einer Vanguard-Karte ist der Spieler, der mit ihr in der Kommandozone das Spiel begonnen hat. Der Beherrscher einer Vanguard-Karte ist ihr Besitzer.
 
-902.7 Alle Fähigkeiten einer aufgedeckten Vanguard-Karte in der Kommandozone 
-funktionieren von dieser Zone aus. Die statischen Fähigkeiten der Karte 
-beeinflussen das Spiel, ihre ausgelösten Fähigkeiten können auslösen, und ihre 
-aktivierten Fähigkeiten können aktiviert werden.
+902.7 Alle Fähigkeiten einer aufgedeckten Vanguard-Karte in der Kommandozone funktionieren von dieser Zone aus. Die statischen Fähigkeiten der Karte beeinflussen das Spiel, ihre ausgelösten Fähigkeiten können auslösen, und ihre aktivierten Fähigkeiten können aktiviert werden.
 
 903. Kommandeur (Commander)
 
-903.1 In der Variante „Kommandeur“ wird jedes Deck von einer legendären Kreatur 
-angeführt, die als der Kommandeur dieses Decks bezeichnet wird. Die Variante 
-„Kommandeur“ wurde von Fans erschaffen und bekannt gemacht; ein unabhängiges 
-Regelgremium pflegt unter mtgcommander.net weitere Ressourcen. Die Variante 
-„Kommandeur“ benutzt alle normalen Regeln für eine Magic-Partie mit den 
-folgenden Ergänzungen.
+903.1 In der Variante „Kommandeur“ wird jedes Deck von einer legendären Kreatur angeführt, die als der Kommandeur dieses Decks bezeichnet wird. Die Variante „Kommandeur“ wurde von Fans erschaffen und bekannt gemacht; ein unabhängiges Regelgremium pflegt unter mtgcommander.net weitere Ressourcen. Die Variante „Kommandeur“ benutzt alle normalen Regeln für eine Magic-Partie mit den folgenden Ergänzungen.
 
-903.2 Eine Partie „Kommandeur“ kann eine Zwei-Spieler-Partie oder eine 
-Mehrspielerpartie sein. In einer Mehrspielerpartie wird standardmäßig die Jeder-
-gegen-jeden-Variante mit der Option „Mehrere Spieler angreifen“ ohne die Option 
-„Begrenzte Einflussweite“ gewählt. Siehe Regel 806, „Variante Jeder gegen 
-jeden“.
+903.2 Eine Partie „Kommandeur“ kann eine Zwei-Spieler-Partie oder eine Mehrspielerpartie sein. In einer Mehrspielerpartie wird standardmäßig die Jeder-gegen-jeden-Variante mit der Option „Mehrere Spieler angreifen“ ohne die Option „Begrenzte Einflussweite“ gewählt. Siehe Regel 806, „Variante Jeder gegen jeden“.
 
-903.3 Jedes Deck hat eine legendäre Kreatur als Kommandeur. Diese Bezeichnung 
-ist keine Eigenschaft des Objekts, das durch die Karte repräsentiert wird; es 
-ist vielmehr ein Attribut der Karte selbst. Die Karte behält diese Bezeichnung, 
-auch wenn sie Zonen wechselt.
+903.3 Jedes Deck hat eine legendäre Kreatur als Kommandeur. Diese Bezeichnung ist keine Eigenschaft des Objekts, das durch die Karte repräsentiert wird; es ist vielmehr ein Attribut der Karte selbst. Die Karte behält diese Bezeichnung, auch wenn sie Zonen wechselt.
 
-   Beispiel: Ein Kommandeur, der verdeckt wird (zum Beispiel durch den Effekt 
-   von Ixidron), ist immer noch ein Kommandeur. Ein Kommandeur, der eine andere 
-   Karte kopiert (zum Beispiel durch den Effekt der Zytoform), ist immer noch 
-   ein Kommandeur. Eine bleibende Karte, die einen Kommandeur kopiert (wie 
-   beispielsweise ein Verkörperer, der einen Kommandeur im Friedhof eines 
-   Spieler kopiert), ist kein Kommandeur.
+Beispiel: Ein Kommandeur, der verdeckt wird (zum Beispiel durch den Effekt von Ixidron), ist immer noch ein Kommandeur. Ein Kommandeur, der eine andere Karte kopiert (zum Beispiel durch den Effekt der Zytoform), ist immer noch ein Kommandeur. Eine bleibende Karte, die einen Kommandeur kopiert (wie beispielsweise ein Verkörperer, der einen Kommandeur im Friedhof eines Spieler kopiert), ist kein Kommandeur.
 
-903.4 Die Variante „Kommandeur“ verwendet Farbidentität um zu ermitteln, welche 
-Karte in einem Deck mit einem bestimmten Kommandeur enthalten sein darf. Die 
-Farbidentität einer Karte ist die Farbe oder Farben jeglicher Manasymbole in 
-den Manakosten oder im Regeltext dieser Karte, plus alle Farben, die durch ihre 
-eigenschafts-definierenden Fähigkeiten (siehe Regel 604.3) oder ihren 
-Farbanzeiger (siehe Regel 204) definiert werden.
+903.4 Die Variante „Kommandeur“ verwendet Farbidentität um zu ermitteln, welche Karte in einem Deck mit einem bestimmten Kommandeur enthalten sein darf. Die Farbidentität einer Karte ist die Farbe oder Farben jeglicher Manasymbole in den Manakosten oder im Regeltext dieser Karte, plus alle Farben, die durch ihre eigenschafts-definierenden Fähigkeiten (siehe Regel 604.3) oder ihren Farbanzeiger (siehe Regel 204) definiert werden.
 
-   Beispiel: Bosh der Eisengolem ist eine legendäre Artefaktkreatur mit 
-   Manakosten {8} und der Fähigkeit „{3}{R}, Opfere ein Artefakt: Bosh der 
-   Eisengolem fügt einer Kreatur oder einem Spieler deiner Wahl Schadenspunkte 
-   in Höhe der umgewandelten Manakosten des geopferten Artefakts zu.“ Boshs 
-   Farbidentität ist rot.
+Beispiel: Bosh der Eisengolem ist eine legendäre Artefaktkreatur mit Manakosten {8} und der Fähigkeit „{3}{R}, Opfere ein Artefakt: Bosh der Eisengolem fügt einer Kreatur oder einem Spieler deiner Wahl Schadenspunkte in Höhe der umgewandelten Manakosten des geopferten Artefakts zu.“ Boshs Farbidentität ist rot.
 
 903.4a Die Farbidentität wird vor dem Spiel festgestellt.
 
 903.4b Erinnerungstext wird für die Feststellung der Farbidentität ignoriert.
 
-903.4c Die Rückseite einer doppelseitigen Karte (siehe Regel 711) wird für die 
-Feststellung der Farbidentität berücksichtigt.
+903.4c Die Rückseite einer doppelseitigen Karte (siehe Regel 711) wird für die Feststellung der Farbidentität berücksichtigt.
 
-   Beispiel: Zivilisierter Gelehrter ist die Vorderseite einer doppelseitigen 
-   Karte mit Manakosten {2}{U}. Mörderischer Rohling ist die Rückseite dieser 
-   doppelseitigen Karte und hat einen roten Farbanzeiger. Die Farbidentität 
-   dieser Karte ist blau und rot.
+Beispiel: Zivilisierter Gelehrter ist die Vorderseite einer doppelseitigen Karte mit Manakosten {2}{U}. Mörderischer Rohling ist die Rückseite dieser doppelseitigen Karte und hat einen roten Farbanzeiger. Die Farbidentität dieser Karte ist blau und rot.
 
 903.5 Jedes Deck für „Kommandeur“ unterliegt den folgenden Deckbauregeln.
 
 903.5a Jedes Deck muss genau 100 Karten enthalten, inklusive dem Kommandeur.
 
-903.5b Mit der Ausnahme von Standardländern muss jede Karte in einem 
-„Kommandeur“-Deck einen anderen englischen Namen haben.
+903.5b Mit der Ausnahme von Standardländern muss jede Karte in einem „Kommandeur“-Deck einen anderen englischen Namen haben.
 
-903.5c Eine Karte kann nur in ein „Kommandeur“-Deck aufgenommen werden, wenn 
-jede Farbe ihrer Farbidentität auch in der Farbidentität des Kommandeurs 
-vorkommt.
+903.5c Eine Karte kann nur in ein „Kommandeur“-Deck aufgenommen werden, wenn jede Farbe ihrer Farbidentität auch in der Farbidentität des Kommandeurs vorkommt.
 
-   Beispiel: Wurz, die Mutter aller Überfälle ist eine legendäre Kreatur mit 
-   den Manakosten {4}{r/g}{r/g}. Die Farbidentität von Wurz ist rot und grün. 
-   Jede Karte in einem „Kommandeur“-Deck mit Wurz als Kommandeur muss nur rot, 
-   nur grün, sowohl rot als auch grün oder farblos sein. Jedes Manasymbol in 
-   den Manakosten oder im Regeltext einer Karte in diesem Deck muss nur rot, 
-   nur grün, sowohl rot als auch grün oder farblos sein.
+Beispiel: Wurz, die Mutter aller Überfälle ist eine legendäre Kreatur mit den Manakosten {4}{r/g}{r/g}. Die Farbidentität von Wurz ist rot und grün. Jede Karte in einem „Kommandeur“-Deck mit Wurz als Kommandeur muss nur rot, nur grün, sowohl rot als auch grün oder farblos sein. Jedes Manasymbol in den Manakosten oder im Regeltext einer Karte in diesem Deck muss nur rot, nur grün, sowohl rot als auch grün oder farblos sein.
 
-903.5d Eine Karte mit einem Standardlandtyp darf nur dann in ein „Kommandeur“-
-Deck aufgenommen werden, wenn jede Farbe von Mana, das es produzieren könnte, 
-in der Farbidentität des Kommandeurs enthalten ist.
+903.5d Eine Karte mit einem Standardlandtyp darf nur dann in ein „Kommandeur“-Deck aufgenommen werden, wenn jede Farbe von Mana, das es produzieren könnte, in der Farbidentität des Kommandeurs enthalten ist.
 
-   Beispiel: Die Farbidentität von Wurz, die Mutter aller Überfälle ist rot und 
-   grün. Ein „Kommandeur“-Deck mit Wurz als Kommandeur darf Landkarten mit den 
-   Standardlandtypen Gebirge und/oder Wald enthalten. Es kann keine Landkarten 
-   mit den Standardlandtypen Ebene, Insel oder Sumpf enthalten.
+Beispiel: Die Farbidentität von Wurz, die Mutter aller Überfälle ist rot und grün. Ein „Kommandeur“-Deck mit Wurz als Kommandeur darf Landkarten mit den Standardlandtypen Gebirge und/oder Wald enthalten. Es kann keine Landkarten mit den Standardlandtypen Ebene, Insel oder Sumpf enthalten.
 
-903.6 Zu Spielbeginn legt jeder Spieler seinen Kommandeur von seinem Deck in 
-die Kommandozone. Dann mischt jeder Spieler die restlichen 99 Karten seines 
-Decks, sodass die Karten in zufälliger Reihenfolge sind. Diese Karten werden zu 
-der Bibliothek des Spielers.
+903.6 Zu Spielbeginn legt jeder Spieler seinen Kommandeur von seinem Deck in die Kommandozone. Dann mischt jeder Spieler die restlichen 99 Karten seines Decks, sodass die Karten in zufälliger Reihenfolge sind. Diese Karten werden zu der Bibliothek des Spielers.
 
-903.7 Sobald der Startspieler festgelegt wurde, setzt jeder Spieler seinen 
-Lebenspunktestand auf 40 und zieht eine Hand aus sieben Karten.
+903.7 Sobald der Startspieler festgelegt wurde, setzt jeder Spieler seinen Lebenspunktestand auf 40 und zieht eine Hand aus sieben Karten.
 
-903.8 Die Freizeitspiel-Variante „Kommandeur“ verwendet eine alternative 
-Mulligan-Regel. Jedesmal, wenn ein Spieler einen Mulligan nimmt, schickt er 
-beliebig viele Karten von seiner Hand verdeckt ins Exil anstatt seine gesamte 
-Hand in die Bibliothek zu mischen. Dann zieht dieser Spieler eine Anzahl an 
-Karten, die um eins kleiner ist als die Anzahl der auf diese Weise ins Exil 
-geschickten Karten. Der Spieler darf er sich alle auf diese Weise ins Exil 
-geschickten Karten anschauen, während er Mulligans nimmt. Sobald ein Spieler 
-seine Starthand behält, mischt er alle Karten, die er auf diese Weise ins Exil 
-geschickt hat, in seine Bibliothek.
+903.8 Die Freizeitspiel-Variante „Kommandeur“ verwendet eine alternative Mulligan-Regel. Jedesmal, wenn ein Spieler einen Mulligan nimmt, schickt er beliebig viele Karten von seiner Hand verdeckt ins Exil anstatt seine gesamte Hand in die Bibliothek zu mischen. Dann zieht dieser Spieler eine Anzahl an Karten, die um eins kleiner ist als die Anzahl der auf diese Weise ins Exil geschickten Karten. Der Spieler darf er sich alle auf diese Weise ins Exil geschickten Karten anschauen, während er Mulligans nimmt. Sobald ein Spieler seine Starthand behält, mischt er alle Karten, die er auf diese Weise ins Exil geschickt hat, in seine Bibliothek.
 
-903.9 Falls dem Manavorrat eines Spielers Mana hinzugefügt würde, das eine 
-Farbe hat, die nicht in der Farbidentität des Kommandeurs enthalten ist, wird 
-dem Manavorrat dieses Spielers stattdessen entsprechend viel farbloses Mana 
-hinzugefügt.
+903.9 Falls dem Manavorrat eines Spielers Mana hinzugefügt würde, das eine Farbe hat, die nicht in der Farbidentität des Kommandeurs enthalten ist, wird dem Manavorrat dieses Spielers stattdessen entsprechend viel farbloses Mana hinzugefügt.
 
-903.10 Ein Spieler kann einen Kommandeur, den er besitzt, von der Kommandozone 
-aus wirken. Dies kostet den Spieler zusätzliche {2} für jedes Mal, in dem er in 
-diesem Spiel diesen Kommandeur von der Kommandozone aus gewirkt hat.
+903.10 Ein Spieler kann einen Kommandeur, den er besitzt, von der Kommandozone aus wirken. Dies kostet den Spieler zusätzliche {2} für jedes Mal, in dem er in diesem Spiel diesen Kommandeur von der Kommandozone aus gewirkt hat.
 
-903.11 Falls ein Kommandeur von egal woher auf den Friedhof seines Besitzers 
-gelegt würde, kann dieser Spieler ihn stattdessen in die Kommandozone legen.
+903.11 Falls ein Kommandeur von egal woher auf den Friedhof seines Besitzers gelegt würde, kann dieser Spieler ihn stattdessen in die Kommandozone legen.
 
-903.12 Falls ein Kommandeur von egal woher ins Exil geschickt würde, kann sein 
-Besitzer ihn stattdessen in die Kommandozone legen.
+903.12 Falls ein Kommandeur von egal woher ins Exil geschickt würde, kann sein Besitzer ihn stattdessen in die Kommandozone legen.
 
-903.13 Wenn eine Karte von irgendwo her verdeckt ins Exil geschickt wird und es 
-einem Spieler gestattet ist, sich diese Karte im Exil anzuschauen, muss dieser 
-Spieler dies sofort tun. Falls es sich um einen Kommandeur eines anderen 
-Spielers handelt, deckt der Spieler, der sich die Karte angeschaut hat, diesen 
-auf und legt ihn in die Kommandozone.
+903.13 Wenn eine Karte von irgendwo her verdeckt ins Exil geschickt wird und es einem Spieler gestattet ist, sich diese Karte im Exil anzuschauen, muss dieser Spieler dies sofort tun. Falls es sich um einen Kommandeur eines anderen Spielers handelt, deckt der Spieler, der sich die Karte angeschaut hat, diesen auf und legt ihn in die Kommandozone.
 
-903.14 Die Variante „Kommandeur“ umfasst die folgende Festlegung für das 
-Gewinnen und Verlieren. Alle anderen Regeln für das Beenden der Partie gelten 
-ebenfalls. (Siehe Regel 104.)
+903.14 Die Variante „Kommandeur“ umfasst die folgende Festlegung für das Gewinnen und Verlieren. Alle anderen Regeln für das Beenden der Partie gelten ebenfalls. (Siehe Regel 104.)
 
-903.14a Ein Spieler verliert das Spiel, wenn er im Verlauf des Spiels 21 oder 
-mehr Kampfschaden von demselben Kommandeur erhalten hat. (Dies ist eine 
-zustandsbasierte Aktion. Siehe Regel 704.)
+903.14a Ein Spieler verliert das Spiel, wenn er im Verlauf des Spiels 21 oder mehr Kampfschaden von demselben Kommandeur erhalten hat. (Dies ist eine zustandsbasierte Aktion. Siehe Regel 704.)
 
 904. Erzfeind (Archenemy)
 
-904.1 In der Variante Erzfeind wird ein Team von Spielern mit einem einzelnen 
-Gegner konfrontiert, der von mächtigen Komplott-Karten unterstützt wird. Die 
-Variante Erzfeind benutzt alle normalen Regeln für eine Magic-Partie mit den 
-folgenden Ergänzungen.
+904.1 In der Variante Erzfeind wird ein Team von Spielern mit einem einzelnen Gegner konfrontiert, der von mächtigen Komplott-Karten unterstützt wird. Die Variante Erzfeind benutzt alle normalen Regeln für eine Magic-Partie mit den folgenden Ergänzungen.
 
-904.2 In einer Partie Erzfeind wird standardmäßig die Team-gegen-Team-Variante 
-(siehe Regel 808) mit genau zwei Teams gewählt. Die Option Mehrere Spieler 
-angreifen (siehe Regel 802) und die Option Gemeinsame Team-Züge (siehe 
-Regel 805) werden benutzt; keine weiteren Mehrspieler-Optionen werden benutzt.
+904.2 In einer Partie Erzfeind wird standardmäßig die Team-gegen-Team-Variante (siehe Regel 808) mit genau zwei Teams gewählt. Die Option Mehrere Spieler angreifen (siehe Regel 802) und die Option Gemeinsame Team-Züge (siehe Regel 805) werden benutzt; keine weiteren Mehrspieler-Optionen werden benutzt.
 
-904.2a Eins der Teams besteht aus genau einem Spieler, der als Erzfeind 
-bezeichnet wird.
+904.2a Eins der Teams besteht aus genau einem Spieler, der als Erzfeind bezeichnet wird.
 
 904.2b Das andere Team besteht aus beliebig vielen Spielern.
 
-904.3 Zusätzlich zu dem üblichen Spielmaterial benötigt der Erzfeind ein 
-Komplott-Deck mit mindestens zwanzig Komplott-Karten. Eine Karte mit einem 
-bestimmten englischen Namen darf nicht mehr als zweimal in einem Komplott-Deck 
-enthalten sein. (Siehe Regel 312, „Komplott-Karten“.)
+904.3 Zusätzlich zu dem üblichen Spielmaterial benötigt der Erzfeind ein Komplott-Deck mit mindestens zwanzig Komplott-Karten. Eine Karte mit einem bestimmten englischen Namen darf nicht mehr als zweimal in einem Komplott-Deck enthalten sein. (Siehe Regel 312, „Komplott-Karten“.)
 
-904.4 Zu Beginn des Spiels mischt der Erzfeind sein Komplott-Deck, sodass die 
-Karten in zufälliger Reihenfolge sind. Das Komplott-Deck wird verdeckt neben 
-die Bibliothek des Erzfeinds platziert. Komplott-Karten verbleiben das ganze 
-Spiel über in der Kommandozone, sowohl wenn sie Teil eines Komplott-Decks sind, 
-als auch während sie aufgedeckt sind.
+904.4 Zu Beginn des Spiels mischt der Erzfeind sein Komplott-Deck, sodass die Karten in zufälliger Reihenfolge sind. Das Komplott-Deck wird verdeckt neben die Bibliothek des Erzfeinds platziert. Komplott-Karten verbleiben das ganze Spiel über in der Kommandozone, sowohl wenn sie Teil eines Komplott-Decks sind, als auch während sie aufgedeckt sind.
 
-904.5 Der Erzfeind hat einen Lebenspunkte-Anfangswert von 40. Der Lebenspunkte-
-Anfangswert jedes anderen Spielers ist 20.
+904.5 Der Erzfeind hat einen Lebenspunkte-Anfangswert von 40. Der Lebenspunkte-Anfangswert jedes anderen Spielers ist 20.
 
 904.6 Statt eines zufällig bestimmten Spielers beginnt der Erzfeind das Spiel.
 
-904.7 Der Besitzer einer Komplott-Karte ist der Spieler, der mit dieser Karte 
-in der Kommandozone das Spiel begonnen hat. Der Beherrscher einer aufgedeckten 
-Komplott-Karte ist ihr Besitzer.
+904.7 Der Besitzer einer Komplott-Karte ist der Spieler, der mit dieser Karte in der Kommandozone das Spiel begonnen hat. Der Beherrscher einer aufgedeckten Komplott-Karte ist ihr Besitzer.
 
-904.8 Alle Fähigkeiten einer aufgedeckten Komplott-Karte in der Kommandozone 
-funktionieren von dieser Zone aus. Die statischen Fähigkeiten der Karte 
-beeinflussen das Spiel, ihre ausgelösten Fähigkeiten können auslösen, und ihre 
-aktivierten Fähigkeiten können aktiviert werden.
+904.8 Alle Fähigkeiten einer aufgedeckten Komplott-Karte in der Kommandozone funktionieren von dieser Zone aus. Die statischen Fähigkeiten der Karte beeinflussen das Spiel, ihre ausgelösten Fähigkeiten können auslösen, und ihre aktivierten Fähigkeiten können aktiviert werden.
 
-904.9 Unmittelbar nachdem die Vor-dem-Kampf-Hauptphase in jedem Zug des 
-Erzfeinds beginnt, bewegt dieser Spieler die oberste Karte von seinem Komplott-
-Deck und deckt sie auf. Dies wird „ein Komplott schmieden“ genannt. (Siehe 
-Regel 701.22.) Diese rundenbasierte Aktion nutzt nicht den Stapel. 
-Fähigkeiten dieser Komplott-Karte, die auslösen „wenn du dieses Komplott 
-schmiedest“ werden ausgelöst.
+904.9 Unmittelbar nachdem die Vor-dem-Kampf-Hauptphase in jedem Zug des Erzfeinds beginnt, bewegt dieser Spieler die oberste Karte von seinem Komplott-Deck und deckt sie auf. Dies wird „ein Komplott schmieden“ genannt. (Siehe Regel 701.22.) Diese rundenbasierte Aktion nutzt nicht den Stapel. Fähigkeiten dieser Komplott-Karte, die auslösen „wenn du dieses Komplott schmiedest“ werden ausgelöst.
 
-904.10 Wenn eine nicht-andauernde Komplott-Karte in der Kommandozone aufgedeckt 
-ist, und sie nicht die Quelle einer ausgelösten Fähigkeit ist, die ausgelöst 
-wurde, aber noch nicht den Stapel verlassen hat, wird diese Komplott-Karte das 
-nächste Mal, wenn ein Spieler Priorität erhalten würde, verdeckt und unter das 
-Komplott-Deck ihres Besitzers gelegt. (Dies ist eine zustandsbasierte 
-Aktion. Siehe Regel 704.)
+904.10 Wenn eine nicht-andauernde Komplott-Karte in der Kommandozone aufgedeckt ist, und sie nicht die Quelle einer ausgelösten Fähigkeit ist, die ausgelöst wurde, aber noch nicht den Stapel verlassen hat, wird diese Komplott-Karte das nächste Mal, wenn ein Spieler Priorität erhalten würde, verdeckt und unter das Komplott-Deck ihres Besitzers gelegt. (Dies ist eine zustandsbasierte Aktion. Siehe Regel 704.)
 
-904.11 Nachdem ein andauernder Komplott geschmiedet wurde, verbleibt die 
-Komplott-Karte aufgedeckt in der Kommandozone, bis eine Fähigkeit dazu führt, 
-dass sie fallengelassen wird (siehe Regel 701.23).
+904.11 Nachdem ein andauernder Komplott geschmiedet wurde, verbleibt die Komplott-Karte aufgedeckt in der Kommandozone, bis eine Fähigkeit dazu führt, dass sie fallengelassen wird (siehe Regel 701.23).
 
 904.12 Erzschurken-Draufhau-Option
 
-904.12a Als alternative Option können eine Partie Jeder gegen jeden spielen, in 
-der jeder Spieler sein eigenes Komplott-Deck hat. Die Option Mehrere Spieler 
-angreifen (siehe Regel 802) wird benutzt; keine weiteren Mehrspieler-Optionen 
-werden benutzt.
+904.12a Als alternative Option können eine Partie Jeder gegen jeden spielen, in der jeder Spieler sein eigenes Komplott-Deck hat. Die Option Mehrere Spieler angreifen (siehe Regel 802) wird benutzt; keine weiteren Mehrspieler-Optionen werden benutzt.
 
 904.12b In diesem Spiel ist jeder Spieler ein Erzfeind
 
-904.12c Wie in einer herkömmlichen Jeder-gegen-jeden-Partie wird der 
-Startspieler zufällig bestimmt. Alle anderen Regeln, die in einer Erzfeind-
-Partie für den Erzfeind gelten, gelten für jeden Spieler in einer Erzschurken-
-Draufhau-Partie.
+904.12c Wie in einer herkömmlichen Jeder-gegen-jeden-Partie wird der Startspieler zufällig bestimmt. Alle anderen Regeln, die in einer Erzfeind-Partie für den Erzfeind gelten, gelten für jeden Spieler in einer Erzschurken-Draufhau-Partie.
 
 
 
