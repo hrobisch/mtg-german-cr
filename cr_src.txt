@@ -4521,285 +4521,193 @@ Glossar
 
 
 Abhängigkeit
-Ein System, das festlegt, in welcher Reihenfolge dauerhafte Effekte in der 
-gleichen Schicht oder Unterschicht angewendet werden. Siehe Regel 613.7. Siehe 
-auch Zeitstempelreihenfolge.
+Ein System, das festlegt, in welcher Reihenfolge dauerhafte Effekte in der gleichen Schicht oder Unterschicht angewendet werden. Siehe Regel 613.7. Siehe auch Zeitstempelreihenfolge.
 
 Abkürzen
-Eine allgemein gebräuchliche Möglichkeit, das Spiel eine Anzahl an 
-Spielentscheidungen (entweder eine Aktion durchzuführen oder zu passen) 
-vorrücken zu lassen, ohne dass Spieler jede einzelne dieser Entscheidungen 
-ausdrücklich treffen müssen. Siehe Regel 716, „Abkürzungen nehmen“.
+Eine allgemein gebräuchliche Möglichkeit, das Spiel eine Anzahl an Spielentscheidungen (entweder eine Aktion durchzuführen oder zu passen) vorrücken zu lassen, ohne dass Spieler jede einzelne dieser Entscheidungen ausdrücklich treffen müssen. Siehe Regel 716, „Abkürzungen nehmen“.
 
 Abprall
-Eine Schlüsselwortfähigkeit, die ermöglicht, dass ein Spontanzauber oder eine 
-Hexerei ein zweites Mal gewirkt wird. Siehe Regel 702.86, „Abprall“.
+Eine Schlüsselwortfähigkeit, die ermöglicht, dass ein Spontanzauber oder eine Hexerei ein zweites Mal gewirkt wird. Siehe Regel 702.86, „Abprall“.
 
 Absorbieren
-Eine Schlüsselwortfähigkeit, die Schaden verhindert. Siehe Regel 702.62, 
-„Absorbieren“.
+Eine Schlüsselwortfähigkeit, die Schaden verhindert. Siehe Regel 702.62, „Absorbieren“.
 
 Abwechselnde Teams
-Eine Mehrspielervariante mit zwei oder mehr Teams gleicher Größe. Siehe 
-Regel 811, „Variante Abwechselnde Teams“.
+Eine Mehrspielervariante mit zwei oder mehr Teams gleicher Größe. Siehe Regel 811, „Variante Abwechselnde Teams“.
 
 Abwerfen
-Eine Karte von der Hand ihres Besitzers in den Friedhof dieses Spielers legen. 
-Siehe Regel 701.7, „Abwerfen“.
+Eine Karte von der Hand ihres Besitzers in den Friedhof dieses Spielers legen. Siehe Regel 701.7, „Abwerfen“.
 
 Affinität
-Eine Schlüsselwortfähigkeit, die reduziert, wie viel Mana du bezahlen musst, um 
-einen Zauberspruch zu wirken. Siehe Regel 702.39, „Affinität“.
+Eine Schlüsselwortfähigkeit, die reduziert, wie viel Mana du bezahlen musst, um einen Zauberspruch zu wirken. Siehe Regel 702.39, „Affinität“.
 
 Aktiver Spieler
 Der Spieler, dessen Zug es ist. Siehe Regel 102.1.
 
 Aktiver-Spieler-inaktiver-Spieler-Reihenfolge
-Ein System, das festlegt, in welcher Reihenfolge Spieler Entscheidungen 
-treffen, falls mehrere Spieler angewiesen sind, zur gleichen Zeit 
-Entscheidungen zu treffen. Siehe Regel 101.4. Diese Regel ist bei Partien 
-modifiziert, in denen die Option „Gemeinsame Team-Züge“ verwendet wird; siehe 
-Regel 805.6.
+Ein System, das festlegt, in welcher Reihenfolge Spieler Entscheidungen treffen, falls mehrere Spieler angewiesen sind, zur gleichen Zeit Entscheidungen zu treffen. Siehe Regel 101.4. Diese Regel ist bei Partien modifiziert, in denen die Option „Gemeinsame Team-Züge“ verwendet wird; siehe Regel 805.6.
 
 Aktives Team
 Das Team, dessen Zug es in einer Partie ist, in der die Option „Gemeinsame Team-
 Züge“ verwendet wird. Siehe Regel 805.4a.
 
 Aktivieren
-Eine aktivierte Fähigkeit auf den Stapel legen und ihre Kosten bezahlen, sodass 
-sie möglicherweise verrechnet wird und ihren Effekt haben wird. Siehe 
-Regel 602, „Aktivierte Fähigkeiten aktivieren“.
+Eine aktivierte Fähigkeit auf den Stapel legen und ihre Kosten bezahlen, sodass sie möglicherweise verrechnet wird und ihren Effekt haben wird. Siehe Regel 602, „Aktivierte Fähigkeiten aktivieren“.
 
 Aktivierte Fähigkeit
-Eine Art von Fähigkeit. Aktivierte Fähigkeiten sind als „[Kosten]: [Effekt.] 
-[Aktivierungsanweisungen (falls vorhanden).]“ geschrieben. Siehe Regel 112, 
-„Fähigkeiten“, und Regel 602, „Aktivierte Fähigkeiten aktivieren“.
+Eine Art von Fähigkeit. Aktivierte Fähigkeiten sind als „[Kosten]: [Effekt.] [Aktivierungsanweisungen (falls vorhanden).]“ geschrieben. Siehe Regel 112, „Fähigkeiten“, und Regel 602, „Aktivierte Fähigkeiten aktivieren“.
 
 Aktivierungskosten
-Alles vor dem Doppelpunkt im Text einer aktivierten Fähigkeit. Sie müssen 
-bezahlt werden, um die Fähigkeit zu aktivieren. Siehe Regel 117, „Kosten“, und 
-Regel 602, „Aktivierte Fähigkeiten aktivieren“.
+Alles vor dem Doppelpunkt im Text einer aktivierten Fähigkeit. Sie müssen bezahlt werden, um die Fähigkeit zu aktivieren. Siehe Regel 117, „Kosten“, und Regel 602, „Aktivierte Fähigkeiten aktivieren“.
 
 Alleine angreifen
 Eine Kreatur greift alleine an, wenn sie während des Angreifer-deklarieren-
-Segments die einzige Kreatur ist, die als Angreifer deklariert wird. Eine 
-Kreatur zählt als alleine angreifend, wenn sie angreift, aber keine anderen 
-Kreaturen angreifen. Siehe Regel 506.5.
+Segments die einzige Kreatur ist, die als Angreifer deklariert wird. Eine Kreatur zählt als alleine angreifend, wenn sie angreift, aber keine anderen Kreaturen angreifen. Siehe Regel 506.5.
 
 Alleine blocken
-Eine Kreatur blockt alleine, wenn sie die einzige Kreatur ist, die während des 
-Blocker-deklarieren-Segments als Blocker deklariert wird. Eine Kreatur zählt 
-als alleine blockend, wenn sie blockt, aber keine anderen Kreaturen blocken. 
-Siehe Regel 506.5.
+Eine Kreatur blockt alleine, wenn sie die einzige Kreatur ist, die während des Blocker-deklarieren-Segments als Blocker deklariert wird. Eine Kreatur zählt als alleine blockend, wenn sie blockt, aber keine anderen Kreaturen blocken. Siehe Regel 506.5.
 
 Als Antwort auf
-Ein Spontanzauberspruch, der gewirkt wurde, oder eine aktivierte Fähigkeit, die 
-aktiviert wurde, während ein anderer Zauberspruch oder eine andere Fähigkeit 
-auf dem Stapel ist, wurde „als Antwort auf“ diesen Zauberspruch oder diese 
-Fähigkeit gewirkt bzw. aktiviert. Siehe Regel 116.7.
+Ein Spontanzauberspruch, der gewirkt wurde, oder eine aktivierte Fähigkeit, die aktiviert wurde, während ein anderer Zauberspruch oder eine andere Fähigkeit auf dem Stapel ist, wurde „als Antwort auf“ diesen Zauberspruch oder diese Fähigkeit gewirkt bzw. aktiviert. Siehe Regel 116.7.
 
 Als ob
-Text, der besagt, dass das Spiel für einen bestimmten Zweck eine Bedingung als 
-wahr ansieht, auch wenn die Bedingung nicht zutrifft. Siehe Regel 609.4.
+Text, der besagt, dass das Spiel für einen bestimmten Zweck eine Bedingung als wahr ansieht, auch wenn die Bedingung nicht zutrifft. Siehe Regel 609.4.
 
 Alternating Teams
 Siehe Abwechselnde Teams.
 
 Alternative Kosten
-Kosten, die ein Zauberspruch haben kann, die sein Beherrscher anstelle seiner 
-Manakosten bezahlen kann. Siehe Regel 117, „Kosten“, und Regel 601, 
-„Zaubersprüche wirken“.
+Kosten, die ein Zauberspruch haben kann, die sein Beherrscher anstelle seiner Manakosten bezahlen kann. Siehe Regel 117, „Kosten“, und Regel 601, „Zaubersprüche wirken“.
 
 Am Ende des Zuges (veraltet)
-Eine Auslösebedingung, die auf Fähigkeiten gedruckt war, die zu Beginn des 
-Endsegments auslösen (was nicht das Letzte ist, was in einem Zug passiert). 
-Karten, die mit diesem Text gedruckt wurden, haben in der Oracle-Kartenreferenz 
-Errata erhalten und benutzen nun die Formulierung „zu Beginn des Endsegments“ 
-oder „zu Beginn des nächsten Endsegments“. Siehe Regel 513, „Endsegment“.
+Eine Auslösebedingung, die auf Fähigkeiten gedruckt war, die zu Beginn des Endsegments auslösen (was nicht das Letzte ist, was in einem Zug passiert). Karten, die mit diesem Text gedruckt wurden, haben in der Oracle-Kartenreferenz Errata erhalten und benutzen nun die Formulierung „zu Beginn des Endsegments“ oder „zu Beginn des nächsten Endsegments“. Siehe Regel 513, „Endsegment“.
 
 Andauernd
-Ein Übertyp, der nur auf Komplott-Karten auftaucht. Siehe Regel 205.4, 
-„Übertypen“.
+Ein Übertyp, der nur auf Komplott-Karten auftaucht. Siehe Regel 205.4, „Übertypen“.
 
 Anekdotentext
-Kursiver Text (aber nicht in Klammern) in der Textbox einer Karte, der keinen 
-Einfluss auf das Spiel hat. Siehe Regel 207.2.
+Kursiver Text (aber nicht in Klammern) in der Textbox einer Karte, der keinen Einfluss auf das Spiel hat. Siehe Regel 207.2.
 
 Anfangshand
 Siehe Starthand.
 
 Angreifen
-Eine Kreatur offensiv in den Kampf schicken. Eine Kreatur kann einen Spieler 
-oder einen Planeswalker angreifen. Siehe Regel 508, „Angreifer-deklarieren-
+Eine Kreatur offensiv in den Kampf schicken. Eine Kreatur kann einen Spieler oder einen Planeswalker angreifen. Siehe Regel 508, „Angreifer-deklarieren-
 Segment“.
 
 Angreifende Kreatur
-Eine Kreatur, die entweder als Teil eines legalen Angriffs während der 
-Kampfphase deklariert wurde (nachdem alle Kosten zum Angreifen, falls es welche 
-gibt, bezahlt wurden) oder angreifend ins Spiel gebracht wurde. Sie bleibt eine 
-angreifende Kreatur, bis sie aus dem Kampf entfernt wird oder die Kampfphase 
-endet, was auch immer zuerst kommt. Siehe Regel 508, „Angreifer-deklarieren-
+Eine Kreatur, die entweder als Teil eines legalen Angriffs während der Kampfphase deklariert wurde (nachdem alle Kosten zum Angreifen, falls es welche gibt, bezahlt wurden) oder angreifend ins Spiel gebracht wurde. Sie bleibt eine angreifende Kreatur, bis sie aus dem Kampf entfernt wird oder die Kampfphase endet, was auch immer zuerst kommt. Siehe Regel 508, „Angreifer-deklarieren-
 Segment“.
 
 Angreifer deklarieren
-Einen Satz an Kreaturen wählen, der angreifen soll, für jede dieser Kreaturen 
-deklarieren, ob sie den verteidigenden Spieler oder einen Planeswalker, den 
-dieser Spieler kontrolliert, angreift, und jegliche Kosten bezahlen, die 
-gefordert werden, damit diese Kreaturen angreifen können. Siehe Regel 508.1.
+Einen Satz an Kreaturen wählen, der angreifen soll, für jede dieser Kreaturen deklarieren, ob sie den verteidigenden Spieler oder einen Planeswalker, den dieser Spieler kontrolliert, angreift, und jegliche Kosten bezahlen, die gefordert werden, damit diese Kreaturen angreifen können. Siehe Regel 508.1.
 
 Angreifer-deklarieren-Segment
-Teil des Zuges. Dieses Segment ist das zweite Segment der Kampfphase. Siehe 
-Regel 508, „Angreifer-deklarieren-Segment“.
+Teil des Zuges. Dieses Segment ist das zweite Segment der Kampfphase. Siehe Regel 508, „Angreifer-deklarieren-Segment“.
 
 Angreift und nicht geblockt wird
-Eine Fähigkeit, die ausgelöst wird, wenn eine Kreatur „angreift und nicht 
-geblockt wird“, wird ausgelöst, wenn die Kreatur eine ungeblockte Kreatur wird. 
-Siehe Regel 509.1h.
+Eine Fähigkeit, die ausgelöst wird, wenn eine Kreatur „angreift und nicht geblockt wird“, wird ausgelöst, wenn die Kreatur eine ungeblockte Kreatur wird. Siehe Regel 509.1h.
 
 Anlegen
-Eine Aura, Ausrüstung oder Befestigung auf ein anderes Objekt legen. Siehe 
-Regel 701.3, „Anlegen“.
+Eine Aura, Ausrüstung oder Befestigung auf ein anderes Objekt legen. Siehe Regel 701.3, „Anlegen“.
 
 Anpassung der Handkartenzahl
-Eine Eigenschaft, die nur Vanguard-Karten haben. Siehe Regel 210, „Anpassung 
-der Handkartenzahl“.
+Eine Eigenschaft, die nur Vanguard-Karten haben. Siehe Regel 210, „Anpassung der Handkartenzahl“.
 
 Anpassung der Lebenspunkte
-Eine Eigenschaft, die nur Vanguard-Karten haben. Siehe Regel 211, „Anpassung 
-der Lebenspunkte“.
+Eine Eigenschaft, die nur Vanguard-Karten haben. Siehe Regel 211, „Anpassung der Lebenspunkte“.
 
 Anstatt
 Siehe Stattdessen.
 
 Antworten
-Einen Spontanzauberspruch wirken oder eine Fähigkeit aktivieren, während ein 
-anderer Zauberspruch oder eine andere Fähigkeit bereits auf dem Stapel ist. 
-Siehe Regel 116.7.
+Einen Spontanzauberspruch wirken oder eine Fähigkeit aktivieren, während ein anderer Zauberspruch oder eine andere Fähigkeit bereits auf dem Stapel ist. Siehe Regel 116.7.
 
 Archenemy
 Siehe Erzfeind.
 
 Artefakt
-Ein Kartentyp. Ein Artefakt ist eine bleibende Karte. Siehe Regel 301, 
-„Artefakte“.
+Ein Kartentyp. Ein Artefakt ist eine bleibende Karte. Siehe Regel 301, „Artefakte“.
 
 Artefaktkreatur
-Eine Kombination aus Artefakt und Kreatur, das Gegenstand der Regeln für beides 
-ist. Siehe Regel 301, „Artefakte“, und Regel 302, „Kreaturen“.
+Eine Kombination aus Artefakt und Kreatur, das Gegenstand der Regeln für beides ist. Siehe Regel 301, „Artefakte“, und Regel 302, „Kreaturen“.
 
 Artefaktland
-Eine Kombination aus Artefakt und Land, das Gegenstand der Regeln für beides 
-ist. Artefaktländer können nur als Länder gespielt und nicht als Zaubersprüche 
-gewirkt werden. Siehe Regel 301, „Artefakte“, und Regel 305, „Länder“.
+Eine Kombination aus Artefakt und Land, das Gegenstand der Regeln für beides ist. Artefaktländer können nur als Länder gespielt und nicht als Zaubersprüche gewirkt werden. Siehe Regel 301, „Artefakte“, und Regel 305, „Länder“.
 
 Artefakttyp
-Ein Untertyp, der mit dem Kartentyp Artefakt verbunden ist. Siehe Regel 301, 
-„Artefakte“. Siehe Regel 205.3g für die Liste der Artefakttypen.
+Ein Untertyp, der mit dem Kartentyp Artefakt verbunden ist. Siehe Regel 301, „Artefakte“. Siehe Regel 205.3g für die Liste der Artefakttypen.
 
 ASNAS-Reihenfolge
 Siehe Aktiver-Spieler-inaktiver-Spieler-Reihenfolge.
 
 Aufblitzen
-Eine Schlüsselwortfähigkeit, die einen Spieler eine Karte zu jedem Zeitpunkt 
-spielen lässt, zu dem er einen Spontanzauber spielen könnte. Siehe Regel 702.8, 
-„Aufblitzen“.
+Eine Schlüsselwortfähigkeit, die einen Spieler eine Karte zu jedem Zeitpunkt spielen lässt, zu dem er einen Spontanzauber spielen könnte. Siehe Regel 702.8, „Aufblitzen“.
 
 Auf etwas treffen
 Siehe Treffen auf.
 
 Aufgeben
-Die Partie verlassen. Aufgeben führt dazu, dass ein Spieler sofort die 
-Partie verlässt und das Spiel verliert. Siehe Regel 104, „Das Spiel beenden“.
+Die Partie verlassen. Aufgeben führt dazu, dass ein Spieler sofort die Partie verlässt und das Spiel verliert. Siehe Regel 104, „Das Spiel beenden“.
 
 Aufräumsegment
-Teil des Zuges. Dieses Segment ist das zweite und letzte Segment der Endphase. 
-Siehe Regel 514, „Aufräumsegment“.
+Teil des Zuges. Dieses Segment ist das zweite und letzte Segment der Endphase. Siehe Regel 514, „Aufräumsegment“.
 
 Aura
-Ein Verzauberungs-Untertyp. Aurenzaubersprüche zielen auf Objekte oder Spieler, 
-und bleibende Aurenkarten sind an Objekt oder Spieler angelegt. Siehe 
-Regel 303, „Verzauberungen“, und Regel 702.5, „Verzaubern“.
+Ein Verzauberungs-Untertyp. Aurenzaubersprüche zielen auf Objekte oder Spieler, und bleibende Aurenkarten sind an Objekt oder Spieler angelegt. Siehe Regel 303, „Verzauberungen“, und Regel 702.5, „Verzaubern“.
 
 Aurentausch
-Eine Schlüsselwortfähigkeit, die dich eine Aura im Spiel mit einer Aurenkarte 
-in deiner Hand austauschen lässt. Siehe Regel 702.63, „Aurentausch“.
+Eine Schlüsselwortfähigkeit, die dich eine Aura im Spiel mit einer Aurenkarte in deiner Hand austauschen lässt. Siehe Regel 702.63, „Aurentausch“.
 
 Aus dem Kampf entfernt
-Manche Ereignisse können dazu führen, dass eine angreifende oder blockende 
-Kreatur oder ein Planeswalker, der angegriffen wird, „aus dem Kampf entfernt“ 
-wird. Eine bleibende Karte, die aus dem Kampf entfernt wurde, ist nicht länger 
-an dieser Kampfphase beteiligt. Siehe Regel 506.4.
+Manche Ereignisse können dazu führen, dass eine angreifende oder blockende Kreatur oder ein Planeswalker, der angegriffen wird, „aus dem Kampf entfernt“ wird. Eine bleibende Karte, die aus dem Kampf entfernt wurde, ist nicht länger an dieser Kampfphase beteiligt. Siehe Regel 506.4.
 
 Aus dem Spiel entfernt, ganz
 Siehe Ganz aus dem Spiel entfernt.
 
 Ausgelöste Fähigkeit
-Eine Art von Fähigkeit. Ausgelöste Fähigkeiten beginnen mit den Worten „Wenn“, 
-„Immer wenn“, „Zu“ oder „Am“. Sie sind geschrieben als „[Auslösebedingung], 
-[Effekt].“ Siehe Regel 112, „Fähigkeiten“, und Regel 603, „Handhabung 
-ausgelöster Fähigkeiten“.
+Eine Art von Fähigkeit. Ausgelöste Fähigkeiten beginnen mit den Worten „Wenn“, „Immer wenn“, „Zu“ oder „Am“. Sie sind geschrieben als „[Auslösebedingung], [Effekt].“ Siehe Regel 112, „Fähigkeiten“, und Regel 603, „Handhabung ausgelöster Fähigkeiten“.
 
 Ausgraben
-Eine Schlüsselwortfähigkeit, die einen Spieler eine Karte von seinem Friedhof 
-auf seine Hand nehmen lässt. Siehe Regel 702.50, „Ausgraben“.
+Eine Schlüsselwortfähigkeit, die einen Spieler eine Karte von seinem Friedhof auf seine Hand nehmen lässt. Siehe Regel 702.50, „Ausgraben“.
 
 Auslösebedingung
-Der erste Teil einer ausgelösten Fähigkeit, bestehend aus „Wenn“, „Immer wenn“, 
-„Zu“ oder „Am“, gefolgt von einem Auslöseereignis. Siehe Regel 603, „Handhabung 
-ausgelöster Fähigkeiten“.
+Der erste Teil einer ausgelösten Fähigkeit, bestehend aus „Wenn“, „Immer wenn“, „Zu“ oder „Am“, gefolgt von einem Auslöseereignis. Siehe Regel 603, „Handhabung ausgelöster Fähigkeiten“.
 
 Auslöseereignis
-Das Ereignis, auf das eine ausgelöste Fähigkeit wartet. Immer wenn das 
-Auslöseereignis stattindet, wird die ausgelöste Fähigkeit ausgelöst. Siehe 
-Regel 603, „Handhabung ausgelöster Fähigkeiten“.
+Das Ereignis, auf das eine ausgelöste Fähigkeit wartet. Immer wenn das Auslöseereignis stattindet, wird die ausgelöste Fähigkeit ausgelöst. Siehe Regel 603, „Handhabung ausgelöster Fähigkeiten“.
 
 Auslösen
-Immer wenn ein Spielereignis oder ein Spielzustand dem Auslöseereignis einer 
-ausgelösten Fähigkeit entspricht, wird diese Fähigkeit automatisch „ausgelöst“. 
-Das bedeutet, dass ihr Beherrscher sie auf den Stapel legt, sobald das nächste 
-Mal ein Spieler Priorität erhalten würde. Siehe Regel 603, „Handhabung 
-ausgelöster Fähigkeiten“.
+Immer wenn ein Spielereignis oder ein Spielzustand dem Auslöseereignis einer ausgelösten Fähigkeit entspricht, wird diese Fähigkeit automatisch „ausgelöst“. Das bedeutet, dass ihr Beherrscher sie auf den Stapel legt, sobald das nächste Mal ein Spieler Priorität erhalten würde. Siehe Regel 603, „Handhabung ausgelöster Fähigkeiten“.
 
 Ausrüsten
-Eine Schlüsselwortfähigkeit, die einen Spieler eine Ausrüstung an eine Kreatur 
-anlegen lässt, die er kontrolliert. Siehe Regel 301, „Artefakte“, und 
-Regel 702.6, „Ausrüsten“.
+Eine Schlüsselwortfähigkeit, die einen Spieler eine Ausrüstung an eine Kreatur anlegen lässt, die er kontrolliert. Siehe Regel 301, „Artefakte“, und Regel 702.6, „Ausrüsten“.
 
 Ausrüstung
-Ein Artefakte-Untertyp. Ausrüstungen können an Kreaturen angelegt werden. Siehe 
-Regel 301, „Artefakte“, und Regel 702.6, „Ausrüsten“.
+Ein Artefakte-Untertyp. Ausrüstungen können an Kreaturen angelegt werden. Siehe Regel 301, „Artefakte“, und Regel 702.6, „Ausrüsten“.
 
 Außerhalb des Spiels
-Ein Objekt ist „außerhalb des Spiels“, wenn es sich nicht in einer der Zonen 
-des Spiels befindet. Siehe Regel 400.10.
+Ein Objekt ist „außerhalb des Spiels“, wenn es sich nicht in einer der Zonen des Spiels befindet. Siehe Regel 400.10.
 
 Aussetzen
-Eine Schlüsselwortfähigkeit, die es ermöglicht, eine Karte auf eine alternative 
-Weise zu spielen. Siehe Regel 702.60, „Aussetzen“. Eine Karte ist „ausgesetzt“, 
-wenn sie im Exil ist, Aussetzen hat und eine Zeitmarke auf ihr liegt.
+Eine Schlüsselwortfähigkeit, die es ermöglicht, eine Karte auf eine alternative Weise zu spielen. Siehe Regel 702.60, „Aussetzen“. Eine Karte ist „ausgesetzt“, wenn sie im Exil ist, Aussetzen hat und eine Zeitmarke auf ihr liegt.
 
 Austauschen
-Zwei Dinge vertauschen, so wie Objekte, Sätze von Objekten oder 
-Lebenspunkteständen. Siehe Regel 701.8, „Austauschen“.
+Zwei Dinge vertauschen, so wie Objekte, Sätze von Objekten oder Lebenspunkteständen. Siehe Regel 701.8, „Austauschen“.
 
 Ausweichfähigkeit
-Eine Fähigkeit, die einschränkt, was für Kreaturen eine angreifende Kreatur 
-blocken können. Siehe Regel 509.1b–c.
+Eine Fähigkeit, die einschränkt, was für Kreaturen eine angreifende Kreatur blocken können. Siehe Regel 509.1b–c.
 
 zustandsbasierte Aktionen
-Spielaktionen, die automatisch stattfinden, wenn bestimmte Bedingungen erfüllt 
-sind. Siehe Regel 704, „zustandsbasierte Aktionen“.
+Spielaktionen, die automatisch stattfinden, wenn bestimmte Bedingungen erfüllt sind. Siehe Regel 704, „zustandsbasierte Aktionen“.
 
 rundenbasierte Aktionen
-Spielaktionen, die automatisch stattfinden, wenn bestimmte Segmente oder Phasen 
-anfangen, oder wenn ein Segment oder eine Phase endet. Siehe Regel 703, 
-„rundenbasierte Aktionen“.
+Spielaktionen, die automatisch stattfinden, wenn bestimmte Segmente oder Phasen anfangen, oder wenn ein Segment oder eine Phase endet. Siehe Regel 703, „rundenbasierte Aktionen“.
 
 
 Bausteine
 Eine Schlüsselwortfähigkeit, die bewirkt, dass eine bleibende Karte mit +1/+1-
-Marken auf sich ins Spiel kommt, und ihr ermöglicht, diese Marken auf andere 
-Artefaktkreaturen zu verschieben. Siehe Regel 702.41, „Bausteine“.
+Marken auf sich ins Spiel kommt, und ihr ermöglicht, diese Marken auf andere Artefaktkreaturen zu verschieben. Siehe Regel 702.41, „Bausteine“.
 
 Beenden des Zuges
 Siehe Zug beenden.
@@ -4808,177 +4716,117 @@ Befehden
 Siehe Fehden.
 
 Befestigen
-Eine Schlüsselwortfähigkeit, die einen Spieler eine Befestigung an ein Land 
-anlegen lässt, das er kontrolliert. Siehe Regel 301, „Artefakte“, und 
-Regel 702.65, „Befestigen“.
+Eine Schlüsselwortfähigkeit, die einen Spieler eine Befestigung an ein Land anlegen lässt, das er kontrolliert. Siehe Regel 301, „Artefakte“, und Regel 702.65, „Befestigen“.
 
 Befestigung
-Ein Artefakte-Untertyp. Befestigungen können an Länder angelegt werden. Siehe 
-Regel 301, „Artefakte“, und Regel 702.65, „Befestigen“.
+Ein Artefakte-Untertyp. Befestigungen können an Länder angelegt werden. Siehe Regel 301, „Artefakte“, und Regel 702.65, „Befestigen“.
 
 Beginn-des-Kampfes-Segment
-Teil des Zuges. Dieses Segment ist das erste Segment der Kampfphase. Siehe 
-Regel 507, „Beginn-des-Kampfes-Segment“.
+Teil des Zuges. Dieses Segment ist das erste Segment der Kampfphase. Siehe Regel 507, „Beginn-des-Kampfes-Segment“.
 
 Begraben (veraltet)
-Ein Ausdruck, der „lege [eine bleibende Karte] in den Friedhof ihres Besitzers“ 
-meinte. Im Allgemeinen haben Karten, die mit dem Begriff „begraben“ gedruckt 
-wurden, in der Oracle-Kartenreferenz Errata erhalten und benutzen nun die 
-Formulierung „Zerstöre [eine bleibende Karte]. Sie kann nicht regeneriert 
-werden.“ oder „Opfere [eine bleibende Karte].“
+Ein Ausdruck, der „lege [eine bleibende Karte] in den Friedhof ihres Besitzers“ meinte. Im Allgemeinen haben Karten, die mit dem Begriff „begraben“ gedruckt wurden, in der Oracle-Kartenreferenz Errata erhalten und benutzen nun die Formulierung „Zerstöre [eine bleibende Karte]. Sie kann nicht regeneriert werden.“ oder „Opfere [eine bleibende Karte].“
 
 Begrenzte Einflussweite
-Eine optionale Regel, die in einigen Mehrspielerpartien benutzt wird und 
-einschränkt, was ein Spieler beeinflussen kann. Siehe Regel 801, „Begrenzte 
-Einflussweite“.
+Eine optionale Regel, die in einigen Mehrspielerpartien benutzt wird und einschränkt, was ein Spieler beeinflussen kann. Siehe Regel 801, „Begrenzte Einflussweite“.
 
 Beharrlichkeit
-Eine Schlüsselwortfähigkeit, die eine Kreatur vom Friedhof ins Spiel 
-zurückholen kann. Siehe Regel 702.77, „Beharrlichkeit“.
+Eine Schlüsselwortfähigkeit, die eine Kreatur vom Friedhof ins Spiel zurückholen kann. Siehe Regel 702.77, „Beharrlichkeit“.
 
 Beherrscher
 Siehe Kontrolle.
 
 Beiseitelegen (veraltet)
-„Etwas beiseite legen“ ist ein veralteter Begriff für „[etwas] ins Exil 
-schicken“. Karten mit diesem Text haben in der Oracle-Kartenreferenz Errata 
-erhalten. Siehe Exil.
+„Etwas beiseite legen“ ist ein veralteter Begriff für „[etwas] ins Exil schicken“. Karten mit diesem Text haben in der Oracle-Kartenreferenz Errata erhalten. Siehe Exil.
 
 Bergung
-Eine Schlüsselwortfähigkeit, die einen Spieler eine Karte von seinem Friedhof 
-auf seine Hand nehmen lässt. Siehe Regel 702.57, „Bergung“.
+Eine Schlüsselwortfähigkeit, die einen Spieler eine Karte von seinem Friedhof auf seine Hand nehmen lässt. Siehe Regel 702.57, „Bergung“.
 
 Beschützen, beschützt
-Beschützen ist eine Schlüsselwortfähigkeit, die bewirkt, dass eine Kreatur eine 
-andere vorübergehend ersetzt. Eine bleibende Karte wird von einer anderen 
-bleibenden Karte „beschützt“, wenn Letztere die Erstere als direktes Resultat 
-einer Beschützen-Fähigkeit ins Exil schickt. Siehe Regel 702.70.72, 
-„Beschützen“.
+Beschützen ist eine Schlüsselwortfähigkeit, die bewirkt, dass eine Kreatur eine andere vorübergehend ersetzt. Eine bleibende Karte wird von einer anderen bleibenden Karte „beschützt“, wenn Letztere die Erstere als direktes Resultat einer Beschützen-Fähigkeit ins Exil schickt. Siehe Regel 702.70.72, „Beschützen“.
 
 Beschwörung von (veraltet)
-Ältere Kreaturenkarten wurden mit „Beschwörung von [Kreaturentyp]“ in ihrer 
-Typuszeile gedruckt. Alle diese Karten haben in der Oracle-Kartenreferenz 
-Errata erhalten und lauten nun „Kreatur – [Kreaturentyp]“ in ihrer Typuszeile. 
-(Viele der Kreaturentypen dieser Karten wurden auch überholt.) Siehe Kreatur.
+Ältere Kreaturenkarten wurden mit „Beschwörung von [Kreaturentyp]“ in ihrer Typuszeile gedruckt. Alle diese Karten haben in der Oracle-Kartenreferenz Errata erhalten und lauten nun „Kreatur – [Kreaturentyp]“ in ihrer Typuszeile. (Viele der Kreaturentypen dieser Karten wurden auch überholt.) Siehe Kreatur.
 
 Besitzer
-Der Spieler, dem (für den Spielzweck) eine Karte, ein Spielstein oder eine 
-Kopie eines Zauberspruchs gehört. Siehe Regeln 108.3, 110.2, 110.5a und 111.2.
+Der Spieler, dem (für den Spielzweck) eine Karte, ein Spielstein oder eine Kopie eines Zauberspruchs gehört. Siehe Regeln 108.3, 110.2, 110.5a und 111.2.
 
 Beutezug
-Eine Schlüsselwortfähigkeit, die ermöglichen kann, einen Zauberspruch für 
-alternative Kosten zu wirken. Siehe Regel 702.74, „Beutezug“.
+Eine Schlüsselwortfähigkeit, die ermöglichen kann, einen Zauberspruch für alternative Kosten zu wirken. Siehe Regel 702.74, „Beutezug“.
 
 Bewegen
-Eine Zählmarke von einem Objekt nehmen und auf ein anderes Objekt legen. Siehe 
-Regel 121.5.
+Eine Zählmarke von einem Objekt nehmen und auf ein anderes Objekt legen. Siehe Regel 121.5.
 
-Einige ältere Karten benutzen „bewegen“ in Bezug auf Auren; diese Karten haben 
-in der Oracle-Kartenreferenz Errata erhalten und benutzen nun das Wort 
-„anlegen“.
+Einige ältere Karten benutzen „bewegen“ in Bezug auf Auren; diese Karten haben in der Oracle-Kartenreferenz Errata erhalten und benutzen nun das Wort „anlegen“.
 
 Bezahlen
-Die Aktionen durchführen, die von Kosten verlangt werden. Das bedeutet häufig, 
-Ressourcen wie Mana oder Lebenspunkte auszugeben, ist aber nicht darauf 
-beschränkt. Siehe Regel 117, „Kosten“.
+Die Aktionen durchführen, die von Kosten verlangt werden. Das bedeutet häufig, Ressourcen wie Mana oder Lebenspunkte auszugeben, ist aber nicht darauf beschränkt. Siehe Regel 117, „Kosten“.
 
 Bibliothek
 1. Eine Zone. Von seiner Bibliothek zieht ein Spieler Karten.
-
 2. Alle Karten in der Bibliothek eines Spielers.
-
 Siehe Regel 401, „Bibliothek“.
 
 Bleibende Karte
-Eine Karte oder ein Spielstein in der Im-Spiel-Zone. Siehe Regel 110, 
-„Bleibende Karten“.
+Eine Karte oder ein Spielstein in der Im-Spiel-Zone. Siehe Regel 110, „Bleibende Karten“.
 
 Bleibende-Karte-Karte
 Eine Karte, die ins Spiel gebracht werden könnte. Siehe Regel 110.4a.
 
 Bleibende-Karte-Zauberspruch
-Ein Zauberspruch, der als Teil seiner Verrechnung als bleibende Karte ins Spiel 
-kommen wird. Siehe Regel 110.4b.
+Ein Zauberspruch, der als Teil seiner Verrechnung als bleibende Karte ins Spiel kommen wird. Siehe Regel 110.4b.
 
 Blocken, Block
-Eine Kreatur defensiv in den Kampf schicken. Eine Kreatur kann eine angreifende 
-Kreatur blocken. Siehe Regel 509, „Blocker-deklarieren-Segment“.
+Eine Kreatur defensiv in den Kampf schicken. Eine Kreatur kann eine angreifende Kreatur blocken. Siehe Regel 509, „Blocker-deklarieren-Segment“.
 
 Blockende Kreatur
-Eine Kreatur, die entweder als Teil eines legalen Blocks während der Kampfphase 
-deklariert wurde (nachdem alle Kosten zum Blocken, falls es welche gibt, 
-bezahlt wurden) oder blockend ins Spiel gebracht wurde. Sie bleibt eine 
-blockende Kreatur, bis sie aus dem Kampf entfernt wird oder die Kampfphase 
-endet, was auch immer zuerst kommt. Siehe Regel 509, „Blocker-deklarieren-
+Eine Kreatur, die entweder als Teil eines legalen Blocks während der Kampfphase deklariert wurde (nachdem alle Kosten zum Blocken, falls es welche gibt, bezahlt wurden) oder blockend ins Spiel gebracht wurde. Sie bleibt eine blockende Kreatur, bis sie aus dem Kampf entfernt wird oder die Kampfphase endet, was auch immer zuerst kommt. Siehe Regel 509, „Blocker-deklarieren-
 Segment“.
 
 Blocker deklarieren
-Einen Satz an Kreaturen wählen, der blocken soll, für jede dieser Kreaturen 
-deklarieren, welche angreifende Kreatur sie blockt, und jegliche Kosten 
-bezahlen, die gefordert werden, damit diese Kreaturen blocken können. Siehe 
-Regel 509.1.
+Einen Satz an Kreaturen wählen, der blocken soll, für jede dieser Kreaturen deklarieren, welche angreifende Kreatur sie blockt, und jegliche Kosten bezahlen, die gefordert werden, damit diese Kreaturen blocken können. Siehe Regel 509.1.
 
 Blocker-deklarieren-Segment
-Teil des Zuges. Dieses Segment ist das dritte Segment der Kampfphase. Siehe 
-Regel 509, „Blocker-deklarieren-Segment“.
+Teil des Zuges. Dieses Segment ist das dritte Segment der Kampfphase. Siehe Regel 509, „Blocker-deklarieren-Segment“.
 
 Blutdurst
 Eine Schlüsselwortfähigkeit, die einer Kreatur ermöglichen kann, mit +1/+1-
 Marken auf sich ins Spiel zu kommen. Siehe Regel 702.52, „Blutdurst“.
 
 Bonus
-Bonus ist eine Schlüsselwortfähigkeit, die optionale zusätzliche Kosten 
-darstellt. Bonus wird für einen Zauberspruch genutzt, indem sein Beherrscher 
-die Absicht erklärt, manche oder alle Bonuskosten dieses Zauberspruchs zu 
-bezahlen. Siehe Regel 702.31, „Bonus“.
+Bonus ist eine Schlüsselwortfähigkeit, die optionale zusätzliche Kosten darstellt. Bonus wird für einen Zauberspruch genutzt, indem sein Beherrscher die Absicht erklärt, manche oder alle Bonuskosten dieses Zauberspruchs zu bezahlen. Siehe Regel 702.31, „Bonus“.
 
 Bringen, ins Spiel
 Siehe Ins Spiel bringen.
 
 Bündnisfähigkeit, „Bündnis mit anderen“
-Bündnisfähigkeit ist eine Schlüsselwortfähigkeit, die die Regeln für das 
-Deklarieren von Angreifern und das Zuweisen von Kampfschaden modifiziert. 
-„Bündnis mit anderen“ ist eine besondere Version der Fähigkeit. Siehe 
-Regel 702.20, „Bündnisfähigkeit“.
+Bündnisfähigkeit ist eine Schlüsselwortfähigkeit, die die Regeln für das Deklarieren von Angreifern und das Zuweisen von Kampfschaden modifiziert. „Bündnis mit anderen“ ist eine besondere Version der Fähigkeit. Siehe Regel 702.20, „Bündnisfähigkeit“.
 
 Bushido
-Eine Schlüsselwortfähigkeit, die eine Kreatur im Kampf verbessern kann. Siehe 
-Regel 702.43, „Bushido“.
+Eine Schlüsselwortfähigkeit, die eine Kreatur im Kampf verbessern kann. Siehe Regel 702.43, „Bushido“.
 
 
 Chaos-Fähigkeit
-Eine Fähigkeit einer Weltenkarte, die in der Freizeitspiel-Variante 
-„Weltenjagd“ auslöst „Immer wenn du mit dem Welten-Würfel {chaos} würfelst“. 
-Siehe Regel 309.7.
+Eine Fähigkeit einer Weltenkarte, die in der Freizeitspiel-Variante „Weltenjagd“ auslöst „Immer wenn du mit dem Welten-Würfel {chaos} würfelst“. Siehe Regel 309.7.
 
 Chaos-Symbol
-Das Chaos-Symbol {chaos} erscheint in der Freizeitspiel-Variante „Weltenjagd“ 
-auf dem Welten-Würfel und in manchen ausgelösten Fähigkeiten auf Weltenkarten. 
-Siehe Regel 107.12.
+Das Chaos-Symbol {chaos} erscheint in der Freizeitspiel-Variante „Weltenjagd“ auf dem Welten-Würfel und in manchen ausgelösten Fähigkeiten auf Weltenkarten. Siehe Regel 107.12.
 
 Commander
 Siehe Kommandeur.
 
 Constructed
-Eine Art des Spiels, in der jeder Spieler sein Deck vorher gebaut hat. Siehe 
-Regel 100.2a.
+Eine Art des Spiels, in der jeder Spieler sein Deck vorher gebaut hat. Siehe Regel 100.2a.
 
 Continuous Artifact (veraltet)
-Ein veralteter Begriff, der in der Typuszeile von Artefakten ohne aktivierte 
-Fähigkeiten auftauchte. Karten, die mit diesem Text gedruckt wurden, haben in 
-der Oracle-Kartenreferenz Errata erhalten und verwenden nun einfach den Begriff 
-„Artefakt“.
+Ein veralteter Begriff, der in der Typuszeile von Artefakten ohne aktivierte Fähigkeiten auftauchte. Karten, die mit diesem Text gedruckt wurden, haben in der Oracle-Kartenreferenz Errata erhalten und verwenden nun einfach den Begriff „Artefakt“.
 
 
 Dauerhafter Effekt
-Ein Effekt, der für einen festgesetzten oder undefinierten Zeitraum 
-Eigenschaften oder die Kontrolle von Objekten modifiziert oder Spieler oder die 
-Spielregeln beeinflusst. Siehe Regel 611, „Dauerhafte Effekte“.
+Ein Effekt, der für einen festgesetzten oder undefinierten Zeitraum Eigenschaften oder die Kontrolle von Objekten modifiziert oder Spieler oder die Spielregeln beeinflusst. Siehe Regel 611, „Dauerhafte Effekte“.
 
 Deck
-Die Sammlung von Karten, mit der dieser Spieler das Spiel beginnt; sie wird zu 
-seiner Bibliothek. Siehe Regel 100, „Allgemeines“, und Regel 103, „Eine Partie 
-beginnen“.
+Die Sammlung von Karten, mit der dieser Spieler das Spiel beginnt; sie wird zu seiner Bibliothek. Siehe Regel 100, „Allgemeines“, und Regel 103, „Eine Partie beginnen“.
 
 Dein
 Siehe Du.
@@ -4993,34 +4841,27 @@ Deklarieren der Blocker
 Siehe Blocker deklarieren.
 
 Destabilisieren
-Eine bleibende Karte „destabilisiert sich“, wenn ihr Status sich von 
-stabilisiert zu destabilisiert verändert. Siehe Regel 702.24, „Instabilität“.
+Eine bleibende Karte „destabilisiert sich“, wenn ihr Status sich von stabilisiert zu destabilisiert verändert. Siehe Regel 702.24, „Instabilität“.
 
 Destabilisiert
 Siehe Stabilisiert, destabilisiert.
 
 Doppelschlag
-Eine Schlüsselwortfähigkeit, die eine Kreatur Kampfschaden zweimal zufügen 
-lässt. Siehe Regel 702.4, „Doppelschlag“.
+Eine Schlüsselwortfähigkeit, die eine Kreatur Kampfschaden zweimal zufügen lässt. Siehe Regel 702.4, „Doppelschlag“.
 
 Doppelseitige Karten
 Karten mit zwei Vorderseiten, eine auf jeder Seite der Karte, und ohne Magic-
 Kartenrückseite. Siehe Regel 711, „Doppelseitige Karten“.
 
 Du, Dein
-Wörter, die sich auf den Beherrscher, den potenziellen Beherrscher (wenn ein 
-Spieler versucht, es zu wirken oder zu aktivieren) oder den Besitzer (wenn es 
-keinen Beherrscher hat) eines Objekts beziehen. Siehe Regel 109.5.
+Wörter, die sich auf den Beherrscher, den potenziellen Beherrscher (wenn ein Spieler versucht, es zu wirken oder zu aktivieren) oder den Besitzer (wenn es keinen Beherrscher hat) eines Objekts beziehen. Siehe Regel 109.5.
 
 Durchsuchen
-Alle Karten in der angegebenen Zone anschauen und möglicherweise eine Karte 
-finden, auf die eine gegebene Beschreibung passt. Siehe Regel 701.15, 
-„Durchsuchen“.
+Alle Karten in der angegebenen Zone anschauen und möglicherweise eine Karte finden, auf die eine gegebene Beschreibung passt. Siehe Regel 701.15, „Durchsuchen“.
 
 
 Ebene
-Einer der fünf Standardlandtypen. Jedes Land mit diesem Untertyp hat die 
-Fähigkeit: „{tap}: Erhöhe deinen Manavorrat um {W}.“ Siehe Regel 305.6.
+Einer der fünf Standardlandtypen. Jedes Land mit diesem Untertyp hat die Fähigkeit: „{tap}: Erhöhe deinen Manavorrat um {W}.“ Siehe Regel 305.6.
 
 Ebenentarnung
 Siehe Landtarnung.
@@ -5029,45 +4870,34 @@ Ebenenumwandlung
 Siehe Typumwandlung.
 
 Echo
-Eine Schlüsselwortfähigkeit, die Kosten verlangt, damit eine bleibende Karte im 
-Spiel bleibt. Siehe Regel 702.28, „Echo“.
+Eine Schlüsselwortfähigkeit, die Kosten verlangt, damit eine bleibende Karte im Spiel bleibt. Siehe Regel 702.28, „Echo“.
 
 Edelmut
-Eine Schlüsselwortfähigkeit, die eine Kreatur im Kampf besser macht. Siehe 
-Regel 702.81, „Edelmut“.
+Eine Schlüsselwortfähigkeit, die eine Kreatur im Kampf besser macht. Siehe Regel 702.81, „Edelmut“.
 
 EDH
 Siehe Stammesältester Drachen Highlander.
 
 Effekt
-Etwas, das im Spiel als Ergebnis eines Zauberspruchs oder einer Fähigkeit 
-passiert. Siehe Regel 609, „Effekte“.
+Etwas, das im Spiel als Ergebnis eines Zauberspruchs oder einer Fähigkeit passiert. Siehe Regel 609, „Effekte“.
 
 Eigenschaften
 Informationen, die ein Objekt definieren. Siehe Regel 109.3.
 
 Eigenschafts-definierende Fähigkeit
-Eine Art von statischer Fähigkeit, die Informationen über die Eigenschaften 
-eines Objekts vermittelt, die normalerweise woanders auf dem Objekt gefunden 
-werden würden (so wie in seinen Manakosten, in seiner Typuszeile oder in seiner 
-Stärke/Widerstandskraft-Box). Siehe Regel 604.3.
+Eine Art von statischer Fähigkeit, die Informationen über die Eigenschaften eines Objekts vermittelt, die normalerweise woanders auf dem Objekt gefunden werden würden (so wie in seinen Manakosten, in seiner Typuszeile oder in seiner Stärke/Widerstandskraft-Box). Siehe Regel 604.3.
 
 Eile
-Eine Schlüsselwortfähigkeit, die eine Kreatur die „Einsatzverzögerung“-Regel 
-ignorieren lässt. Siehe Regel 702.10, „Eile“, und Regel 302.6.
+Eine Schlüsselwortfähigkeit, die eine Kreatur die „Einsatzverzögerung“-Regel ignorieren lässt. Siehe Regel 702.10, „Eile“, und Regel 302.6.
 
 Einberufen
-Eine Schlüsselwortfähigkeit, die die Kosten verringert, die bezahlt werden 
-müssen, um einen Zauberspruch zu wirken. Siehe Regel 702.49, „Einberufen“.
+Eine Schlüsselwortfähigkeit, die die Kosten verringert, die bezahlt werden müssen, um einen Zauberspruch zu wirken. Siehe Regel 702.49, „Einberufen“.
 
 Einen anderen Spieler kontrollieren
-Alle Wahlen und Entscheidungen treffen, die dieser Spieler laut Regeln oder 
-Objekten machen darf oder soll. Siehe Regel 712, „Einen anderen Spieler 
-kontrollieren“.
+Alle Wahlen und Entscheidungen treffen, die dieser Spieler laut Regeln oder Objekten machen darf oder soll. Siehe Regel 712, „Einen anderen Spieler kontrollieren“.
 
 Einfarbig
-Ein Objekt mit genau einer Farbe ist einfarbig. Farblose Objekte sind nicht 
-einfarbig. Siehe Regel 105, „Farben“, und Regel 202, „Manakosten und Farbe“.
+Ein Objekt mit genau einer Farbe ist einfarbig. Farblose Objekte sind nicht einfarbig. Siehe Regel 105, „Farben“, und Regel 202, „Manakosten und Farbe“.
 
 Einfarbige Hybrid-Manasymbole
 Siehe Hybrid-Manasymbole.
@@ -5076,37 +4906,25 @@ Einflussweite
 Siehe Begrenzte Einflussweite.
 
 Einmaliger Effekt
-Ein Effekt, der etwas nur einmal tut und keine Dauer hat. Siehe Regel 610, 
-„Einmalige Effekte“. Siehe auch Dauerhafter Effekt.
+Ein Effekt, der etwas nur einmal tut und keine Dauer hat. Siehe Regel 610, „Einmalige Effekte“. Siehe auch Dauerhafter Effekt.
 
 Einprägen
-Einprägen war eine Schlüsselwortfähigkeit. Es ist nun ein Fähigkeitswort und 
-hat keine Regelbedeutung. Karten, die mit dem Einprägen-Schlüsselwort gedruckt 
-wurden, haben in der Oracle-Kartenreferenz Errata erhalten.
+Einprägen war eine Schlüsselwortfähigkeit. Es ist nun ein Fähigkeitswort und hat keine Regelbedeutung. Karten, die mit dem Einprägen-Schlüsselwort gedruckt wurden, haben in der Oracle-Kartenreferenz Errata erhalten.
 
 Einsatz
-Eine Zone, die nur verwendet wird, wenn „um Einsatz“ gespielt wird. Siehe 
-Regel 407, „Einsatz“.
+Eine Zone, die nur verwendet wird, wenn „um Einsatz“ gespielt wird. Siehe Regel 407, „Einsatz“.
 
 Einsatzverzögerung
-Ein informeller Begriff, der die Unfähigkeit einer Kreatur beschreibt, 
-anzugreifen oder aktivierte Fähigkeiten zu nutzen, die das Tappsymbol oder das 
-Enttappsymbol in ihren Kosten enthalten, wenn sie seit dem Beginn des neuesten 
-Zuges ihres Beherrschers unter dessen Kontrolle kam. Siehe Regel 302.6. Siehe 
-auch Eile.
+Ein informeller Begriff, der die Unfähigkeit einer Kreatur beschreibt, anzugreifen oder aktivierte Fähigkeiten zu nutzen, die das Tappsymbol oder das Enttappsymbol in ihren Kosten enthalten, wenn sie seit dem Beginn des neuesten Zuges ihres Beherrschers unter dessen Kontrolle kam. Siehe Regel 302.6. Siehe auch Eile.
 
 Einschüchtern
-Eine Schlüsselwortfähigkeit, die einschränkt, wie eine Kreatur geblockt werden 
-kann. Siehe Regel 702.12, „Einschüchtern“.
+Eine Schlüsselwortfähigkeit, die einschränkt, wie eine Kreatur geblockt werden kann. Siehe Regel 702.12, „Einschüchtern“.
 
 Einschränkung
-Ein Effekt, der eine oder mehrere Kreaturen vom Angreifen oder Blocken abhält. 
-Siehe Regeln 508.1c und 509.1b.
+Ein Effekt, der eine oder mehrere Kreaturen vom Angreifen oder Blocken abhält. Siehe Regeln 508.1c und 509.1b.
 
 Einschreitende „falls“-Klausel
-Eine auf besondere Weise formulierte Bedingung, die überprüft wird, wenn eine 
-ausgelöste Fähigkeit auslösen würde, und ein weiteres Mal, wenn sie verrechnet 
-würde. Siehe Regel 603.4.
+Eine auf besondere Weise formulierte Bedingung, die überprüft wird, wenn eine ausgelöste Fähigkeit auslösen würde, und ein weiteres Mal, wenn sie verrechnet würde. Siehe Regel 603.4.
 
 Einsetzen
 Eine Karte in die Einsatz-Zone legen. Siehe Regel 407, „Einsatz“.
@@ -5115,113 +4933,77 @@ Elder Dragon Highlander
 Siehe Stammesältester Drachen Highlander.
 
 Emblem
-Ein Emblem ist ein Merkzeichen, das ein Objekt repräsentiert, das eine oder 
-mehrere Fähigkeiten hat, aber keine weiteren Eigenschaften. Siehe Regel 113, 
-„Embleme“.
+Ein Emblem ist ein Merkzeichen, das ein Objekt repräsentiert, das eine oder mehrere Fähigkeiten hat, aber keine weiteren Eigenschaften. Siehe Regel 113, „Embleme“.
 
 Emperor
 Siehe Kaiser.
 
 Ende-des-Kampfes-Segment
-Teil des Zuges. Dieses Segment ist das fünfte und letzte Segment der 
-Kampfphase. Siehe Regel 511, „Ende-des-Kampfes-Segment“.
+Teil des Zuges. Dieses Segment ist das fünfte und letzte Segment der Kampfphase. Siehe Regel 511, „Ende-des-Kampfes-Segment“.
 
 Endphase
-Teil des Zuges. Diese Phase ist die fünfte und letzte Phase des Zuges. Siehe 
-Regel 512, „Endphase“.
+Teil des Zuges. Diese Phase ist die fünfte und letzte Phase des Zuges. Siehe Regel 512, „Endphase“.
 
 Endsegment
-Teil des Zuges. Dieses Segment ist das erste Segment der Endphase. Siehe 
-Regel 513, „Endsegment“.
+Teil des Zuges. Dieses Segment ist das erste Segment der Endphase. Siehe Regel 513, „Endsegment“.
 
 Entfernt, aus dem Kampf
 Siehe Aus dem Kampf entfernt.
 
 Enttappen
-Eine bleibende Karte von eine Seitwärts-Position wieder aufrecht drehen. Siehe 
-Regel 701.17, „Tappen und Enttappen“.
+Eine bleibende Karte von eine Seitwärts-Position wieder aufrecht drehen. Siehe Regel 701.17, „Tappen und Enttappen“.
 
 Enttappsegment
-Teil des Zuges. Dieses Segment ist das erste Segment der Startphase. Siehe 
-Regel 502, „Enttappsegment“.
+Teil des Zuges. Dieses Segment ist das erste Segment der Startphase. Siehe Regel 502, „Enttappsegment“.
 
 Enttappsymbol
-Das Enttappsymbol {enttap} in Aktivierungskosten bedeutet „Enttappe diese 
-bleibende Karte.“ Siehe Regel 107.6.
+Das Enttappsymbol {enttap} in Aktivierungskosten bedeutet „Enttappe diese bleibende Karte.“ Siehe Regel 107.6.
 
 Episch
-Eine Schlüsselwortfähigkeit, die einen Spieler zu Beginn jedes seiner 
-Versorgungssegmente einen Zauberspruch kopieren lässt auf Kosten von 
-irgendwelchen anderen Zaubersprüchen für den Rest der Partie zu wirken. Siehe 
-Regel 702.48, „Episch“.
+Eine Schlüsselwortfähigkeit, die einen Spieler zu Beginn jedes seiner Versorgungssegmente einen Zauberspruch kopieren lässt auf Kosten von irgendwelchen anderen Zaubersprüchen für den Rest der Partie zu wirken. Siehe Regel 702.48, „Episch“.
 
 Ereignis
 Alles, was in einer Partie geschieht. Siehe Regel 700.1.
 
 Erfolgreich gesprochen (veraltet)
-Eine Formulierung, die auf einigen älteren Karten gedruckt wurde. Im 
-Allgemeinen haben Karten, die sich auf einen „erfolgreich gesprochenen“ 
-Zauberspruch bezogen haben, in der Oracle-Kartenreferenz Errata erhalten und 
-beziehen sich nun einfach auf einen Zauberspruch, der „gewirkt“ wurde.
+Eine Formulierung, die auf einigen älteren Karten gedruckt wurde. Im Allgemeinen haben Karten, die sich auf einen „erfolgreich gesprochenen“ Zauberspruch bezogen haben, in der Oracle-Kartenreferenz Errata erhalten und beziehen sich nun einfach auf einen Zauberspruch, der „gewirkt“ wurde.
 
 Erinnerungstext
-Kursiv und in Klammern stehender Text in der Textbox einer Karte, der eine 
-Spielregel zusammenfasst, die für diese Karte gilt, selbst jedoch kein 
-Regeltext ist und keinen Einfluss auf das Spiel hat. Siehe Regel 207.2.
+Kursiv und in Klammern stehender Text in der Textbox einer Karte, der eine Spielregel zusammenfasst, die für diese Karte gilt, selbst jedoch kein Regeltext ist und keinen Einfluss auf das Spiel hat. Siehe Regel 207.2.
 
 Ersatzeffekt
-Eine Art von dauerhaftem Effekt, die darauf wartet, dass ein bestimmtes 
-Ereignis eintreten würde, und es dann ganz oder teilweise durch ein anderes 
-ersetzt. Siehe Regel 614, „Ersatzeffekte“.
+Eine Art von dauerhaftem Effekt, die darauf wartet, dass ein bestimmtes Ereignis eintreten würde, und es dann ganz oder teilweise durch ein anderes ersetzt. Siehe Regel 614, „Ersatzeffekte“.
 
 Erstschlag
-Eine Schlüsselwortfähigkeit, die eine Kreatur ihren Kampfschaden vor anderen 
-Kreaturen zufügen lässt. Siehe Regel 702.7, „Erstschlag“.
+Eine Schlüsselwortfähigkeit, die eine Kreatur ihren Kampfschaden vor anderen Kreaturen zufügen lässt. Siehe Regel 702.7, „Erstschlag“.
 
 Erweiterungssymbol
-Eine Eigenschaft und Teil einer Karte. Das Erweiterungssymbol einer Karte ist 
-ein kleines Zeichen, das üblicherweise unter der rechten Ecke der Illustration 
-gedruckt ist. Siehe Regel 206, „Erweiterungssymbol“.
+Eine Eigenschaft und Teil einer Karte. Das Erweiterungssymbol einer Karte ist ein kleines Zeichen, das üblicherweise unter der rechten Ecke der Illustration gedruckt ist. Siehe Regel 206, „Erweiterungssymbol“.
 
 Erzfeind
-1. Eine Freizeitspiel-Variante, in der ein Team von Spielern mit einem 
-einzelnen Gegner konfrontiert wird, der von mächtigen Komplott-Karten 
-unterstützt wird. Siehe Regel 904, „Erzfeind“.
-
+1. Eine Freizeitspiel-Variante, in der ein Team von Spielern mit einem einzelnen Gegner konfrontiert wird, der von mächtigen Komplott-Karten unterstützt wird. Siehe Regel 904, „Erzfeind“.
 2. Ein Spieler in einer Erzfeind-Partie, der mit einem Komplott-Deck spielt.
 
 Erzschurken-Draufhauen
-Eine Jeder-gegen-jeden-Partie, in der jeder Spieler ein Erzfeind ist. Siehe 
-Regel 806, „Variante Jeder gegen jeden“ und Regel 904, „Erzfeind“.
+Eine Jeder-gegen-jeden-Partie, in der jeder Spieler ein Erzfeind ist. Siehe Regel 806, „Variante Jeder gegen jeden“ und Regel 904, „Erzfeind“.
 
 Exhumieren
-Eine Schlüsselwortfähigkeit, die einen Spieler eine Kreaturenkarte von seinem 
-Friedhof zurück ins Spiel bringen lässt. Siehe Regel 702.82, „Exhumieren“.
+Eine Schlüsselwortfähigkeit, die einen Spieler eine Kreaturenkarte von seinem Friedhof zurück ins Spiel bringen lässt. Siehe Regel 702.82, „Exhumieren“.
 
 Exil
-Eine Zone. Das Exil ist im wesentlichen ein Lagerplatz für Karten. Es hieß 
-früher Ganz-aus-dem-Spiel-entfernt-Zone. Siehe Regel 406, „Exil“.
+Eine Zone. Das Exil ist im wesentlichen ein Lagerplatz für Karten. Es hieß früher Ganz-aus-dem-Spiel-entfernt-Zone. Siehe Regel 406, „Exil“.
 
 Extrazug
-Ein Zug, der durch den Effekt eines Zauberspruchs oder einer Fähigkeit erzeugt 
-wurde. Siehe Regel 500.7. Für Regeln zu Extrazügen in einer Partie, in der die 
-Option „Gemeinsame Team-Züge“ verwendet wird, siehe Regel 805.8. Für Regeln zu 
-Extrazügen in einer Partie Riesentumult siehe Regel 807.4.
+Ein Zug, der durch den Effekt eines Zauberspruchs oder einer Fähigkeit erzeugt wurde. Siehe Regel 500.7. Für Regeln zu Extrazügen in einer Partie, in der die Option „Gemeinsame Team-Züge“ verwendet wird, siehe Regel 805.8. Für Regeln zu Extrazügen in einer Partie Riesentumult siehe Regel 807.4.
 
 
 Fähigkeit
 1. Text auf einem Objekt, der beschreibt, was das Objekt macht oder tun kann.
-
-2. Eine aktivierte oder ausgelöste Fähigkeit auf dem Stapel. Diese Art von 
-Fähigkeit ist ein Objekt.
-
-Siehe Regel 112, „Fähigkeiten“, und Abschnitt 6, „Zaubersprüche, Fähigkeiten 
-und Effekte“.
+2. Eine aktivierte oder ausgelöste Fähigkeit auf dem Stapel. Diese Art von Fähigkeit ist ein Objekt.
+Siehe Regel 112, „Fähigkeiten“, und Abschnitt 6, „Zaubersprüche, Fähigkeiten und Effekte“.
 
 Fähigkeitswort
-Ein kursiv gedrucktes Wort ohne Regelbedeutung, das Fähigkeiten auf 
-verschiedenen Karten verbindet, die eine ähnliche Funktionsweise besitzen. 
-Siehe Regel 207.2c.
+Ein kursiv gedrucktes Wort ohne Regelbedeutung, das Fähigkeiten auf verschiedenen Karten verbindet, die eine ähnliche Funktionsweise besitzen. Siehe Regel 207.2c.
 
 Fallenlassen
 Eine aufgedeckte andauernde Komplott-Karte verdecken und unter das Komplott-
@@ -5231,76 +5013,56 @@ Falls
 Siehe Einschreitende „falls“-Klausel.
 
 Falls nicht
-Eine Formulierung, die einen bestimmten Kostenstil darstellt. Siehe 
-Regel 117.12a.
+Eine Formulierung, die einen bestimmten Kostenstil darstellt. Siehe Regel 117.12a.
 
 Farbanzeiger
-Eine Eigenschaft eines Objekts. Siehe Regel 105, „Farben“, und Regel 204, 
-„Farbanzeiger“.
+Eine Eigenschaft eines Objekts. Siehe Regel 105, „Farben“, und Regel 204, „Farbanzeiger“.
 
 Farbe
-1. Eine Eigenschaft eines Objekts. Siehe Regel 105, „Farben“, und Regel 202, 
-„Manakosten und Farbe“.
-
+1. Eine Eigenschaft eines Objekts. Siehe Regel 105, „Farben“, und Regel 202, „Manakosten und Farbe“.
 2. Ein Attribut, das Mana haben kann. Siehe Regel 106, „Mana“.
 
 Farbidentität
-Ein Satz von Farben, der bestimmt, welche Karten in ein Deck für die 
-Freizeitspiel-Variante „Kommandeur“ aufgenommen werden dürfen. Siehe 
-Regel 903.4.
+Ein Satz von Farben, der bestimmt, welche Karten in ein Deck für die Freizeitspiel-Variante „Kommandeur“ aufgenommen werden dürfen. Siehe Regel 903.4.
 
 Farblos
-1. Ein Objekt ohne Farbe ist farblos. Farblos ist keine Farbe. Siehe Regel 105, 
-„Farben“, und Regel 202, „Manakosten und Farbe“.
-
+1. Ein Objekt ohne Farbe ist farblos. Farblos ist keine Farbe. Siehe Regel 105, „Farben“, und Regel 202, „Manakosten und Farbe“.
 2. Ein Typ von Mana. Siehe Regel 106, „Mana“, und Regel 107.4c.
 
 Fehden
-Einen Mini-Wettstreit durchführen, bei dem die oberste Karte der Bibliothek von 
-Spielern aufgedeckt wird. Siehe Regel 701.20, „Fehden“.
+Einen Mini-Wettstreit durchführen, bei dem die oberste Karte der Bibliothek von Spielern aufgedeckt wird. Siehe Regel 701.20, „Fehden“.
 
 Flankenangriff
-Eine Schlüsselwortfähigkeit, die eine Kreatur im Kampf besser macht. Siehe 
-Regel 702.23, „Flankenangriff“.
+Eine Schlüsselwortfähigkeit, die eine Kreatur im Kampf besser macht. Siehe Regel 702.23, „Flankenangriff“.
 
 Fluchsicher
-Eine Schlüsselwortfähigkeit, die eine Kreatur oder einen Spieler davor bewahrt, 
-von einem Gegner als Ziel gewählt zu werden. Siehe Regel 702.11, „Fluchsicher“.
+Eine Schlüsselwortfähigkeit, die eine Kreatur oder einen Spieler davor bewahrt, von einem Gegner als Ziel gewählt zu werden. Siehe Regel 702.11, „Fluchsicher“.
 
 Flugfähigkeit
-Eine Schlüsselwortfähigkeit, die einschränkt, wie eine Kreatur geblockt werden 
-kann. Siehe Regel 702.9, „Flugfähigkeit“.
+Eine Schlüsselwortfähigkeit, die einschränkt, wie eine Kreatur geblockt werden kann. Siehe Regel 702.9, „Flugfähigkeit“.
 
 Forderung
-Ein Effekt, der eine oder mehrere Kreaturen zwingt, anzugreifen oder zu 
-blocken. Siehe Regeln 508.1d und 509.1c.
+Ein Effekt, der eine oder mehrere Kreaturen zwingt, anzugreifen oder zu blocken. Siehe Regeln 508.1d und 509.1c.
 
 Free-for-All
 Siehe Jeder gegen Jeden.
 
 Friedhof
 1. Eine Zone. Der Friedhof eines Spielers ist sein Abwurfstapel.
-
 2. Alle Karten im Friedhof eines Spielers.
-
 Siehe Regel 404, „Friedhof“.
 
 Furcht
-Eine Schlüsselwortfähigkeit, die einschränkt, wie eine Kreatur geblockt werden 
-kann. Siehe Regel 702.34, „Furcht“.
+Eine Schlüsselwortfähigkeit, die einschränkt, wie eine Kreatur geblockt werden kann. Siehe Regel 702.34, „Furcht“.
 
 
 Ganz aus dem Spiel entfernen, ganz aus dem Spiel entfernt, Ganz-aus-dem-Spiel-
 entfernt-Zone (veraltet)
-„[Etwas] ganz aus dem Spiel entfernen“ ist ein veralteter Begriff für „[Etwas] 
-ins Exil schicken“. „Die ganz aus dem Spiel entfernte Karte“ ist ein veralteter 
-Begriff für „die ins Exil geschickte Karte“. Die Ganz-aus-dem-Spiel-entfernt-
-Zone ist ein veralteter Begriff für die Exil-Zone. Karten mit diesem Text haben 
-in der Oracle-Kartenreferenz Errata erhalten. Siehe Exil.
+„[Etwas] ganz aus dem Spiel entfernen“ ist ein veralteter Begriff für „[Etwas] ins Exil schicken“. „Die ganz aus dem Spiel entfernte Karte“ ist ein veralteter Begriff für „die ins Exil geschickte Karte“. Die Ganz-aus-dem-Spiel-entfernt-
+Zone ist ein veralteter Begriff für die Exil-Zone. Karten mit diesem Text haben in der Oracle-Kartenreferenz Errata erhalten. Siehe Exil.
 
 Gebirge
-Einer der fünf Standardlandtypen. Jedes Land mit diesem Untertyp hat die 
-Fähigkeit „{tap}: Erhöhe deinen Manavorrat um {R}.“ Siehe Regel 305.6.
+Einer der fünf Standardlandtypen. Jedes Land mit diesem Untertyp hat die Fähigkeit „{tap}: Erhöhe deinen Manavorrat um {R}.“ Siehe Regel 305.6.
 
 Gebirgstarnung
 Siehe Landtarnung.
@@ -5309,177 +5071,122 @@ Gebirgsumwandlung
 Siehe Typumwandlung.
 
 Geblockte Kreatur
-Eine angreifende Kreatur, die von einer anderen Kreatur geblockt wird oder 
-durch ein Effekt dazu gebracht wird, geblockt zu werden. Sie bleibt eine 
-geblockte Kreatur, bis sie aus dem Kampf entfernt wird, ein Effekt besagt, dass 
-sie ungeblockt wird, oder die Kampfphase endet, was auch immer zuerst kommt. 
-Siehe Regel 509, „Blocker-deklarieren-Segment“.
+Eine angreifende Kreatur, die von einer anderen Kreatur geblockt wird oder durch ein Effekt dazu gebracht wird, geblockt zu werden. Sie bleibt eine geblockte Kreatur, bis sie aus dem Kampf entfernt wird, ein Effekt besagt, dass sie ungeblockt wird, oder die Kampfphase endet, was auch immer zuerst kommt. Siehe Regel 509, „Blocker-deklarieren-Segment“.
 
 Gegner
 Jemand, gegen den ein Spielers spielt. Siehe Regeln 102.2 und 102.3.
 
 Gelegt
-Wenn ein Zauberspruch oder eine Fähigkeit sich auf eine Zählmarke bezieht, die 
-auf einer bleibenden Karte „gelegt“ wird, meint er bzw. sie eine Zählmarke, die 
-auf diese bleibende Karte gelegt wird, während sie im Spiel ist, oder dass 
-diese bleibende Karte mit einer Zählmarke ins Spiel kommt. Siehe Regel 121, 
-„Zählmarken“.
+Wenn ein Zauberspruch oder eine Fähigkeit sich auf eine Zählmarke bezieht, die auf einer bleibenden Karte „gelegt“ wird, meint er bzw. sie eine Zählmarke, die auf diese bleibende Karte gelegt wird, während sie im Spiel ist, oder dass diese bleibende Karte mit einer Zählmarke ins Spiel kommt. Siehe Regel 121, „Zählmarken“.
 
 Gemeinsamer Lebenspunktestand
-In der Mehrspielervariante Zweiköpfiger Riese hat jedes Team einen „gemeinsamen 
-Lebenspunktestand“ anstatt dass jeder Spieler einen eigenen Lebenspunktestand 
-hat. Siehe Regel 810, „Variante Zweiköpfiger Riese“.
+In der Mehrspielervariante Zweiköpfiger Riese hat jedes Team einen „gemeinsamen Lebenspunktestand“ anstatt dass jeder Spieler einen eigenen Lebenspunktestand hat. Siehe Regel 810, „Variante Zweiköpfiger Riese“.
 
 General
-Jeder Spieler, der in der Mehrspielervariante „Kaiser“ kein Kaiser ist. Siehe 
-Regel 809, „Variante Kaiser“.
+Jeder Spieler, der in der Mehrspielervariante „Kaiser“ kein Kaiser ist. Siehe Regel 809, „Variante Kaiser“.
 
 Generisches Mana
-Mana in Kosten, das nicht durch farbige Manasymbole dargestellt wird; es kann 
-mit Mana beliebigen Typs bezahlt werden. Siehe Regel 107.4.
+Mana in Kosten, das nicht durch farbige Manasymbole dargestellt wird; es kann mit Mana beliebigen Typs bezahlt werden. Siehe Regel 107.4.
 
 Gesamtkosten
-Was ein Spieler, praktisch gesehen, tatsächlich zu bezahlen hat, um einen 
-Zauberspruch zu wirken oder eine Fähigkeit zu aktivieren: die Manakosten, 
-Aktivierungskosten oder alternative Kosten plus aller Kostenerhöhungen 
-(einschließlich zusätzlicher Kosten) und minus aller Kostenreduktionen. Siehe 
-Regel 601.2e.
+Was ein Spieler, praktisch gesehen, tatsächlich zu bezahlen hat, um einen Zauberspruch zu wirken oder eine Fähigkeit zu aktivieren: die Manakosten, Aktivierungskosten oder alternative Kosten plus aller Kostenerhöhungen (einschließlich zusätzlicher Kosten) und minus aller Kostenreduktionen. Siehe Regel 601.2e.
 
 Getappt
-Ein Status, den eine bleibende Karte haben kann. Siehe Regel 110.6 und 
-Regel 701.17, „Tappen und Enttappen“. Siehe auch Ungetappt.
+Ein Status, den eine bleibende Karte haben kann. Siehe Regel 110.6 und Regel 701.17, „Tappen und Enttappen“. Siehe auch Ungetappt.
 
 Geteilte Karten
-Karten mit zwei Vorderseiten auf einer Karte. Siehe Regel 708, „Geteilte 
-Karten“.
+Karten mit zwei Vorderseiten auf einer Karte. Siehe Regel 708, „Geteilte Karten“.
 
 Gewendet
-Ein Status, den eine bleibende Karte haben kann. Siehe Regel 110.6 und 
-Regel 709, „Wendekarten“. Siehe auch Ungewendet.
+Ein Status, den eine bleibende Karte haben kann. Siehe Regel 110.6 und Regel 709, „Wendekarten“. Siehe auch Ungewendet.
 
 Gewinnen, das Spiel
 Siehe Spiel gewinnen.
 
 Gift
-Eine Schlüsselwortfähigkeit, die bewirkt, dass ein Spieler Giftmarken erhält. 
-Siehe Regel 702.68, „Gift“.
+Eine Schlüsselwortfähigkeit, die bewirkt, dass ein Spieler Giftmarken erhält. Siehe Regel 702.68, „Gift“.
 
 Giftmarke
-Eine Zählmarke, die ein Spieler erhalten kann. Siehe Regel 121, „Zählmarken“, 
-und Regel 704.5c.
+Eine Zählmarke, die ein Spieler erhalten kann. Siehe Regel 121, „Zählmarken“, und Regel 704.5c.
 
 Globale Verzauberung (veraltet)
-Ein veralteter Begriff für eine Nicht-Auren-Verzauberung. Karten, die mit 
-diesem Text gedruckt wurden, haben in der Oracle-Kartenreferenz Errata erhalten.
+Ein veralteter Begriff für eine Nicht-Auren-Verzauberung. Karten, die mit diesem Text gedruckt wurden, haben in der Oracle-Kartenreferenz Errata erhalten.
 
 Gräbersturm
-Eine Schlüsselwortfähigkeit, die Kopien von einem Zauberspruch auf dem Stapel 
-erzeugt. Siehe Regel 702.67, „Gräbersturm“.
+Eine Schlüsselwortfähigkeit, die Kopien von einem Zauberspruch auf dem Stapel erzeugt. Siehe Regel 702.67, „Gräbersturm“.
 
 Grabsteinsymbol
-Ein Zeichen, das in oben links auf einigen Karten aus dem Odyssee-Block zu 
-finden ist, das keinen Effekt auf das Spielgeschehen hat. Siehe Regel 107.9.
+Ein Zeichen, das in oben links auf einigen Karten aus dem Odyssee-Block zu finden ist, das keinen Effekt auf das Spielgeschehen hat. Siehe Regel 107.9.
 
 Grand Melee
 Siehe Riesentumult.
 
 Grenzwert
-„Grenzwert“ war einmal eine Schlüsselwortfähigkeit. Es ist nun ein 
-Fähigkeitswort ohne Regelbedeutung. Alle Karten mit dem Grenzwert-Schlüsselwort 
-haben in der Oracle-Kartenreferenz Errata erhalten.
+„Grenzwert“ war einmal eine Schlüsselwortfähigkeit. Es ist nun ein Fähigkeitswort ohne Regelbedeutung. Alle Karten mit dem Grenzwert-Schlüsselwort haben in der Oracle-Kartenreferenz Errata erhalten.
 
 
 Hand
-1. Eine Zone. Auf der Hand eines Spielers hält er Karten, die er gezogen, aber 
-noch nicht gespielt hat.
-
+1. Eine Zone. Auf der Hand eines Spielers hält er Karten, die er gezogen, aber noch nicht gespielt hat.
 2. Alle Karten auf der Hand eines Spielers.
-
 Siehe Regel 402, „Hand“.
 
 Haufen
 Eine vorübergehende Gruppe von Karten. Siehe Regel 700.3.
 
 Hauptpartie
-Die Partie, in der der Zauberspruch (oder die Fähigkeit), die (bzw. die) die 
-Unterpartie erschaffen hat, gewirkt (oder aktiviert) wurde. Siehe Regel 715, 
-„Unterpartien“.
+Die Partie, in der der Zauberspruch (oder die Fähigkeit), die (bzw. die) die Unterpartie erschaffen hat, gewirkt (oder aktiviert) wurde. Siehe Regel 715, „Unterpartien“.
 
 Hauptphase
-Teil des Zuges. Der die erste oder Vor-dem-Kampf-Hauptphase ist die zweite 
-Phase des Zuges. Die zweite oder Nach-dem-Kampf-Hauptphase ist die vierte Phase 
-des Zuges. Siehe Regel 505, „Hauptphase“.
+Teil des Zuges. Der die erste oder Vor-dem-Kampf-Hauptphase ist die zweite Phase des Zuges. Die zweite oder Nach-dem-Kampf-Hauptphase ist die vierte Phase des Zuges. Siehe Regel 505, „Hauptphase“.
 
 Heimat: Inseln (veraltet)
-Eine veraltete Schlüsselwortfähigkeit, die bedeutete „Diese Kreatur kann nicht 
-angreifen, es sei denn, der verteidigende Spieler kontrolliert eine Insel.“ und 
-„Wenn du keine Insel kontrollierst, opfere diese Kreatur.“ Karten, die mit 
-dieser Fähigkeit gedruckt wurden, haben in der Oracle-Kartenreferenz Errata 
-erhalten.
+Eine veraltete Schlüsselwortfähigkeit, die bedeutete „Diese Kreatur kann nicht angreifen, es sei denn, der verteidigende Spieler kontrolliert eine Insel.“ und „Wenn du keine Insel kontrollierst, opfere diese Kreatur.“ Karten, die mit dieser Fähigkeit gedruckt wurden, haben in der Oracle-Kartenreferenz Errata erhalten.
 
 Hellsicht
-Einige Karten oben auf deiner Bibliothek manipulieren. Siehe Regel 701.18, 
-„Hellsicht“.
+Einige Karten oben auf deiner Bibliothek manipulieren. Siehe Regel 701.18, „Hellsicht“.
 
 Herbeirufen
-Eine Schlüsselwortfähigkeit, die dazu führt, dass eine bleibende Karte geopfert 
-werden muss, wenn sie ins Spiel kommt. Siehe Regel 702.72, „Herbeirufen“.
+Eine Schlüsselwortfähigkeit, die dazu führt, dass eine bleibende Karte geopfert werden muss, wenn sie ins Spiel kommt. Siehe Regel 702.72, „Herbeirufen“.
 
 Herkömmliche Magic-Karte
-Eine etwa 6,3 Zentimeter mal 8,8 Zentimeter große Magic-Karte. Siehe 
-Regel 108.2.
+Eine etwa 6,3 Zentimeter mal 8,8 Zentimeter große Magic-Karte. Siehe Regel 108.2.
 
 Hexerei
-Ein Kartentyp. Eine Hexerei ist keine bleibende Karte. Siehe Regel 307, 
-„Hexereien“.
+Ein Kartentyp. Eine Hexerei ist keine bleibende Karte. Siehe Regel 307, „Hexereien“.
 
 Hybridkarte
-Eine Karte mit einem oder mehreren Hybrid-Manasymbolen in ihren Manakosten. 
-Siehe Regel 202.2d.
+Eine Karte mit einem oder mehreren Hybrid-Manasymbolen in ihren Manakosten. Siehe Regel 202.2d.
 
 Hybrid-Manasymbole
-Ein Manasymbol, das Kosten darstellt, die auf einer von zwei Weisen bezahlt 
-werden können. Siehe Regel 107.4.
+Ein Manasymbol, das Kosten darstellt, die auf einer von zwei Weisen bezahlt werden können. Siehe Regel 107.4.
 
 
 Illegale Aktion
-Eine Aktion, die Spielregeln verletzt und/oder Forderungen oder Einschränkungen 
-nicht befolgt, die durch Effekte geschaffen wurden. Siehe Regel 717, 
-„Handhabung illegaler Aktionen“.
+Eine Aktion, die Spielregeln verletzt und/oder Forderungen oder Einschränkungen nicht befolgt, die durch Effekte geschaffen wurden. Siehe Regel 717, „Handhabung illegaler Aktionen“.
 
 Illegales Ziel
-Ein Ziel, das nicht mehr existiert oder nicht mehr der Beschreibung genügt, die 
-der Zauberspruch oder die Fähigkeit, der bzw. die auf es zielen, angibt. Siehe 
-Regel 608.2b.
+Ein Ziel, das nicht mehr existiert oder nicht mehr der Beschreibung genügt, die der Zauberspruch oder die Fähigkeit, der bzw. die auf es zielen, angibt. Siehe Regel 608.2b.
 
 Illustration
-Ein Bild, das in der oberen Hälfte einer Karte gedruckt ist und keine Bedeutung 
-für das Spiel hat. Siehe Regel 203, „Illustration“.
+Ein Bild, das in der oberen Hälfte einer Karte gedruckt ist und keine Bedeutung für das Spiel hat. Siehe Regel 203, „Illustration“.
 
 Im Spiel
-Eine Zone. Im Spiel ist die Zone, in der bleibende Karten existieren. Siehe 
-Regel 403, „Im Spiel“.
+Eine Zone. Im Spiel ist die Zone, in der bleibende Karten existieren. Siehe Regel 403, „Im Spiel“.
 
 In Reaktion auf
 Siehe Als Antwort auf.
 
 Infizieren
-Eine Schlüsselwortfähigkeit, die beeinflusst, wie ein Objekt einer Kreatur oder 
-einem Spieler Schaden zufügt. Siehe Regel 702.88, „Infizieren“.
+Eine Schlüsselwortfähigkeit, die beeinflusst, wie ein Objekt einer Kreatur oder einem Spieler Schaden zufügt. Siehe Regel 702.88, „Infizieren“.
 
 Ins Exil schicken
-Eine Objekt aus der Zone, in der es sich befindet, in die Exil-Zone legen. Eine 
-„ins Exil geschickte“ Karte ist eine, die in die Exil-Zone gelegt wurde. Siehe 
-Regel 406, „Exil“.
+Eine Objekt aus der Zone, in der es sich befindet, in die Exil-Zone legen. Eine „ins Exil geschickte“ Karte ist eine, die in die Exil-Zone gelegt wurde. Siehe Regel 406, „Exil“.
 
 Ins Spiel kommen
-Eine bleibende Karte, die kein Spielstein ist, „kommt ins Spiel“, wenn sie in 
-die Im-Spiel-Zone bewegt wird. Eine Spielstein „kommt ins Spiel“, wenn er 
-erzeugt wird. Siehe Regeln 403.3, 603.6a, 603.6e und 614.12.
+Eine bleibende Karte, die kein Spielstein ist, „kommt ins Spiel“, wenn sie in die Im-Spiel-Zone bewegt wird. Eine Spielstein „kommt ins Spiel“, wenn er erzeugt wird. Siehe Regeln 403.3, 603.6a, 603.6e und 614.12.
 
 Insel
-Einer der fünf Standardlandtypen. Jedes Land mit diesem Untertyp hat die 
-Fähigkeit „{tap}: Erhöhe deinen Manavorrat um {U}.“ Siehe Regel 305.6.
+Einer der fünf Standardlandtypen. Jedes Land mit diesem Untertyp hat die Fähigkeit „{tap}: Erhöhe deinen Manavorrat um {U}.“ Siehe Regel 305.6.
 
 Inseltarnung
 Siehe Landtarnung.
@@ -5488,483 +5195,334 @@ Inselumwandlung
 Siehe Typumwandlung.
 
 Instabilität
-Eine Schlüsselwortfähigkeit, die bewirkt, dass bleibende Karten manchmal 
-behandelt werden, als existierten sie nicht. Siehe Regel 702.24, „Instabilität“.
+Eine Schlüsselwortfähigkeit, die bewirkt, dass bleibende Karten manchmal behandelt werden, als existierten sie nicht. Siehe Regel 702.24, „Instabilität“.
 
 Irrealität
-Eine Schlüsselwortfähigkeit, die einschränkt, wie eine Kreatur geblockt werden 
-kann und welche Kreaturen sie blocken kann. Siehe Regel 702.26, „Irrealität“.
+Eine Schlüsselwortfähigkeit, die einschränkt, wie eine Kreatur geblockt werden kann und welche Kreaturen sie blocken kann. Siehe Regel 702.26, „Irrealität“.
 
 
 Jeder gegen jeden
-Eine Mehrspielervariante, in der eine Gruppe von Spielern als Individuen 
-gegeneinander kämpfen. Siehe Regel 806, „Variante Jeder gegen jeden“.
+Eine Mehrspielervariante, in der eine Gruppe von Spielern als Individuen gegeneinander kämpfen. Siehe Regel 806, „Variante Jeder gegen jeden“.
 
 
 Kaiser
 1. Eine Mehrspielervariante mit Teams zu je drei Spielern.
-
 2. Der mittlere Spieler jedes Teams in einer Partie der Variante Kaiser.
-
 Siehe Regel 809, „Variante Kaiser“.
 
 Kämpfen
-Wenn zwei Kreaturen kämpfen, fügt jede der anderen Schaden in Höhe ihrer Stärke 
-zu. Siehe Regel 701.10, „Kämpfen“.
+Wenn zwei Kreaturen kämpfen, fügt jede der anderen Schaden in Höhe ihrer Stärke zu. Siehe Regel 701.10, „Kämpfen“.
 
 Kampfphase
-Teil des Zuges. Diese Phase ist die dritte Phase des Zuges. Siehe Regel 506, 
-„Kampfphase“.
+Teil des Zuges. Diese Phase ist die dritte Phase des Zuges. Siehe Regel 506, „Kampfphase“.
 
 Kampfrausch
-Eine Schlüsselwortfähigkeit, die eine Kreatur im Kampf besser machen kann. 
-Siehe Regel 702.66, „Kampfrausch“.
+Eine Schlüsselwortfähigkeit, die eine Kreatur im Kampf besser machen kann. Siehe Regel 702.66, „Kampfrausch“.
 
 Kampfschaden
-Schaden, der während des Kampfschadensegments von angreifenden und blockenden 
-Kreaturen als Folge des Kampfes zugefügt wird. Siehe Regel 510, 
-„Kampfschadensegment“.
+Schaden, der während des Kampfschadensegments von angreifenden und blockenden Kreaturen als Folge des Kampfes zugefügt wird. Siehe Regel 510, „Kampfschadensegment“.
 
 Kampfschadensegment
-Teil des Zuges. Dieses Segment ist das vierte Segment der Kampfphase. Siehe 
-Regel 510, „Kampfschadensegment“.
+Teil des Zuges. Dieses Segment ist das vierte Segment der Kampfphase. Siehe Regel 510, „Kampfschadensegment“.
 
 Kampfschaden zuweisen
-Festlegen, wie eine angreifende oder blockende Kreatur ihren Kampfschaden 
-zufügen wird. Siehe Regel 510, „Kampfschadensegment“.
+Festlegen, wie eine angreifende oder blockende Kreatur ihren Kampfschaden zufügen wird. Siehe Regel 510, „Kampfschadensegment“.
 
 Karte
-Der grundlegende Bestandteil des Spiels: Magic-Karten können herkömmlich und 
-nicht herkömmlich sein. Spielsteine werden nicht als Karten angesehen. Im Text 
-von Zaubersprüchen oder Fähigkeiten wird der Begriff „Karte“ nur für eine Karte 
-verwendet, die sich nicht im Spiel oder auf dem Stapel befindet, wie z. B. eine 
-Kreaturenkarte auf der Hand eines Spielers. Siehe Regel 108, „Karten“.
+Der grundlegende Bestandteil des Spiels: Magic-Karten können herkömmlich und nicht herkömmlich sein. Spielsteine werden nicht als Karten angesehen. Im Text von Zaubersprüchen oder Fähigkeiten wird der Begriff „Karte“ nur für eine Karte verwendet, die sich nicht im Spiel oder auf dem Stapel befindet, wie z. B. eine Kreaturenkarte auf der Hand eines Spielers. Siehe Regel 108, „Karten“.
 
 Kartentyp
-Eine Eigenschaft. Jedes Objekt außer Fähigkeiten auf dem Stapel hat einen 
-Kartentyp, auch wenn das Objekt keine Karte ist. Jeder Kartentyp hat seine 
-eigenen Regeln. Siehe Regel 205, „Typuszeile“, und Abschnitt 3, „Kartentypen“.
+Eine Eigenschaft. Jedes Objekt außer Fähigkeiten auf dem Stapel hat einen Kartentyp, auch wenn das Objekt keine Karte ist. Jeder Kartentyp hat seine eigenen Regeln. Siehe Regel 205, „Typuszeile“, und Abschnitt 3, „Kartentypen“.
 
 Kaskade
-Eine Schlüsselwortfähigkeit, die einem Spieler ermöglichen kann, einen 
-zufälligen Extra-Zauberspruch ohne Kosten zu wirken. Siehe Regel 702.83, 
-„Kaskade“.
+Eine Schlüsselwortfähigkeit, die einem Spieler ermöglichen kann, einen zufälligen Extra-Zauberspruch ohne Kosten zu wirken. Siehe Regel 702.83, „Kaskade“.
 
 Kommandeur
-1. Eine Freizeitspiel-Variante, in der jedes Deck von einer legendären Kreatur 
-angeführt wird. Siehe Regel 903, „Kommandeur“.
-
+1. Eine Freizeitspiel-Variante, in der jedes Deck von einer legendären Kreatur angeführt wird. Siehe Regel 903, „Kommandeur“.
 2. Die Bezeichnung einer legendären Kreaturenkarte in der Freizeitspiel-
 Variante „Kommandeur“.
 
 Kommandozone
-Eine Zone für bestimmte, spezialisierte Objekte, die einen umfassenden Effekt 
-auf das Spiel haben, selbst jedoch keine bleibenden Karten sind und nicht 
-zerstört werden können. Siehe Regel 408, „Kommandozone“.
+Eine Zone für bestimmte, spezialisierte Objekte, die einen umfassenden Effekt auf das Spiel haben, selbst jedoch keine bleibenden Karten sind und nicht zerstört werden können. Siehe Regel 408, „Kommandozone“.
 
 Kommt ins Spiel
 Siehe Ins Spiel kommen.
 
 Komplott
-Ein Kartentyp, den es nur auf nicht herkömmlichen Magic-Karten in der 
-Freizeitspiel-Variante „Erzfeind“ gibt. Eine Komplott-Karte ist keine bleibende 
-Karte. Siehe Regel 312, „Komplott-Karten“.
+Ein Kartentyp, den es nur auf nicht herkömmlichen Magic-Karten in der Freizeitspiel-Variante „Erzfeind“ gibt. Eine Komplott-Karte ist keine bleibende Karte. Siehe Regel 312, „Komplott-Karten“.
 
 Kontrolle, Beherrscher
-„Kontrolle“ ist das System, das festlegt, wer ein Objekt im Spiel benutzen 
-darf. Der „Beherrscher“ eines Objekts ist derjenige, unter dessen Kontrolle es 
-sich aktuell befindet. Siehe Regel 108.4.
+„Kontrolle“ ist das System, das festlegt, wer ein Objekt im Spiel benutzen darf. Der „Beherrscher“ eines Objekts ist derjenige, unter dessen Kontrolle es sich aktuell befindet. Siehe Regel 108.4.
 
 Kontrollieren, einen anderen Spieler
 Siehe Einen anderen Spieler kontrollieren.
 
 Kopie
-Ein Objekt, dessen kopierbare Werte auf die eines anderen Objekts gesetzt 
-wurden. Siehe Regel 706, „Objekte kopieren“.
+Ein Objekt, dessen kopierbare Werte auf die eines anderen Objekts gesetzt wurden. Siehe Regel 706, „Objekte kopieren“.
 
 Kopierbare Werte
-Werte der Eigenschaften eines Objekts, die von Kopiereffekten überprüft werden. 
-Siehe Regeln 706.2 und 706.3.
+Werte der Eigenschaften eines Objekts, die von Kopiereffekten überprüft werden. Siehe Regeln 706.2 und 706.3.
 
 Kopieren
-Ein neues Objekt erzeugen, dessen kopierbare Werte auf die eines anderen 
-Objekts gesetzt wurden. Siehe Regel 706, „Objekte kopieren“.
+Ein neues Objekt erzeugen, dessen kopierbare Werte auf die eines anderen Objekts gesetzt wurden. Siehe Regel 706, „Objekte kopieren“.
 
 Kopplung
-Eine Schlüsselwortfähigkeit, die einen Spieler die Textbox einer Karte auf 
-einen anderen Zauberspruch kopieren lässt. Siehe Regel 702.45, „Kopplung“.
+Eine Schlüsselwortfähigkeit, die einen Spieler die Textbox einer Karte auf einen anderen Zauberspruch kopieren lässt. Siehe Regel 702.45, „Kopplung“.
 
 Kosten
-Aktionen oder Zahlungen, die notwendig sind, um eine andere Aktion 
-durchzuführen oder um eine andere Aktion davon abzuhalten stattzufinden. Siehe 
-Regel 117, „Kosten“.
+Aktionen oder Zahlungen, die notwendig sind, um eine andere Aktion durchzuführen oder um eine andere Aktion davon abzuhalten stattzufinden. Siehe Regel 117, „Kosten“.
 
 Kreatur
-Ein Kartentyp. Eine Kreatur ist eine bleibende Karte. Siehe Regel 302, 
-„Kreaturen“.
+Ein Kartentyp. Eine Kreatur ist eine bleibende Karte. Siehe Regel 302, „Kreaturen“.
 
 Kreaturentyp
-Ein Untertyp, der mit den Kartentypen Kreatur und Stammeskarte verbunden ist. 
-Siehe Regel 302, „Kreaturen“, und Regel 308, „Stammeskarten“. Siehe 
-Regel 205.3m für die Liste der Kreaturentypen.
+Ein Untertyp, der mit den Kartentypen Kreatur und Stammeskarte verbunden ist. Siehe Regel 302, „Kreaturen“, und Regel 308, „Stammeskarten“. Siehe Regel 205.3m für die Liste der Kreaturentypen.
 
 Kumulative Versorgung
-Eine Schlüsselwortfähigkeit, die ansteigende Kosten verlangt, damit eine 
-bleibende Karte im Spiel bleibt. Siehe Regel 702.22, „Kumulative Versorgung“.
+Eine Schlüsselwortfähigkeit, die ansteigende Kosten verlangt, damit eine bleibende Karte im Spiel bleibt. Siehe Regel 702.22, „Kumulative Versorgung“.
 
 Künstlerangabe
-Information, die direkt unter der Textbox gedruckt ist und keinen Effekt auf 
-das Spielgeschehen hat. Siehe Regel 212, „Informationen unter der Textbox“.
+Information, die direkt unter der Textbox gedruckt ist und keinen Effekt auf das Spielgeschehen hat. Siehe Regel 212, „Informationen unter der Textbox“.
 
 
 Land
 Ein Kartentyp. Ein Land ist eine bleibende Karte. Siehe Regel 305, „Länder“.
 
 Landtarnung
-„Landtarnung“ ist ein allgemeiner Begriff; der Regeltext einer Karte wird eine 
-spezifische Eigenschaft angeben, nach der gesucht werden soll, so wie 
-„Inseltarnung“.
+„Landtarnung“ ist ein allgemeiner Begriff; der Regeltext einer Karte wird eine spezifische Eigenschaft angeben, nach der gesucht werden soll, so wie „Inseltarnung“.
 
-Ein allgemeiner Begriff für eine Gruppe von Schlüsselwortfähigkeiten, die 
-einschränken, ob eine Kreatur geblockt werden kann. Siehe Regel 702.13, 
-„Landtarnung“.
+Ein allgemeiner Begriff für eine Gruppe von Schlüsselwortfähigkeiten, die einschränken, ob eine Kreatur geblockt werden kann. Siehe Regel 702.13, „Landtarnung“.
 
 Landtyp
-Ein Untertyp, der mit dem Kartentyp Land verbunden ist. Siehe Regel 305, 
-„Länder“. Siehe Regel 205.3i für die Liste der Landtypen.
+Ein Untertyp, der mit dem Kartentyp Land verbunden ist. Siehe Regel 305, „Länder“. Siehe Regel 205.3i für die Liste der Landtypen.
 
 Lebende Waffe
-Eine Schlüsselwortfähigkeit, die einen Kreaturenspielstein zusammen mit der 
-Ausrüstung mit dieser Fähigkeit ins Spiel bringt. Siehe Regel 702.90, „Lebende 
-Waffe“.
+Eine Schlüsselwortfähigkeit, die einen Kreaturenspielstein zusammen mit der Ausrüstung mit dieser Fähigkeit ins Spiel bringt. Siehe Regel 702.90, „Lebende Waffe“.
 
 Lebenspunkte, Lebenspunktestand, Lebenspunktezahl
-Jeder Spieler hat eine Menge an „Lebenspunkten“, die durch seinen 
-„Lebenspunktestand“ dargestellt wird. Lebenspunkte können dazu erhalten oder 
-verloren werden. Siehe Regel 118, „Lebenspunkte“.
+Jeder Spieler hat eine Menge an „Lebenspunkten“, die durch seinen „Lebenspunktestand“ dargestellt wird. Lebenspunkte können dazu erhalten oder verloren werden. Siehe Regel 118, „Lebenspunkte“.
 
 Lebensverknüpfung
-Eine Schlüsselwortfähigkeit, die bewirkt, dass ein Spieler Lebenspunkte dazu 
-erhält. Siehe Regel 702.14, „Lebensverknüpfung“.
+Eine Schlüsselwortfähigkeit, die bewirkt, dass ein Spieler Lebenspunkte dazu erhält. Siehe Regel 702.14, „Lebensverknüpfung“.
 
 Legen
 Siehe Gelegt.
 
 Legendär
-Ein Übertyp, der normalerweise auf bleibende Karten zutrifft. Siehe 
-Regel 205.4, „Übertypen“. Siehe auch Legendenregel.
+Ein Übertyp, der normalerweise auf bleibende Karten zutrifft. Siehe Regel 205.4, „Übertypen“. Siehe auch Legendenregel.
 
 Legende (veraltet)
-Ein veralteter Kreaturentyp. Karten, die mit diesem Untertyp gedruckt wurden, 
-haben in der Oracle-Kartenreferenz Errata erhalten, sodass sie nun diesen 
-Übertyp haben. Siehe Legendär.
+Ein veralteter Kreaturentyp. Karten, die mit diesem Untertyp gedruckt wurden, haben in der Oracle-Kartenreferenz Errata erhalten, sodass sie nun diesen Übertyp haben. Siehe Legendär.
 
 Legendenregel
-Eine zustandsbasierte Aktion, die bewirkt, dass alle legendären 
-bleibenden Karten mit dem gleichen Namen in den Friedhof ihrer Besitzer gelegt 
-werden. Siehe Regel 704.5k.
+Eine zustandsbasierte Aktion, die bewirkt, dass alle legendären bleibenden Karten mit dem gleichen Namen in den Friedhof ihrer Besitzer gelegt werden. Siehe Regel 704.5k.
 
 Limited
 Eine Art des Spiels, in der jeder Spieler eine Menge an ungeöffneten Magic-
 Produkten erhält und daraus vor Ort sein eigenes Deck baut. Siehe Regel 100.2.
 
 Lokale Verzauberung (veraltet)
-Ein veralteter Begriff für eine Aura. Karten, die mit diesem Text gedruckt 
-wurden, haben in der Oracle-Kartenreferenz Errata erhalten.
+Ein veralteter Begriff für eine Aura. Karten, die mit diesem Text gedruckt wurden, haben in der Oracle-Kartenreferenz Errata erhalten.
 
 Lösen
-Eine Ausrüstung von der Kreatur wegbewegen, an die sie angelegt ist, sodass die 
-Ausrüstung im Spiel ist, ohne etwas auszurüsten. Siehe Regel 701.3d.
+Eine Ausrüstung von der Kreatur wegbewegen, an die sie angelegt ist, sodass die Ausrüstung im Spiel ist, ohne etwas auszurüsten. Siehe Regel 701.3d.
 
 Loyalität
-1. Teil einer Karte, den nur Planeswalker haben. Die Loyalität einer 
-Planeswalkerkarte ist in ihrer unteren, rechten Ecke gedruckt. Siehe Regel 209, 
-„Loyalität“.
-
+1. Teil einer Karte, den nur Planeswalker haben. Die Loyalität einer Planeswalkerkarte ist in ihrer unteren, rechten Ecke gedruckt. Siehe Regel 209, „Loyalität“.
 2. Eine Eigenschaft, die nur Planeswalker besitzen. Siehe Regel 306.5.
 
 Loyalitätsfähigkeit
-Eine aktivierte Fähigkeit mit einem Loyalitätssymbol in den Kosten. Siehe 
-Regel 606, „Loyalitätsfähigkeiten“.
+Eine aktivierte Fähigkeit mit einem Loyalitätssymbol in den Kosten. Siehe Regel 606, „Loyalitätsfähigkeiten“.
 
 
 Mana
-Die Hauptressource im Spiel. Mana wird ausgegeben, um Kosten zu bezahlen, 
-üblicherweise beim Wirken von Zaubersprüchen und Aktivieren von aktivierten 
-Fähigkeiten. Siehe Regel 106, „Mana“, Regel 107.4 und Regel 202, „Manakosten 
-und Farbe“.
+Die Hauptressource im Spiel. Mana wird ausgegeben, um Kosten zu bezahlen, üblicherweise beim Wirken von Zaubersprüchen und Aktivieren von aktivierten Fähigkeiten. Siehe Regel 106, „Mana“, Regel 107.4 und Regel 202, „Manakosten und Farbe“.
 
 Manabrand (veraltet)
-Nach älteren Ausgaben der Regeln führte ungenutztes Mana dazu, dass ein Spieler 
-Lebenspunkte verliert; dies wurde „Manabrand“ genannt. Diese Regel gibt es 
-nicht mehr.
+Nach älteren Ausgaben der Regeln führte ungenutztes Mana dazu, dass ein Spieler Lebenspunkte verliert; dies wurde „Manabrand“ genannt. Diese Regel gibt es nicht mehr.
 
 Manafähigkeit
-Eine aktivierte oder ausgelöste Fähigkeit, die Mana produzieren könnte und 
-nicht den Stapel benutzt. Siehe Regel 605, „Manafähigkeiten“.
+Eine aktivierte oder ausgelöste Fähigkeit, die Mana produzieren könnte und nicht den Stapel benutzt. Siehe Regel 605, „Manafähigkeiten“.
 
 Manakosten
-Eine Eigenschaft und Teil einer Karte. Die Manakosten einer Karte werden von 
-den Manasymbolen angegeben, die in ihrer oberen, rechten Ecke gedruckt sind. 
-Siehe Regel 202, „Manakosten und Farbe“.
+Eine Eigenschaft und Teil einer Karte. Die Manakosten einer Karte werden von den Manasymbolen angegeben, die in ihrer oberen, rechten Ecke gedruckt sind. Siehe Regel 202, „Manakosten und Farbe“.
 
 Manaquelle (veraltet)
-Ein veralteter Kartentyp. Alle Karten, die mit diesem Kartentyp gedruckt 
-wurden, sind nun Spontanzauber. Alle Fähigkeiten, die laut gedrucktem Text „wie 
-eine Manaquelle“ gespielt werden konnten, sind nun Manafähigkeiten. Alle 
-betroffenen Karten haben in der Oracle-Kartenreferenz Errata erhalten.
+Ein veralteter Kartentyp. Alle Karten, die mit diesem Kartentyp gedruckt wurden, sind nun Spontanzauber. Alle Fähigkeiten, die laut gedrucktem Text „wie eine Manaquelle“ gespielt werden konnten, sind nun Manafähigkeiten. Alle betroffenen Karten haben in der Oracle-Kartenreferenz Errata erhalten.
 
 Manasymbol
 Ein Zeichen, das Mana oder Manakosten darstellt. Siehe Regel 107.4.
 
 Manavorrat
-Wo Mana, das durch einen Effekt produziert wurde, vorübergehend gelagert wird. 
-Siehe Regel 106.4.
+Wo Mana, das durch einen Effekt produziert wurde, vorübergehend gelagert wird. Siehe Regel 106.4.
 
 Marke
 Siehe Zählmarke.
 
 Match
-Eine Mehrspieler-Partie oder eine Reihe von Zwei-Spieler-Partien (üblicherweise 
-aus den besten zwei von drei Partien), die in einem Turnier gespielt werden. 
-Siehe Regel 100.6.
+Eine Mehrspieler-Partie oder eine Reihe von Zwei-Spieler-Partien (üblicherweise aus den besten zwei von drei Partien), die in einem Turnier gespielt werden. Siehe Regel 100.6.
 
 Mauer
-Ein Kreaturentyp ohne bestimmte Regelbedeutung. Ältere Karten mit dem 
-Kreaturentyp Mauer ohne die Verteidiger-Fähigkeit hatten eine ungeschrieben 
-Fähigkeit, die sie vom Angreifen abhielt. Diese Karten haben in der Oracle-
-Kartenreferenz Errata erhalten, sodass sie Verteidiger haben. Einige ältere 
-Karten, die sich auf den Kreaturentyp Mauer bezogen, haben ebenfalls Errata 
-erhalten. Siehe Verteidiger.
+Ein Kreaturentyp ohne bestimmte Regelbedeutung. Ältere Karten mit dem Kreaturentyp Mauer ohne die Verteidiger-Fähigkeit hatten eine ungeschrieben Fähigkeit, die sie vom Angreifen abhielt. Diese Karten haben in der Oracle-
+Kartenreferenz Errata erhalten, sodass sie Verteidiger haben. Einige ältere Karten, die sich auf den Kreaturentyp Mauer bezogen, haben ebenfalls Errata erhalten. Siehe Verteidiger.
 
 Maximale Handkartenzahl
-Die Anzahl an Karten auf der Hand eines Spielers, bis zu der er in seinem 
-Aufräumsegment Karten abwerfen muss. Siehe Regeln 402.2 und 514.1.
+Die Anzahl an Karten auf der Hand eines Spielers, bis zu der er in seinem Aufräumsegment Karten abwerfen muss. Siehe Regeln 402.2 und 514.1.
 
 Mehrfarbig
-Eine Objekt mit zwei oder mehr Farben ist mehrfarbig. Mehrfarbig ist keine 
-Farbe. Siehe Regel 105, „Farben“, und Regel 202, „Manakosten und Farbe“.
+Eine Objekt mit zwei oder mehr Farben ist mehrfarbig. Mehrfarbig ist keine Farbe. Siehe Regel 105, „Farben“, und Regel 202, „Manakosten und Farbe“.
 
 Mehrspielerpartie
-Eine Partie, die mit mehr als zwei Spielern beginnt. Siehe Abschnitt 8, 
-„Mehrspielerregeln“.
+Eine Partie, die mit mehr als zwei Spielern beginnt. Siehe Abschnitt 8, „Mehrspielerregeln“.
 
 Mirakulum
-Eine Schlüsselwortfähigkeit, die dich einen Zauberspruch für geringere Kosten 
-wirken lässt, falls es die erste Karte ist, die du in einem Zug ziehst. Siehe 
-Regel 702.92, „Mirakulum“.
+Eine Schlüsselwortfähigkeit, die dich einen Zauberspruch für geringere Kosten wirken lässt, falls es die erste Karte ist, die du in einem Zug ziehst. Siehe Regel 702.92, „Mirakulum“.
 
 Mischen
-Die Karten im Deck (vor dem Spiel) oder in der Bibliothek (während des Spiels) 
-in eine zufällige Reihenfolge bringen. Siehe Regel 103.1.
+Die Karten im Deck (vor dem Spiel) oder in der Bibliothek (während des Spiels) in eine zufällige Reihenfolge bringen. Siehe Regel 103.1.
 
 Modal, Modus
-Ein Zauberspruch oder eine Fähigkeit ist „modal“, wenn er bzw. sie zwei oder 
-mehrere Optionen hat, die durch „Bestimme eines –“, „Bestimme zwei –„, 
-„Bestimme eines oder beide –“ oder „[ein bestimmter Spieler] bestimmt eines –“ 
-eingeleitet werden. Jede Option ist ein Modus. Siehe Regel 700.2.
+Ein Zauberspruch oder eine Fähigkeit ist „modal“, wenn er bzw. sie zwei oder mehrere Optionen hat, die durch „Bestimme eines –“, „Bestimme zwei –„, „Bestimme eines oder beide –“ oder „[ein bestimmter Spieler] bestimmt eines –“ eingeleitet werden. Jede Option ist ein Modus. Siehe Regel 700.2.
 
 Mondsymbol
-Ein Symbol in der oberen linken Ecke auf der Rückseite einer doppelseitigen 
-Karte. Siehe Regel 711, „Doppelseitige Karten“.
+Ein Symbol in der oberen linken Ecke auf der Rückseite einer doppelseitigen Karte. Siehe Regel 711, „Doppelseitige Karten“.
 
 Mono Artifact (veraltet)
-Ein veralteter Begriff, der in der Typuszeile von Artefakten mit aktivierten 
-Fähigkeiten auftauchte, für deren Kosten das Artefakt getappt werden musste. 
-Karten, die mit diesem Text gedruckt wurden, haben in der Oracle-Kartenreferenz 
-Errata erhalten und verwenden nun einfach den Begriff „Artefakt“, und ihre 
-Fähigkeiten enthalten nun das Tappsymbol in ihren Kosten.
+Ein veralteter Begriff, der in der Typuszeile von Artefakten mit aktivierten Fähigkeiten auftauchte, für deren Kosten das Artefakt getappt werden musste. Karten, die mit diesem Text gedruckt wurden, haben in der Oracle-Kartenreferenz Errata erhalten und verwenden nun einfach den Begriff „Artefakt“, und ihre Fähigkeiten enthalten nun das Tappsymbol in ihren Kosten.
 
 Morph
 Eine Schlüsselwortfähigkeit, die es erlaubt, eine Karte als verdeckte 2/2-
-Kreatur zu wirken. Siehe Regel 702.35, „Morph“, und Regel 707, „Verdeckte 
-Zaubersprüche und bleibende Karten“.
+Kreatur zu wirken. Siehe Regel 702.35, „Morph“, und Regel 707, „Verdeckte Zaubersprüche und bleibende Karten“.
 
 Mulligan
-Einen „Mulligan“ nehmen heißt, eine mögliche Starthand anlehnen und eine neue 
-ziehen (üblicherweise mit einer Karte weniger). Siehe Regel 103.4.
+Einen „Mulligan“ nehmen heißt, eine mögliche Starthand anlehnen und eine neue ziehen (üblicherweise mit einer Karte weniger). Siehe Regel 103.4.
 
 Multibonus
-Multibonus ist eine Variante der Bonus-Fähigkeit. Es stellt optionale 
-zusätzliche Kosten dar, die beliebig oft bezahlt werden können. Siehe 
-Regel 702.31, „Bonus“. Siehe auch Bonus.
+Multibonus ist eine Variante der Bonus-Fähigkeit. Es stellt optionale zusätzliche Kosten dar, die beliebig oft bezahlt werden können. Siehe Regel 702.31, „Bonus“. Siehe auch Bonus.
 
 Münzwerfen
-Eine Methode der Zufallsbestimmung mit zwei möglichen Ergebnissen mit gleicher 
-Eintrittswahrscheinlichkeit. Siehe Regel 705, „Münzwerfen“.
+Eine Methode der Zufallsbestimmung mit zwei möglichen Ergebnissen mit gleicher Eintrittswahrscheinlichkeit. Siehe Regel 705, „Münzwerfen“.
 
 
 Nach-dem-Kampf-Hauptphase
 Eine Hauptphase, die nach dem Kampf kommt. Siehe Hauptphase.
 
 Nacheinander passen
-Alle Spieler „passen nacheinander“, wenn jeder Spieler im Spiel (beginnend bei 
-irgendeinem von ihnen) sich entscheidet, keine Aktion durchzuführen, wenn er 
-Priorität erhält. Siehe Regel 116, „Timing und Priorität“.
+Alle Spieler „passen nacheinander“, wenn jeder Spieler im Spiel (beginnend bei irgendeinem von ihnen) sich entscheidet, keine Aktion durchzuführen, wenn er Priorität erhält. Siehe Regel 116, „Timing und Priorität“.
 
 Name
-Eine Eigenschaft und Teil einer Karte. Der Name einer Karte ist in ihrer 
-oberen, linken Ecke gedruckt. Siehe Regel 201, „Name“.
+Eine Eigenschaft und Teil einer Karte. Der Name einer Karte ist in ihrer oberen, linken Ecke gedruckt. Siehe Regel 201, „Name“.
 
 Neu starten
 Siehe Partie neu starten.
 
 Neutralisieren
-Einen Zauberspruch oder eine Fähigkeit annullieren, sodass er bzw. sie nicht 
-verrechnet wird und keiner seiner bzw. ihrer Effekte eintritt. Siehe 
-Regel 701.5, „Neutralisieren“.
+Einen Zauberspruch oder eine Fähigkeit annullieren, sodass er bzw. sie nicht verrechnet wird und keiner seiner bzw. ihrer Effekte eintritt. Siehe Regel 701.5, „Neutralisieren“.
 
 Nicht herkömmliche Magic-Karte
 Eine übergroße Karte mit einer Magic-Kartenrückseite, aber keiner „Deckmaster“-
 Rückseite. Siehe Regel 108.2.
 
 Nichtöffentliche Zone
-Eine Zone, in der nicht alle Spieler die Kartenvorderseiten sehen können. Siehe 
-Regel 400.2. Siehe auch Öffentliche Zone.
+Eine Zone, in der nicht alle Spieler die Kartenvorderseiten sehen können. Siehe Regel 400.2. Siehe auch Öffentliche Zone.
 
 Nichtstandardland
-Jedes Land, das nicht den Übertyp „Standard“ hat. Siehe Regel 205.4, 
-„Übertypen“.
+Jedes Land, das nicht den Übertyp „Standard“ hat. Siehe Regel 205.4, „Übertypen“.
 
 Ninjutsu
-Eine Schlüsselwortfähigkeit, die eine Kreatur plötzlich in den Kampf eintreten 
-lässt. Siehe Regel 702.47, „Ninjutsu“.
+Eine Schlüsselwortfähigkeit, die eine Kreatur plötzlich in den Kampf eintreten lässt. Siehe Regel 702.47, „Ninjutsu“.
 
 
 Übertyp
-Eine Eigenschaft, die vor dem Kartentyp in der Typuszeile einer Karte angegeben 
-ist. Die meisten Karten haben keinen Übertyp. Siehe Regel 205.4, „Übertypen“.
+Eine Eigenschaft, die vor dem Kartentyp in der Typuszeile einer Karte angegeben ist. Die meisten Karten haben keinen Übertyp. Siehe Regel 205.4, „Übertypen“.
 
 Objekt
-Eine Fähigkeit auf dem Stapel, eine Karte, eine Kopie einer Karte, ein 
-Spielstein, ein Zauberspruch oder eine bleibende Karte. Siehe Regel 109, 
-„Objekte“.
+Eine Fähigkeit auf dem Stapel, eine Karte, eine Kopie einer Karte, ein Spielstein, ein Zauberspruch oder eine bleibende Karte. Siehe Regel 109, „Objekte“.
 
 Öffentliche Zone
-Eine Zone, in denen alle Spieler die Kartenvorderseiten sehen können. Siehe 
-Regel 400.2. Siehe auch Nichtöffentliche Zone.
+Eine Zone, in denen alle Spieler die Kartenvorderseiten sehen können. Siehe Regel 400.2. Siehe auch Nichtöffentliche Zone.
 
 Offen
-1. Eine Karte ist „offen“, wenn sie so gelegt wurde, dass die Kartenvorderseite 
-sichtbar ist. Karten werden in manchen Zonen normalerweise offen gehalten. 
-Siehe Abschnitt 4, „Zonen“.
-
-2. Ein Standardstatus, den eine bleibende Karte haben kann. Siehe Regel 110.6 
-und Regel 702.35, „Morph“.
+1. Eine Karte ist „offen“, wenn sie so gelegt wurde, dass die Kartenvorderseite sichtbar ist. Karten werden in manchen Zonen normalerweise offen gehalten. Siehe Abschnitt 4, „Zonen“.
+2. Ein Standardstatus, den eine bleibende Karte haben kann. Siehe Regel 110.6 und Regel 702.35, „Morph“.
 
 Offen vorzeigen
-Eine Karte allen Spielern für eine kurze Zeit zeigen. Siehe Regel 701.13, 
-„Offen vorzeigen“.
+Eine Karte allen Spielern für eine kurze Zeit zeigen. Siehe Regel 701.13, „Offen vorzeigen“.
 
 Opfer
-Eine Schlüsselwortfähigkeit, die verändert, zu welchem Zeitpunkt du einen 
-Zauberspruch wirken kannst und wie viel Mana du ausgeben musst, um das zu tun. 
-Siehe Regel 702.46, „Opfer“.
+Eine Schlüsselwortfähigkeit, die verändert, zu welchem Zeitpunkt du einen Zauberspruch wirken kannst und wie viel Mana du ausgeben musst, um das zu tun. Siehe Regel 702.46, „Opfer“.
 
 Opfern
-Eine bleibende Karte, die du kontrollierst, in den Friedhof ihres Besitzers 
-legen. Siehe Regel 701.14, „Opfern“.
+Eine bleibende Karte, die du kontrollierst, in den Friedhof ihres Besitzers legen. Siehe Regel 701.14, „Opfern“.
 
 Option
-Eine zusätzliche Regel oder ein Satz von Regeln, die bzw. der in einer 
-Mehrspielerpartie verwendet werden kann. Siehe Regel 800.2.
+Eine zusätzliche Regel oder ein Satz von Regeln, die bzw. der in einer Mehrspielerpartie verwendet werden kann. Siehe Regel 800.2.
 
 Option Gemeinsame Team-Züge
-Eine Option, die in manchen Mehrspielervarianten verwendet werden kann, so wie 
-Zweiköpfiger Riese oder Erzfeind. Siehe Regel 805, „Option Gemeinsame Team-
+Eine Option, die in manchen Mehrspielervarianten verwendet werden kann, so wie Zweiköpfiger Riese oder Erzfeind. Siehe Regel 805, „Option Gemeinsame Team-
 Züge“.
 
 Option Kreaturen stellen
-Eine Option, die in manchen Mehrspielervarianten verwendet werden kann, um die 
-Kontrolle über Kreaturen zwischen Teammitgliedern wechseln zu können. Siehe 
-Regel 804, „Option Kreaturen stellen“.
+Eine Option, die in manchen Mehrspielervarianten verwendet werden kann, um die Kontrolle über Kreaturen zwischen Teammitgliedern wechseln zu können. Siehe Regel 804, „Option Kreaturen stellen“.
 
 Option Links angreifen
-Eine Option, die in gewissen Mehrspielerpartien benutzt werden kann. Siehe 
-Regel 803, „Optionen Links angreifen und Rechts angreifen“.
+Eine Option, die in gewissen Mehrspielerpartien benutzt werden kann. Siehe Regel 803, „Optionen Links angreifen und Rechts angreifen“.
 
 Option Mehrere Spieler angreifen
-Eine Option, die in gewissen Mehrspielerpartien benutzt werden kann. Siehe 
-Regel 802, „Option Mehrere Spieler angreifen“.
+Eine Option, die in gewissen Mehrspielerpartien benutzt werden kann. Siehe Regel 802, „Option Mehrere Spieler angreifen“.
 
 Option Rechts angreifen
-Eine Option, die in gewissen Mehrspielerpartien benutzt werden kann. Siehe 
-Regel 803, „Optionen Links angreifen und Rechts angreifen“.
+Eine Option, die in gewissen Mehrspielerpartien benutzt werden kann. Siehe Regel 803, „Optionen Links angreifen und Rechts angreifen“.
 
 Oracle
-Die Referenz, die aktuelle Regeltexte (in Englisch) für alle Karten enthält, 
-die turnierlegal sind. Der Oracle-Text einer Karte kann gefunden werden, indem 
-die Gatherer-Kartendatenbank unter http://gatherer.wizards.com benutzt wird. 
-Siehe Regel 108.1.
+Die Referenz, die aktuelle Regeltexte (in Englisch) für alle Karten enthält, die turnierlegal sind. Der Oracle-Text einer Karte kann gefunden werden, indem die Gatherer-Kartendatenbank unter http://gatherer.wizards.com benutzt wird. Siehe Regel 108.1.
 
 
 Partie neu starten
-Die aktuelle Partie sofort beenden und neu starten. Siehe Regel 104, 
-„Das Spiel beenden“.
+Die aktuelle Partie sofort beenden und neu starten. Siehe Regel 104, „Das Spiel beenden“.
 
 Passen
-Ablehnen, eine Aktion durchzuführen (so wie einen Zauberspruch wirken oder eine 
-Fähigkeit aktivieren), wenn man Priorität hat. Siehe Regel 116, „Timing und 
-Priorität“.
+Ablehnen, eine Aktion durchzuführen (so wie einen Zauberspruch wirken oder eine Fähigkeit aktivieren), wenn man Priorität hat. Siehe Regel 116, „Timing und Priorität“.
 
 Permanent (veraltet)
-Ein veralteter Begriff, mit dem angezeigt wurde, dass ein dauerhafter Effekt 
-keine Ablaufzeit hat und somit bis zum Ende der Partie gilt. Karten, die mit 
-diesem Begriff gedruckt wurden, haben in der Oracle-Kartenreferenz Errata 
-erhalten, in denen der Begriff gestrichen wurde.
+Ein veralteter Begriff, mit dem angezeigt wurde, dass ein dauerhafter Effekt keine Ablaufzeit hat und somit bis zum Ende der Partie gilt. Karten, die mit diesem Begriff gedruckt wurden, haben in der Oracle-Kartenreferenz Errata erhalten, in denen der Begriff gestrichen wurde.
 
 Pfropfen
-Eine Schlüsselwortfähigkeit, die bewirkt, dass eine Kreatur mit +1/+1-Marken 
-auf sich ins Spiel kommt, und ihr ermöglicht, diese Marken auf andere Kreaturen 
-zu verschieben. Siehe Regel 702.56, „Pfropfen“.
+Eine Schlüsselwortfähigkeit, die bewirkt, dass eine Kreatur mit +1/+1-Marken auf sich ins Spiel kommt, und ihr ermöglicht, diese Marken auf andere Kreaturen zu verschieben. Siehe Regel 702.56, „Pfropfen“.
 
 Phänomen
-Ein Kartentyp, den es nur auf nicht herkömmlichen Magic-Karten in der 
-Freizeitspiel-Variante „Weltenjagd“ gibt. Ein Phänomen ist keine bleibende 
-Karte. Siehe Regel 310, „Phänomene“.
+Ein Kartentyp, den es nur auf nicht herkömmlichen Magic-Karten in der Freizeitspiel-Variante „Weltenjagd“ gibt. Ein Phänomen ist keine bleibende Karte. Siehe Regel 310, „Phänomene“.
 
 Phase
 Ein Unterabschnitt eines Zuges. Siehe Abschnitt 6, „Zugstruktur“.
 
 Phyrexianisches Manasymbol
-Ein Manasymbol, das Kosten repräsentiert, welche entweder mit farbigem Mana 
-oder durch Bezahlen von Lebenspunkten bezahlt werden können. Siehe Regel 107.4.
+Ein Manasymbol, das Kosten repräsentiert, welche entweder mit farbigem Mana oder durch Bezahlen von Lebenspunkten bezahlt werden können. Siehe Regel 107.4.
 
 Phyrexianisches Symbol
-Ein Symbol, das im Regeltext verwendet wird, um ein beliebiges der fünf 
-phyrexianischen Manasymbole zu repräsentieren. Siehe Regel 107.4g.
+Ein Symbol, das im Regeltext verwendet wird, um ein beliebiges der fünf phyrexianischen Manasymbole zu repräsentieren. Siehe Regel 107.4g.
 
 Planechase
 Siehe Weltenjagd.
 
 Planeswalker
-Ein Kartentyp. Ein Planeswalker ist eine bleibende Karte. Siehe Regel 306, 
-„Planeswalker“.
+Ein Kartentyp. Ein Planeswalker ist eine bleibende Karte. Siehe Regel 306, „Planeswalker“.
 
 Planeswalkertyp
-Ein Untertyp, der mit dem Kartentyp Planeswalker verbunden ist. Siehe 
-Regel 306, „Planeswalker“. Siehe Regel 205.3j für die Liste der 
-Planeswalkertypen. Siehe Planeswalker-Einzigartigkeitsregel.
+Ein Untertyp, der mit dem Kartentyp Planeswalker verbunden ist. Siehe Regel 306, „Planeswalker“. Siehe Regel 205.3j für die Liste der Planeswalkertypen. Siehe Planeswalker-Einzigartigkeitsregel.
 
 Planeswalker-Einzigartigkeitsregel
-Eine zustandsbasierte Aktion, die bewirkt, dass mehrere Planeswalker 
-mit dem gleichen Planeswalkertyp in den Friedhof ihrer Besitzer gelegt werden. 
-Siehe Regel 704.5j.
+Eine zustandsbasierte Aktion, die bewirkt, dass mehrere Planeswalker mit dem gleichen Planeswalkertyp in den Friedhof ihrer Besitzer gelegt werden. Siehe Regel 704.5j.
 
 Poly Artifact (veraltet)
-Ein veralteter Begriff, der in der Typuszeile von Artefakten mit aktivierten 
-Fähigkeiten auftauchte, für deren Kosten das Artefakt nicht getappt werden 
-musste. Karten, die mit diesem Text gedruckt wurden, haben in der Oracle-
+Ein veralteter Begriff, der in der Typuszeile von Artefakten mit aktivierten Fähigkeiten auftauchte, für deren Kosten das Artefakt nicht getappt werden musste. Karten, die mit diesem Text gedruckt wurden, haben in der Oracle-
 Kartenreferenz Errata erhalten und verwenden nun einfach den Begriff „Artefakt“.
 
 Priorität
-Welcher Spieler zu einem bestimmten Zeitpunkt Aktionen durchführen kann, wird 
-durch ein System der „Priorität“ festgelegt. Siehe Regel 116, „Timing und 
-Priorität“.
+Welcher Spieler zu einem bestimmten Zeitpunkt Aktionen durchführen kann, wird durch ein System der „Priorität“ festgelegt. Siehe Regel 116, „Timing und Priorität“.
 
 Provozieren
-Eine Schlüsselwortfähigkeit, die eine Kreatur zum Blocken zwingen kann. Siehe 
-Regel 702.37, „Provozieren“.
+Eine Schlüsselwortfähigkeit, die eine Kreatur zum Blocken zwingen kann. Siehe Regel 702.37, „Provozieren“.
 
 
 Quelle einer Fähigkeit
@@ -5975,315 +5533,221 @@ Siehe Schadensquelle.
 
 
 Raserei
-Eine Schlüsselwortfähigkeit, die eine Kreatur im Kampf verbessern kann. Siehe 
-Regel 702.21, „Raserei“.
+Eine Schlüsselwortfähigkeit, die eine Kreatur im Kampf verbessern kann. Siehe Regel 702.21, „Raserei“.
 
 Reagieren
 Siehe Als Antwort auf.
 
 Rechtshinweis
-Information, die direkt unter der Textbox gedruckt ist und keinen Effekt auf 
-das Spielgeschehen hat. Siehe Regel 212, „Informationen unter der Textbox“.
+Information, die direkt unter der Textbox gedruckt ist und keinen Effekt auf das Spielgeschehen hat. Siehe Regel 212, „Informationen unter der Textbox“.
 
 Refugium
-Eine Schlüsselwortfähigkeit, die einen Spieler eine geheime Karte aufbewahren 
-lässt. Siehe Regel 702.73, „Refugium“.
+Eine Schlüsselwortfähigkeit, die einen Spieler eine geheime Karte aufbewahren lässt. Siehe Regel 702.73, „Refugium“.
 
 Regeltext
 Eine Eigenschaft, die die Fähigkeit einer Karte beschreibt. Siehe Regel 207.1.
 
 Regenerieren
-Die Zerstörung einer bleibenden Karte durch eine alternative Folge von 
-Ereignissen ersetzen. Siehe Regel 701.12, „Regenerieren“.
+Die Zerstörung einer bleibenden Karte durch eine alternative Folge von Ereignissen ersetzen. Siehe Regel 701.12, „Regenerieren“.
 
 Reichweite
-Eine Schlüsselwortfähigkeit, die einer Kreatur erlaubt, eine angreifende 
-Kreatur mit Flugfähigkeit zu blocken. Siehe Regel 702.16, „Reichweite“. Siehe 
-auch Flugfähigkeit.
+Eine Schlüsselwortfähigkeit, die einer Kreatur erlaubt, eine angreifende Kreatur mit Flugfähigkeit zu blocken. Siehe Regel 702.16, „Reichweite“. Siehe auch Flugfähigkeit.
 
 Reitkunst
-Eine Schlüsselwortfähigkeit, die einschränkt, wie eine Kreatur geblockt werden 
-kann. Siehe Regel 702.29, „Reitkunst“.
+Eine Schlüsselwortfähigkeit, die einschränkt, wie eine Kreatur geblockt werden kann. Siehe Regel 702.29, „Reitkunst“.
 
 Remasuriumwandlung
 Siehe Typumwandlung.
 
 Reproduktion
-Eine Schlüsselwortfähigkeit, die Kopien eines Zauberspruchs erzeugt. Siehe 
-Regel 702.54, „Reproduktion“.
+Eine Schlüsselwortfähigkeit, die Kopien eines Zauberspruchs erzeugt. Siehe Regel 702.54, „Reproduktion“.
 
 Riesentumult
-Eine Mehrspielervariante, in der eine große Gruppe von Spielern (üblicherweise 
-zehn oder mehr) als Individuen gegeneinander kämpfen. Siehe Regel 807, 
-„Variante Riesentumult“.
+Eine Mehrspielervariante, in der eine große Gruppe von Spielern (üblicherweise zehn oder mehr) als Individuen gegeneinander kämpfen. Siehe Regel 807, „Variante Riesentumult“.
 
 Rückblende
-Eine Schlüsselwortfähigkeit, die einen Spieler eine Karte aus seinem Friedhof 
-wirken lässt. Siehe Regel 702.32, „Rückblende“.
+Eine Schlüsselwortfähigkeit, die einen Spieler eine Karte aus seinem Friedhof wirken lässt. Siehe Regel 702.32, „Rückblende“.
 
 Rückkauf
-Eine Schlüsselwortfähigkeit von Spontanzaubern und Hexereien, die den Spruch 
-bei Verrechnung auf die Hand des Besitzers zurückbringen kann. Siehe 
-Regel 702.25, „Rückkauf“.
+Eine Schlüsselwortfähigkeit von Spontanzaubern und Hexereien, die den Spruch bei Verrechnung auf die Hand des Besitzers zurückbringen kann. Siehe Regel 702.25, „Rückkauf“.
 
 
 Sammlernummer
-Eine Zahl, die auf den meisten Karten aufgedruckt ist und keinen Einfluss auf 
-das Spielgeschehen hat. Siehe Regel 212, „Informationen unter der Textbox“.
+Eine Zahl, die auf den meisten Karten aufgedruckt ist und keinen Einfluss auf das Spielgeschehen hat. Siehe Regel 212, „Informationen unter der Textbox“.
 
 Schaden
-Objekte können Kreaturen, Planeswalkern und Spielern „Schaden“ zufügen. Dies 
-ist üblicherweise nachteilig für das Objekt oder den Spieler, das bzw. der 
-Schaden erhält. Siehe Regel 119, „Schaden“.
+Objekte können Kreaturen, Planeswalkern und Spielern „Schaden“ zufügen. Dies ist üblicherweise nachteilig für das Objekt oder den Spieler, das bzw. der Schaden erhält. Siehe Regel 119, „Schaden“.
 
 Schadensquelle
 Das Objekt, das den Schaden zugefügt hat. Siehe Regel 609.7.
 
 Schadenszuweisungsreihenfolge
-Die Reihenfolge, die während des Blocker-deklarieren-Segments erklärt wurde, in 
-der eine angreifende Kreatur ihren Kampfschaden den Kreaturen zufügen wird, die 
-sie blocken, oder in der eine blockende Kreatur ihren Kampfschaden den 
-Kreaturen zufügen wird, die sie blockt. Siehe Regeln 509.2 und 509.3.
+Die Reihenfolge, die während des Blocker-deklarieren-Segments erklärt wurde, in der eine angreifende Kreatur ihren Kampfschaden den Kreaturen zufügen wird, die sie blocken, oder in der eine blockende Kreatur ihren Kampfschaden den Kreaturen zufügen wird, die sie blockt. Siehe Regeln 509.2 und 509.3.
 
 Schicht
-Ein System, das festlegt, in welcher Reihenfolge dauerhafte Effekte angewendet 
-werden. Siehe Regel 613, „Interaktion dauerhafter Effekte“. Siehe auch 
-Abhängigkeit, Zeitstempelreihenfolge.
+Ein System, das festlegt, in welcher Reihenfolge dauerhafte Effekte angewendet werden. Siehe Regel 613, „Interaktion dauerhafter Effekte“. Siehe auch Abhängigkeit, Zeitstempelreihenfolge.
 
 Schicksal besiegeln
-Einige der obersten Karten der Bibliothek eines Gegners manipulieren. Siehe 
-Regel 701.19, „Schicksal besiegeln“.
+Einige der obersten Karten der Bibliothek eines Gegners manipulieren. Siehe Regel 701.19, „Schicksal besiegeln“.
 
 Schlachtruf
-Eine Schlüsselwortfähigkeit, die andere angreifende Kreaturen im Kampf 
-verbessert. Siehe Regel 702.89, „Schlachtruf“.
+Eine Schlüsselwortfähigkeit, die andere angreifende Kreaturen im Kampf verbessert. Siehe Regel 702.89, „Schlachtruf“.
 
 Schleife
-Ein Satz von Aktionen, der unendlich oft wiederholt werden könnte. Siehe 
-Regel 716, „Abkürzungen nehmen“.
+Ein Satz von Aktionen, der unendlich oft wiederholt werden könnte. Siehe Regel 716, „Abkürzungen nehmen“.
 
 Schlüsselwortaktion
-Ein Verb, wie „zerstören“ oder „wirken“, das als Spielbegriff verwendet wird 
-anstatt in seiner normalen deutschen Bedeutung. Siehe Regel 701, 
-„Schlüsselwortaktionen“.
+Ein Verb, wie „zerstören“ oder „wirken“, das als Spielbegriff verwendet wird anstatt in seiner normalen deutschen Bedeutung. Siehe Regel 701, „Schlüsselwortaktionen“.
 
 Schlüsselwortfähigkeit
-Ein Spielbegriff, wie „Flugfähigkeit“ oder „Eile“, der als Abkürzung für eine 
-längere Fähigkeit oder Gruppe von Fähigkeiten benutzt wird. Siehe Regel 702, 
-„Schlüsselwortfähigkeiten“.
+Ein Spielbegriff, wie „Flugfähigkeit“ oder „Eile“, der als Abkürzung für eine längere Fähigkeit oder Gruppe von Fähigkeiten benutzt wird. Siehe Regel 702, „Schlüsselwortfähigkeiten“.
 
 Schmieden
-Eine Komplott-Karte von deinem Komplott-Deck bewegen und aufdecken. Siehe 
-Regel 701.22, „Schmieden“.
+Eine Komplott-Karte von deinem Komplott-Deck bewegen und aufdecken. Siehe Regel 701.22, „Schmieden“.
 
 Schneebedeckt (veraltet)
-Einige ältere Karten wurden mit dem Begriff „schneebedeckt“ in ihrem Regeltext 
-gedruckt. Außer in den Fällen, in denen sich auf Kartennamen bezogen wird, 
-haben solche Karten in der Oracle-Kartenreferenz Errata erhalten und beziehen 
-sich stattdessen auf den Übertyp „verschneit“. Siehe Verschneit.
+Einige ältere Karten wurden mit dem Begriff „schneebedeckt“ in ihrem Regeltext gedruckt. Außer in den Fällen, in denen sich auf Kartennamen bezogen wird, haben solche Karten in der Oracle-Kartenreferenz Errata erhalten und beziehen sich stattdessen auf den Übertyp „verschneit“. Siehe Verschneit.
 
 Schnee-Manasymbol
-Das Schnee-Manasymbol {schnee} repräsentiert Kosten, die mit einem Mana bezahlt 
-werden können, das von einer verschneiten bleibenden Karte produziert wurde. 
-Siehe Regel 107.4h.
+Das Schnee-Manasymbol {schnee} repräsentiert Kosten, die mit einem Mana bezahlt werden können, das von einer verschneiten bleibenden Karte produziert wurde. Siehe Regel 107.4h.
 
 Schürfen
-Eine Schlüsselwortfähigkeit, die die Kosten verringert, die bezahlt werden 
-müssen, um einen Zauberspruch zu wirken. Siehe Regel 702.64, „Schürfen“.
+Eine Schlüsselwortfähigkeit, die die Kosten verringert, die bezahlt werden müssen, um einen Zauberspruch zu wirken. Siehe Regel 702.64, „Schürfen“.
 
 Schutz
-Eine Schlüsselwortfähigkeit, die eine Reihe von Vorteilen gegenüber Objekten 
-mit einer bestimmten Eigenschaft gewährt. Siehe Regel 702.15, „Schutz“.
+Eine Schlüsselwortfähigkeit, die eine Reihe von Vorteilen gegenüber Objekten mit einer bestimmten Eigenschaft gewährt. Siehe Regel 702.15, „Schutz“.
 
 Schwund
-Eine Schlüsselwortfähigkeit, die einschränkt, wie lange eine bleibende Karte im 
-Spiel bleibt. Siehe Regel 702.30, „Schwund“.
+Eine Schlüsselwortfähigkeit, die einschränkt, wie lange eine bleibende Karte im Spiel bleibt. Siehe Regel 702.30, „Schwund“.
 
 Seelengebunden
-Eine Schlüsselwortfähigkeit, die zwei Kreaturen besser macht, indem sie 
-aneinander gebunden werden. Siehe Regel 702.93, „Seelengebunden“.
+Eine Schlüsselwortfähigkeit, die zwei Kreaturen besser macht, indem sie aneinander gebunden werden. Siehe Regel 702.93, „Seelengebunden“.
 
 Seelenwanderung
-Eine Schlüsselwortfähigkeit, die einen Spieler eine Karte von seinem Friedhof 
-auf seine Hand nehmen lässt. Siehe Regel 702.44, „Seelenwanderung“.
+Eine Schlüsselwortfähigkeit, die einen Spieler eine Karte von seinem Friedhof auf seine Hand nehmen lässt. Siehe Regel 702.44, „Seelenwanderung“.
 
 Segment
 Ein Unterabschnitt eines Zuges. Siehe Abschnitt 6, „Zugstruktur“.
 
 Sekundenbruchteil
-Eine Schlüsselwortfähigkeit, die es einem Spieler nahezu unmöglich macht, auf 
-einen Zauberspruch zu antworten. Siehe Regel 702.59, „Sekundenbruchteil“.
+Eine Schlüsselwortfähigkeit, die es einem Spieler nahezu unmöglich macht, auf einen Zauberspruch zu antworten. Siehe Regel 702.59, „Sekundenbruchteil“.
 
 Sideboard
-Extra-Karten, mit denen ein Deck zwischen den Partien eines Matches modifiziert 
-werden kann. Siehe Regel 100.4.
+Extra-Karten, mit denen ein Deck zwischen den Partien eines Matches modifiziert werden kann. Siehe Regel 100.4.
 
 Sonneneruption
-Eine Schlüsselwortfähigkeit, die einer bleibenden Karte ermöglichen kann, mit 
-+1/+1-Marken oder Ladungsmarken auf sich ins Spiel zu kommen. Siehe 
-Regel 702.42, „Sonneneruption“.
+Eine Schlüsselwortfähigkeit, die einer bleibenden Karte ermöglichen kann, mit +1/+1-Marken oder Ladungsmarken auf sich ins Spiel zu kommen. Siehe Regel 702.42, „Sonneneruption“.
 
 Sonnensymbol
-Ein Symbol in der oberen linken Ecke auf der Vorderseite einer doppelseitigen 
-Karte. Siehe Regel 711, „Doppelseitige Karten“.
+Ein Symbol in der oberen linken Ecke auf der Vorderseite einer doppelseitigen Karte. Siehe Regel 711, „Doppelseitige Karten“.
 
 Sonderaktion
-Eine Aktion, die ein Spieler durchführen kann, die nicht den Stapel benutzt. 
-Siehe Regel 115, „Sonderaktionen“.
+Eine Aktion, die ein Spieler durchführen kann, die nicht den Stapel benutzt. Siehe Regel 115, „Sonderaktionen“.
 
 Spielen
-1. Ein Land spielen heißt, ein Land als Sonderaktion ins Spiel zu bringen. 
-Siehe Regel 115, „Sonderaktionen“, und Regel 305, „Länder“.
-
-2. Eine Karte spielen heißt, diese Karte als Land zu spielen oder als 
-Zauberspruch zu wirken, je nachdem was zutrifft. Siehe Regel 601, 
-„Zaubersprüche wirken“.
-
-3. (veraltet) Einen Zauberspruch wirken hieß früher einen Zauberspruch spielen. 
-Karten, die mit diesem Text gedruckt wurden, haben in der Oracle-Kartenreferenz 
-Errata erhalten. Siehe Wirken.
-
-4. (veraltet) Eine aktivierte Fähigkeit aktivieren hieß früher eine aktivierte 
-Fähigkeit spielen. Karten, die mit diesem Text gedruckt wurden, haben in der 
-Oracle-Kartenreferenz Errata erhalten. Siehe Aktivieren.
+1. Ein Land spielen heißt, ein Land als Sonderaktion ins Spiel zu bringen. Siehe Regel 115, „Sonderaktionen“, und Regel 305, „Länder“.
+2. Eine Karte spielen heißt, diese Karte als Land zu spielen oder als Zauberspruch zu wirken, je nachdem was zutrifft. Siehe Regel 601, „Zaubersprüche wirken“.
+3. (veraltet) Einen Zauberspruch wirken hieß früher einen Zauberspruch spielen. Karten, die mit diesem Text gedruckt wurden, haben in der Oracle-Kartenreferenz Errata erhalten. Siehe Wirken.
+4. (veraltet) Eine aktivierte Fähigkeit aktivieren hieß früher eine aktivierte Fähigkeit spielen. Karten, die mit diesem Text gedruckt wurden, haben in der Oracle-Kartenreferenz Errata erhalten. Siehe Aktivieren.
 
 Spieler
 Eine der Personen im Spiel. Siehe Regel 102, „Spieler“.
 
 Spiel gewinnen
-Es gibt mehrere Wege, das Spiel zu gewinnen. Siehe Regel 104, „Das Spiel 
-beenden“, Regel 810.8 (für zusätzliche Regeln für Zweiköpfiger-Riese-Partien) 
-und Regel 809.5 (für zusätzliche Regeln für Kaiser-Partien).
+Es gibt mehrere Wege, das Spiel zu gewinnen. Siehe Regel 104, „Das Spiel beenden“, Regel 810.8 (für zusätzliche Regeln für Zweiköpfiger-Riese-Partien) und Regel 809.5 (für zusätzliche Regeln für Kaiser-Partien).
 
 Spiel neu starten
 Siehe Partie neu starten.
 
 Spielstein
-Ein Gegenstand, der benutzt wird, um eine bleibende Karte darzustellen, die 
-nicht von einer Karte dargestellt wird. Siehe Regel 110.5.
+Ein Gegenstand, der benutzt wird, um eine bleibende Karte darzustellen, die nicht von einer Karte dargestellt wird. Siehe Regel 110.5.
 
 Spiel verlassen
-Eine bleibende Karte „verlässt das Spiel“, wenn sie von der Im-Spiel-Zone in 
-eine andere Zone bewegt wird, oder (falls sie stabilisiert ist) wenn sie das 
-Spiel verlässt, weil ihr Beherrscher das Spiel verlässt. Siehe Regeln 603.6c 
-und 603.6d.
+Eine bleibende Karte „verlässt das Spiel“, wenn sie von der Im-Spiel-Zone in eine andere Zone bewegt wird, oder (falls sie stabilisiert ist) wenn sie das Spiel verlässt, weil ihr Beherrscher das Spiel verlässt. Siehe Regeln 603.6c und 603.6d.
 
 Spiel verlieren
-Es gibt mehrere Wege, das Spiel zu verlieren. Siehe Regel 104, „Das Spiel 
-beenden“, Regel 810.8 (für zusätzliche Regeln für Zweiköpfiger-Riese-Partien), 
-Regel 809.5 (für zusätzliche Regeln für Kaiser-Partien) und Regel 903.13 (für 
-eine zusätzliche Regeln für Kommandeur).
+Es gibt mehrere Wege, das Spiel zu verlieren. Siehe Regel 104, „Das Spiel beenden“, Regel 810.8 (für zusätzliche Regeln für Zweiköpfiger-Riese-Partien), Regel 809.5 (für zusätzliche Regeln für Kaiser-Partien) und Regel 903.13 (für eine zusätzliche Regeln für Kommandeur).
 
 Spontanzauber
-Ein Kartentyp. Ein Spontanzauber ist keine bleibende Karte. Siehe Regel 304, 
-„Spontanzauber“.
+Ein Kartentyp. Ein Spontanzauber ist keine bleibende Karte. Siehe Regel 304, „Spontanzauber“.
 
 Spruchkosten (veraltet)
-Ein veralteter Begriff für Manakosten. Karten, die mit diesem Text gedruckt 
-wurden, haben in der Oracle-Kartenreferenz Errata erhalten.
+Ein veralteter Begriff für Manakosten. Karten, die mit diesem Text gedruckt wurden, haben in der Oracle-Kartenreferenz Errata erhalten.
 
 Spuken
-Eine Schlüsselwortfähigkeit, die Karten ins Exil schickt. Eine auf diese Weise 
-ins Exil geschickte Karte „spukt“ bei einer Kreatur, auf die die Spuken-
+Eine Schlüsselwortfähigkeit, die Karten ins Exil schickt. Eine auf diese Weise ins Exil geschickte Karte „spukt“ bei einer Kreatur, auf die die Spuken-
 Fähigkeit zielt. Siehe Regel 702.53, „Spuken“.
 
 Stabilisieren
-Eine bleibende Karte „stabilisiert sich“, wenn ihr Status sich von 
-destabilisiert zu stabilisiert verändert. Siehe Regel 702.24, „Instabilität“.
+Eine bleibende Karte „stabilisiert sich“, wenn ihr Status sich von destabilisiert zu stabilisiert verändert. Siehe Regel 702.24, „Instabilität“.
 
 Stabilisiert, destabilisiert
-Ein Status, den eine bleibende Karte haben kann. Stabilisiert ist der 
-Standardstatus. Destabilisierte bleibende Karten werden behandelt, als 
-existierten sie nicht. Siehe Regel 110.6 und Regel 702.24, „Instabilität“. 
-(„Destabilisiert“ war in älteren Ausgaben der Regeln eine Zone.)
+Ein Status, den eine bleibende Karte haben kann. Stabilisiert ist der Standardstatus. Destabilisierte bleibende Karten werden behandelt, als existierten sie nicht. Siehe Regel 110.6 und Regel 702.24, „Instabilität“. („Destabilisiert“ war in älteren Ausgaben der Regeln eine Zone.)
 
 Stammesältester Drachen Highlander (veraltet)
-Ein älterer Name für die Freizeitspiel-Variante „Kommandeur“. Siehe Regel 903, 
-„Kommandeur“.
+Ein älterer Name für die Freizeitspiel-Variante „Kommandeur“. Siehe Regel 903, „Kommandeur“.
 
 Stammeskarte
-Ein Kartentyp. Ob eine Stammeskarte eine bleibende Karte ist oder nicht, hängt 
-von ihrem anderen Kartentyp ab. Siehe Regel 308, „Stammeskarten“.
+Ein Kartentyp. Ob eine Stammeskarte eine bleibende Karte ist oder nicht, hängt von ihrem anderen Kartentyp ab. Siehe Regel 308, „Stammeskarten“.
 
 Standard
-Ein Übertyp, der normalerweise für Länder gilt. Jedes Land mit diesem Übertyp 
-ist ein Standardland. Siehe Regel 205.4, „Übertypen“.
+Ein Übertyp, der normalerweise für Länder gilt. Jedes Land mit diesem Übertyp ist ein Standardland. Siehe Regel 205.4, „Übertypen“.
 
 Standardlandtyp
-Es gibt fünf „Standardlandtypen“: Ebene, Insel, Sumpf, Gebirge und Wald. Jeder 
-hat eine Manafähigkeit mit sich verbunden. Siehe Regel 305, „Länder“.
+Es gibt fünf „Standardlandtypen“: Ebene, Insel, Sumpf, Gebirge und Wald. Jeder hat eine Manafähigkeit mit sich verbunden. Siehe Regel 305, „Länder“.
 
 Standardlandumwandlung
 Siehe Typumwandlung.
 
 Stapel
-Eine Zone. Der Stapel ist die Zone, in der Zaubersprüche, aktivierte 
-Fähigkeiten und ausgelöste Fähigkeiten auf Verrechnung warten. Siehe Regel 405, 
-„Stapel“.
+Eine Zone. Der Stapel ist die Zone, in der Zaubersprüche, aktivierte Fähigkeiten und ausgelöste Fähigkeiten auf Verrechnung warten. Siehe Regel 405, „Stapel“.
 
 Stärke
-1. Teil einer Karte, den nur Kreaturen haben. Die Stärke einer Kreaturenkarte 
-ist vor dem Schrägstrich in ihrer unteren, rechten Ecke gedruckt. Siehe 
-Regel 208, „Stärke/Widerstandskraft“.
-
+1. Teil einer Karte, den nur Kreaturen haben. Die Stärke einer Kreaturenkarte ist vor dem Schrägstrich in ihrer unteren, rechten Ecke gedruckt. Siehe Regel 208, „Stärke/Widerstandskraft“.
 2. Eine Eigenschaft, die nur Kreaturen besitzen. Siehe Regel 302.4.
 
 Starthand, Anfangshand
-Die Hand an Karten, mit der ein Spieler die Partie beginnt, sobald er sich 
-entschieden hat, keine weiteren Mulligans zu nehmen. Siehe Regel 103.4.
+Die Hand an Karten, mit der ein Spieler die Partie beginnt, sobald er sich entschieden hat, keine weiteren Mulligans zu nehmen. Siehe Regel 103.4.
 
 Startspieler
 Der Spieler, der in einer Partie den ersten Zug hat. Siehe Regel 103.2.
 
 Startteam
-Das Team, das in einer Partie, in der die Option „Gemeinsame Team-Züge“ 
-verwendet wird, den ersten Zug hat. Siehe Regel 103.2.
+Das Team, das in einer Partie, in der die Option „Gemeinsame Team-Züge“ verwendet wird, den ersten Zug hat. Siehe Regel 103.2.
 
 Startphase
-Teil des Zuges. Diese Phase ist die erste Phase des Zuges. Siehe Regel 501, 
-„Startphase“.
+Teil des Zuges. Diese Phase ist die erste Phase des Zuges. Siehe Regel 501, „Startphase“.
 
 Statische Fähigkeit
-Eine Art von Fähigkeit. Statische Fähigkeiten tun etwas ständig, anstatt 
-aktiviert oder ausgelöst zu werden. Siehe Regel 112, „Statische Fähigkeiten“, 
-und Regel 604, „Handhabung statischer Fähigkeiten“.
+Eine Art von Fähigkeit. Statische Fähigkeiten tun etwas ständig, anstatt aktiviert oder ausgelöst zu werden. Siehe Regel 112, „Statische Fähigkeiten“, und Regel 604, „Handhabung statischer Fähigkeiten“.
 
 Stattdessen
-Effekte, die das Wort „stattdessen“ oder „anstatt“ benutzen, sind 
-Ersatzeffekte. Das Wort „stattdessen“ oder „anstatt“, zeigt an, durch was ein 
-Ereignis ersetzt wird. Siehe Regel 614, „Ersatzeffekte“.
+Effekte, die das Wort „stattdessen“ oder „anstatt“ benutzen, sind Ersatzeffekte. Das Wort „stattdessen“ oder „anstatt“, zeigt an, durch was ein Ereignis ersetzt wird. Siehe Regel 614, „Ersatzeffekte“.
 
 Status
 Der physische Status einer bleibenden Karte. Siehe Regel 110.6.
 
 Zustandsauslöser
-Eine ausgelöste Fähigkeit, die auslöst, wenn ein Spielzustand zutrifft, anstatt 
-auszulösen, wenn ein Ereignis stattfindet. Siehe Regel 603.8.
+Eine ausgelöste Fähigkeit, die auslöst, wenn ein Spielzustand zutrifft, anstatt auszulösen, wenn ein Ereignis stattfindet. Siehe Regel 603.8.
 
 Stirbt
-Eine Kreatur „stirbt“, wenn sie aus dem Spiel auf einen Friedhof gelegt wird. 
-Siehe Regel 700.6.
+Eine Kreatur „stirbt“, wenn sie aus dem Spiel auf einen Friedhof gelegt wird. Siehe Regel 700.6.
 
 Stufe aufsteigen
-Eine Schlüsselwortfähigkeit, die Stufenmarken auf eine Kreatur legen kann. 
-Siehe Regel 702.85, „Stufe aufsteigen“.
+Eine Schlüsselwortfähigkeit, die Stufenmarken auf eine Kreatur legen kann. Siehe Regel 702.85, „Stufe aufsteigen“.
 
 Stufenkarten
 Karten mit in Streifen unterteilten Textboxen und drei Stärke/Widerstandskraft-
 Kästchen. Siehe Regel 710, „Stufenkarten“.
 
 Stufensymbol
-Ein Symbol, das eine Schlüsselwortfähigkeit repräsentiert und Fähigkeiten, 
-Stärke und Widerstandskraft angibt, die eine Stufenkarte haben kann. Siehe 
-Regel 107.8 und Regel 710, „Stufenkarten“.
+Ein Symbol, das eine Schlüsselwortfähigkeit repräsentiert und Fähigkeiten, Stärke und Widerstandskraft angibt, die eine Stufenkarte haben kann. Siehe Regel 107.8 und Regel 710, „Stufenkarten“.
 
 Sturm
-Eine Schlüsselwortfähigkeit, die Kopien eines Zauberspruchs erzeugt. Siehe 
-Regel 702.38, „Sturm“.
+Eine Schlüsselwortfähigkeit, die Kopien eines Zauberspruchs erzeugt. Siehe Regel 702.38, „Sturm“.
 
 Sumpf
-Einer der fünf Standardlandtypen. Jedes Land mit diesem Untertyp hat die 
-Fähigkeit: „{tap}: Erhöhe deinen Manavorrat um {B}.“ Siehe Regel 305.6.
+Einer der fünf Standardlandtypen. Jedes Land mit diesem Untertyp hat die Fähigkeit: „{tap}: Erhöhe deinen Manavorrat um {B}.“ Siehe Regel 305.6.
 
 Sumpftarnung
 Siehe Landtarnung.
@@ -6293,253 +5757,178 @@ Siehe Typumwandlung.
 
 
 Tappen
-Eine bleibende Karte von einer aufrechten Position seitwärts drehen. Siehe 
-Regel 701.17, „Tappen und Enttappen“.
+Eine bleibende Karte von einer aufrechten Position seitwärts drehen. Siehe Regel 701.17, „Tappen und Enttappen“.
 
 Tappsymbol
-Das Tappsymbol {tap} in Aktivierungskosten bedeutet „Tappe diese bleibende 
-Karte.“ Siehe Regel 107.5.
+Das Tappsymbol {tap} in Aktivierungskosten bedeutet „Tappe diese bleibende Karte.“ Siehe Regel 107.5.
 
 Tauschen
 Siehe Austauschen.
 
 Team
-Eine Gruppe von Spielen, die in einer Mehrspielerpartie eine gemeinsame 
-Siegbedingung teilen. Siehe Regel 808, „Variante Team gegen Team“, Regel 809, 
-„Variante Kaiser“, Regel 810, „Variante Zweiköpfiger Riese“ und Regel 811, 
-„Variante Abwechselnde Teams“.
+Eine Gruppe von Spielen, die in einer Mehrspielerpartie eine gemeinsame Siegbedingung teilen. Siehe Regel 808, „Variante Team gegen Team“, Regel 809, „Variante Kaiser“, Regel 810, „Variante Zweiköpfiger Riese“ und Regel 811, „Variante Abwechselnde Teams“.
 
 Teammitglied
-In einer Mehrspielerpartie zwischen Teams sind die Teammitglieder eines 
-Spielers die anderen Spieler in seinem Team. Siehe Regel 102.3.
+In einer Mehrspielerpartie zwischen Teams sind die Teammitglieder eines Spielers die anderen Spieler in seinem Team. Siehe Regel 102.3.
 
 Team gegen Team
-Eine Mehrspielervariante, die mit zwei oder mehr Teams gespielt wird, die 
-jeweils beieinander sitzen. Siehe Regel 808, „Variante Team gegen Team“.
+Eine Mehrspielervariante, die mit zwei oder mehr Teams gespielt wird, die jeweils beieinander sitzen. Siehe Regel 808, „Variante Team gegen Team“.
 
 Text-ändernder Effekt
-Ein dauerhafter Effekt, der den Text ändert, der in der Textbox und/oder 
-Typuszeile eines Objekts vorkommt. Siehe Regel 612, „Text-ändernde Effekte“.
+Ein dauerhafter Effekt, der den Text ändert, der in der Textbox und/oder Typuszeile eines Objekts vorkommt. Siehe Regel 612, „Text-ändernde Effekte“.
 
 Textbox
-Teil einer Karte. Die Textbox ist in der unteren Hälfte einer Magic-Karte 
-gedruckt und enthält den Regeltext der Karte, Erinnerungstext und 
-Anekdotentext. Siehe Regel 207, „Textbox“.
+Teil einer Karte. Die Textbox ist in der unteren Hälfte einer Magic-Karte gedruckt und enthält den Regeltext der Karte, Erinnerungstext und Anekdotentext. Siehe Regel 207, „Textbox“.
 
 Todesberührung
-Eine Schlüsselwortfähigkeit, die bewirkt, dass der Schaden, den ein Objekt 
-zufügt, besonders effektiv ist. Siehe Regel 702.2, „Todesberührung“.
+Eine Schlüsselwortfähigkeit, die bewirkt, dass der Schaden, den ein Objekt zufügt, besonders effektiv ist. Siehe Regel 702.2, „Todesberührung“.
 
 Tödlicher Schaden
-Eine Menge an Schaden größer als oder gleich der Widerstandkraft einer Kreatur. 
-Siehe Regeln 119.6, 510.1 und 704.5g.
+Eine Menge an Schaden größer als oder gleich der Widerstandkraft einer Kreatur. Siehe Regeln 119.6, 510.1 und 704.5g.
 
 Totale Kosten
 Siehe Gesamtkosten.
 
 Totale Spruchkosten (veraltet)
-Ein veralteter Begriff für umgewandelte Manakosten. Karten, die mit diesem Text 
-gedruckt wurden, haben in der Oracle-Kartenreferenz Errata erhalten.
+Ein veralteter Begriff für umgewandelte Manakosten. Karten, die mit diesem Text gedruckt wurden, haben in der Oracle-Kartenreferenz Errata erhalten.
 
 Totembeistand
-Eine Schlüsselwortfähigkeit, die einer Aura ermöglicht, die von ihr verzauberte 
-bleibende Karte zu beschützen. Siehe Regel 702.87, „Totembeistand“.
+Eine Schlüsselwortfähigkeit, die einer Aura ermöglicht, die von ihr verzauberte bleibende Karte zu beschützen. Siehe Regel 702.87, „Totembeistand“.
 
 Trampelschaden
-Eine Schlüsselwortfähigkeit, die modifiziert, wie eine Kreatur Kampfschaden 
-zuweist. Siehe Regel 702.18, „Trampelschaden“.
+Eine Schlüsselwortfähigkeit, die modifiziert, wie eine Kreatur Kampfschaden zuweist. Siehe Regel 702.18, „Trampelschaden“.
 
 Transformieren
-Eine doppelseitige Karte umdrehen, sodass ihre andere Seite oben liegt. Siehe 
-Regel 701.25, „Transformieren“.
+Eine doppelseitige Karte umdrehen, sodass ihre andere Seite oben liegt. Siehe Regel 701.25, „Transformieren“.
 
 Transmutation
-Eine Schlüsselwortfähigkeit, die einen Spieler seine Bibliothek nach einer 
-Ersatz-Karte durchsuchen lässt. Siehe Regel 702.51, „Transmutation“.
+Eine Schlüsselwortfähigkeit, die einen Spieler seine Bibliothek nach einer Ersatz-Karte durchsuchen lässt. Siehe Regel 702.51, „Transmutation“.
 
 Treffen auf
-Man trifft auf ein Phänomen, wenn man eine Phänomenkarte vom Weltenkarten-Deck 
-aufdeckt. Siehe Regel 310, „Phänomene“
+Man trifft auf ein Phänomen, wenn man eine Phänomenkarte vom Weltenkarten-Deck aufdeckt. Siehe Regel 310, „Phänomene“
 
 Turnier
-Eine organisierte Spielveranstaltung, bei der Spieler gegen andere Spieler 
-antreten. Siehe Regel 100.6.
+Eine organisierte Spielveranstaltung, bei der Spieler gegen andere Spieler antreten. Siehe Regel 100.6.
 
 Turnierregeln
-Zusätzliche Regeln, die für Partien in einem sanktionierten Turnier gelten. 
-Siehe Regel 100.6.
+Zusätzliche Regeln, die für Partien in einem sanktionierten Turnier gelten. Siehe Regel 100.6.
 
 Two-Headed Giant
 Siehe Zweiköpfiger Riese.
 
 Typ
-1. Der Kartentyp eines Objekts oder, weiter gefasst, sein Kartentyp, Untertyp 
-und/oder Übertyp. Siehe Regel 205, „Typuszeile“, und Abschnitt 3, „Kartentypen“.
-
+1. Der Kartentyp eines Objekts oder, weiter gefasst, sein Kartentyp, Untertyp und/oder Übertyp. Siehe Regel 205, „Typuszeile“, und Abschnitt 3, „Kartentypen“.
 2. Ein Attribut, das Mana hat. Siehe Regel 106, „Mana“.
 
 Typändernder Effekt
-Ein Effekt, der den Kartentyp, Untertyp und/oder Übertyp eines Objekts ändert. 
-Siehe Regeln 205.1a–b, 305.7 und 613.1d.
+Ein Effekt, der den Kartentyp, Untertyp und/oder Übertyp eines Objekts ändert. Siehe Regeln 205.1a–b, 305.7 und 613.1d.
 
 Typensymbol
-Ein Zeichen, das in oben links auf einigen Karten aus Blick in die Zukunft zu 
-finden ist, das keinen Effekt auf das Spielgeschehen hat. Siehe Regel 107.10.
+Ein Zeichen, das in oben links auf einigen Karten aus Blick in die Zukunft zu finden ist, das keinen Effekt auf das Spielgeschehen hat. Siehe Regel 107.10.
 
 Typuszeile
-Teil einer Karte. Die Typuszeile ist direkt unter der Illustration gedruckt und 
-enthält die Kartentypen, Untertypen und/oder Übertypen einer Karte. Siehe 
-Regel 205, „Typuszeile“.
+Teil einer Karte. Die Typuszeile ist direkt unter der Illustration gedruckt und enthält die Kartentypen, Untertypen und/oder Übertypen einer Karte. Siehe Regel 205, „Typuszeile“.
 
 Typumwandlung
 Eine Variante der Umwandlungs-Fähigkeit. Siehe Regel 702.27, „Umwandlung“.
 
 
 Übergehen
-Effekte, die das Wort „übergehen“ verwenden, sind Ersatzeffekte. Das Wort 
-„übergehen“ zeigt an, welche Ereignisse, Segmente, Phasen oder Züge durch 
-nichts ersetzt werden. Siehe Regel 614, „Ersatzeffekte“.
+Effekte, die das Wort „übergehen“ verwenden, sind Ersatzeffekte. Das Wort „übergehen“ zeigt an, welche Ereignisse, Segmente, Phasen oder Züge durch nichts ersetzt werden. Siehe Regel 614, „Ersatzeffekte“.
 
 Umgestalten
-Eine Schlüsselwortfähigkeit, die einen Spieler seine Bibliothek nach einer 
-Ersatz-Kreaturenkarte durchsuchen lässt. Siehe Regel 702.69, „Umgestalten“.
+Eine Schlüsselwortfähigkeit, die einen Spieler seine Bibliothek nach einer Ersatz-Kreaturenkarte durchsuchen lässt. Siehe Regel 702.69, „Umgestalten“.
 
 Umgewandelte Manakosten
-Die Gesamtmenge an Mana in Manakosten, unabhängig von der Farbe. Siehe 
-Regel 202.3.
+Die Gesamtmenge an Mana in Manakosten, unabhängig von der Farbe. Siehe Regel 202.3.
 
 Umleiten (veraltet)
-Einige ältere Karten wurden mit dem Begriff „umleiten“ gedruckt, um einen 
-Umleitungseffekt zu beschreiben. Solche Karten haben in der Oracle-
-Kartenreferenz Errata erhalten, sodass sie nun ausdrücklich angeben, dass 
-Schaden, der einem Objekt oder Spieler zugefügt würde, „stattdessen“ einem 
-anderen zugefügt wird. Siehe Umleitungseffekt.
+Einige ältere Karten wurden mit dem Begriff „umleiten“ gedruckt, um einen Umleitungseffekt zu beschreiben. Solche Karten haben in der Oracle-
+Kartenreferenz Errata erhalten, sodass sie nun ausdrücklich angeben, dass Schaden, der einem Objekt oder Spieler zugefügt würde, „stattdessen“ einem anderen zugefügt wird. Siehe Umleitungseffekt.
 
 Umleitungseffekt
-Eine Art von Ersatzeffekt, der bewirkt, dass Schaden, der einem Objekt, 
-Planeswalker oder Spieler zugefügt würde, stattdessen einem anderen Objekt, 
-Planeswalker oder Spieler zugefügt wird. Siehe Regel 614.9.
+Eine Art von Ersatzeffekt, der bewirkt, dass Schaden, der einem Objekt, Planeswalker oder Spieler zugefügt würde, stattdessen einem anderen Objekt, Planeswalker oder Spieler zugefügt wird. Siehe Regel 614.9.
 
 Umwandlung
-Eine Schlüsselwortfähigkeit, die einen Spieler eine Karte abwerfen und durch 
-eine neue Karte ersetzen lässt. Siehe Regel 702.27, „Umwandlung“.
+Eine Schlüsselwortfähigkeit, die einen Spieler eine Karte abwerfen und durch eine neue Karte ersetzen lässt. Siehe Regel 702.27, „Umwandlung“.
 
 Unabhängig
 Siehe Abhängigkeit.
 
 Unblockbar
-Ein Attribut einer Kreatur, die sie davor bewahrt, geblockt zu werden. Siehe 
-Regel 700.5).
+Ein Attribut einer Kreatur, die sie davor bewahrt, geblockt zu werden. Siehe Regel 700.5).
 
 Unentschieden
-Das Ergebnis einer Partie, in der kein Spieler gewinnt oder verliert. Siehe 
-Regel 104.4.
+Das Ergebnis einer Partie, in der kein Spieler gewinnt oder verliert. Siehe Regel 104.4.
 
 Ungeblockte Kreatur
-Eine angreifende Kreatur, sobald keine Kreatur für sie als Blocker deklariert 
-wurde, es sei denn ein Effekt hat bewirkt, dass sie geblockt wurde. Sie bleibt 
-eine ungeblockte Kreatur, bis sie aus dem Kampf entfernt wird oder die 
-Kampfphase endet, was auch immer zuerst kommt. Siehe Regel 509, „Blocker-
+Eine angreifende Kreatur, sobald keine Kreatur für sie als Blocker deklariert wurde, es sei denn ein Effekt hat bewirkt, dass sie geblockt wurde. Sie bleibt eine ungeblockte Kreatur, bis sie aus dem Kampf entfernt wird oder die Kampfphase endet, was auch immer zuerst kommt. Siehe Regel 509, „Blocker-
 deklarieren-Segment“.
 
 Ungetappt
-Ein Standardstatus, den eine bleibende Karte haben kann. Siehe Regel 110.6 und 
-Regel 701.17, „Tappen und Enttappen“. Siehe auch Getappt.
+Ein Standardstatus, den eine bleibende Karte haben kann. Siehe Regel 110.6 und Regel 701.17, „Tappen und Enttappen“. Siehe auch Getappt.
 
 Ungewendet
-Ein Standardstatus, den eine bleibende Karte haben kann. Siehe Regel 110.6 und 
-Regel 709, „Wendekarten“. Siehe auch Gewendet.
+Ein Standardstatus, den eine bleibende Karte haben kann. Siehe Regel 110.6 und Regel 709, „Wendekarten“. Siehe auch Gewendet.
 
 Unterbrechungszauber (veraltet)
-Ein veralteter Kartentyp. Alle Karten, die mit diesem Kartentyp gedruckt 
-wurden, sind nun Spontanzauber. Alle Fähigkeiten, die laut gedrucktem Text „wie 
-ein Unterbrechungszauber“ gespielt werden konnten, können jetzt wie jede andere 
-aktivierte Fähigkeit aktiviert werden (außer es sind Manafähigkeiten, die 
-stattdessen diesen Regeln folgen). Alle betroffenen Karten haben in der Oracle-
+Ein veralteter Kartentyp. Alle Karten, die mit diesem Kartentyp gedruckt wurden, sind nun Spontanzauber. Alle Fähigkeiten, die laut gedrucktem Text „wie ein Unterbrechungszauber“ gespielt werden konnten, können jetzt wie jede andere aktivierte Fähigkeit aktiviert werden (außer es sind Manafähigkeiten, die stattdessen diesen Regeln folgen). Alle betroffenen Karten haben in der Oracle-
 Kartenreferenz Errata erhalten.
 
 Unterpartie
-Eine völlig eigenständige Magic-Partie, die durch einen Effekt erschaffen wird. 
-Siehe Regel 715, „Unterpartien“.
+Eine völlig eigenständige Magic-Partie, die durch einen Effekt erschaffen wird. Siehe Regel 715, „Unterpartien“.
 
 Unterstützung
-Eine Schlüsselwortfähigkeit, die einen Spieler +1/+1-Marken auf eine Kreatur 
-legen lässt. Siehe Regel 702.75, „Unterstützung“.
+Eine Schlüsselwortfähigkeit, die einen Spieler +1/+1-Marken auf eine Kreatur legen lässt. Siehe Regel 702.75, „Unterstützung“.
 
 Untertyp
-Eine Eigenschaft, die nach dem Kartentyp und einem langen Gedankenstrich in der 
-Typuszeile einer Karte angegeben ist. Siehe Regel 205.3, „Untertypen“.
+Eine Eigenschaft, die nach dem Kartentyp und einem langen Gedankenstrich in der Typuszeile einer Karte angegeben ist. Siehe Regel 205.3, „Untertypen“.
 
 Unverwüstlich
-Eine Schlüsselwortfähigkeit, die eine Kreatur vom Friedhof ins Spiel 
-zurückholen kann. Siehe Regel 702.91, „Unverwüstlich“.
+Eine Schlüsselwortfähigkeit, die eine Kreatur vom Friedhof ins Spiel zurückholen kann. Siehe Regel 702.91, „Unverwüstlich“.
 
 Unzerstörbar
-Ein Attribut einer bleibenden Karte, die sie davor bewahrt, zerstört zu werden. 
-Siehe Regel 700.4).
+Ein Attribut einer bleibenden Karte, die sie davor bewahrt, zerstört zu werden. Siehe Regel 700.4).
 
 Urheber (veraltet)
-Ein veralteter Begriff, der sich auf den Spieler bezog, der einen Zauberspruch 
-gewirkt hat. Im Allgemeinen haben Karten, die mit dem Begriff „Urheber“ 
-gedruckt wurden, in der Oracle-Kartenreferenz Errata erhalten und benutzen nun 
-den Begriff „Beherrscher“.
+Ein veralteter Begriff, der sich auf den Spieler bezog, der einen Zauberspruch gewirkt hat. Im Allgemeinen haben Karten, die mit dem Begriff „Urheber“ gedruckt wurden, in der Oracle-Kartenreferenz Errata erhalten und benutzen nun den Begriff „Beherrscher“.
 
 
 Variante
-Ein zusätzlicher Satz an Regeln, der die Art einer Mehrspielerpartie bestimmt. 
-Siehe Regel 800.2.
+Ein zusätzlicher Satz an Regeln, der die Art einer Mehrspielerpartie bestimmt. Siehe Regel 800.2.
 
 Vanguard
-1. Eine Freizeitspiel-Variante, in der jeder Spieler in die Rolle einer 
-berühmten Persönlichkeit schlüpft. Siehe Regel 902, „Vanguard“.
-
-2. Ein Kartentyp, den es nur auf nicht herkömmlichen Magic-Karten in der 
-Freizeitspiel-Variante „Vanguard“ gibt. Eine Vanguard-Karte ist keine bleibende 
-Karte. Siehe Regel 311, „Vanguard-Karten“.
+1. Eine Freizeitspiel-Variante, in der jeder Spieler in die Rolle einer berühmten Persönlichkeit schlüpft. Siehe Regel 902, „Vanguard“.
+2. Ein Kartentyp, den es nur auf nicht herkömmlichen Magic-Karten in der Freizeitspiel-Variante „Vanguard“ gibt. Eine Vanguard-Karte ist keine bleibende Karte. Siehe Regel 311, „Vanguard-Karten“.
 
 Veranstaltungsregelwerk
 Siehe Turnierregeln.
 
 Verbundene Fähigkeiten
-Zwei Fähigkeiten, die auf demselben Objekt gedruckt sind, von denen eine dazu 
-führt, dass Aktionen durchgeführt oder Objekte beeinflusst werden, und die 
-andere sich direkt auf diese Aktionen oder Objekte bezieht. Siehe Regel 607, 
-„Verbundene Fähigkeiten“.
+Zwei Fähigkeiten, die auf demselben Objekt gedruckt sind, von denen eine dazu führt, dass Aktionen durchgeführt oder Objekte beeinflusst werden, und die andere sich direkt auf diese Aktionen oder Objekte bezieht. Siehe Regel 607, „Verbundene Fähigkeiten“.
 
 Verdeckt
-1. Eine Karte ist „verdeckt“, wenn sie so gelegt wurde, dass nur die 
-Kartenrückseite sichtbar ist. Karten werden in manchen Zonen normalerweise 
-verdeckt gehalten. Siehe Abschnitt 4, „Zonen“.
-
-2. Ein Status, den eine bleibende Karte haben kann. Siehe Regel 110.6 und 
-Regel 702.35, „Morph“.
-
-3. Verdeckte Zaubersprüche haben zusätzliche Regeln. Siehe Regel 707, 
-„Verdeckte Zaubersprüche und bleibende Karten“, und Regel 702.35, „Morph“.
+1. Eine Karte ist „verdeckt“, wenn sie so gelegt wurde, dass nur die Kartenrückseite sichtbar ist. Karten werden in manchen Zonen normalerweise verdeckt gehalten. Siehe Abschnitt 4, „Zonen“.
+2. Ein Status, den eine bleibende Karte haben kann. Siehe Regel 110.6 und Regel 702.35, „Morph“.
+3. Verdeckte Zaubersprüche haben zusätzliche Regeln. Siehe Regel 707, „Verdeckte Zaubersprüche und bleibende Karten“, und Regel 702.35, „Morph“.
 
 Verdorren
-Eine Schlüsselwortfähigkeit, die beeinflusst, wie ein Objekt einer Kreatur 
-Schaden zufügt. Siehe Regel 702.78, „Verdorren“.
+Eine Schlüsselwortfähigkeit, die beeinflusst, wie ein Objekt einer Kreatur Schaden zufügt. Siehe Regel 702.78, „Verdorren“.
 
 Verflechtung
-Eine Schlüsselwortfähigkeit, die einen Spieler alle Modi eines Zauberspruchs 
-wählen lässt anstatt nur einen. Siehe Regel 702.40, „Verflechtung“.
+Eine Schlüsselwortfähigkeit, die einen Spieler alle Modi eines Zauberspruchs wählen lässt anstatt nur einen. Siehe Regel 702.40, „Verflechtung“.
 
 Vergiftet
 Einen oder mehrere Giftmarken haben. Siehe Regel 121, „Zählmarken“.
 
 Verhindern
-Ein Wort, das von Verhinderungseffekten verwendet wird, um anzuzeigen, welcher 
-Schaden nicht zugefügt wird. Siehe Regel 615, „Verhinderungseffekte“.
+Ein Wort, das von Verhinderungseffekten verwendet wird, um anzuzeigen, welcher Schaden nicht zugefügt wird. Siehe Regel 615, „Verhinderungseffekte“.
 
 Verhinderungseffekt
-Ein Art von dauerhaftem Effekt, der darauf wartet, dass ein Schadensereignis 
-eintreten würde, und dann vollständig oder teilweise den Schaden verhindert, 
-der zugefügt würde. Siehe Regel 615, „Verhinderungseffekte“.
+Ein Art von dauerhaftem Effekt, der darauf wartet, dass ein Schadensereignis eintreten würde, und dann vollständig oder teilweise den Schaden verhindert, der zugefügt würde. Siehe Regel 615, „Verhinderungseffekte“.
 
 Verhüllt
-Eine Schlüsselwortfähigkeit, die eine bleibende Karte oder einen Spieler davor 
-bewahrt, als Ziel gewählt zu werden. Siehe Regel 702.17, „Verhüllt“.
+Eine Schlüsselwortfähigkeit, die eine bleibende Karte oder einen Spieler davor bewahrt, als Ziel gewählt zu werden. Siehe Regel 702.17, „Verhüllt“.
 
 Verlassen, das Spiel
 Siehe Spiel verlassen.
@@ -6548,13 +5937,10 @@ Verlieren, das Spiel
 Siehe Spiel verlieren.
 
 Vernichter
-Eine Schlüsselwortfähigkeit, die eine Kreatur besonders brutal werden lassen 
-kann, wenn sie angreift. Siehe Regel 702.84, „Vernichter“.
+Eine Schlüsselwortfähigkeit, die eine Kreatur besonders brutal werden lassen kann, wenn sie angreift. Siehe Regel 702.84, „Vernichter“.
 
 Verrechnen
-Wenn der Zauberspruch oder die Fähigkeit oben auf dem Stapel „verrechnet“ wird, 
-werden seine bzw. ihre Anweisungen ausgeführt, und er bzw. sie hat seinen bzw. 
-ihren Effekt. Siehe Regel 608, „Zaubersprüche und Fähigkeiten verrechnen“.
+Wenn der Zauberspruch oder die Fähigkeit oben auf dem Stapel „verrechnet“ wird, werden seine bzw. ihre Anweisungen ausgeführt, und er bzw. sie hat seinen bzw. ihren Effekt. Siehe Regel 608, „Zaubersprüche und Fähigkeiten verrechnen“.
 
 Verschieben
 Siehe Bewegen.
@@ -6564,71 +5950,52 @@ Eine Schlüsselwortfähigkeit, die einer Kreatur ermöglichen kann, mit +1/+1-
 Marken auf sich ins Spiel zu kommen. Siehe Regel 702.80, „Verschlingen“.
 
 Verschneit
-Ein Übertyp, der normalerweise auf bleibende Karten zutrifft. Siehe 
-Regel 205.4, „Übertypen“.
+Ein Übertyp, der normalerweise auf bleibende Karten zutrifft. Siehe Regel 205.4, „Übertypen“.
 
 Verschwinden
-Eine Schlüsselwortfähigkeit, die einschränkt, wie lange eine bleibende Karte im 
-Spiel bleibt. Siehe Regel 702.61, „Verschwinden“.
+Eine Schlüsselwortfähigkeit, die einschränkt, wie lange eine bleibende Karte im Spiel bleibt. Siehe Regel 702.61, „Verschwinden“.
 
 Verschwören
-Eine Schlüsselwortfähigkeit, die eine Kopie eines Zauberspruchs erzeugt. Siehe 
-Regel 702.76, „Verschwören“.
+Eine Schlüsselwortfähigkeit, die eine Kopie eines Zauberspruchs erzeugt. Siehe Regel 702.76, „Verschwören“.
 
 Versorgungssegment
-Teil des Zuges. Dieses Segment ist das zweite Segment der Startphase. Siehe 
-Regel 503, „Versorgungssegment“.
+Teil des Zuges. Dieses Segment ist das zweite Segment der Startphase. Siehe Regel 503, „Versorgungssegment“.
 
 Verstärken
 Eine Schlüsselwortfähigkeit, die dazu führen kann, dass eine Kreatur mit +1/+1-
 Marken auf sich ins Spiel kommt. Siehe Regel 702.36, „Verstärken“.
 
 Verteidigender Spieler
-Der Spieler, der während der Kampfphase angegriffen werden kann, und dessen 
-Planeswalker angegriffen werden können. Siehe Regel 506.2. In manchen 
-Mehrspielerpartien kann es mehr als einen verteidigenden Spieler geben; siehe 
-Regel 802, „Option Mehrere Spieler angreifen“, und Regel 810.7.
+Der Spieler, der während der Kampfphase angegriffen werden kann, und dessen Planeswalker angegriffen werden können. Siehe Regel 506.2. In manchen Mehrspielerpartien kann es mehr als einen verteidigenden Spieler geben; siehe Regel 802, „Option Mehrere Spieler angreifen“, und Regel 810.7.
 
 Verteidigendes Team
-Das Team, das während der Kampfphase einer Parte Zweiköpfiger Riese angegriffen 
-werden kann, und dessen Planeswalker angegriffen werden können. Siehe 
-Regel 810.7.
+Das Team, das während der Kampfphase einer Parte Zweiköpfiger Riese angegriffen werden kann, und dessen Planeswalker angegriffen werden können. Siehe Regel 810.7.
 
 Verteidiger
-Eine Schlüsselwortfähigkeit, die einer Kreatur verbietet anzugreifen. Siehe 
-Regel 702.3, „Verteidiger“.
+Eine Schlüsselwortfähigkeit, die einer Kreatur verbietet anzugreifen. Siehe Regel 702.3, „Verteidiger“.
 
 Verzaubern
-Eine Schlüsselwortfähigkeit, die definiert, auf was ein Aurenzauberspruch 
-zielen kann und an was eine Aura angelegt werden kann. Siehe Regel 303, 
-„Verzauberungen“, und Regel 702.5, „Verzaubern“.
+Eine Schlüsselwortfähigkeit, die definiert, auf was ein Aurenzauberspruch zielen kann und an was eine Aura angelegt werden kann. Siehe Regel 303, „Verzauberungen“, und Regel 702.5, „Verzaubern“.
 
 Verzauberung
-Ein Kartentyp. Eine Verzauberung ist eine bleibende Karte. Siehe Regel 303, 
-„Verzauberungen“. Siehe auch Aura
+Ein Kartentyp. Eine Verzauberung ist eine bleibende Karte. Siehe Regel 303, „Verzauberungen“. Siehe auch Aura
 
 ...verzauberung
 Siehe Verzaubern.
 
 Verzauberungstyp
-Ein Untertyp, der mit dem Kartentyp Verzauberung verbunden ist. Siehe 
-Regel 303, „Verzauberungen“. Siehe Regel 205.3h für die Liste der 
-Verzauberungstypen.
+Ein Untertyp, der mit dem Kartentyp Verzauberung verbunden ist. Siehe Regel 303, „Verzauberungen“. Siehe Regel 205.3h für die Liste der Verzauberungstypen.
 
 Verzögert-ausgelöste Fähigkeit
-Eine Fähigkeit, die von Effekten erschaffen wird, die bei Verrechnung mancher 
-Zaubersprüche oder Fähigkeiten generiert werden, oder die durch manche 
-Ersatzeffekte erschaffen wird, die angewendet werden, und die etwas zu einem 
-späteren Zeitpunkt tut statt zu diesem Zeitpunkt. Siehe Regel 603.7.
+Eine Fähigkeit, die von Effekten erschaffen wird, die bei Verrechnung mancher Zaubersprüche oder Fähigkeiten generiert werden, oder die durch manche Ersatzeffekte erschaffen wird, die angewendet werden, und die etwas zu einem späteren Zeitpunkt tut statt zu diesem Zeitpunkt. Siehe Regel 603.7.
 
 Vor-dem-Kampf-Hauptphase
 Die erste Hauptphase eines Zuges. Siehe Hauptphase.
 
 Vorhersage
-Eine Schlüsselwortfähigkeit, das einer aktivierten Fähigkeit erlaubt, von der 
-Hand eines Spielers aktiviert zu werden. Siehe Regel 702.55, „Vorhersage“.
+Eine Schlüsselwortfähigkeit, das einer aktivierten Fähigkeit erlaubt, von der Hand eines Spielers aktiviert zu werden. Siehe Regel 702.55, „Vorhersage“.
 
-Priorität
+Vorrang
 Siehe Priorität.
 
 Vorzeigen
@@ -6636,28 +6003,19 @@ Siehe Offen vorzeigen.
 
 
 Wachsamkeit
-Eine Schlüsselwortfähigkeit, die eine Kreatur angreifen lässt, ohne dass sie 
-getappt wird. Siehe Regel 702.19, „Wachsamkeit“.
+Eine Schlüsselwortfähigkeit, die eine Kreatur angreifen lässt, ohne dass sie getappt wird. Siehe Regel 702.19, „Wachsamkeit“.
 
 Wahl, deiner
 Siehe Ziel.
 
 Wahnsinn
-Eine Schlüsselwortfähigkeit, die einen Spieler eine Karte, die er abwirft, 
-wirken lässt. Siehe Regel 702.33, „Wahnsinn“.
+Eine Schlüsselwortfähigkeit, die einen Spieler eine Karte, die er abwirft, wirken lässt. Siehe Regel 702.33, „Wahnsinn“.
 
 Während (veraltet)
-Einige ältere Karten nutzen die Formulierung „Während [Phase], [Aktion]“. Diese 
-Fähigkeiten wurden „Phasenfähigkeiten“ genannt. Im Allgemeinen haben Karten, 
-die mit Phasenfähigkeiten gedruckt wurden, in der Oracle-Kartenreferenz Errata 
-erhalten, sodass sie jetzt Fähigkeiten haben, die zu Beginn eines Segments oder 
-einer Phase ausgelöst werden. „Während“ erscheint immer noch in aktuellem 
-Kartentext, aber nur in seiner normalen, deutschen Bedeutung und nicht als 
-Spielbegriff.
+Einige ältere Karten nutzen die Formulierung „Während [Phase], [Aktion]“. Diese Fähigkeiten wurden „Phasenfähigkeiten“ genannt. Im Allgemeinen haben Karten, die mit Phasenfähigkeiten gedruckt wurden, in der Oracle-Kartenreferenz Errata erhalten, sodass sie jetzt Fähigkeiten haben, die zu Beginn eines Segments oder einer Phase ausgelöst werden. „Während“ erscheint immer noch in aktuellem Kartentext, aber nur in seiner normalen, deutschen Bedeutung und nicht als Spielbegriff.
 
 Wald
-Einer der fünf Standardlandtypen. Jedes Land mit diesem Untertyp hat die 
-Fähigkeit „{tap}: Erhöhe deinen Manavorrat um {G}.“ Siehe Regel 305.6.
+Einer der fünf Standardlandtypen. Jedes Land mit diesem Untertyp hat die Fähigkeit „{tap}: Erhöhe deinen Manavorrat um {G}.“ Siehe Regel 305.6.
 
 Waldtarnung
 Siehe Landtarnung.
@@ -6666,44 +6024,29 @@ Waldumwandlung
 Siehe Typumwandlung.
 
 Wallung
-Eine Schlüsselwortfähigkeit, die einem Spieler ermöglichen kann, Extra-Karten 
-von seiner Bibliothek ohne Kosten zu wirken. Siehe Regel 702.58, „Wallung“.
+Eine Schlüsselwortfähigkeit, die einem Spieler ermöglichen kann, Extra-Karten von seiner Bibliothek ohne Kosten zu wirken. Siehe Regel 702.58, „Wallung“.
 
 Wandelwicht
-Eine eigenschafts-definierende Fähigkeit, die dem Objekt, auf dem sie ist, 
-jeden Kreaturentyp verleiht. Siehe Regel 702.71, „Wandelwicht“.
+Eine eigenschafts-definierende Fähigkeit, die dem Objekt, auf dem sie ist, jeden Kreaturentyp verleiht. Siehe Regel 702.71, „Wandelwicht“.
 
 Welt
-1. Ein Übertyp, der normalerweise auf Verzauberungen zutrifft. Siehe 
-Regel 205.4, „Übertypen“. Siehe auch Weltenregel.
-
-2. Ein Kartentyp, den es nur auf nicht herkömmlichen Magic-Karten in der 
-Freizeitspiel-Variante „Weltenjagd“ gibt. Eine Weltenkarte ist keine bleibende 
-Karte. Siehe Regel 309, „Weltenkarten“.
+1. Ein Übertyp, der normalerweise auf Verzauberungen zutrifft. Siehe Regel 205.4, „Übertypen“. Siehe auch Weltenregel.
+2. Ein Kartentyp, den es nur auf nicht herkömmlichen Magic-Karten in der Freizeitspiel-Variante „Weltenjagd“ gibt. Eine Weltenkarte ist keine bleibende Karte. Siehe Regel 309, „Weltenkarten“.
 
 Weltenjagd
-Eine Freizeitspiel-Variante, in der Weltenkarten und Phänomenkarten das Spiel 
-um weitere Fähigkeiten und Zufall erweitern. Siehe Regel 901, „Weltenjagd“.
+Eine Freizeitspiel-Variante, in der Weltenkarten und Phänomenkarten das Spiel um weitere Fähigkeiten und Zufall erweitern. Siehe Regel 901, „Weltenjagd“.
 
 Weltenkarten-Deck
-Ein Deck aus mindestens zehn Weltenkarten, das für die Freizeitspiel-Variante 
-„Weltenjagd“ benötigt wird. Siehe Regel 901.3.
+Ein Deck aus mindestens zehn Weltenkarten, das für die Freizeitspiel-Variante „Weltenjagd“ benötigt wird. Siehe Regel 901.3.
 
 Weltenregel
-Eine zustandsbasierte Aktion, die bewirkt, dass alle bleibenden Karten 
-mit dem Welt-Übertyp bis auf die neueste in den Friedhof ihrer Besitzer gelegt 
-werden. Siehe Regel 704.5m.
+Eine zustandsbasierte Aktion, die bewirkt, dass alle bleibenden Karten mit dem Welt-Übertyp bis auf die neueste in den Friedhof ihrer Besitzer gelegt werden. Siehe Regel 704.5m.
 
 Weltenwandern
-In einer Partie „Weltenjagd“ alle aufgedeckten Weltenkarten und Phänomenkarten 
-verdeckt unter das Weltenkarten-Deck ihres Besitzers legen, dann die oberste 
-Karte von deinem Weltenkarten-Deck nehmen und aufdecken. Siehe Regel 701.21, 
-„Weltenwandern“.
+In einer Partie „Weltenjagd“ alle aufgedeckten Weltenkarten und Phänomenkarten verdeckt unter das Weltenkarten-Deck ihres Besitzers legen, dann die oberste Karte von deinem Weltenkarten-Deck nehmen und aufdecken. Siehe Regel 701.21, „Weltenwandern“.
 
 Weltenwanderer (veraltet)
-Einige ältere, deutsche Karten benutzen den Begriff „Weltenwanderer“. Diese 
-Karten nutzen nun stattdessen den Begriff „Planeswalker“.
-
+Einige ältere, deutsche Karten benutzen den Begriff „Weltenwanderer“. Diese Karten nutzen nun stattdessen den Begriff „Planeswalker“.
 Siehe Planeswalker.
 
 Weltenwanderer-Symbol
@@ -6711,39 +6054,29 @@ Das Weltenwanderer-Symbol {planeswalker} erscheint in der Freizeitspiel-
 Variante „Weltenjagd“ auf dem Welten-Würfel. Siehe Regel 107.11.
 
 Welten-Würfel
-Ein besonderer sechsseitiger Würfel, der für die Freizeitspiel-Variante 
-„Weltenjagd“ benötigt wird. Siehe Regel 901.3.
+Ein besonderer sechsseitiger Würfel, der für die Freizeitspiel-Variante „Weltenjagd“ benötigt wird. Siehe Regel 901.3.
 
 Wendekarten
-Karten mit einem zweiteiligen Kartenrahmen (von dem ein Teil auf dem Kopf 
-stehend gedruckt ist) auf einer einzelnen Karte. Siehe Regel 709, „Wendekarten“.
+Karten mit einem zweiteiligen Kartenrahmen (von dem ein Teil auf dem Kopf stehend gedruckt ist) auf einer einzelnen Karte. Siehe Regel 709, „Wendekarten“.
 
 Werden
-Ein Wort, das in einigen Auslöseereignissen benutzt wird, um eine Änderung von 
-Zuständen oder Eigenschaften anzuzeigen. Siehe Regel 603.2d.
+Ein Wort, das in einigen Auslöseereignissen benutzt wird, um eine Änderung von Zuständen oder Eigenschaften anzuzeigen. Siehe Regel 603.2d.
 
 Werfen, Münze
 Siehe Münzwerfen.
 
 Widerstandskraft
-1. Teil einer Karte, den nur Kreaturen haben. Die Widerstandskraft einer 
-Kreaturenkarte ist nach dem Schrägstrich in ihrer unteren, rechten Ecke 
-gedruckt. Siehe Regel 208, „Stärke/Widerstandskraft“.
-
+1. Teil einer Karte, den nur Kreaturen haben. Die Widerstandskraft einer Kreaturenkarte ist nach dem Schrägstrich in ihrer unteren, rechten Ecke gedruckt. Siehe Regel 208, „Stärke/Widerstandskraft“.
 2. Eine Eigenschaft, die nur Kreaturen besitzen. Siehe Regel 302.4.
 
 Wird
 Siehe Werden.
 
 Wirken
-Einen Zauberspruch von dort nehmen, wo er sich befindet (normalerweise die 
-Hand), auf den Stapel legen und seine Kosten bezahlen, sodass er möglicherweise 
-verrechnet wird und seinen Effekt haben wird. Siehe Regel 601, „Zaubersprüche 
-wirken“.
+Einen Zauberspruch von dort nehmen, wo er sich befindet (normalerweise die Hand), auf den Stapel legen und seine Kosten bezahlen, sodass er möglicherweise verrechnet wird und seinen Effekt haben wird. Siehe Regel 601, „Zaubersprüche wirken“.
 
 Wucherung
-Einer beliebigen Anzahl an Spielern und/oder bleibenden Karten, die bereits 
-eine Marke haben, eine weitere Marke geben. Siehe Regel 701.24, „Wucherung“.
+Einer beliebigen Anzahl an Spielern und/oder bleibenden Karten, die bereits eine Marke haben, eine weitere Marke geben. Siehe Regel 701.24, „Wucherung“.
 
 
 X
@@ -6755,107 +6088,74 @@ Siehe X.
 
 
 Zählmarke
-Ein Gegenstand, der auf ein Objekt oder einen Spieler gelegt wird und entweder 
-seine Eigenschaften modifiziert oder mit einer Regel oder einer Fähigkeit 
-interagiert. Siehe Regel 121, „Zählmarken“.
+Ein Gegenstand, der auf ein Objekt oder einen Spieler gelegt wird und entweder seine Eigenschaften modifiziert oder mit einer Regel oder einer Fähigkeit interagiert. Siehe Regel 121, „Zählmarken“.
 
 Zählt als (veraltet)
-Einige ältere Karten wurden mit Text gedruckt, der angibt, dass die Karte „als 
-[etwas] zählt“. Karten, die mit diesem Text gedruckt wurden, haben in der 
-Oracle-Kartenreferenz Errata erhalten und benutzen nun die Formulierung, dass 
-die Karte tatsächlich dieses „etwas“ ist.
+Einige ältere Karten wurden mit Text gedruckt, der angibt, dass die Karte „als [etwas] zählt“. Karten, die mit diesem Text gedruckt wurden, haben in der Oracle-Kartenreferenz Errata erhalten und benutzen nun die Formulierung, dass die Karte tatsächlich dieses „etwas“ ist.
 
 Zaubererumwandlung
 Siehe Typumwandlung.
 
 Zauberspruch
-Eine Karte auf dem Stapel, oder eine Kopie (eines Zauberspruchs oder einer 
-Karte) auf dem Stapel. Siehe Regel 111, „Zaubersprüche“.
+Eine Karte auf dem Stapel, oder eine Kopie (eines Zauberspruchs oder einer Karte) auf dem Stapel. Siehe Regel 111, „Zaubersprüche“.
 
 Zauberspruchfähigkeit
-Eine Art von Fähigkeit. Zauberspruchfähigkeiten sind Fähigkeiten, die als 
-Anweisungen befolgt werden, wenn ein Spontanzauber oder eine Hexerei verrechnet 
-wird. Siehe Regel 112.3a.
+Eine Art von Fähigkeit. Zauberspruchfähigkeiten sind Fähigkeiten, die als Anweisungen befolgt werden, wenn ein Spontanzauber oder eine Hexerei verrechnet wird. Siehe Regel 112.3a.
 
 Zauberspruchtyp
-Ein Untertyp, der mit den Kartentypen Spontanzauber und Hexerei verbunden ist. 
-Siehe Regel 304, „Spontanzauber“, und Regel 307, „Hexereien“. Siehe 
-Regel 205.3k für die Liste der Zauberspruchtypen.
+Ein Untertyp, der mit den Kartentypen Spontanzauber und Hexerei verbunden ist. Siehe Regel 304, „Spontanzauber“, und Regel 307, „Hexereien“. Siehe Regel 205.3k für die Liste der Zauberspruchtypen.
 
 Zeitstempelreihenfolge
-Ein System, das festlegt, in welcher Reihenfolge dauerhafte Effekte in der 
-gleichen Schicht oder Unterschicht angewendet werden. Siehe Regel 613.6. Siehe 
-auch Abhängigkeit.
+Ein System, das festlegt, in welcher Reihenfolge dauerhafte Effekte in der gleichen Schicht oder Unterschicht angewendet werden. Siehe Regel 613.6. Siehe auch Abhängigkeit.
 
 Zerstören
-Eine bleibende Karte aus der Im-Spiel-Zone in den Friedhof ihres Besitzers 
-bewegen. Siehe Regel 701.6, „Zerstören“.
+Eine bleibende Karte aus der Im-Spiel-Zone in den Friedhof ihres Besitzers bewegen. Siehe Regel 701.6, „Zerstören“.
 
 Ziehen
 Die oberste Karte der Bibliothek eines Spielers als rundenbasierte -
-Aktion oder als Ergebnis eines Effekts, der das Wort „ziehen“ benutzt, auf die 
-Hand dieses Spielers nehmen. Siehe Regel 120, „Kartenziehen“.
+Aktion oder als Ergebnis eines Effekts, der das Wort „ziehen“ benutzt, auf die Hand dieses Spielers nehmen. Siehe Regel 120, „Kartenziehen“.
 
 Ziehsegment
-Teil des Zuges. Dieses Segment ist das dritte Segment und letzte Segment der 
-Startphase. Siehe Regel 504, „Ziehsegment“:
+Teil des Zuges. Dieses Segment ist das dritte Segment und letzte Segment der Startphase. Siehe Regel 504, „Ziehsegment“:
 
 Ziel, deiner Wahl
-Ein vorab ausgewähltes Objekt, ein vorab ausgewählter Spieler und/oder eine 
-vorab ausgewählte Zone, das, den bzw. die ein Zauberspruch oder eine Fähigkeit 
-beeinflussen wird. Siehe Regel 114, „Ziele“.
+Ein vorab ausgewähltes Objekt, ein vorab ausgewählter Spieler und/oder eine vorab ausgewählte Zone, das, den bzw. die ein Zauberspruch oder eine Fähigkeit beeinflussen wird. Siehe Regel 114, „Ziele“.
 
 Ziel ändern
-Ein neues, legales Ziel für einen Zauberspruch oder eine Fähigkeit bestimmen. 
-Siehe Regel 114.6.
+Ein neues, legales Ziel für einen Zauberspruch oder eine Fähigkeit bestimmen. Siehe Regel 114.6.
 
 Zone
-Ein Platz, an dem Magic-Karten während einer Partie sein können. Siehe 
-Abschnitt 4, „Zonen“.
+Ein Platz, an dem Magic-Karten während einer Partie sein können. Siehe Abschnitt 4, „Zonen“.
 
 Zonenwechselnder Auslöser
-Auslöseereignisse, die beinhalten, dass Objekte Zonen wechseln. Siehe 
-Regel 603.6.
+Auslöseereignisse, die beinhalten, dass Objekte Zonen wechseln. Siehe Regel 603.6.
 
 Zufügen, Schaden
 Siehe Schaden.
 
 Zug beenden
-Als Ergebnis eines Effekts „den Zug beenden“ bedeutet, einen beschleunigten 
-Vorgang auszuführen, der nahezu alles andere überspringt, das in diesem Zug 
-stattfinden würde. Siehe Regel 713, „Den Zug beenden“.
+Als Ergebnis eines Effekts „den Zug beenden“ bedeutet, einen beschleunigten Vorgang auszuführen, der nahezu alles andere überspringt, das in diesem Zug stattfinden würde. Siehe Regel 713, „Den Zug beenden“.
 
 Zugendsegment
 Siehe Endsegment.
 
 Zugmarke
-Marken, die anzeigen, welche Spieler in einer Partie Riesentumult gerade ihre 
-Züge nehmen. Siehe Regel 807.4.
+Marken, die anzeigen, welche Spieler in einer Partie Riesentumult gerade ihre Züge nehmen. Siehe Regel 807.4.
 
 Zuletzt bekannte Informationen
-Informationen über ein Objekt, das sich nicht mehr in der Zone befindet, in der 
-es erwartet wird, oder Informationen über einen Spieler, der nicht mehr im 
-Spiel ist. Diese Informationen enthalten die letzte Existenz dieses Objekts in 
-dieser Zone oder die letzte Existenz des Spielers im Spiel. Siehe 
-Regeln 112.7a, 608.2b, 608.2g und 800.4g.
+Informationen über ein Objekt, das sich nicht mehr in der Zone befindet, in der es erwartet wird, oder Informationen über einen Spieler, der nicht mehr im Spiel ist. Diese Informationen enthalten die letzte Existenz dieses Objekts in dieser Zone oder die letzte Existenz des Spielers im Spiel. Siehe Regeln 112.7a, 608.2b, 608.2g und 800.4g.
 
 Zurückverfolgen
-Eine Schlüsselwortfähigkeit, die einen Spieler eine Karte aus seinem Friedhof 
-wirken lässt. Siehe Regel 702.79, „Zurückverfolgen“.
+Eine Schlüsselwortfähigkeit, die einen Spieler eine Karte aus seinem Friedhof wirken lässt. Siehe Regel 702.79, „Zurückverfolgen“.
 
 Zusätzliche Kosten
-Kosten, die ein Zauberspruch haben kann, die sein Beherrscher zusätzlich zu den 
-Manakosten bezahlen kann (oder in manchen Fällen bezahlen muss), um den 
-Zauberspruch zu wirken. Siehe Regel 117, „Kosten“, und Regel 601, 
-„Zaubersprüche wirken“.
+Kosten, die ein Zauberspruch haben kann, die sein Beherrscher zusätzlich zu den Manakosten bezahlen kann (oder in manchen Fällen bezahlen muss), um den Zauberspruch zu wirken. Siehe Regel 117, „Kosten“, und Regel 601, „Zaubersprüche wirken“.
 
 Zuweisen, Kampfschaden
 Siehe Kampfschaden zuweisen.
 
 Zweiköpfiger Riese
-Eine Mehrspielervariante, die mit Teams zu je zwei Spielern gespielt wird, die 
-einen gemeinsamen Lebenspunktestand haben und den Zug gleichzeitig durchführen. 
-Siehe Regel 810, „Variante Zweiköpfiger Riese“.
+Eine Mehrspielervariante, die mit Teams zu je zwei Spielern gespielt wird, die einen gemeinsamen Lebenspunktestand haben und den Zug gleichzeitig durchführen. Siehe Regel 810, „Variante Zweiköpfiger Riese“.
 
 
 
@@ -6863,43 +6163,25 @@ Danksagungen
 
 Ursprüngliches Design für Magic: The Gathering: Richard Garfield
 
-Design und Entwicklung der erweiterten Regeln: Paul Barclay, Beth 
-Moursund und Bill Rose, mit Beiträgen von Charlie Katana, John Carter, Elaine 
-Chase, Laurie Cheers, Stephen D‘Angelo, Dave DeLaney, Brady Dommermuth, Mike 
-Donais, Skaff Elias, Mike Elliott, Richard Garfield, Mark L. Gottlieb, Dan 
-Gray, Robert Gutschera, Collin Jackson, William Jockusch, Jeff Jordan, Yonemura 
-Kaoru, Russell Linnemann, Jim Lin, Steve Lord, Sheldon Menery, Michael Phoenix, 
-Mark Rosewater, David Sachs, Lee Sharpe, Eli Shiffrin, Henry Stern, Matt Tabak, 
-Ingo Warnke, Tom Wylie, Donald X. Vaccarino, Thijs van Ommen und Bryan Zembruski
+Design und Entwicklung der erweiterten Regeln: Paul Barclay, Beth Moursund und Bill Rose, mit Beiträgen von Charlie Katana, John Carter, Elaine Chase, Laurie Cheers, Stephen D‘Angelo, Dave DeLaney, Brady Dommermuth, Mike Donais, Skaff Elias, Mike Elliott, Richard Garfield, Mark L. Gottlieb, Dan Gray, Robert Gutschera, Collin Jackson, William Jockusch, Jeff Jordan, Yonemura Kaoru, Russell Linnemann, Jim Lin, Steve Lord, Sheldon Menery, Michael Phoenix, Mark Rosewater, David Sachs, Lee Sharpe, Eli Shiffrin, Henry Stern, Matt Tabak, Ingo Warnke, Tom Wylie, Donald X. Vaccarino, Thijs van Ommen und Bryan Zembruski
 
 Bearbeitung: Del Laugel und Kelly Digges
 
 Magic-Regel-Manager: Matt Tabak
 
-Das Spiel Magic: The Gathering wurde von Richard Garfield entworfen, mit 
-Beiträgen von Charlie Cantina, Skaff Elias, Don Felice, Tom Fontaine, Jim Lin, 
-Joel Mick, Chris Page, Dave Pettey, Barry „Bit“ Reich, Bill Rose und Elliott 
-Segal. Die Manasymbole wurden von Christopher Rush entworfen.
+Das Spiel Magic: The Gathering wurde von Richard Garfield entworfen, mit Beiträgen von Charlie Cantina, Skaff Elias, Don Felice, Tom Fontaine, Jim Lin, Joel Mick, Chris Page, Dave Pettey, Barry „Bit“ Reich, Bill Rose und Elliott Segal. Die Manasymbole wurden von Christopher Rush entworfen.
 
-Dank an alle Mitglieder unseres Projektteams und die vielen anderen, die zu 
-diesem Produkt beigetragen haben, aber zu zahlreich sind, um genannt zu werden.
+Dank an alle Mitglieder unseres Projektteams und die vielen anderen, die zu diesem Produkt beigetragen haben, aber zu zahlreich sind, um genannt zu werden.
 
 Dieses Regelwerk gilt ab dem 1. Juni 2012.
 
-Veröffentlicht von Wizards of the Coast LLC, P.O. Box 707, Renton WA 98057-
-0707, U.S.A. Wizards of the Coast, Magic: The Gathering, Magic, Oracle, Exodus, 
-Odyssee, Mirrodin, Kamigawa, Ravnica, Zeitspirale, Blick in die Zukunft, 
-Lorwyn, Schattenmoor, Zendikar und Die Narben von Mirrodin sind Warenzeichen 
-von Wizards of the Coast LLC in den U.S.A. und anderen Ländern. ©1993–2012 
-Wizards. U.S. Pat. No. RE 37,957.
+Veröffentlicht von Wizards of the Coast LLC, P.O. Box 707, Renton WA 98057-0707, U.S.A. Wizards of the Coast, Magic: The Gathering, Magic, Oracle, Exodus, Odyssee, Mirrodin, Kamigawa, Ravnica, Zeitspirale, Blick in die Zukunft, Lorwyn, Schattenmoor, Zendikar und Die Narben von Mirrodin sind Warenzeichen von Wizards of the Coast LLC in den U.S.A. und anderen Ländern. ©1993–2012 Wizards. U.S. Pat. No. RE 37,957.
 
 
 
-Ursprüngliche Übersetzung dieses Regelwerks: Sascha Klawohn mit Unterstützung 
-durch Michael Wiese, Hannes Roth und Mario Haßler
+Ursprüngliche Übersetzung dieses Regelwerks: Sascha Klawohn mit Unterstützung durch Michael Wiese, Hannes Roth und Mario Haßler
 
-Pflege, laufende Aktualisierung des Dokuments und neue Übersetzungen: Mario 
-Haßler
+Pflege, laufende Aktualisierung des Dokuments und neue Übersetzungen: Mario Haßler
 
 
 
@@ -6944,12 +6226,4 @@ Besuche unsere Webseite: magicthegathering.com
 
 
 
-Hinweis: Die Comprehensive Rules werden im Original veröffentlicht von Wizards 
-of the Coast, Inc., U.S.A. Du findest die jeweils aktuelle Version dieser 
-Regeln unter www.wizards.com/default.asp?x=magic/rules. Das Regelwerk wurde von 
-Sascha Klawohn 2007 ins Deutsche übersetzt und bis Ende 2008 gepflegt. Seit 
-Anfang 2008 ist die Übersetzung auf "Magic für Freizeitspieler" im HTML-Format 
-zur Webansicht verfügbar; seit 2009 wird das Dokument durch Mario Haßler 
-gepflegt. Die aktuelle englische Ausgabe dieses Dokuments hat im Zusammenhang 
-mit den englischen Oracle-Texten der Karten immer Vorrang vor dieser 
-Übersetzung! Die deutsche Übersetzung wurde zuletzt am 19.06.2012 überarbeitet.
+Hinweis: Die Comprehensive Rules werden im Original veröffentlicht von Wizards of the Coast, Inc., U.S.A. Du findest die jeweils aktuelle Version dieser Regeln unter www.wizards.com/default.asp?x=magic/rules. Das Regelwerk wurde von Sascha Klawohn 2007 ins Deutsche übersetzt und bis Ende 2008 gepflegt. Seit Anfang 2008 ist die Übersetzung auf "Magic für Freizeitspieler" im HTML-Format zur Webansicht verfügbar; seit 2009 wird das Dokument durch Mario Haßler gepflegt. Die aktuelle englische Ausgabe dieses Dokuments hat im Zusammenhang mit den englischen Oracle-Texten der Karten immer Vorrang vor dieser Übersetzung! Die deutsche Übersetzung wurde zuletzt am 19.06.2012 überarbeitet.
