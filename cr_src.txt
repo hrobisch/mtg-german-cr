@@ -75,7 +75,7 @@ Beispiel: Eine Karte lautet: „Jeder Spieler opfert eine Kreatur.“ Zuerst bes
 
 101.4c Wenn ein Spieler mehr als eine Entscheidung zur selben Zeit treffen würde, trifft der Spieler die Entscheidungen in der geschriebenen Reihenfolge oder in der Reihenfolge, die er wählt, wenn die Entscheidungen nicht geordnet sind.
 
-101.4d Falls eine Entscheidung, die ein nicht-aktiver Spieler getroffen hat, dazu führt, dass der aktive Spieler oder ein anderer inaktiver Spieler, der in der Zugreihenfolge weiter vorne ist, eine Entscheidung treffen muss, wird die ASNAS-Reihenfolge für alle noch offenen Entscheidungen neu begonnen.
+101.4d Falls eine Entscheidung, die ein nichtaktiver Spieler getroffen hat, dazu führt, dass der aktive Spieler oder ein anderer nichtaktiver Spieler, der in der Zugreihenfolge weiter vorne ist, eine Entscheidung treffen muss, wird die ASNAS-Reihenfolge für alle noch offenen Entscheidungen neu begonnen.
 
 102. Spieler
 
@@ -1558,7 +1558,7 @@ Bibliothek und Hand, und seinen eigenen Friedhof. Die anderen Zonen werden von a
 
 506.1. Die Kampfphase hat fünf Segmente in dieser Reihenfolge: das Beginn-des-Kampfes-Segment, das Angreifer-deklarieren-Segment, das Blocker-deklarieren-Segment, das Kampfschadensegment und das Ende-des-Kampfes-Segment. Das Blocker-deklarieren-Segment und das Kampfschadensegment werden übergangen, wenn keine Kreaturen als Angreifer deklariert oder angreifend ins Spiel gebracht werden (siehe Regel 508.4). Es gibt zwei Kampfschadensegmente, wenn irgendwelche angreifenden oder blockenden Kreaturen Erstschlag (siehe Regel 702.7) oder Doppelschlag (siehe Regel 702.4) haben.
 
-506.2. Während der Kampfphase ist der aktive Spieler der \angreifende Spieler\; Kreaturen, die dieser Spieler kontrolliert, können angreifen. Während der Kampfphase einer Zweispielerpartie ist der inaktive Spieler der \verteidigende Spieler\; dieser Spieler und Planeswalker, die er kontrolliert, können angegriffen werden.
+506.2. Während der Kampfphase ist der aktive Spieler der \angreifende Spieler\; Kreaturen, die dieser Spieler kontrolliert, können angreifen. Während der Kampfphase einer Zweispielerpartie ist der nichtaktive Spieler der \verteidigende Spieler\; dieser Spieler und Planeswalker, die er kontrolliert, können angegriffen werden.
 
 506.2a Während der Kampfphase einer Mehrspielerpartien kann es einen oder mehrere verteidigende Spieler geben, je nachdem, welche Variante gespielt wird und welche Optionen gewählt wurden. Sofern nicht alle Gegner des angreifenden Spielers während der Kampfphase automatisch zu verteidigenden Spielern werden, bestimmt der aktive Spieler als rundenbasierte Aktion zu Beginn des Beginn-des-Kampfes-Segments einen seiner Gegner. (Beachte, dass die Wahl durch die gespielte Variante und die gewählten Optionen eingeschränkt sein kann.) Dieser Spieler wird der verteidigende Spieler. Siehe Regel 802, „Option Mehrere Spieler angreifen“, Regel 803, „Optionen links angreifen und rechts angreifen“ und Regel 809, „Variante Emperor.“
 
@@ -3855,13 +3855,13 @@ Beispiel: Ein Spieler kontrolliert eine Kreatur, die mit Gonds Ausstrahlung verz
 
 716.2b Jeder andere Spieler kann, in Zugreihenfolge nach dem Spieler, der die Abkürzung vorgeschlagen hat, entweder der vorgeschlagenen Abkürzung zustimmen, oder sie verkürzen, indem er die Stelle angibt, an der er eine andere Spielentscheidung treffen wird als vorgeschlagen. (Der Spieler muss zu diesem Zeitpunkt nicht erklären, welche andere Entscheidung das sein wird.) Diese Stelle wird der neue Endpunkt der vorgeschlagenen Abfolge.
 
-Beispiel: Der aktive Spieler zieht eine Karte während seines Ziehsegments und sagt dann „Fertig!“ Der inaktive Spieler hat Ab in den Kampf (einen Spontanzauber, der sagt „Eine Kreatur deiner Wahl greift in diesem Zug an, falls möglich.“) auf der Hand und sagt „In deinem Beginn-des-Kampfes-Segment möchte ich einen Zauberspruch wirken.“ Die momentan vorgeschlagene Abkürzung sieht vor, dass in diesem Zug alle Spieler bei jeder Gelegenheit passen, bis der inaktive Spieler im Beginn-des-Kampfes-Segment Priorität hat.
+Beispiel: Der aktive Spieler zieht eine Karte während seines Ziehsegments und sagt dann „Fertig!“ Der nichtaktive Spieler hat Ab in den Kampf (einen Spontanzauber, der sagt „Eine Kreatur deiner Wahl greift in diesem Zug an, falls möglich.“) auf der Hand und sagt „In deinem Beginn-des-Kampfes-Segment möchte ich einen Zauberspruch wirken.“ Die momentan vorgeschlagene Abkürzung sieht vor, dass in diesem Zug alle Spieler bei jeder Gelegenheit passen, bis der nichtaktive Spieler im Beginn-des-Kampfes-Segment Priorität hat.
 
 716.2c Sobald der letzte Spieler entweder der Abkürzung zugestimmt oder sie verkürzt hat, wird die Abkürzung genommen. Das Spiel rückt bis zum zuletzt vorgeschlagenen Endpunkt vor, wobei alle Spielentscheidungen so getroffen werden, wie sie vorgeschlagen wurden. Falls die ursprünglich vorgeschlagene Abkürzung verkürzt wurde, muss der Spieler, der jetzt Priorität hat, eine andere Spielentscheidung treffen, als ursprünglich für ihn vorgeschlagen wurde.
 
 716.3 Manchmal kann eine Schleife zersplittert sein, d. h. dass jeder an der Schleife beteiligte Spieler eine unabhängige Aktion durchführt, die dazu führt, dass der gleiche Spielzustand wiederholt erreicht wird. Falls dies passiert, muss der aktive Spieler (oder der in Zugreihenfolge nächste an der Schleife beteiligte Spieler, falls der aktive Spieler nicht an der Schleife beteiligt ist) eine andere Spielentscheidung treffen, sodass die Schleife nicht fortgeführt wird.
 
-Beispiel: In einer Einzelpartie kontrolliert der aktive Spieler eine Kreatur mit der Fähigkeit „{0}: [Diese Kreatur] erhält Flugfähigkeit“, und der inaktive Spieler kontrolliert eine bleibende Karte mit der Fähigkeit „{0}: Eine Kreatur deiner Wahl verliert Flugfähigkeit“, und nichts im Spiel kümmert sich darum, wie oft eine Fähigkeit aktiviert wird. Angenommen der aktive Spieler aktiviert die Fähigkeit seiner Kreatur, diese wird verrechnet, dann aktiviert der inaktive Spieler die Fähigkeit seiner bleibenden Karte mit der Kreatur als Ziel, und diese wird verrechnet. Das bringt das Spiel in einen Zustand, in dem es vorher schon einmal war. Der aktive Spieler muss eine andere Spielentscheidung treffen (in anderen Worten, er muss etwas anderes tun als die Fähigkeit seiner Kreatur wieder zu aktivieren). Die Kreatur hat keine Flugfähigkeit. Beachte, dass der inaktive Spieler die zersplitterte Schleife einfach hätte vermeiden können, indem er die Fähigkeit seiner bleibenden Karte nich aktiviert; in diesem Fall hätte die Kreatur Flugfähigkeit gehabt. Der inaktive Spieler hat immer die letzte Entscheidung und kann damit entscheiden, ob die Kreatur Flugfähigkeit hat.
+Beispiel: In einer Einzelpartie kontrolliert der aktive Spieler eine Kreatur mit der Fähigkeit „{0}: [Diese Kreatur] erhält Flugfähigkeit“, und der nichtaktive Spieler kontrolliert eine bleibende Karte mit der Fähigkeit „{0}: Eine Kreatur deiner Wahl verliert Flugfähigkeit“, und nichts im Spiel kümmert sich darum, wie oft eine Fähigkeit aktiviert wird. Angenommen der aktive Spieler aktiviert die Fähigkeit seiner Kreatur, diese wird verrechnet, dann aktiviert der nichtaktive Spieler die Fähigkeit seiner bleibenden Karte mit der Kreatur als Ziel, und diese wird verrechnet. Das bringt das Spiel in einen Zustand, in dem es vorher schon einmal war. Der aktive Spieler muss eine andere Spielentscheidung treffen (in anderen Worten, er muss etwas anderes tun als die Fähigkeit seiner Kreatur wieder zu aktivieren). Die Kreatur hat keine Flugfähigkeit. Beachte, dass der nichtaktive Spieler die zersplitterte Schleife einfach hätte vermeiden können, indem er die Fähigkeit seiner bleibenden Karte nich aktiviert; in diesem Fall hätte die Kreatur Flugfähigkeit gehabt. Der nichtaktive Spieler hat immer die letzte Entscheidung und kann damit entscheiden, ob die Kreatur Flugfähigkeit hat.
 
 716.4 Wenn eine Schleife nur zwingende Aktionen enthält, endet das Spiel unentschieden (siehe Regeln 104.4b und 104.4f.)
 
@@ -4065,7 +4065,7 @@ Beispiel: Rob greift Alex mit Runenklauenbär und Carissa mit einer Kreatur    m
 
 805.1 Einige Mehrspielerpartien zwischen Teams nutzen die Option Gemeinsame Team-Züge. Sie wird immer in der Variante Zweiköpfiger Riese (siehe Regel 810) und in der Freizeitspiel-Variante Erzfeind (siehe Regel 904) benutzt. Sie kann nur benutzt werden, wenn die Mitglieder jedes Teams unmittelbar nebeneinander sitzen.
 
-805.2 In jedem Team ist der aus Sicht dieses Teams rechts sitzende Spieler der Primärspieler. Falls die Spieler eines Teams sich bei einer zu treffenden Entscheidung nicht einigen können, so wie bei der Frage, welche Kreaturen angreifen sollen oder in welcher Reihenfolge ausgelöste Fähigkeiten auf den Stapel gelegt werden, trifft der Primärspieler diese Entscheidung.
+805.2 In jedem Team ist der aus Sicht dieses Teams rechts sitzende Spieler der Primärspieler. Falls die Spieler eines Teams sich bei einer zu treffenden Entscheidung nicht einigen können, wie zum Beispiel bei der Frage, welche Kreaturen angreifen sollen oder in welcher Reihenfolge ausgelöste Fähigkeiten auf den Stapel gelegt werden, trifft der Primärspieler diese Entscheidung.
 
 805.3 Die in Regel 103.2 beschriebenen Methoden werden angewendet, um zu ermitteln, welches Team den ersten Zug macht. Das auf diese Weise ermittelte Team ist das Startteam.
 
@@ -4075,7 +4075,7 @@ Beispiel: Rob greift Alex mit Runenklauenbär und Carissa mit einer Kreatur    m
 
 805.4 Anstatt jedes Spielers macht jedes Team einen Zug.
 
-805.4a Das Team, dessen Zug es ist, ist das aktive Team. Das andere Team ist das inaktive Team.
+805.4a Das Team, dessen Zug es ist, ist das aktive Team. Das andere Team ist das nichtaktive Team.
 
 805.4b Jeder Spieler in einem Team zieht während des Ziehsegments dieses Teams eine Karte.
 
@@ -4085,15 +4085,15 @@ Beispiel: Rob greift Alex mit Runenklauenbär und Carissa mit einer Kreatur    m
 
 805.5a Ein Spieler kann einen Zauberspruch wirken, eine Fähigkeit aktivieren oder eine Sonderaktion ausführen, wenn sein Team Priorität hat.
 
-805.5b Wenn ein Team Priorität hat und keiner der Spieler dieses Teams etwas zu tun wünscht, passt das Team. Wenn alle Teams nacheinander passen (das heißt, wenn alle Teams passen, ohne dass irgendein Spieler zwischen dem Passen irgendeine Aktion durchführt), wird das oberste Objekt des Stapels verrechnet. Danach erhält das aktive Team Priorität. Wenn der Stapel leer ist, wenn alle Teams nacheinander passen, endet die Phase oder das Segment und die bzw. das nächste beginnt.
+805.5b Falls ein Team Priorität hat und keiner der Spieler dieses Teams etwas zu tun wünscht, passt das Team. Falls alle Teams nacheinander passen (das heißt, wenn alle Teams passen, ohne dass irgendein Spieler zwischen dem Passen irgendeine Aktion durchführt), wird das oberste Objekt des Stapels verrechnet. Danach erhält das aktive Team Priorität. Falls der Stapel leer ist, wenn alle Teams nacheinander passen, endet die Phase oder das Segment und die bzw. das nächste beginnt.
 
-805.6 Die Aktiver-Spieler-Inaktiver-Spieler-Reihenfolge-Regel (siehe Regel 101.4) wird modifiziert, wenn die Option Gemeinsame Team-Züge verwendet wird. Wenn mehrere Teams zur selben Zeit Entscheidungen treffen und/oder Aktionen durchführen würden, trifft zuerst das aktive Team alle benötigten Entscheidungen, dann trifft jedes inaktive Team in Zugreihenfolge alle Entscheidungen, die benötigt werden. Falls mehrere Spieler zur selben Zeit Entscheidungen treffen und/oder Aktionen durchführen würden, trifft zuerst jeder Spieler des aktiven Teams in beliebiger Reihenfolge alle benötigten Entscheidungen, dann tun die Spieler jedes inaktiven Teams in Zugreihenfolge dasselbe. Sobald alle Entscheidungen getroffen wurden, finden die Aktionen gleichzeitig statt.
+805.6 Die Aktiver-Spieler-Nichtaktiver-Spieler-Reihenfolge-Regel (siehe Regel 101.4) wird modifiziert, falls die Option Gemeinsame Team-Züge verwendet wird. Falls mehrere Teams zur selben Zeit Entscheidungen treffen und/oder Aktionen durchführen würden, trifft zuerst das aktive Team alle benötigten Entscheidungen, dann trifft jedes nichtaktive Team in Zugreihenfolge alle Entscheidungen, die benötigt werden. Falls mehrere Spieler zur selben Zeit Entscheidungen treffen und/oder Aktionen durchführen würden, trifft zuerst jeder Spieler des aktiven Teams in beliebiger Reihenfolge alle benötigten Entscheidungen, dann tun die Spieler jedes nichtaktiven Teams in Zugreihenfolge dasselbe. Sobald alle Entscheidungen getroffen wurden, finden die Aktionen gleichzeitig statt.
 
-805.6a Wenn in einer Partie, in der die Option Gemeinsame Team-Züge verwendet wird, ein Effekt mehr als einen Spieler anweist, Karten zu ziehen, vollführen erst die Spieler im aktiven Team in beliebiger Reihenfolge all ihr Ziehen, dann macht jeder Spieler in jedem inaktiven Team in Zugreihenfolge dasselbe.
+805.6a Falls in einer Partie, in der die Option Gemeinsame Team-Züge verwendet wird, ein Effekt mehr als einen Spieler anweist, Karten zu ziehen, vollführen erst die Spieler im aktiven Team in beliebiger Reihenfolge all ihr Ziehen, dann macht jeder Spieler in jedem nichtaktiven Team in Zugreihenfolge dasselbe.
 
-805.7 Wenn mehrere ausgelöste Fähigkeiten seit dem letzten Mal, an dem ein Team Priorität erhalten hat, ausgelöst wurden, legen die Mitglieder des aktiven Teams alle ausgelösten Fähigkeiten, die jedweder von beiden kontrolliert, in beliebiger Reihenfolge auf den Stapel. Danach machen die Spieler in jedem inaktiven Team in Zugreihenfolge dasselbe.
+805.7 Falls mehrere ausgelöste Fähigkeiten seit dem letzten Mal, an dem ein Team Priorität erhalten hat, ausgelöst wurden, legen die Mitglieder des aktiven Teams alle ausgelösten Fähigkeiten, die jedweder von beiden kontrolliert, in beliebiger Reihenfolge auf den Stapel. Danach machen die Spieler in jedem nichtaktiven Team in Zugreihenfolge dasselbe.
 
-805.8 Wenn ein Effekt einem Spieler einen Extrazug gibt oder eine Phase oder ein Segment zum Zug dieses Spielers hinzufügt, nimmt das Team dieses Spielers den Extrazug, die Extraphase bzw. das Extrasegment. Wenn ein Effekt einen Spieler dazu bringt, ein Segment, eine Phase oder einen Zug zu übergehen, macht das Team dieses Spielers dies. Wenn ein einzelner Effekt beide Spieler in demselben Team dazu bringt, ein Segment, eine Phase oder einen Zug hinzuzufügen oder zu übergehen, übergeht oder fügt das Team nur dieses Segment, diese Phaseoder diesen Zug hinzu. Wenn ein Effekt einen Spieler dazu bringt, einen anderen Spieler zu kontrollieren, kontrolliert der Beherrscher dieses Effekts das Team des beeinflussten Spielers.
+805.8 Falls ein Effekt einem Spieler einen Extrazug gibt oder eine Phase oder ein Segment zum Zug dieses Spielers hinzufügt, nimmt das Team dieses Spielers den Extrazug, die Extraphase bzw. das Extrasegment. Falls ein Effekt einen Spieler dazu bringt, ein Segment, eine Phase oder einen Zug zu überspringen, macht das Team dieses Spielers dies. Falls ein einzelner Effekt beide Spieler in demselben Team dazu bringt, ein Segment, eine Phase oder einen Zug hinzuzufügen oder zu überspringen, überspringt oder fügt das Team nur dieses Segment, diese Phase oder diesen Zug hinzu. Falls ein Effekt einen Spieler dazu bringt, einen anderen Spieler zu kontrollieren, kontrolliert der Beherrscher dieses Effekts das Team des betroffenen Spielers.
 
 805.9 Jede Fähigkeit, die sich auf den „aktiven Spieler“ bezieht, bezieht sich auf einen bestimmten aktiven Spieler, nicht auf beide aktive Spieler. Der Beherrscher der Fähigkeit bestimmt, auf welchen sie sich bezieht, sobald ihr Effekt angewendet wird.
 
@@ -4223,11 +4223,11 @@ Beispiel: In einer Kaiser-Partie mit zwei Teams zu je vier Spielern sollte die S
 
 810.7 Die Kampfregeln der Variante Zweiköpfiger Riese unterscheiden sich von denen anderer Mehrspielervarianten.
 
-810.7a Die Kreaturen jedes Teams greifen das andere Team als Gruppe an. Während der Kampfphase ist das aktive Team das angreifende Team und jeder Spieler im angreifenden Team ist ein angreifender Spieler. Ebenso ist das inaktive Team das verteidigende Team und jeder Spieler im inaktiven Team ein verteidigender Spieler.
+810.7a Die Kreaturen jedes Teams greifen das andere Team als Gruppe an. Während der Kampfphase ist das aktive Team das angreifende Team und jeder Spieler im angreifenden Team ist ein angreifender Spieler. Ebenso ist das nichtaktive Team das verteidigende Team und jeder Spieler im nichtaktiven Team ein verteidigender Spieler.
 
 810.7b Jeder einmalige Effekt, der sich auf den „verteidigenden Spieler“ bezieht, bezieht sich auf einen bestimmten verteidigenden Spieler, nicht auf beide verteidigende Spieler. Der Beherrscher des Effekts bestimmt zum Zeitpunkt, da der Effekt angewandt wird, auf welchen sich der Zauberspruch oder die Fähigkeit bezieht. Das gleiche trifft auf alle einmaligen Effekte zu, die sich auf den „angreifenden Spieler“ beziehen.
 
-Jede eigenschafts-definierende Fähigkeit, die sich auf den „verteidigenden Spieler“ bezieht, bezieht sich auf einen bestimmten verteidigenden Spieler, nicht auf beide verteidigende Spieler. Der Beherrscher des Objekts mit der eigenschafts-definierenden Fähigkeit bestimmt zum Zeitpunkt, da die inaktiven Spieler zu verteidigenden Spielern werden, auf welchen sich die Fähigkeit bezieht. Das gleiche trifft auf alle einmaligen Effekte zu, die sich auf den „angreifenden Spieler“ beziehen.
+Jede eigenschafts-definierende Fähigkeit, die sich auf den „verteidigenden Spieler“ bezieht, bezieht sich auf einen bestimmten verteidigenden Spieler, nicht auf beide verteidigende Spieler. Der Beherrscher des Objekts mit der eigenschafts-definierenden Fähigkeit bestimmt zum Zeitpunkt, da die nichtaktiven Spieler zu verteidigenden Spielern werden, auf welchen sich die Fähigkeit bezieht. Das gleiche trifft auf alle einmaligen Effekte zu, die sich auf den „angreifenden Spieler“ beziehen.
 
 Alle anderen Fälle, in denen sich auf den „verteidigenden Spieler“ bezogen wird, beziehen sich eigentlich auf beide verteidigenden Spieler. Wenn der Bezug einen positiven (so wie zu fragen, ob der verteidigende Spieler eine Insel kontrolliert) oder einen relativen Vergleich (so wie zu fragen, ob du mehr Kreaturen kontrollierst als der verteidigende Spieler) enthält, erhält er nur eine Antwort. Diese Antwort ist „ja“, wenn einer der verteidigenden Spieler im Vergleich eine „ja“-Antwort erwidern würde, wenn sie individuell verglichen werden würden. Wenn der Bezug einen negativen Vergleich enthält (so wie zu fragen, ob der verteidigende Spieler keine schwarzen bleibenden Karten kontrolliert), erhält er auch nur eine Antwort. Diese Antwort ist „ja“, wenn das Durchführen des analogen positiven Vergleichs eine „nein“-Antwort erwidern würde. Das gleiche trifft auf alle anderen Fälle zu, die sich auf den „angreifenden Spieler“ beziehen.
 
@@ -4542,7 +4542,7 @@ Eine Schlüsselwortfähigkeit, die reduziert, wie viel Mana du bezahlen musst, u
 Aktiver Spieler
 Der Spieler, dessen Zug es ist. Siehe Regel 102.1.
 
-Aktiver-Spieler-inaktiver-Spieler-Reihenfolge
+Aktiver-Spieler-Nichtaktiver-Spieler-Reihenfolge
 Ein System, das festlegt, in welcher Reihenfolge Spieler Entscheidungen treffen, falls mehrere Spieler angewiesen sind, zur gleichen Zeit Entscheidungen zu treffen. Siehe Regel 101.4. Diese Regel ist bei Partien modifiziert, in denen die Option „Gemeinsame Team-Züge“ verwendet wird; siehe Regel 805.6.
 
 Aktives Team
@@ -4633,7 +4633,7 @@ Artefakttyp
 Ein Untertyp, der mit dem Kartentyp Artefakt verbunden ist. Siehe Regel 301, „Artefakte“. Siehe Regel 205.3g für die Liste der Artefakttypen.
 
 ASNAS-Reihenfolge
-Siehe Aktiver-Spieler-inaktiver-Spieler-Reihenfolge.
+Siehe Aktiver-Spieler-Nichtaktiver-Spieler-Reihenfolge.
 
 Aufblitzen
 Eine Schlüsselwortfähigkeit, die einen Spieler eine Karte zu jedem Zeitpunkt spielen lässt, zu dem er einen Spontanzauber spielen könnte. Siehe Regel 702.8, „Aufblitzen“.
@@ -4793,6 +4793,9 @@ Bündnisfähigkeit ist eine Schlüsselwortfähigkeit, die die Regeln für das De
 
 Bushido
 Eine Schlüsselwortfähigkeit, die eine Kreatur im Kampf verbessern kann. Siehe Regel 702.43, „Bushido“.
+
+Casual
+Siehe Freizeitspiel
 
 Chaos-Fähigkeit
 Eine Fähigkeit einer Weltenkarte, die in der Freizeitspiel-Variante „Weltenjagd“ auslöst „Immer wenn du mit dem Welten-Würfel {chaos} würfelst“. Siehe Regel 309.7.
@@ -5029,6 +5032,9 @@ Ein Effekt, der eine oder mehrere Kreaturen zwingt, anzugreifen oder zu blocken.
 
 Free-for-All
 Siehe Jeder gegen Jeden.
+
+Freizeitspiel
+Ein Sammelbegriff für Spielvarianten, die nicht als Turniere sanktioniert werden können. Siehe Abschnitt 9. "Varianten für das Freizeitspiel"
 
 Friedhof
 1. Eine Zone. Der Friedhof eines Spielers ist sein Abwurfstapel.
