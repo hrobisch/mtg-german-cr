@@ -131,11 +131,11 @@ Beispiel: Eine Karte lautet: „Jeder Spieler opfert eine Kreatur.“ Zuerst bes
 
 103.7. Der Startspieler macht seinen ersten Zug.
 
-103.7a In einer Zwei-Spieler-Partie übergeht der Spieler, der als Erstes spielt, das Ziehsegment (siehe Regel 504, „Ziehsegment“) seines ersten Zuges.
+103.7a In einer Zwei-Spieler-Partie überspringt der Spieler, der als Erstes spielt, das Ziehsegment (siehe Regel 504, „Ziehsegment“) seines ersten Zuges.
 
-103.7b In einer Partie Two-Headed Giant übergeht das Team, das als Erstes spielt, das Ziehsegment seines ersten Zuges.
+103.7b In einer Partie Two-Headed Giant überspringt das Team, das als Erstes spielt, das Ziehsegment seines ersten Zuges.
 
-103.7c In allen anderen Mehrspieler-Partien übergeht kein Spieler das Ziehsegment seines ersten Zuges.
+103.7c In allen anderen Mehrspieler-Partien überspringt kein Spieler das Ziehsegment seines ersten Zuges.
 
 104. Die Partie beenden
 
@@ -799,7 +799,7 @@ Beispiel: Der verteidigende Spieler kontrolliert eine Kreatur und die Anbetung, 
 
 Beispiel: Ein Spieler wirkt einen Blitzschlag, einen Spontanzauber, der besagt: „Der Blitzschlag fügt einer Kreatur oder einem Spieler deiner Wahl 3 Schaden zu,“ und zielt damit auf eine 2/2-Kreatur. Nachdem der Blitzschlag der Kreatur 3 Schaden zufügt, wird die Kreatur durch eine zustandsbasierte Aktion zerstört. Weder der Blitzschlag noch der durch den Blitzschlag zugefügte Schaden haben die Kreatur zerstört.
 
-119.6. Der auf einer Kreatur vermerkte Schaden bleibt bis zum Aufräumsegment erhalten, selbst wenn die bleibende Karte aufhört, eine Kreatur zu sein. Falls der Gesamtschaden, der auf eine Kreatur vermerkt wurde, größer als oder gleich ihrer Widerstandskraft ist, wurde dieser Kreatur tödlicher Schaden zugefügt und sie wird als zustandsbasierte Aktion zerstört (siehe Regel 704). Aller Schaden, der auf einer bleibenden Karte vermerkt wurde, wird entfernt, wenn sie regeneriert (siehe Regel 701.12, „Regeneration“), und während des Aufräumsegments (siehe Regel 514.2).
+119.6. Der auf einer Kreatur vermerkte Schaden bleibt bis zum Aufräumsegment erhalten, selbst wenn die bleibende Karte aufhört, eine Kreatur zu sein. Falls der Gesamtschaden, der auf einer Kreatur vermerkt wurde, größer als oder gleich ihrer Widerstandskraft ist, wurde dieser Kreatur tödlicher Schaden zugefügt und sie wird als zustandsbasierte Aktion zerstört (siehe Regel 704). Aller Schaden, der auf einer bleibenden Karte vermerkt wurde, wird entfernt, wenn sie regeneriert (siehe Regel 701.12, „Regeneration“), und während des Aufräumsegments (siehe Regel 514.2).
 
 119.7. Die Schadensquelle ist das Objekt, das ihn zugefügt hat. Wenn ein Effekt einen Spieler anweist, eine Schadensquelle zu bestimmen, kann er eine bleibende Karte bestimmen; einen Zauberspruch auf dem Stapel (einschließlich einem Bleibende-Karte-Zauberspruch); ein beliebiges Objekt, auf das sich ein Objekt auf dem Stapel, ein auf Anwendung wartender Verhinderungs- oder Ersatzeffekt, oder eine verzögerte ausgelöste Fähigkeit, die darauf wartet ausgelöst zu werden, bezieht (auch wenn sich das Objekt nicht mehr in der Zone befindet, in der es war); oder, in bestimmten Freizeitspiel-Varianten, eine aufgedeckte Karte in der Kommandozone. Eine Quelle muss nicht in der Lage sein, Schaden zuzufügen, um eine legale Wahl zu sein. Siehe Regel 609.7, „Schadensquellen.“
 
@@ -1540,7 +1540,7 @@ Bibliothek und Hand, und seinen eigenen Friedhof. Die anderen Zonen werden von a
 
 505.1. Es gibt zwei Hauptphasen in einem Zug. In jedem Zug sind die erste Hauptphase (auch Hauptphase vor dem Kampf oder Vor-Kampf-Hauptphase genannt) und die zweite Hauptphase (auch Hauptphase nach dem Kampf oder Nach-Kampf-Hauptphase genannt) durch die Kampfphase getrennt (siehe Regel 506, „Kampfphase“). Die Hauptphasen vor dem Kampf und nach dem Kampf werden sowohl einzeln als auch gemeinsam als \Hauptphase\ bezeichnet.
 
-505.1a Nur die erste Hauptphase des Zuges ist eine vor-Kampf-Hauptphase. Alle anderen Hauptphasen sind nach-Kampf-Hauptphasen. Dies gilt auch für die zweite Hauptphase eines Zuges, in dem die Kampfphase übersprungen wurde. Es gilt auch für einen Zug, in dem ein Effekt eine zusätzliche Kampfphase und eine zusätzliche Hauptphase erzeugt hat.
+505.1a Nur die erste Hauptphase des Zuges ist eine vor-Kampf-Hauptphase. Alle anderen Hauptphasen sind nach-Kampf-Hauptphasen. Dies gilt auch für die zweite Hauptphase eines Zuges, in dem die Kampfphase übergangen wurde. Es gilt auch für einen Zug, in dem ein Effekt eine zusätzliche Kampfphase und eine zusätzliche Hauptphase erzeugt hat.
 
 505.2. Die Hauptphase hat keine Segmente. Deshalb endet eine Hauptphase, wenn alle Spieler nacheinander passen, während der Stapel leer ist. (Siehe Regel 500.2.)
 
@@ -1556,7 +1556,7 @@ Bibliothek und Hand, und seinen eigenen Friedhof. Die anderen Zonen werden von a
 
 506. Kampfphase
 
-506.1. Die Kampfphase hat fünf Segmente in dieser Reihenfolge: das Beginn-des-Kampfes-Segment, das Angreifer-deklarieren-Segment, das Blocker-deklarieren-Segment, das Kampfschadensegment und das Ende-des-Kampfes-Segment. Das Blocker-deklarieren-Segment und das Kampfschadensegment werden übergangen, wenn keine Kreaturen als Angreifer deklariert oder angreifend ins Spiel gebracht werden (siehe Regel 508.4). Es gibt zwei Kampfschadensegmente, wenn irgendwelche angreifenden oder blockenden Kreaturen Erstschlag (siehe Regel 702.7) oder Doppelschlag (siehe Regel 702.4) haben.
+506.1. Die Kampfphase hat fünf Segmente in dieser Reihenfolge: das Beginn-des-Kampfes-Segment, das Angreifer-deklarieren-Segment, das Blocker-deklarieren-Segment, das Kampfschadensegment und das Ende-des-Kampfes-Segment. Das Blocker-deklarieren-Segment und das Kampfschadensegment werden übersprungen, wenn keine Kreaturen als Angreifer deklariert oder angreifend ins Spiel gebracht werden (siehe Regel 508.4). Es gibt zwei Kampfschadensegmente, wenn irgendwelche angreifenden oder blockenden Kreaturen Erstschlag (siehe Regel 702.7) oder Doppelschlag (siehe Regel 702.4) haben.
 
 506.2. Während der Kampfphase ist der aktive Spieler der \angreifende Spieler\; Kreaturen, die dieser Spieler kontrolliert, können angreifen. Während der Kampfphase einer Zweispielerpartie ist der nichtaktive Spieler der \verteidigende Spieler\; dieser Spieler und Planeswalker, die er kontrolliert, können angegriffen werden.
 
@@ -1596,7 +1596,7 @@ Bibliothek und Hand, und seinen eigenen Friedhof. Die anderen Zonen werden von a
 
 506.6d Manche Zaubersprüche legen fest, dass sie „nur [vor/nach] [einem bestimmten Punkt in der Kampfphase]“ gewirkt werden können, ohne dass sie den in Regel 506.6c zusätzlichen Kriterien genügen. Falls ein Zug mehrere Kampfphasen hat, können solche Zaubersprüche in diesem Zug nur vor (bzw. nach) dem angegebenen Punkt in der ersten Kampfphase gewirkt werden.
 
-506.6e Wenn ein Zauberspruch festlegt, dass er „nur vor [einem bestimmten Punkt in der Kampfphase]“ gewirkt werden kann, aber der angegebene Punkt in der entsprechenden Kampfphase nicht existiert, weil das Blocker-deklarieren-Segment und das Kampfschadensegment übersprungen werden (siehe Regel 508.6), dann kann der Spruch noch gewirkt werden, bevor das Angreifer-deklarieren-Segment endet. Wenn der angegebene Punkt nicht existiert, weil die entsprechende Kampfphase übersprungen wurde, dann kann der Spruch nur gewirkt werden, bevor die Vor-Kampf-Hauptphase endet.
+506.6e Wenn ein Zauberspruch festlegt, dass er „nur vor [einem bestimmten Punkt in der Kampfphase]“ gewirkt werden kann, aber der angegebene Punkt in der entsprechenden Kampfphase nicht existiert, weil das Blocker-deklarieren-Segment und das Kampfschadensegment übergangen werden (siehe Regel 508.6), dann kann der Spruch noch gewirkt werden, bevor das Angreifer-deklarieren-Segment endet. Wenn der angegebene Punkt nicht existiert, weil die entsprechende Kampfphase übersprungen wurde, dann kann der Spruch nur gewirkt werden, bevor die Vor-Kampf-Hauptphase endet.
 
 506.6f Wenn ein Zauberspruch festlegt, dass er „nur während der Kampfphase, nachdem die Blocker deklariert wurden“ gewirkt werden kann, aber das Blocker-deklarieren-Segment in dieser Kampfphase übersprungen wird (siehe Regel 508.6), dann kann der Spruch während dieser Kampfphase nicht gewirkt werden.
 
@@ -1654,7 +1654,7 @@ Beispiel: Eine bleibende Karte lautet: „Immer wenn eine grüne Kreatur angreif
 
 508.5a In einer Mehrspielerparte, bezieht sich jede Regel, jedes Objekt und jeder Effekt, die, das bzw. der sich auf einen „verteidigenden Spieler“ bezieht, nur auf einen bestimmten verteidigenden Spieler, nicht auf alle verteidigenden Spieler. Falls ein Spruch oder eine Fähigkeit auf mehrere angreifende Kreaturen angewendet werden könnte, wird der entsprechende verteidigende Spieler für jede dieser angreifenden Kreaturen einzeln ermittelt. Falls es mehrere verteidigende Spieler gibt, die bestimmt werden könnten, bestimmt der Beherrscher des Zauberspruchs oder der Fähigkeit einen.
 
-508.6. Übergehe das Blocker-deklarieren-Segment und das Kampfschadensegment, wenn keine Kreaturen als Angreifer deklariert oder angreifend ins Spiel gebracht werden.
+508.6. Überspringe das Blocker-deklarieren-Segment und das Kampfschadensegment, wenn keine Kreaturen als Angreifer deklariert oder angreifend ins Spiel gebracht werden.
 
 509. Blocker-deklarieren-Segment
 
@@ -1726,7 +1726,7 @@ Beispiel: Eine Riesenspinne wird von einem Bergschlucht-Minotaurus geblockt. Der
 
 510.1b Eine ungeblockte Kreatur weist all ihren Kampfschaden dem Spieler oder dem Planeswalker zu, den sie angreift. Wenn die Kreatur gerade nichts angreift (wenn sie zum Beispiel einen Planeswalker angegriffen hat, der das Spiel verließ), weist sie keinen Kampfschaden zu.
 
-510.1c Eine geblockte Kreatur weist ihren Kampfschaden den blockenden Kreaturen zu. Wenn sie momentan von keinen Kreaturen geblockt wird (wenn diese zum Beispiel zerstört oder aus dem Kampf entfernt wurden), weist sie keinen Kampfschaden zu. Falls sie von genau einer Kreatur geblockt wird, weist sie all ihren Kampfschaden dieser Kreatur zu. Falls sie von zwei oder mehr Kreaturen geblockt wird, weist sie ihren Kampfschaden diesen Kreaturen gemäß der für sie angesagten Schadenszuweisungsreihenfolge zu. Das kann der geblockten Kreatur ermöglichen, ihren Kampfschaden aufzuteilen. Allerdings kann sie einer Kreatur, von der sie geblockt wird, keinen Kampfschaden zuweisen, wenn nach Abschluss der Kampfschadenzuweisungen nicht jeder Kreatur in der Reihenfolge vor dieser blockenden Kreatur tödlicher Schaden zugewiesen wurde. Für die Bestimmung des tödlichen Schadens wird Schaden, der bereits für eine Kreatur vermerkt wurde, und Schaden, der im gleichen Kampfschadensegment von anderen Kreaturen zugewiesen wird, berücksichtigt; nicht jedoch Fähigkeiten oder Effekte, die die Höhe des Schadens verändern könnten, der tatsächlich zugefügt wird. Einer Kreatur kann mehr Schaden als tödlicher Schaden zugewiesen werden.
+510.1c Eine geblockte Kreatur weist ihren Kampfschaden den blockenden Kreaturen zu. Wenn sie momentan von keinen Kreaturen geblockt wird (wenn diese zum Beispiel zerstört oder aus dem Kampf entfernt wurden), weist sie keinen Kampfschaden zu. Falls sie von genau einer Kreatur geblockt wird, weist sie all ihren Kampfschaden dieser Kreatur zu. Falls sie von zwei oder mehr Kreaturen geblockt wird, weist sie ihren Kampfschaden diesen Kreaturen gemäß der für sie angesagten Schadenszuweisungsreihenfolge zu. Das kann der geblockten Kreatur ermöglichen, ihren Kampfschaden aufzuteilen. Allerdings kann sie einer Kreatur, von der sie geblockt wird, keinen Kampfschaden zuweisen, wenn nach Abschluss der Kampfschadenzuweisungen nicht jeder Kreatur in der Reihenfolge vor dieser blockenden Kreatur tödlicher Schaden zugewiesen wurde. Für die Bestimmung des tödlichen Schadens wird Schaden, der bereits auf einer Kreatur vermerkt wurde, und Schaden, der im gleichen Kampfschadensegment von anderen Kreaturen zugewiesen wird, berücksichtigt; nicht jedoch Fähigkeiten oder Effekte, die die Höhe des Schadens verändern könnten, der tatsächlich zugefügt wird. Einer Kreatur kann mehr Schaden als tödlicher Schaden zugewiesen werden.
 
 Beispiel: Die Schadenszuweisungsreihenfolge eines angreifenden Riesenholz-Verschlingers (eine 5/6-Kreatur) ist Rudelwache (eine 0/3-Kreatur), dann Llanowarelfen (eine 1/1-Kreatur). Der Riesenholz-Verschlinger kann 3 Schaden der Rudelwache und 2 Schaden den Llanowarelfen zuweisen, 4 Schaden der Rudelwache und 1 Schaden den Llanowarelfen, oder 5 Schaden der Rudelwache.
 
@@ -1734,9 +1734,9 @@ Beispiel: Die Schadenszuweisungsreihenfolge eines angreifenden Riesenholz-Versch
 
 Beispiel: Die Schadenszuweisungsreihenfolge eines angreifenden Riesenholz-Verschlingers (eine 5/6-Kreatur) ist Rudelwache (eine 0/3-Kreatur), dann Llanowarelfen (eine 1/1-Kreatur). Während des Blocker-deklarieren-Segments wirkt der verteidigende Spieler Flickende Finger auf die Rudelwache, die die nächsten 4 Schaden verhindern, die ihr zugefügt würden. Der Riesenholz-Verschlinger kann 3 Schaden der Rudelwache und 2 Schaden den Llanowarelfen zuweisen, 4 Schaden der Rudelwache und 1 Schaden den Llanowarelfen, oder 5 Schaden der Rudelwache.
 
-Beispiel: Die Schadenszuweisungsreihenfolge eines angreifenden Gewaltigen Baloths (eine 7/7-Kreatur) ist Gezähmtes Armodon (eine 3/3-Kreatur), für die in diesem Zug bereits 2 Schaden vermerkt wurden, dann Foriysische Brigade (eine 2/4-Kreatur, die eine zusätzliche Kreatur blocken kann), dann Silberrücken-Affe (eine 5/5-Kreatur). Die Schadenszuweisungsreihenfolge eines angreifenden Düsterwaldkeilers (eine 4/4-Kreatur) ist dieselbe Foriysische Brigade, dann Goblin-Lanzenträger (eine 2/1-Kreatur). Neben anderen Möglichkeiten kann der aktive Spieler den Baloth 1 Schaden dem Armodon, 1 Schaden der Brigade und 5 Schaden dem Affen zuweisen lassen und den Keiler 3 Schaden der Brigade und 1 Schaden dem Lanzenträger zuweisen lassen.
+Beispiel: Die Schadenszuweisungsreihenfolge eines angreifenden Gewaltigen Baloths (eine 7/7-Kreatur) ist Gezähmtes Armodon (eine 3/3-Kreatur), auf der in diesem Zug bereits 2 Schaden vermerkt wurden, dann Foriysische Brigade (eine 2/4-Kreatur, die eine zusätzliche Kreatur blocken kann), dann Silberrücken-Affe (eine 5/5-Kreatur). Die Schadenszuweisungsreihenfolge eines angreifenden Düsterwaldkeilers (eine 4/4-Kreatur) ist dieselbe Foriysische Brigade, dann Goblin-Lanzenträger (eine 2/1-Kreatur). Neben anderen Möglichkeiten kann der aktive Spieler den Baloth 1 Schaden dem Armodon, 1 Schaden der Brigade und 5 Schaden dem Affen zuweisen lassen und den Keiler 3 Schaden der Brigade und 1 Schaden dem Lanzenträger zuweisen lassen.
 
-510.1d Eine blockende Kreatur weist Kampfschaden den Kreaturen zu, die sie blockt. Wenn sie momentan keine Kreaturen blockt (wenn diese zum Beispiel zerstört oder aus dem Kampf entfernt wurden), weist sie keinen Kampfschaden zu. Falls sie genau eine Kreatur blockt, weist sie all ihren Kampfschaden dieser Kreatur zu. Falls sie zwei oder mehr Kreaturen blockt, weist sie ihren Kampfschaden diesen Kreaturen gemäß der für sie angekündigten Schadenszuweisungsreihenfolge zu. Das kann der blockenden Kreatur ermöglichen, ihren Kampfschaden aufzuteilen. Allerdings kann sie einer Kreatur, die sie blockt, keinen Kampfschaden zuweisen, wenn nach Abschluss der Kampfschadenzuweisungen nicht jeder Kreatur in der Reihenfolge vor dieser geblockten Kreatur tödlicher Schaden zugewiesen wurde. Für die Bestimmung des tödlichen Schadens wird Schaden, der für eine Kreatur bereits vermerkt wurde, und Schaden, der im gleichen Kampfschadensegment von anderen Kreaturen zugewiesen wird, berücksichtigt; nicht jedoch Fähigkeiten oder Effekte, die die Höhe des Schadens verändern könnten, der tatsächlich zugefügt wird. Einer Kreatur kann mehr Schaden als tödlicher Schaden zugewiesen werden.
+510.1d Eine blockende Kreatur weist Kampfschaden den Kreaturen zu, die sie blockt. Wenn sie momentan keine Kreaturen blockt (wenn diese zum Beispiel zerstört oder aus dem Kampf entfernt wurden), weist sie keinen Kampfschaden zu. Falls sie genau eine Kreatur blockt, weist sie all ihren Kampfschaden dieser Kreatur zu. Falls sie zwei oder mehr Kreaturen blockt, weist sie ihren Kampfschaden diesen Kreaturen gemäß der für sie angekündigten Schadenszuweisungsreihenfolge zu. Das kann der blockenden Kreatur ermöglichen, ihren Kampfschaden aufzuteilen. Allerdings kann sie einer Kreatur, die sie blockt, keinen Kampfschaden zuweisen, wenn nach Abschluss der Kampfschadenzuweisungen nicht jeder Kreatur in der Reihenfolge vor dieser geblockten Kreatur tödlicher Schaden zugewiesen wurde. Für die Bestimmung des tödlichen Schadens wird Schaden, der auf einer Kreatur bereits vermerkt wurde, und Schaden, der im gleichen Kampfschadensegment von anderen Kreaturen zugewiesen wird, berücksichtigt; nicht jedoch Fähigkeiten oder Effekte, die die Höhe des Schadens verändern könnten, der tatsächlich zugefügt wird. Einer Kreatur kann mehr Schaden als tödlicher Schaden zugewiesen werden.
 
 510.1e Sobald ein Spieler den Kampfschaden von jeder angreifenden oder blockenden Kreatur, die er kontrolliert, zugewiesen hat, wird überprüft, ob die Schadenszuweisung insgesamt (nicht nur die Schadenszuweisung einer einzelnen angreifenden oder blockenden Kreatur) den obigen Regeln entspricht. Falls nicht, ist die Schadenszuweisung illegal; das Spiel kehrt zurück zu dem Moment bevor dieser Spieler anfing, Kampfschaden zuzuweisen. (Siehe Regel 717, „Handhabung illegaler Aktionen.“)
 
@@ -1776,7 +1776,7 @@ Beispiel: Ein Geschwaderfalke (eine 1/1-Kreatur mit Flugfähigkeit) und ein Gobl
 
 514.1. Als Erstes wirft der aktive Spieler, wenn seine Hand mehr Karten enthält als seine \maximale Handkartenzahl\ (normalerweise sieben), genug Karten ab, um seine Handkartenzahl auf diese Zahl zu reduzieren. Diese rundenbasierte Aktion benutzt nicht den Stapel.
 
-514.2. Als Zweites passieren die folgenden Aktionen gleichzeitig: aller Schaden, der für bleibende Karten (inklusive destabilisierter bleibender Karten) vermerkt wurde, wird entfernt, und alle „bis zum Ende des Zuges“- und „in diesem Zug“-Effekte enden. Diese rundenbasierte Aktion benutzt nicht den Stapel.
+514.2. Als Zweites passieren die folgenden Aktionen gleichzeitig: aller Schaden, der auf bleibenden Karten (inklusive destabilisierten bleibenden Karten) vermerkt wurde, wird entfernt, und alle „bis zum Ende des Zuges“- und „in diesem Zug“-Effekte enden. Diese rundenbasierte Aktion benutzt nicht den Stapel.
 
 514.3. Normalerweise erhält im Aufräumsegment kein Spieler Priorität, sodass keine Zaubersprüche gewirkt oder Fähigkeiten aktiviert werden können. Allerdings unterliegt diese Regel der folgenden Ausnahme:
 
@@ -2298,7 +2298,7 @@ Beispiel: Ein Spieler kontrolliert zwei bleibende Karten, jede mit der Fähigkei
 
 614.7a Wenn eine Quelle 0 Schadenspunkte zufügen würde, fügt sie überhaupt keinen Schaden zu. Das bedeutet, dass Ersatzeffekte, die den von dieser Quelle zugefügten Schaden erhöhen würden oder dafür sorgen würden, dass diese Quelle den Schaden einem anderen Objekt oder Spieler zufügt, kein Ereignis zum Ersetzen haben und somit keinen Effekt haben.
 
-614.8. Regeneration ist ein Zerstörungs-Ersatzeffekt. Das Wort „stattdessen“ erscheint nicht auf der Karte, aber es ist in der Definition der Fähigkeit enthalten. „Regeneriere [bleibende Karte]“ bedeutet, „Das nächste Mal, wenn [bleibende Karte] in diesem Zug zerstört werden würde, entferne stattdessen allen Schaden, der für sie vermerkt wurde, und tappe sie. Falls sie eine angreifende oder blockende Kreatur ist, entferne sie aus dem Kampf.“ Fähigkeiten, die durch das Zufügen von Schaden ausgelöst werden, werden immer noch ausgelöst, auch wenn die bleibende Karte regeneriert. Siehe Regel 701.12.
+614.8. Regeneration ist ein Zerstörungs-Ersatzeffekt. Das Wort „stattdessen“ erscheint nicht auf der Karte, aber es ist in der Definition der Fähigkeit enthalten. „Regeneriere [bleibende Karte]“ bedeutet, „Das nächste Mal, wenn [bleibende Karte] in diesem Zug zerstört werden würde, entferne stattdessen allen Schaden, der auf ihr vermerkt wurde, und tappe sie. Falls sie eine angreifende oder blockende Kreatur ist, entferne sie aus dem Kampf.“ Fähigkeiten, die durch das Zufügen von Schaden ausgelöst werden, werden immer noch ausgelöst, auch wenn die bleibende Karte regeneriert. Siehe Regel 701.12.
 
 614.9. Einige Effekte ersetzen Schaden, der einer Kreatur, einem Planeswalker oder einem Spieler zugefügt werden würde, damit, dass derselbe Schaden einer anderen Kreatur, einem anderen Planeswalker oder einem anderen Spieler zugefügt wird; solche Effekte werden \Umleitungseffekte\ genannt. Falls eine der beiden Kreaturen oder Planeswalker nicht mehr im Spiel ist, wenn der Schaden umgeleitet werden würde, oder keine Kreatur oder kein Planeswalker mehr ist, wenn der Schaden umgeleitet werden würde, macht der Effekt nichts. Falls Schaden von oder auf einen Spieler umgeleitet würde, der das Spiel verlassen hat, macht der Effekt nichts.
 
@@ -2522,9 +2522,9 @@ Beispiel: Wenn ein Zauberspruch versucht, die Kontrolle von zwei als Ziel gewäh
 
 701.12. Regenerieren
 
-701.12a Wenn der Effekt eines Zauberspruchs oder einer Fähigkeit, der bzw. die verrechnet wird, eine bleibende Karte regeneriert, erzeugt er bzw. sie einen Ersatzeffekt, der die bleibende Karte das nächste Mal in diesem Zug beschützt, wenn sie zerstört werden würde. „Regeneriere [bleibende Karte]“ bedeutet in diesem Fall „Das nächste Mal, wenn [bleibende Karte] in diesem Zug zerstört werden würde, entferne stattdessen allen Schaden, der für sie vermerkt wurde, und tappe sie. Falls sie eine angreifende oder blockende Kreatur ist, entferne sie aus dem Kampf.“
+701.12a Wenn der Effekt eines Zauberspruchs oder einer Fähigkeit, der bzw. die verrechnet wird, eine bleibende Karte regeneriert, erzeugt er bzw. sie einen Ersatzeffekt, der die bleibende Karte das nächste Mal in diesem Zug beschützt, wenn sie zerstört werden würde. „Regeneriere [bleibende Karte]“ bedeutet in diesem Fall „Das nächste Mal, wenn [bleibende Karte] in diesem Zug zerstört werden würde, entferne stattdessen allen Schaden, der auf ihr vermerkt wurde, und tappe sie. Falls sie eine angreifende oder blockende Kreatur ist, entferne sie aus dem Kampf.“
 
-701.12b Wenn der Effekt einer statischen Fähigkeit eine bleibende Karte regeneriert, ersetzt er die Zerstörung jedes Mal, wenn die bleibende Karte zerstört werden würde, mit einem alternativen Effekt. „Regeneriere [bleibende Karte]“ bedeutet in diesem Fall „Entferne stattdesen allen Schaden, der für [bleibende Karte] vermerkt wurde, und tappe sie. Falls sie eine angreifende oder blockende Kreatur ist, entferne sie aus dem Kampf.“
+701.12b Wenn der Effekt einer statischen Fähigkeit eine bleibende Karte regeneriert, ersetzt er die Zerstörung jedes Mal, wenn die bleibende Karte zerstört werden würde, mit einem alternativen Effekt. „Regeneriere [bleibende Karte]“ bedeutet in diesem Fall „Entferne stattdessen allen Schaden, der auf [bleibender Karte] vermerkt wurde, und tappe sie. Falls sie eine angreifende oder blockende Kreatur ist, entferne sie aus dem Kampf.“
 
 701.12c Weder das Aktivieren einer Fähigkeit, die ein Regenerationsschild erzeugt, noch das Wirken eines Zauberspruchs, der ein Regenerationsschild erzeugt, ist das Gleiche wie das Regenerieren einer bleibenden Karte. Effekte, die besagen, dass eine bleibende Karte nicht regeneriert werden kann, verhindern nicht, dass solche Fähigkeiten aktiviert oder solche Zaubersprüche gewirkt werden können; sie verhindern vielmehr, dass die Regenerationsschilde irgendeinen Effekt haben.
 
@@ -3733,7 +3733,7 @@ Beispiel: Ein Effekt gibt einem Dorfschmied (die Vorderseite einer doppelseitige
 
 712.1a Mehrere spielerkontrollierende Effekte, die denselben Spieler beeinflussen, überschrieben sich gegenseitig. Der letzte, der erschaffen wird, ist derjenige, der wirkt.
 
-712.1b Wenn ein Zug übersprungen wird, warten alle ausstehenden spielerkontrollierenden Effekte, bis der Spieler, der beeinflusst werden würde, tatsächlich einen Zug macht.
+712.1b Wenn ein Zug übergangen wird, warten alle ausstehenden spielerkontrollierenden Effekte, bis der Spieler, der beeinflusst werden würde, tatsächlich einen Zug macht.
 
 712.2 Eine Karte (Word of Command) erlaubt einem Spieler, einen anderen Spieler für eine begrenzte Dauer zu kontrollieren.
 
@@ -3773,7 +3773,7 @@ Beispiel: Der Spieler, der kontrolliert wird, entscheidet immer noch, ob er kurz
 
 713.1b Überprüfe zustandsbasierte Aktionen. Kein Spieler erhält Priorität, und es werden keine ausgelösten Fähigkeiten auf den Stapel gelegt.
 
-713.1c Die/Das momentane Phase/Segment endet. Das Spiel springt direkt zum Aufräumsegment. Übergehe alle Phasen oder Segment zwischen dieser Phase bzw. diesem Segment und dem Aufräumsegment.
+713.1c Die/Das momentane Phase/Segment endet. Das Spiel springt direkt zum Aufräumsegment. Übergehe alle Phasen oder Segmente zwischen dieser Phase bzw. diesem Segment und dem Aufräumsegment.
 
 713.2 Kein Spieler erhält während dieses Vorgangs Priorität, somit werden ausgelöste Fähigkeiten nicht auf den Stapel gelegt. Wenn irgendwelche ausgelösten Fähigkeiten zwischen der Verrechnung des Zauberspruchs oder der Fähigkeit und dem Ende des Aufräumsegments ausgelöst wurden, werden diese Fähigkeiten im Aufräumsegment auf den Stapel gelegt, dann erhält der aktive Spieler Priorität, und Spieler Können Zaubersprüche wirken und Fähigkeiten aktivieren. Danach gibt es ein weiteres Aufräumsegment, bevor der Zug letztlich endet. Falls während dieses Vorgangs keine ausgelösten Fähigkeiten ausgelöst wurden, erhält im Aufräumsegment kein Spieler Priorität. Siehe Regel 514, „Aufräumsegment“).
 
@@ -4093,7 +4093,7 @@ Beispiel: Rob greift Alex mit Runenklauenbär und Carissa mit einer Kreatur    m
 
 805.7 Falls mehrere ausgelöste Fähigkeiten seit dem letzten Mal, an dem ein Team Priorität erhalten hat, ausgelöst wurden, legen die Mitglieder des aktiven Teams alle ausgelösten Fähigkeiten, die jedweder von beiden kontrolliert, in beliebiger Reihenfolge auf den Stapel. Danach machen die Spieler in jedem nichtaktiven Team in Zugreihenfolge dasselbe.
 
-805.8 Falls ein Effekt einem Spieler einen Extrazug gibt oder eine Phase oder ein Segment zum Zug dieses Spielers hinzufügt, nimmt das Team dieses Spielers den Extrazug, die Extraphase bzw. das Extrasegment. Falls ein Effekt einen Spieler dazu bringt, ein Segment, eine Phase oder einen Zug zu überspringen, macht das Team dieses Spielers dies. Falls ein einzelner Effekt beide Spieler in demselben Team dazu bringt, ein Segment, eine Phase oder einen Zug hinzuzufügen oder zu überspringen, überspringt oder fügt das Team nur dieses Segment, diese Phase oder diesen Zug hinzu. Falls ein Effekt einen Spieler dazu bringt, einen anderen Spieler zu kontrollieren, kontrolliert der Beherrscher dieses Effekts das Team des betroffenen Spielers.
+805.8 Falls ein Effekt einem Spieler einen Extrazug gibt oder eine Phase oder ein Segment zum Zug dieses Spielers hinzufügt, nimmt das Team dieses Spielers den Extrazug, die Extraphase bzw. das Extrasegment. Falls ein Effekt einen Spieler dazu bringt, ein Segment, eine Phase oder einen Zug zu übergehen, macht das Team dieses Spielers dies. Falls ein einzelner Effekt beide Spieler in demselben Team dazu bringt, ein Segment, eine Phase oder einen Zug hinzuzufügen oder zu übergehen, übergeht oder fügt das Team nur dieses Segment, diese Phase oder diesen Zug hinzu. Falls ein Effekt einen Spieler dazu bringt, einen anderen Spieler zu kontrollieren, kontrolliert der Beherrscher dieses Effekts das Team des betroffenen Spielers.
 
 805.9 Jede Fähigkeit, die sich auf den „aktiven Spieler“ bezieht, bezieht sich auf einen bestimmten aktiven Spieler, nicht auf beide aktive Spieler. Der Beherrscher der Fähigkeit bestimmt, auf welchen sie sich bezieht, sobald ihr Effekt angewendet wird.
 
@@ -6083,7 +6083,7 @@ Zufügen, Schaden
 Siehe Schaden.
 
 Zug beenden
-Als Ergebnis eines Effekts „den Zug beenden“ bedeutet, einen beschleunigten Vorgang auszuführen, der nahezu alles andere überspringt, das in diesem Zug stattfinden würde. Siehe Regel 713, „Den Zug beenden“.
+Als Ergebnis eines Effekts „den Zug beenden“ bedeutet, einen beschleunigten Vorgang auszuführen, der nahezu alles andere übergeht, das in diesem Zug stattfinden würde. Siehe Regel 713, „Den Zug beenden“.
 
 Zugendsegment
 Siehe Endsegment.
